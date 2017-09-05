@@ -1,1 +1,7 @@
 # [Index](index.md)
+## [Intro to MS Collaborate](intro-to-mscollaborate.md)
+## [Onboarding](onboarding.md)
+## [Managing users](managing-org-users.md)
+## [Engagements](view-engagements.md)
+## [Feedback work items](feedback-items.md)
+## [Package downloads](package-downloads.md)
