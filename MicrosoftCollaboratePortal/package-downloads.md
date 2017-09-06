@@ -9,7 +9,7 @@ keywords: packages, engagements, package downloads, downloads, builds, Collabora
 
 # Working with Package Downloads
 
-The Microsoft Collaborate (MS Collaborate) portal makes it possible to find packages and download individual files. Packages available for download are associated with one or more Engagements.  You can only see packages associated with Engagements you belong to.
+The Microsoft Collaborate (MS Collaborate) portal enables you to find packages and download individual files. Packages available for download are associated with one or more Engagements.  You can only see packages associated with Engagements you belong to.
 
 ### Filtering Packages
 
@@ -31,7 +31,7 @@ For example, if you are looking for a specific Windows Build package and you kno
 
 ![Advanced Filters icon](images/package-advanced-filter.png)
 
-3.	When you locate the package you want to download, click on it to open the package. You will find all of the details about the package and a list of files available to download.
+3. When you locate the package you want to download, click on it to open the package. You will find all of the details about the package and a list of files available to download.
  
  ![Package details window](images/package-details.png)
 
@@ -45,7 +45,7 @@ If you want to download packages with multiple files or large packages, we recom
 
 1.	From the **Packages** page, click the "Distribution Manager" button at the top of the page.
 
-![Distribution Manager install button on the Packages page](images/distribution-manager- button.png)
+![Distribution Manager install button on the Packages page](images/distribution-manager-button.png)
 
 2.	Click "Open" on the message.
 
