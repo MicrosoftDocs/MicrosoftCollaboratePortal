@@ -11,8 +11,8 @@ keywords: engagements, security, permissions, Microsoft Connect, SysDev Bug, Dev
 
 The **Engagements** list on your Dev Center dashboard shows the number of engagements you belong to. Click the Engagements icon to see the entire list of engagements that you belong to.
 
-![List of your Engagements](images/view-engagements.md)
+![List of your Engagements](images/view-engagements.png)
 
 Click on any engagement to navigate to the Engagement Details page.
 
-![View Engagement details](images/engagement-details.md)
+![View Engagement details](images/engagement-details.png)

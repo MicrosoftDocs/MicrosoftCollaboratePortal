@@ -7,9 +7,9 @@ ms.date: 09/01/2017
 keywords: partner access, permissions, onboarding, partner feedback, build downloads, downloading specs, bugs, Microsoft Connect, SysDev Bug, Dev Center bugs
 ---
 
-# Onboarding to the Microsoft Collaborate Portal
+# Onboarding to Microsoft Collaborate
 
-MS Collaborate is embedded into the Microsoft Dev Center Dashboard. You can use your Dev Center account to log in and interact with MS Collaborate.  Before you can download content or submit feedback, you need to be invited to an MS Collaborate engagement. This can be done by either your Microsoft engagement owner, or by your company Organization Admin if your organization is already added to an engagement.
+The Microsoft Collaborate (MS Collaborate) portal is embedded into the Microsoft Dev Center Dashboard. You can use your Dev Center account to log in and interact with MS Collaborate.  Before you can download content or submit feedback, you need to be invited to an MS Collaborate engagement. This can be done by either your Microsoft engagement owner, or by your company "Organization Admin" if your organization is already added to an Engagement.
 
 ## How to register with Microsoft Developer Center
 
@@ -24,7 +24,7 @@ If your organization has not yet been onboarded to Dev Center, or for additional
 - [Creating a company account](//docs.microsoft.com/en-us/windows/uwp/publish/opening-a-developer-account#additional-guidelines-for-company-accounts)
 
 
-## How to Log into the Microsoft Collaborate Portal
+## How to log in to the MS Collaborate portal
 
 1. Navigate to MS Collaborate: [https://developer.microsoft.com/en-us/dashboard/collaborate/](https://developer.microsoft.com/en-us/dashboard/collaborate/)
 
@@ -40,9 +40,8 @@ If your organization uses corporate accounts to log onto Dev Center, you will ne
 > [!NOTE]
 >Dev Center leverages Azure Active Directory for multi-user management and roles assignment. If your organization already uses Office 365 or other business services from Microsoft, you already have AAD. Otherwise, you can create a new AAD tenant from within Dev Center at no additional charge.
 
-To find your MS Collaborate Engagement Organization admin after logging in:
+To find your MS Collaborate Engagement "Organization Admin" after logging in:
 
 1. Navigate to the Engagement you are interested in and click on the Engagement title.
 2. The page that appears has a link to send a notification to your organization’s Power User (admin) for that Engagement.
-
 

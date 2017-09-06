@@ -1,5 +1,5 @@
 ---
-title: Intro to MS Collaborate
+title: Intro to Microsoft Collaborate
 description: Overview of the Microsoft Collaborate Portal, including features available and conceptual information on how to use the system.  MS Collaborate enables sharing of engineering system work items (bugs, feature requests), distribution of content (builds, documents, specs), and user management, replacing Microsoft Connect and the SysDev Feedback Management portal. 
 author: mattwojo
 ms.author: mattwoj
@@ -7,18 +7,18 @@ ms.date: 09/01/2017
 keywords: partner feedback, build downloads, downloading specs, bugs, Microsoft Connect, SysDev Bug, Dev Center bugs
 ---
 
-# Introduction to MS Collaborate
+# Introduction to Microsoft Collaborate
 
-The Microsoft (MS) Collaborate Portal provides tools and services to streamline engineering collaboration within the Microsoft ecosystem.
+The Microsoft Collaborate (MS Collaborate) portal provides tools and services to streamline engineering collaboration within the Microsoft ecosystem.
 
-## How does the MS Collaborate Portal work?
+## How does the MS Collaborate work?
 
 MS Collaborate enables:
 - Sharing of engineering system work items (bugs, feature requests, etc.);
 - Distribution of content (builds, documents, specs);  
 - Ability to manage users of the system. 
 
-Available via the [Microsoft Dev Center Dashboard](//developer.microsoft.com/dashboard/apps/overview), this new MS Collaborate Portal replaces the Microsoft Connect portal as well as the SysDev Feedback Management portal. Sign-in using your Dev Center credentials, or [register as a developer](//developer.microsoft.com/store/register) if you do not yet have credentials. 
+Available via the [Microsoft Dev Center Dashboard](//developer.microsoft.com/dashboard/apps/overview), the new MS Collaborate portal replaces the Microsoft Connect portal as well as the SysDev Feedback Management portal. Sign-in using your Dev Center credentials, or [register as a developer](//developer.microsoft.com/store/register) if you do not yet have credentials. 
 
 ## Programs and Engagements
 
@@ -76,7 +76,7 @@ Microsoft Connect was launched in July 2005 with millions of users helping to im
 
 MS Collaborate will replace Microsoft Connect, including a different look and new functionality. 
 
-| Connect concept | MS Collaborate Portal |
+| Connect concept | MS Collaborate portal |
 | ------- | -------- | --------- |
 | Sites | N/A |
 | Programs | Programs |

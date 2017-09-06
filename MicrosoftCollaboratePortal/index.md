@@ -5,15 +5,12 @@ title: Microsoft Collaborate Portal documentation
 author: mattwojo
 ms.author: mattwoj
 ms.date: 06/06/2017
-keywords: Microsoft Collaborate Portal
+keywords: Microsoft Collaborate documentation, MS Collaborate, Microsoft Collaborate portal, Microsoft Connect, SysDev portal, Dev Center bugs
 ---
 
-# Microsoft Collaborate Portal: User's Guide 
+# Microsoft Collaborate: Documentation and Guidance
 
-The Microsoft (MS) Collaborate Portal provides tools and services to streamline engineering collaboration within the Microsoft ecosystem by enabling the sharing of engineering system work items (bugs, feature requests, etc.), the distribution of content (builds, documents, specs), and the ability to manage users of the system. This new system replaces the Microsoft Connect portal as well as the SysDev Feedback Management portal.
-
-The MS Collaborate Portal is available in the Dev Center Dashboard. Sign in using your Dev Center credentials.  
- 
+The Microsoft Collaborate portal provides tools and services to streamline engineering collaboration within the Microsoft ecosystem by enabling the sharing of engineering system work items (bugs, feature requests, etc.), the distribution of content (builds, documents, specs), and the ability to manage users of the system. This new system replaces the Microsoft Connect portal as well as the SysDev Feedback Management portal.
 
 <ul class="panelContent cardsFTitle">
     <li>
