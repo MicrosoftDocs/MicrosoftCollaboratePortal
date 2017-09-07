@@ -35,7 +35,7 @@ For example, if you are looking for a specific Windows Build package and you kno
  
  ![Package details window](images/package-details.png)
 
-4.	In the MS Collaborate interface, you can only download one file at a time. Click on a file to initiate the download. 
+4. In the MS Collaborate interface, you can only download one file at a time. Click on a file to initiate the download. 
 
 ### Distribution Manager for multi-file downloads
 
