@@ -1,5 +1,5 @@
-# [Index](index.md)
-## [Intro to MS Collaborate](intro-to-mscollaborate.md)
+# [Microsoft Collaborate Docs](index.md)
+## [Introduction](intro-to-mscollaborate.md)
 ## [Onboarding](onboarding.md)
 ## [Managing users](managing-org-users.md)
 ## [Engagements](view-engagements.md)
