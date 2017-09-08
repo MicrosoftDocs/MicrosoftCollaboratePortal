@@ -41,17 +41,14 @@ If you want to download packages with multiple files or large packages, we recom
 
 ### How to install the Distribution Manager
 
-1.	From the **Packages** page, click the "Distribution Manager" button at the top of the page.
-
+1.	From the **Packages** page, click the "Distribution Manager" button at the top of the page. 
 ![Distribution Manager install button on the Packages page](images/distribution-manager-button.png)
 
 2.	Click "Open" on the message.
-
 ![Distribution Manager open pop-up window](images/open-distribution-manager.png)
 
-3.	Click "Install" in the Application Install dialog box.
- 
- ![Distribution Manager install window](images/install-distribution-manager.png)
+3.	Click "Install" in the Application Install dialog box. 
+![Distribution Manager install window](images/install-distribution-manager.png)
 
 4.	If you are already logged into Dev Center, the Distribution Manager will launch and sign you in.
 
@@ -59,9 +56,7 @@ If you want to download packages with multiple files or large packages, we recom
 
 If you are not already logged into MS Collaborate, or if you are using an MSA account to access the site, you may need to log in to the Distribution Manager again. This will be using the same account you used to log into the web portal.
 
-1.	Launch the Distribution Manager application on your computer:
-- Select the Distribution Manager button on the **Packages** page in the MS Collaborate portal.
-- Navigate to Distribution Manager in your computer’s list of applications.
+1.	Launch the Distribution Manager application on your computer by selecting the Distribution Manager button on the **Packages** page in the MS Collaborate portal OR by navigating to *Distribution Manager* in your computer’s list of applications.
 
 2.	You will see the same log in screen you see when you log into Dev Center or MS Collaborate.
 
@@ -77,9 +72,10 @@ If you are not already logged into MS Collaborate, or if you are using an MSA ac
 
 You will see the files that are "Downloading Now" as well as packages that are queued for download.
 
+![Check for Downloads Now menu item on the Packages page](images/check-for-downloads.png)
+
 > [!NOTE]
 > - You can pause downloading and then reactivate to continue downloading.
 > - You can force a sync of Distribution Manager, by clicking the menu item and then selecting "Check for Downloads Now."
 > - Clicking on Settings from the Menu allows you to make customizations. 
 
-![Check for Downloads Now menu item on the Packages page](images/check-for-downloads.png)
