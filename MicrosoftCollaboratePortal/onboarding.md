@@ -11,6 +11,8 @@ keywords: partner access, permissions, onboarding, partner feedback, build downl
 
 The Microsoft Collaborate (MS Collaborate) portal is embedded into the Microsoft Dev Center Dashboard. You can use your Dev Center account to log in and interact with MS Collaborate.  Before you can download content or submit feedback, you need to be invited to an MS Collaborate engagement. This can be done by either your Microsoft engagement owner, or by your company "Organization Admin" if your organization is already added to an Engagement.
 
+Microsoft Collaborate is available at [https://aka.ms/collaborate](https://aka.ms/collaborate).
+
 ## How to register with Microsoft Developer Center
 
 There are two ways to register with Dev Center: 
