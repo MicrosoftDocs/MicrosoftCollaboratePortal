@@ -18,7 +18,7 @@ MS Collaborate enables:
 - Distribution of content (builds, documents, tools, specs);  
 - Ability to manage users of the system. 
 
-Available via the [Microsoft Dev Center Dashboard](//developer.microsoft.com/dashboard/apps/overview), the new MS Collaborate portal provides a single location using a single set of credentials to see your work items and content.  This new system replaces the Microsoft Connect portal as well as the SysDev Feedback Management portal. 
+Available via the [Microsoft Dev Center Dashboard](//developer.microsoft.com/dashboard/collaborate), the new MS Collaborate portal provides a single location using a single set of credentials to see your work items and content.  This new system replaces the Microsoft Connect portal as well as the SysDev Feedback Management portal. 
 
 You can access MS Collaborate using the friendly link:  [https://aka.ms/collaborate](https://aka.ms/collaborate).
 
@@ -43,7 +43,7 @@ Engagements are similar to a virtual security group, allowing engagement owners 
 - collaboration between multiple named organizations (e.g., Microsoft team 1 users, company A users, and company B users), and
 - collaboration with users from any organizations.
 
-Each engagement is associated with either the default MS Collaborate Terms of Use [Agreement](https://go.microsoft.com/fwlink/?linkid=849107) or an appropriate custom legal agreement between the parties in the engagement. Partcipant users should visit the engagement page and see the description and agreement that applies to each specific enagement.  For more information, see [How to view your Engagements](view-engagements).
+Each engagement is associated with either the default MS Collaborate Terms of Use [Agreement](https://go.microsoft.com/fwlink/?linkid=849107) or an appropriate custom legal agreement between the parties in the engagement. Partcipant users should visit the engagement page and see the description and agreement that applies to each specific enagement.  For more information, see [How to view your Engagements](view-engagements.md).
 
 Engagement owners are Microsoft users who manage the engagement in MS Collaborate.  Users with Engagement Owner permissions can: 
 - create new collaborations in the system as a named engagement that will map content or feedback to users, 
