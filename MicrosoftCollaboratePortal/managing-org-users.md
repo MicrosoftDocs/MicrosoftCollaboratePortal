@@ -41,6 +41,8 @@ Once a user is registered in Dev Center, it it easy for the MS Collaborate *Enga
 	b. Power Users can add or remove users for the organization.
 	c. Note that *Power Users* need to be explicitly added as *Participants* if the user also needs access to feedback and content for the engagement.
 
+![Select a Group](images/Membership-tab.png)
+
 3.	Click the **Add User** icon in the **Members** section and then in the **Search Users** dialog, search to find the user(s) you want to add to the engagement.
 
 ![Add a User](images/add-a-user.png)
