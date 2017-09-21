@@ -7,7 +7,7 @@ ms.date: 09/01/2017
 keywords: engagements, adding users, removing users, managing users, Collaborate security, Collaborate permissions, Microsoft Connect, SysDev Bug, Dev Center bugs
 ---
 
-# How permissions and roles work in MS Collaborate
+# Permissions and roles in MS Collaborate
 The Microsoft Collaborate system uses **Engagements** to define the permissions/roles for the portal.  Very simply, if you are a member of the engagement, you see the engagement metadata, content and feedback associated with the engagement.  If you are not a member of the engagement, you do not see the engagement or any of its artifacts.
 
 MS Collaborate has the following membership roles:
@@ -50,8 +50,8 @@ Once a user is registered in Dev Center, it it easy for the MS Collaborate *Enga
 4. From the list of users returned by search, select the users you want to add to the engagement. You can also use **Select All**.
 	a. Power Users can only search for users in your own organization.  For Engagement Owners, if the engagement has named organizations, search will be limited to users of the named organizations.
 	b. If the users are not appearing in the search results:
-		* check is whether the user has been added to your organization’s Azure Active Directory (ADD) in Dev Center.  If not, have your organization's Dev Center admin add the user to your ADD and to the MS Collaborate program.
-		* It is possible that your organization has more than one Dev Center organization account (seller Id) in Dev Center.  Be sure the appropriate organization has been added to the engagement and that the appropriate users are in that organization.  If the organization is incorrect, please contact your Microsoft Engagement Owner.
+		- check is whether the user has been added to your organization’s Azure Active Directory (ADD) in Dev Center.  If not, have your organization's Dev Center admin add the user to your ADD and to the MS Collaborate program.
+		- It is possible that your organization has more than one Dev Center organization account (seller Id) in Dev Center.  Be sure the appropriate organization has been added to the engagement and that the appropriate users are in that organization.  If the organization is incorrect, please contact your Microsoft Engagement Owner.
 
 5.	To remove a user, select the user in the Members list and click the delete (trash can) icon.
  
