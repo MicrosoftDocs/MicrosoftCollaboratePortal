@@ -37,9 +37,9 @@ When you log into MS Collaborate, you will see the Programs and Engagements you 
 An engagement defines which users are enabled to see and interact with specific content or work items associated with that engagement. Unless a user is a member of an engagement, the users does not see anything related to the engagement.
 
 Engagements are similar to a virtual security group, allowing engagement owners to identify which users can see and work with the artifacts associated with that engagement.  There are a few different types of engagements determined by the kinds and number of organizations/users within the engagement:
-- collaboration between a single company/organization and a Microsoft organization,
+- collaboration between a single company/organization and a single Microsoft organization,
 - collaboration between multiple named organizations (e.g., Microsoft team 1 users, company A users, and company B users), and
-- 
+- collaboration with users from any organizations.
 
 Each engagement is associated with either the default MS Collaborate Terms of Use [Agreement](https://go.microsoft.com/fwlink/?linkid=849107) or an appropriate custom legal agreement between the parties in the engagement. Partcipant users should visit the engagement page and see the description and agreement that applies to each specific enagement.
 
@@ -63,7 +63,7 @@ The feedback, or Work Item Exchange, system within MS Collaborate enables the sh
 
 Each program and/or engagement can determine how each feedback form will be shared and which fields will be available - the decisions and configuration are the responsibility of the engagement owner.  In addition, engagement owners can further customize each feedback form to help facilitate and simplify the process for sharing work items. Depending on how the engagement is configured, work items can be created by either participant users for Microsoft to address or by Microsoft users for partner organizations to address.  Feedback forms can also be enabled to share attachments to the feedback form.
 
-The MS Collaboarate [Feedback pages](feedbackitems.md) provide views of all your feedback items, advanced search to identify specific feedback, and the ability to save and share queries.  New in MS Collaborate is the ability to have shared queries available to all users within an engagement or program.  These queries can be configured to match queries used by Microsoft users to facilitate having the same list of bugs for review.
+The MS Collaboarate [Feedback pages](feedback-items.md) provide views of all your feedback items, advanced search to identify specific feedback, and the ability to save and share queries.  New in MS Collaborate is the ability to have shared queries available to all users within an engagement or program.  These queries can be configured to match queries used by Microsoft users to facilitate having the same list of bugs for review.
 
 MS Collaborate also brings new functionality enabling multiple parties to share the same work item. If the engagement contains multiple parties, all members of the engagement can see, edit, and collaborate on the same work items.  Multi-party feedback collaboration does require appropriate legal agreements between the parties.
 
