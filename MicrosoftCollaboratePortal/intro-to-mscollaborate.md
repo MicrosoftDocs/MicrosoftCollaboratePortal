@@ -1,4 +1,4 @@
----
+  ---
 title: Intro to Microsoft Collaborate
 description: Overview of the Microsoft Collaborate Portal, including features available and conceptual information on how to use the system.  MS Collaborate enables sharing of engineering system work items (bugs, feature requests), distribution of content (builds, documents, specs), and user management, replacing Microsoft Connect and the SysDev Feedback Management portal. 
 author: mattwojo
@@ -9,7 +9,7 @@ keywords: partner feedback, build downloads, downloading specs, bugs, Microsoft 
 
 # Introduction to Microsoft Collaborate
 
-The Microsoft Collaborate (MS Collaborate) portal provides tools and services to streamline engineering collaboration within the Microsoft ecosystem.
+The Microsoft Collaborate (MS Collaborate) portal provides tools and services to streamline engineering collaboration within the Microsoft ecosystem.  
 
 ## How does the MS Collaborate work?
 
@@ -19,6 +19,8 @@ MS Collaborate enables:
 - Ability to manage users of the system. 
 
 Available via the [Microsoft Dev Center Dashboard](//developer.microsoft.com/dashboard/apps/overview), the new MS Collaborate portal provides a single location using a single set of credentials to see your work items and content.  This new system replaces the Microsoft Connect portal as well as the SysDev Feedback Management portal. 
+
+You can access MS Collaborate using the friendly link:  [https://aka.ms/collaborate](https://aka.ms/collaborate).
 
 Sign-in using your Dev Center credentials, as either an individual or as a member of a company or organization.  Before using MS Collaborate, you will need to register for Dev Center. For more information, see [Onboarding to Microsoft Collaborate](onboarding.md).
 
@@ -41,7 +43,7 @@ Engagements are similar to a virtual security group, allowing engagement owners 
 - collaboration between multiple named organizations (e.g., Microsoft team 1 users, company A users, and company B users), and
 - collaboration with users from any organizations.
 
-Each engagement is associated with either the default MS Collaborate Terms of Use [Agreement](https://go.microsoft.com/fwlink/?linkid=849107) or an appropriate custom legal agreement between the parties in the engagement. Partcipant users should visit the engagement page and see the description and agreement that applies to each specific enagement.
+Each engagement is associated with either the default MS Collaborate Terms of Use [Agreement](https://go.microsoft.com/fwlink/?linkid=849107) or an appropriate custom legal agreement between the parties in the engagement. Partcipant users should visit the engagement page and see the description and agreement that applies to each specific enagement.  For more information, see [How to view your Engagements](view-engagements).
 
 Engagement owners are Microsoft users who manage the engagement in MS Collaborate.  Users with Engagement Owner permissions can: 
 - create new collaborations in the system as a named engagement that will map content or feedback to users, 
@@ -53,9 +55,15 @@ Organization admins (Power Users) can self-manage their organization’s users w
 - add or remove organization user accounts as participant users in an engagement, and
 - add or remove other organization Power Users.
 
+For information, see [Managing organization users](managing-org-users.md).
+
 ### Content Sharing 
 
-Content sharing is accomplished by publishing "packages" of files (documents, binaries, builds, tools, etc.) in MS Collaborate.  Content Publisers can target all engagements within a program or specific engagements when publishing a package so it is available to the users of targeted engagements. When published, packages are associated with engagements, descriptions, and keywords to facilitate finding the the right packages easily. Within MS Collaborate, participant users can search for and download files within a package.  MS Collaborate also provides a Distribution Manager to facilitate downloading of large packages or multi-file pacakages.  The Distribution Manager is a ClickOnce client app that can be accessed from within the MS Collaborate [Package Download pages](package-downloads.md).
+Content sharing is accomplished by publishing "packages" of files (documents, binaries, builds, tools, etc.) in MS Collaborate.  Content Publisers can target all engagements within a program or specific engagements when publishing a package so it is available to the users of targeted engagements. When published, packages are associated with engagements, descriptions, and keywords to facilitate finding the the right packages easily.  Within MS Collaborate, participant users can search for and download files within a package.  
+
+MS Collaborate also provides a Distribution Manager to facilitate downloading of large packages or multi-file pacakages.  The Distribution Manager is a ClickOnce client app that can be accessed from within the MS Collaborate Package Download pages.  
+
+For more information, see [Working with Package Downloads](package-downloads.md).
 
 ### Feedback Work Item Exchange
 
@@ -63,7 +71,7 @@ The feedback, or Work Item Exchange, system within MS Collaborate enables the sh
 
 Each program and/or engagement can determine how each feedback form will be shared and which fields will be available - the decisions and configuration are the responsibility of the engagement owner.  In addition, engagement owners can further customize each feedback form to help facilitate and simplify the process for sharing work items. Depending on how the engagement is configured, work items can be created by either participant users for Microsoft to address or by Microsoft users for partner organizations to address.  Feedback forms can also be enabled to share attachments to the feedback form.
 
-The MS Collaboarate [Feedback pages](feedback-items.md) provide views of all your feedback items, advanced search to identify specific feedback, and the ability to save and share queries.  New in MS Collaborate is the ability to have shared queries available to all users within an engagement or program.  These queries can be configured to match queries used by Microsoft users to facilitate having the same list of bugs for review.
+The MS Collaboarate Feedback pages provide views of all your feedback items, advanced search to identify specific feedback, and the ability to save and share queries.  New in MS Collaborate is the ability to have shared queries available to all users within an engagement or program.  These queries can be configured to match queries used by Microsoft users to facilitate having the same list of bugs for review.
 
 MS Collaborate also brings new functionality enabling multiple parties to share the same work item. If the engagement contains multiple parties, all members of the engagement can see, edit, and collaborate on the same work items.  Multi-party feedback collaboration does require appropriate legal agreements between the parties.
 
@@ -73,6 +81,7 @@ The MS Collaborate portal can be used to collaborate on feedback work items. The
 - Feedback forms: Customized feedback forms will be available for each engagement to help streamline and simplify the sharing of information.
 - Shared feedback: Engagements can have traditional 1-1 sharing of feedback forms between two organizations. In addition, they can have feedback forms that are shared between multiple organizations.
 
+For more information, see [Working with Feedback work items](feedback-items.md).
 
 ### Notifications and invitations
 
