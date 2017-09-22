@@ -25,12 +25,14 @@ MS Collaborate *Engagement Owners* can add *Power Users* to an engagement, enabl
 
 3.	Click the **Add User** icon in the **Members** section to launch the **Add a User** page.
 
-![Add a User](images/add-a-user.png)
+![Add a User](images/membership-tab.png)
 
 4. In the **Add a User** dialog, search for the user(s) you would like to add. Select the users you want to add to the engagement. You can also use **Select All**.
 	a. Note that you can only search for users in your own organization.
 	b. If the users are not appearing in the search, it is probably that the user has not been added to your organization’s Azure Active Directory in Dev Center.
 	c. It is possible that your organization has more than one Organization account (seller Id) in Dev Center.  Be sure you are adding the appropriate organization to the engagement and that the appropriate users are in the organization.
+
+![Add a User](images/add-a-user.png)
 
 5.	To remove a user, select the user in the Members list and click the minus icon.
  
