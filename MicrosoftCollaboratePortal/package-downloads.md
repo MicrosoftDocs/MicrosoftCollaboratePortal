@@ -39,7 +39,7 @@ The Disribution Manager has basic search/sort capabilities, but the portal provi
 1. From the Dashboard, click on "Packages" to get to the **Packages** page, where you will see a list of all packages available to download.
 
 2. Search or use **Advanced Filters** to find the package you would like to download. The filters are cumulative to help narrow the search. Use the "Clear Filters" button to remove all filters.
-	- Click the "Advanced Filters" icon to toggle display of the "Advanced Filters" fields.
+	- Click the **Advanced Filters** icon to toggle display of the Advanced Filter" fields.
 	![Advanced Filters icon](images/package-advanced-filter.png)
 
 3. When you locate the package you want to download, click on it to open the package. You will find all of the details about the package and a list of files available to download.
@@ -60,9 +60,7 @@ In addition to downloading multiple files at once, you can queue many packages t
 1. From the **Packages** page, click the **Distribution Manager** button at the top of the page. 
 	![Distribution Manager install button on the Packages page](images/distribution-manager-button.png)
 
-2. Click **Open** on the message.
-
-3. Click **Install** in the Application Install dialog box. 
+2. Click **Open** on the message and then click **Install** in the Application Install dialog box. 
 
 If you are already logged into Dev Center, the Distribution Manager will launch and sign you in with the same account.
 
