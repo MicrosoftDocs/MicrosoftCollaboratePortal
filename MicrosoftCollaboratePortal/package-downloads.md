@@ -9,15 +9,17 @@ keywords: packages, engagements, package downloads, downloads, builds, Collabora
 
 # Working with Packages to Download Content
 
-The Microsoft Collaborate (MS Collaborate) provides two mechanisms for downloading content:
-1. MS Collaborate **Packages page on the portal** enables you to find packages and download individual files from a package. 
-2. MS Collaborate **Distribution Manager** can be installed on your local machine to download multiple files and packages at once.
+In Microsoft Collaborate (MS Collaborate), downloadable content is available as *Packages* that contain the files to download.  Packages have metadata associated with them to facilitate finding the right packages, such as a description, package type, publish date,  and keywords.   
 
-Which packages you can download depends on the engagements you belong to.  Content Publishers publish packages to specific engagements. If you are a participant member of an engagement, you will be able to see the packages for that engagement.  This means users can only see packages associated with engagements they belong to.
+Which packages you can download depends on the engagements you belong to.  During publishing, Content Publishers target specific engagements for the package. If you are a participant member of an engagement, you will be able to see the packages for that engagement.  This means users can only see packages associated with engagements they belong to.
 
 Content Publisher is a permissions role in MS Collaborate associated with engagements.  At this time, only Microsoft users can publish to engagements, but in the future it will be possible for non-Microsoft users to be provisioned to publish content to the engagement on a case by case basis.  Engagement Owners define which users have Content Publisher permissions.
 
-All participants in an engagement can download packages associated with the engagement.
+MS Collaborate provides two mechanisms for downloading content packages:
+1. MS Collaborate **Packages page on the portal** enables you to find packages and download individual files from a package. 
+2. MS Collaborate **Distribution Manager** can be installed on your local machine to download multiple files and packages at once.
+
+All participants in an engagement can download packages associated with the engagement, regardless of the download mechanism used.
 
 ## Finding Packages in the MS Collaborate portal
 
