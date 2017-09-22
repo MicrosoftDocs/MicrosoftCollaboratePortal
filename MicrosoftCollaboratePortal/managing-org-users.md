@@ -1,4 +1,4 @@
----
+--
 title: Managing engagement users
 description: Microsoft Collaborate enables users from organizations to control the adding/removing of users for the organization.  During onboarding, Engagement Owners can assign individuals from an organization Power User permissions.  Power Users can only manage their own organization’s users. 
 author: mattwojo
@@ -25,7 +25,7 @@ MS Collaborate *Engagement Owners* can add *Power Users* to an engagement, enabl
 
 3.	Click the **Add User** icon in the **Members** section to launch the **Add a User** page.
 
-![Add a User](images/membership-tab.png)
+![Membership Tab](images/membership-tab.png)
 
 4. In the **Add a User** dialog, search for the user(s) you would like to add. Select the users you want to add to the engagement. You can also use **Select All**.
 	a. Note that you can only search for users in your own organization.
