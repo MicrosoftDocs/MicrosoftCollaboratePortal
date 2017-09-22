@@ -41,22 +41,20 @@ Once a user is registered in Dev Center, it it easy for the MS Collaborate *Enga
 	b. Power Users can add or remove users for the organization.
 	c. Note that *Power Users* need to be explicitly added as *Participants* if the user also needs access to feedback and content for the engagement.
 
-![Select a Group](images/Membership-tab.png)
+	![Select a Group](images/Membership-tab.png)
 
 3.	Click the **Add User** icon in the **Members** section and then in the **Search Users** dialog, search to find the user(s) you want to add to the engagement.
-
-![Membership Tab](images/membership-tab.png)
 
 4. From the list of users returned by search, select the users you want to add to the engagement. You can also use **Select All**.
 	a. Power Users can only search for users in your own organization.  For Engagement Owners, if the engagement has named organizations, search will be limited to users of the named organizations.
 	b. If the users are not appearing in the search results:
-		- check is whether the user has been added to your organization’s Azure Active Directory (ADD) in Dev Center.  If not, have your organization's Dev Center admin add the user to your ADD and to the MS Collaborate program.
-		- It is possible that your organization has more than one Dev Center organization account (seller Id) in Dev Center.  Be sure the appropriate organization has been added to the engagement and that the appropriate users are in that organization.  If the organization is incorrect, please contact your Microsoft Engagement Owner.
+		* check is whether the user has been added to your organization’s Azure Active Directory (ADD) in Dev Center.  If not, have your organization's Dev Center admin add the user to your ADD and to the MS Collaborate program.
+		* It is possible that your organization has more than one Dev Center organization account (seller Id) in Dev Center.  Be sure the appropriate organization has been added to the engagement and that the appropriate users are in that organization.  If the organization is incorrect, please contact your Microsoft Engagement Owner.
 
-![Add a User](images/add-a-user.png)
+	![Add a User](images/add-a-user.png)
 
 5.	To remove a user, select the user in the Members list and click the minus icon.
  
-![Remove a User](images/remove-a-user.png)
+	![Remove a User](images/remove-a-user.png)
 
 6.	Confirm that you want to remove the user, and the user will no longer be a member of the group.
