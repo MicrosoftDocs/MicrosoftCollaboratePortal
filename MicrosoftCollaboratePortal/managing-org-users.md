@@ -1,4 +1,4 @@
-
+---
 title: Managing engagement users
 description: Microsoft Collaborate enables users from organizations to control the adding/removing of users for the organization.  During onboarding, Engagement Owners can assign individuals from an organization Power User permissions.  Power Users can only manage their own organization’s users. 
 author: ChrisKleinke
