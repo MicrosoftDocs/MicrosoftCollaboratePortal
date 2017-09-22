@@ -105,7 +105,7 @@ Microsoft Connect was launched in July 2005 and has been used by millions of use
 MS Collaborate replaces Microsoft Connect, including a different look and new functionality to facilitate collaboration. 
 
 | Connect concept | MS Collaborate portal concept |
-| ------- | -------- | --------- |
+| ------- | -------- |
 | Sites | N/A |
 | Programs | Programs |
 | Security groups | Engagements (define users and permissions) |
