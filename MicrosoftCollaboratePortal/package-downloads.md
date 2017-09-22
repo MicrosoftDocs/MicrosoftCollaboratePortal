@@ -13,13 +13,13 @@ In Microsoft Collaborate (MS Collaborate), downloadable content is available as 
 
 Which packages you can download depends on the engagements you belong to.  During publishing, Content Publishers target specific engagements for the package. If you are a participant member of an engagement, you will be able to see the packages for that engagement.  This means users can only see packages associated with engagements they belong to.
 
-Content Publisher is a permissions role in MS Collaborate associated with engagements.  At this time, only Microsoft users can publish to engagements, but in the future it will be possible for non-Microsoft users to be provisioned to publish content to the engagement on a case by case basis.  Engagement Owners define which users have Content Publisher permissions.
-
 MS Collaborate provides two mechanisms for downloading content packages:
 1. MS Collaborate **Packages page on the portal** enables you to find packages and download individual files from a package. 
 2. MS Collaborate **Distribution Manager** can be installed on your local machine to download multiple files and packages at once.
 
-All participants in an engagement can download packages associated with the engagement, regardless of the download mechanism used.
+Regardless of the download mechanism used, users will see the same packages in the portal as in the Distribution Manager.
+
+Content Publisher is a permissions role in MS Collaborate associated with engagements.  At this time, only Microsoft users can publish to engagements, but in the future it will be possible for non-Microsoft users to be provisioned to publish content to the engagement on a case by case basis.  Engagement Owners define which users have Content Publisher permissions.
 
 ## Finding Packages in the MS Collaborate portal
 
@@ -39,11 +39,11 @@ The Disribution Manager has basic search/sort capabilities, but the portal provi
 1. From the Dashboard, click on "Packages" to get to the **Packages** page, where you will see a list of all packages available to download.
 
 2. Search or use **Advanced Filters** to find the package you would like to download. The filters are cumulative to help narrow the search. Use the "Clear Filters" button to remove all filters.
-- Click the "Advanced Filters" icon to toggle display of the "Advanced Filters" fields.
-  ![Advanced Filters icon](images/package-advanced-filter.png)
+	- Click the "Advanced Filters" icon to toggle display of the "Advanced Filters" fields.
+	![Advanced Filters icon](images/package-advanced-filter.png)
 
 3. When you locate the package you want to download, click on it to open the package. You will find all of the details about the package and a list of files available to download.
-  ![Package details window](images/package-details.png)
+	![Package details window](images/package-details.png)
 
 4. Click on each file to initiate the download. In the MS Collaborate portal you can download one file at a time. 
 
@@ -57,16 +57,14 @@ In addition to downloading multiple files at once, you can queue many packages t
 
 ### How to install the Distribution Manager
 
-1.	From the **Packages** page, click the **Distribution Manager** button at the top of the page. 
-  ![Distribution Manager install button on the Packages page](images/distribution-manager-button.png)
+1. From the **Packages** page, click the **Distribution Manager** button at the top of the page. 
+	![Distribution Manager install button on the Packages page](images/distribution-manager-button.png)
 
-2.	Click **Open** on the message.
-  ![Distribution Manager open pop-up window](images/open-distribution-manager.png)
+2. Click **Open** on the message.
 
-3.	Click **Install** in the Application Install dialog box. 
-  ![Distribution Manager install window](images/install-distribution-manager.png)
+3. Click **Install** in the Application Install dialog box. 
 
-4.	If you are already logged into Dev Center, the Distribution Manager will launch and sign you in with the same account.
+If you are already logged into Dev Center, the Distribution Manager will launch and sign you in with the same account.
 
 ### How to log in to Distribution Manager
 
