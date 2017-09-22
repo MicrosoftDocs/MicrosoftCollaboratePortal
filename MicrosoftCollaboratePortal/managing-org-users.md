@@ -21,7 +21,7 @@ Role | Scope of permissions | Description
 **Program Owner** | Program | Microsoft users who can manage the program and all engagements under the program.  Program owners can choose which Microsoft users are enabled to create engagements under the program.
 
 
-# Managing User Memberships
+## Managing User Memberships
 
 Your Microsoft engagement owner(s) will set up the engagements in MS Collaborate and users will be invited to participate in the engagement.
 
@@ -30,7 +30,7 @@ Adding users to an engagement requires that each user is registered in the Dev C
 > [!NOTE]
 > If your organization uses Azure Active Directory (AAD) in Dev Center, you need to onboard the users to Dev Center in your AAD account.
 
-## How to add/remove users
+### How to add/remove users
 
 Once a user is registered in Dev Center, it it easy for the MS Collaborate *Engagement Owner(s)* or organization's *Power User(s)* to a add the user to an engagement.  Engagement Owners can add Power Users for an organization.  Contact the MS Collaborate Engagement Owner to be added as a Power User for your organization.
 
