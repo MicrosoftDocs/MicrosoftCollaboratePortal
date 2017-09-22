@@ -1,4 +1,3 @@
-
 ---
 title: How to work with Programs and Engagements
 description: MS Collaborate uses Programs and Engagements to define roles and permissions for users and to organize content and feedback. Each engagement belongs to a Program.   
@@ -8,15 +7,17 @@ ms.date: 09/21/2017
 keywords: MS Collaborate Programs, programs and engagements, program landing pages, security, permissions, Microsoft Connect, SysDev Bug, Dev Center bugs
 ---
 
+# Programs
+
 Microsoft Collaborate organizes engagements into *Programs* and each program belongs to a Business Group.  A Microsoft Program Owner is responsible for managing the program and the default configurations for the engagements associated with that program.  The Program Owner can pre-define feedback forms, publishing templates inherited by the engagements.  Larger programs (for example, the Windows TAP or EEAP programs) will typically have many engagements under the program.  Users may be in multiple engagements within a program, or in only one engagement within a program.
 
 An MS Collaborate program has metadata associated with it that is visible to users within the engagements under the program.  If the program has a landing page enabled, you can see additional information and helpful links for the program.
 
-# How to view your Programs
+## How to view your Programs
 
 Click the *Programs* list on your Dev Center dashboard to see a list of the programs you belong to.  You will be able to see the Business Group the program belongs to, as well as a description of each program.
 
-# Program Landing pages
+## Program Landing pages
 
 From the *Programs* list, click on a program name to launch the landing page for the program.  Each landing page is configured and curated by the Program Owner.  The program landing page is intended to be a location where you get all essential information about the program. How it is used depends on how the Program Owner choose to implement the page.
 
