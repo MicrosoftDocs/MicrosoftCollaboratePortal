@@ -11,8 +11,6 @@ keywords: partner feedback, build downloads, downloading specs, bugs, Microsoft 
 
 The Microsoft Collaborate (MS Collaborate) portal provides tools and services to streamline engineering collaboration within the Microsoft ecosystem.  
 
-## How does the MS Collaborate work?
-
 MS Collaborate enables:
 - Sharing of engineering system work items (bugs, feature requests, etc.);
 - Distribution of content (builds, documents, tools, specs);  
@@ -32,7 +30,9 @@ The MS Collaborate system uses the concept of **Programs** and **Engagements** a
 - define publishing templates to faciliate publishing packages to multiple engagements
 - identify Engagement Managers who have permissions to create Engagements under the program.
 
-When you log into MS Collaborate, you will see the Programs and Engagements you belong to. It is possible that you are a member of only one engagement or of many engagements within a program.  The functionality you see in MS Collaborate also depends on your role within each engagement. Participant users can download content and submit/edit feedback.  If you have administrative permissions, you will also see icons to edit items.  You can be a partcipant in one engagement and a power user in another.
+When you log into MS Collaborate, you will see the programs and engagements you belong to. It is possible that you are a member of only one engagement or of many engagements within a program.  The functionality you see in MS Collaborate also depends on your role within each engagement. Participant users can download content and submit/edit feedback.  If you have administrative permissions, you will also see icons to edit items you are given permission to view and edit.  You can be a partcipant in one engagement and a power user in another.
+
+For more information, see [Programs and Engagements](programs.md)
 
 ### Engagement Management
 
