@@ -47,11 +47,11 @@ The Disribution Manager has basic search/sort capabilities, but the portal provi
 
 ## Using Distribution Manager for multi-file downloads
 
-If you want to download a whole packages with multiple files or large packages, we recommend installing the **Distribution Manager**.  
+If you want to download a whole packages with multiple files or large packages, we recommend installing the **Distribution Manager**.  The Distsribution Manager is a ClickOnce client application that will update as required.  
 
-This client application connects using the same credentials you use to log in to the MS Collaborate portal. All of the same packages you can see on MS Collaborate will appear in the Distribution Manager.
+This client application connects to MS Collaborate services using the same credentials you use to log in to the MS Collaborate portal. All of the same packages you can see on the MS Collaborate portal will appear in the Distribution Manager.
 
-In addition to downloading multiple files, you can queue many packages to run in the background and you can also customize download settings to address connection issues.
+In addition to downloading multiple files at once, you can queue many packages to run in the background and you can also customize download settings to address connection issues.
 
 ### How to install the Distribution Manager
 
