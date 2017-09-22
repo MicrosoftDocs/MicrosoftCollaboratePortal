@@ -1,5 +1,5 @@
 ---
-title: Managing organization users
+title: Managing engagement users
 description: Microsoft Collaborate enables users from organizations to control the adding/removing of users for the organization.  During onboarding, Engagement Owners can assign individuals from an organization Power User permissions.  Power Users can only manage their own organization’s users. 
 author: mattwojo
 ms.author: mattwoj
@@ -7,14 +7,14 @@ ms.date: 09/01/2017
 keywords: engagements, adding users, removing users, managing users, Collaborate security, Collaborate permissions Microsoft Connect, SysDev Bug, Dev Center bugs
 ---
 
-# Managing organization users
+# Managing engagement users
 
 MS Collaborate *Engagement Owners* can add *Power Users* to an engagement, enabling the *Power Users* to manage users for the specific organization. If you are a *Power User*, you can add and remove users for your organization.
 
 > [!NOTE]
 > If your organization uses Azure Active Directory (AAD) in Dev Center, you need to onboard the users to Dev Center in your AAD account.
 
-## How to add/remove organization users
+## How to add/remove users
 
 1. Navigate to the Engagement in which you want to add or remove users and click “Edit Engagement” to open the management page. Note that you can only change permissions for users in your organization as a *Power User*.  All other tabs will be read only.
 
