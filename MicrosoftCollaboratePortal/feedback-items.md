@@ -7,15 +7,26 @@ ms.date: 09/01/2017
 keywords: feedback, engagements, work items, bugs, feature requests, Collaborate permissions, Microsoft Connect, SysDev Bug, Dev Center bugs 
 ---
 
-# Working with Feedback work items
+# Working with Feedback Work Items
 
-Feedback work items can be bugs, feature requests, or any other form appropriate for an engagement. Each engagement can have its own customize form. The engagement also defines which organizations are going to see the feedback item.
+The Feedback Hub is a common mechanism for submitting bugs, issue and suggestions to Microsoft.  For organiations that are collaborating with Microsoft, MS Collaborate provides additional functionality that enables organizations and users to collaborate on feedback work items.
 
-Engagements can be:
+Feedback work items are typically bugs and feature requests, but can be any data that can be shared in a form. Each engagement can define its own custom forms and the data is synced to internal Microsoft team engineering systems (such as VSTS). 
 
-- Two-party, between one Microsoft group and one partner. In this case, the two parties are the only ones who can see and edit a bug in this engagement.
+In addition to using the MS Collaborate portal, some organizations choose to integrate the MS Collaborate system into their own internal engineering system behind their firewall. This type of integration is available to co-engineering partners.
 
-- Multiple party, several groups and partners can collaborate on the same work item. In this scenario, an engagement might have two Microsoft organizations (Windows and Visual Studio) and three partners (an OEM, an IHV and an ODM).  When a bug is created in this engagement, all five organizations get to see and edit the same bug.
+In the MS Collaborate portal, each feedback work item is associated with a single engagement. Engagements can be between a Microsoft organization and one other organization (a single organization) or the engagement can be between multiple organizations (multi-party engagements) - for example, a Microsoft organization pluz an OEM, an ODM, and an IHV partner working on a specific device.  For more information on engagements, see [Programs and Engagements](intro-to-mscollaborate.md/#programs-and-engagements).
+
+- In **single-party engagements**, only the specific Microsoft organization and the second named organization can see the feedback work item(s) associated with the engagement. No other organizations or users not associated with the engagement can see the work item. The Microsoft organization can create and assign a bug to the organization in the engagement.  Both organization users can collaborate on all work items in the engagement.
+
+- In **multi-party engagements**, all organizations named in the engagement can see and edit the same shared work item(s).  No other organizations or users not associated with the engagement can see the work item.
+
+- In **any organization engagements**, users are added as individuals and not as organizations. This engagement style is typically for incoming feedback only.  Users can submit feedback and can only see and edit the feedback they submitted.  
+
+- In **social media style engagements**, all users in the engagement can see all the work items, but users can only upvote (+1) and comment on the work item.  Comments can be public or private.
+
+## Assigning Feedback Work Items
+
 
 
 ### The Universal Partner ID 
