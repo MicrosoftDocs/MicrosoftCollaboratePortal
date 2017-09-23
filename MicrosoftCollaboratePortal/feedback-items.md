@@ -126,7 +126,7 @@ All feedback work items must be associated with a specific Engagement. A work it
 > [!NOTE]
 > Fields on the **Submit Feedback** page are dependent on the Engagement selected. Engagements can customize the feedback forms as needed.
  
-4. Clicking “Save” will take you to the **Feedback List** view. Work items submitted will appear on this page. 
+4. Clicking **Save** will take you to the **Feedback List** view. Work items submitted will appear on this page. 
 
 ## How to Edit Feedback Work Items
 
@@ -138,4 +138,6 @@ All feedback work items must be associated with a specific Engagement. A work it
 
 After filtering to identify the work items that you want to export, you can export the table to Excel by clicking the export arrow.
 
-	![Export to Excel arrow icon](images/export-to-excel.png)
+![Export to Excel arrow icon](images/export-to-excel.png)
+
+
