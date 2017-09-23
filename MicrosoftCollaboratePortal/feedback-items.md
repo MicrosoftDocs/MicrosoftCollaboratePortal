@@ -9,11 +9,11 @@ keywords: feedback, engagements, work items, bugs, feature requests, Collaborate
 
 # Working with Feedback Work Items
 
-The Feedback Hub is a common mechanism for submitting bugs, issue and suggestions to Microsoft.  For organiations that are collaborating with Microsoft, MS Collaborate provides additional functionality that enables organizations and users to collaborate on feedback work items.
+The [Feedback Hub](https://support.microsoft.com/en-us/help/4021566/windows-10-send-feedback-to-microsoft-with-feedback-hub-app) is a common mechanism for submitting bugs, issue and suggestions to Microsoft.  For organiations that are collaborating with Microsoft, MS Collaborate provides additional functionality that enables organizations and users to collaborate on feedback work items.
 
-Feedback work items are typically bugs and feature requests, but can be any data that can be shared in a form. Each engagement can define its own custom forms and the data is synced to internal Microsoft team engineering systems (such as VSTS). 
+Feedback work items are typically bugs and feature requests that you are sharing with Microsoft, but can be any data that can be shared in a form. Each engagement can define its own custom forms and the data is synced to internal Microsoft team engineering systems (such as VSTS). Engagement Owners can configure routing to specific internal engineering systems to ensure your feedback gets to the right feature teams.
 
-In addition to using the MS Collaborate portal, some organizations choose to integrate the MS Collaborate system into their own internal engineering system behind their firewall. This type of integration is available to co-engineering partners.
+In addition to using the MS Collaborate portal, some co-engineering partner organizations choose to integrate the MS Collaborate system into their own internal engineering system behind their firewall. 
 
 In the MS Collaborate portal, each feedback work item is associated with a single engagement. Engagements can be between a Microsoft organization and one other organization (a single organization) or the engagement can be between multiple organizations (multi-party engagements) - for example, a Microsoft organization pluz an OEM, an ODM, and an IHV partner working on a specific device.  For more information on engagements, see [Programs and Engagements](intro-to-mscollaborate.md/#programs-and-engagements).
 
@@ -27,15 +27,36 @@ In the MS Collaborate portal, each feedback work item is associated with a singl
 
 ## Assigning Feedback Work Items
 
+When you are working with feedback work items in MS Collaborate, you have the ability to assign a work item to specific users in your organization, to a Microsoft feature team or division, or to another organization who is part of a multi-=party engagement.
 
+When you log into MS Collaborate, the system knows which organization you belong to.  This enables the feedback forms to populate user information for your organization.
 
-### The Universal Partner ID 
+New work items that are available for your organization to triage and assign typically have Assigned to = Active.  Note: engagement owners can customize the forms, so the exact functionality depends on how your engagement owner configured the forms.
 
-The Universal Partner ID is an ID provided by the feedback system and shared with all users of the work item.  This facilitates multi-party collaborations in which there is one common ID used by all parties.
+When you select an people-based drop-down, you will see the name of the users in your organizations and of the other organization name(s).  Note that any named organizations can see the work items.
 
-### Legal agreement for collaboration
+A work item assigned to you means it is your responsible to take action on the work item.
+
+**To assign a work item to Microsoft**, select the Microsoft organization in the Assigned to (or Partner on Point) field.
+
+## The Universal Partner ID for each work item
+
+The Universal Partner ID is an ID provided by the feedback system and shared with all users who have access to the work item. This ID is the ID of the MS Collaborate system and is not the specific ID of any feature team engineering system. This new universal ID facilitates multi-party collaborations so there is one common ID used by all parties.
+
+Your engagement owner may decide to also include additional fields showing the specific ID in the engineering system (for example, a VSTS ID). 
+
+## Legal agreement for collaboration on feedback
 
 In collaboration engagements, a legal agreement exists between the parties in order for them to collaborate. You may be asked to accept a legal agreement when you access the engagement for the first time.  As a member of the engagement, you will be able to see the other organizations participating in the collaboration. Users can assign the bug to a specific organization to indicate the “partner on point.”
+
+## How to submit feedback in MS Collaborate
+
+When you want to log a new bug or submit new feedback, you first select an engagement to associate with the feedback. Each work item must be associated with only one engagement because the engagement and work item type determines which form to use and which organization in Microsoft to sync the feedback to.
+
+There are a few different ways to create new feedback:
+- from the **All Feedback** page, click the **Submit New Feedback** button.  You will need to select an engagement and then a feedback form, or
+- from an **Engagement** list, open the engagement.  From the Engagement details page, scroll to the **Feedback** section and click **New** beside the work item type you want to use, or
+- from the Engagement's Feedback list, click **Submit New Feedback button**.  Because you are in the engagement, you will not need to select an engagement.
 
 ## How to view Feedback items
 
@@ -46,17 +67,22 @@ To view feedback in the **All Feedback** page:
 2.	This takes you to the **All Feedback** page.
 3.	Click on items in a row to open the work item.
 
-### Search for specific feedback
+To view feedback from an **Engagement's Feedback** page:
+1. Scroll to the Feedback section and select one of the following:
+ - Select the Work Item Type link to see all work items of that type
+ - Select one of the queries to view work items specific to the query
 
-On the [All Feedback page](//developer.microsoft.com/dashboard/collaborate/feedback/bugs), you can filter for specific feedback in the following ways:
-1.	Sort individual columns in the feedback table.
-2.	Select specific Engagements.
-3.	Filter by Title.
-4.	Filter by work item type.
+## Search for specific feedback
 
-![Feedback search window](images/feedback-search.png)
+On the [All Feedback page](//developer.microsoft.com/dashboard/collaborate/feedback/bugs) in the MS Collaborate portal, you can see all work items for the engagements you have access to.  You can filter the page for specific feedback in the following ways:
+-	Sort individual columns in the feedback table.
+- Select specific Engagements.
+-	Filter by Title.
+-	Filter by work item type.
 
-## How to create and save queries for work items
+	![Feedback search window](images/feedback-search.png)
+
+## How to create and save queries for feedback work items
 
 There are a few kinds of queries that can be saved with an Engagement. You can open the Engagement to see the Feedback work item types and the queries available.
 
@@ -64,19 +90,19 @@ There are a few kinds of queries that can be saved with an Engagement. You can o
 - **Shared Queries** are created by participant users in the Engagement. This query is visible to all users in the Engagement.
 - **Pre-Defined Queries** are created by the *Engagement Owner* and are available to all in the Engagement. This query is available to all users but is only editable by the *Engagement Owner*.
 
-To create queries, you must be within the context of a specific Engagement.  
+To create queries, you must be within the context of a specific engagement.  
 
 1. Navigate to an Engagement and click on one of the options within the Engagement page to get to the list of feedback that you want in the query.
 
-![Feedback query window](images/create-feedback-query.png)
+	 ![Feedback query window](images/create-feedback-query.png)
 
 2. Click the **Advanced Filter** icon to see the fields that you can use to define the query. 
 
-![Feedback Advanced Filter window](images/feedback-advanced-filter.png)
+	![Feedback Advanced Filter window](images/feedback-advanced-filter.png)
 
 3. Click **Run** to return the desired query results, you can click **Save As** to add the query.
 
-![Feedback Save Query window](images/feedback-query-save.png)
+	![Feedback Save Query window](images/feedback-query-save.png)
 
 4. To **Edit** an existing query, navigate to the query, click the **Advanced Filter** icon and then click **Save As** to save the query as a new query.
 
@@ -91,16 +117,16 @@ All feedback work items must be associated with a specific Engagement. A work it
 
 2. Select the appropriate Engagement for the work item.
 
-![Select an Engagement window](images/select-engagement.png)
+	![Select an Engagement window](images/select-engagement.png)
 
 3. The “Submit Feedback” page will appear. Complete the required fields and click “Save”.
 
-![Submit feedback window](images/submit-feedback.png)
+	![Submit feedback window](images/submit-feedback.png)
 
 > [!NOTE]
 > Fields on the **Submit Feedback** page are dependent on the Engagement selected. Engagements can customize the feedback forms as needed.
  
-4.	Clicking “Save” will take you to the **Feedback List** view. Work items submitted will appear on this page. 
+4. Clicking “Save” will take you to the **Feedback List** view. Work items submitted will appear on this page. 
 
 ## How to Edit Feedback Work Items
 
@@ -112,4 +138,4 @@ All feedback work items must be associated with a specific Engagement. A work it
 
 After filtering to identify the work items that you want to export, you can export the table to Excel by clicking the export arrow.
 
-![Export to Excel arrow icon](images/export-to-excel.png)
+	![Export to Excel arrow icon](images/export-to-excel.png)
