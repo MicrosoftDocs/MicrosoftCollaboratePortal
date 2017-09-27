@@ -80,7 +80,9 @@ Distribution Manager uses the same account you use for MS Collaborate.  If you l
 4.	Click **Download** to initiate the downloading of the selected packages.
 5.	Icons update to indicate the status for packages that are queued for download.
 
-You will see the files that are **Downloading Now** as well as packages that are queued for download.  You can click the **Download Now** to see just the files that are downloading.
+You will see the files that are **Downloading Now** as well as packages that are queued for download.  You can click **Download Now** to see just the files that are downloading.  
+
+You can also navigate to **Check for Downloads Now** from the Menu in Distribution Manager.
 
 	![Check for Downloads Now menu item on the Packages page](images/check-for-downloads.png)
 
