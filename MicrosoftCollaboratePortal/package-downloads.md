@@ -58,17 +58,17 @@ In addition to downloading multiple files at once, you can queue many packages t
 ### How to install the Distribution Manager
 
 1. From the **Packages** page, click the **Distribution Manager** button at the top of the page. 
-	![Distribution Manager install button on the Packages page](images/distribution-manager-button.png)
+	![Distribution Manager install on the Packages page](images/distribution-mgr-Launch.png)
 
 2. Click **Open** on the message and then click **Install** in the Application Install dialog box. 
 
-If you are already logged into Dev Center, the Distribution Manager will launch and sign you in with the same account.
+If you are already logged into Dev Center, when you click the Distributuion Manager button, the Distribution Manager will launch and sign you in with the same account you used to log in to MS Collaborate.
 
 ### How to log in to Distribution Manager
 
-If you are not already logged into MS Collaborate, or if you are using an MSA account to access the site, you may need to log in to the Distribution Manager again. This will be using the same account you used to log into the MS Collaborate portal.
+Distribution Manager uses the same account you use for MS Collaborate.  If you launch it from the MS Collaborfate portal, you will be logged in automatically.  If you are not already logged into MS Collaborate, or if you are using an MSA account to access the site, you may need to log in to the Distribution Manager again. This will be using the same account and process you used to log into the MS Collaborate portal.
 
-1.	Launch the Distribution Manager application on your computer by selecting the Distribution Manager button on the **Packages** page in the MS Collaborate portal OR by navigating to **Distribution Manager** in your computer’s list of applications.
+1.	Launch the Distribution Manager application on your computer by selecting the **Distribution Manager** button on the **Packages** page in the MS Collaborate portal OR by navigating to **Distribution Manager** in your computer’s list of applications.
 
 2.	You will see the same log in screen you see when you log into Dev Center or MS Collaborate. Select the appropriate account, enter your password, and Distribution Manager will connect to your MS Collaborate account.
 
@@ -91,8 +91,12 @@ You will see the files that are **Downloading Now** as well as packages that are
 
 ### Customizing Distribution Manager Settings
 
-In Distribution Manager, you can access **Settings** from the menu near your log in name.  Distribution Manager settings are intended to enable you to customize how packages get downloaded.  You can select Block Size, Download Threads, and Max speeds for your downloads.
+In Distribution Manager, you can access **Settings** from the menu near your log in name.  Distribution Manager settings are intended to enable you to customize how packages get downloaded.  You can adjust the following settings:
+- Block Size, 
+- Download Threads, and
+- Max speeds.
 
 It is recommended that you only changes these if you are experiencing problems with downloading that might be due to a slow or unreliable connection.
 
+![Customize Distributuion Manager Settings](images/Distribution-Mgr-Settings.png)
 
