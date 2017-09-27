@@ -20,9 +20,15 @@ You can use use the following types of queries for an engagement or program:
 - **Shared Queries** are available to all users in an engagement or program, making it easier for users to have the same query results
 - **Pre-Defined Queries** are provided by the MS Collaborate system and are common queries useful to all. 
 
-You can open any existing query and use the Save As option to save it to your My Queries list or to create a new query from the existing one.
+You can open any existing query and use the Save As option to save it to your **My Queries** list or to create a new query from the existing one.
+
+Program and Engagement Owners can create and modify the **Shared Queries**.  The **Pre-Defined Queries** are managed by the MS Collaborate team.  Contact your Engagement Owners to recommend changes.  
 
 
 ## How to customize your MS Collaborate Dashboard
 
-The MS Collaborate dashboard defaults to the Feedback query for all work items assigned to you.  You can change this setting to use any other Feedback saved query.  You can also choose to have a specific program or engagement information on your dashboard.
+The MS Collaborate dashboard defaults to the Feedback query for all work items assigned to you.  You can change this setting to use any other Feedback saved query.  You can also choose to have a specific program or engagement information or landing page on your customized dashboard.
+
+## How to customize the Distribution Manager download configuration
+
+In the MS Collaborate Distsribution Manager, if you are having issues with downloading packages, you can customize the download configuration to change how the system downloads files.  For details, see [Customizing Distsribution Manager Settings](package-downloads.md#customizing-distribution-manager-settings).
