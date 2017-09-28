@@ -11,8 +11,6 @@ keywords: partner feedback, build downloads, downloading specs, bugs, Microsoft 
 
 The Microsoft Collaborate (MS Collaborate) portal provides tools and services to streamline engineering collaboration within the Microsoft ecosystem.  
 
-## How does the MS Collaborate work?
-
 MS Collaborate enables:
 - Sharing of engineering system work items (bugs, feature requests, etc.);
 - Distribution of content (builds, documents, tools, specs);  
@@ -29,10 +27,12 @@ Sign-in using your Dev Center credentials, as either an individual or as a membe
 The MS Collaborate system uses the concept of **Programs** and **Engagements** as the core building blocks for the system. Programs provide structure and facilitate managing engagements. Each engagements has only one parent program and they inherit feedback forms, queries, and publishing templates defined at the program level.  Engagements can be customzed and they define sets of users who can interact with content and feedback associated with the engagement. Program Owners are Microsoft users who have permissions to:
 - define program metadata, including Program Landing pages
 - define default feedback forms
-- define publishing templates to faciliate publishing packages to multiple engagements
+- define publishing templates to facilitate publishing packages to multiple engagements
 - identify Engagement Managers who have permissions to create Engagements under the program.
 
-When you log into MS Collaborate, you will see the Programs and Engagements you belong to. It is possible that you are a member of only one engagement or of many engagements within a program.  The functionality you see in MS Collaborate also depends on your role within each engagement. Participant users can download content and submit/edit feedback.  If you have administrative permissions, you will also see icons to edit items.  You can be a partcipant in one engagement and a power user in another.
+When you log into MS Collaborate, you will see the programs and engagements you belong to. It is possible that you are a member of only one engagement or of many engagements within a program.  The functionality you see in MS Collaborate also depends on your role within each engagement. Participant users can download content and submit/edit feedback.  If you have administrative permissions, you will also see icons to edit items you are given permission to view and edit.  You can be a partcipant in one engagement and a power user in another.
+
+For more information, see [Programs and Engagements](programs.md)
 
 ### Engagement Management
 
@@ -43,7 +43,7 @@ Engagements are similar to a virtual security group, allowing engagement owners 
 - collaboration between multiple named organizations (e.g., Microsoft team 1 users, company A users, and company B users), and
 - collaboration with users from any organizations.
 
-Each engagement is associated with either the default MS Collaborate Terms of Use [Agreement](https://go.microsoft.com/fwlink/?linkid=849107) or an appropriate custom legal agreement between the parties in the engagement. Partcipant users should visit the engagement page and see the description and agreement that applies to each specific enagement.  For more information, see [How to view your Engagements](view-engagements.md).
+Each engagement is associated with either the default MS Collaborate Terms of Use [Agreement](https://go.microsoft.com/fwlink/?linkid=849107) or an appropriate custom legal agreement between the parties in the engagement. Partcipant users should visit the engagement page and see the description and agreement that applies to each specific enagement.  For more information about seeing the legal agreement for an engagement, see [How to view your Engagements](view-engagements.md).
 
 Engagement owners are Microsoft users who manage the engagement in MS Collaborate.  Users with Engagement Owner permissions can: 
 - create new collaborations in the system as a named engagement that will map content or feedback to users, 
@@ -71,7 +71,7 @@ The feedback, or Work Item Exchange, system within MS Collaborate enables the sh
 
 Each program and/or engagement can determine how each feedback form will be shared and which fields will be available - the decisions and configuration are the responsibility of the engagement owner.  In addition, engagement owners can further customize each feedback form to help facilitate and simplify the process for sharing work items. Depending on how the engagement is configured, work items can be created by either participant users for Microsoft to address or by Microsoft users for partner organizations to address.  Feedback forms can also be enabled to share attachments to the feedback form.
 
-The MS Collaboarate Feedback pages provide views of all your feedback items, advanced search to identify specific feedback, and the ability to save and share queries.  New in MS Collaborate is the ability to have shared queries available to all users within an engagement or program.  These queries can be configured to match queries used by Microsoft users to facilitate having the same list of bugs for review.
+The MS Collaborate Feedback pages provide views of all your feedback items, advanced search to identify specific feedback, and the ability to save and share queries.  New in MS Collaborate is the ability to have shared queries available to all users within an engagement or program.  These queries can be configured to match queries used by Microsoft users to facilitate having the same list of bugs for review.
 
 MS Collaborate also brings new functionality enabling multiple parties to share the same work item. If the engagement contains multiple parties, all members of the engagement can see, edit, and collaborate on the same work items.  Multi-party feedback collaboration does require appropriate legal agreements between the parties.
 
@@ -105,7 +105,7 @@ Microsoft Connect was launched in July 2005 and has been used by millions of use
 MS Collaborate replaces Microsoft Connect, including a different look and new functionality to facilitate collaboration. 
 
 | Connect concept | MS Collaborate portal concept |
-| ------- | -------- | --------- |
+| ------- | -------- |
 | Sites | N/A |
 | Programs | Programs |
 | Security groups | Engagements (define users and permissions) |
