@@ -18,7 +18,7 @@ Role | Scope of permissions | Description
 **Participants** | Engagement | Users of the content and feedback associated with the engagement. Able to view engagement information and the Program landing page the engagement is part of.  Able to download content.  Able to view, edit feedback work items associated with the engagement.
 **Power User** | Engagement | Organization admins who are able to manage users for their organization.  An organization can have multiple Power Users identified.  Power Users can add other users to the Power User role for the engagement.
 **Content Publisher** | Engagement or Program | User able to publish content packages to be downloaded by participants.  Program-level Content Publishers can publish to all engagements under the Program.  Engagement-level Content Publishers can only publish the the specific engagement.  
-**Engagement Owner** | Engagement | Microsoft users able to manage the engagement, including engaement metadata, membership, feedback forms, and publishing templates.  Engagement owners also inherit all other role permissions within the engagement, such as package publishing and participant user permissions.
+**Engagement Owner** | Engagement | Microsoft users able to manage the engagement, including engagement metadata, membership, feedback forms, and publishing templates.  Engagement owners also inherit all other role permissions within the engagement, such as package publishing and participant user permissions.
 **Program Owner** | Program | Microsoft users who can manage the program and all engagements under the program.  Program owners can choose which Microsoft users are enabled to create engagements under the program.
 
 
