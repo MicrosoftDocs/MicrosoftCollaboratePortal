@@ -7,7 +7,7 @@ ms.date: 09/21/2017
 keywords: MS Collaborate customization, configuring notifications, dashboard customization
 ---
 
-# How to customize your Microsoft Collaberate experience
+# How to customize your Microsoft Collaborate experience
 
 In MS collaborate, you can decide what content to have on your MS Collaborate dashboard, how you want to receive notifications from MS Collaborate, and how to create and share saved Feedback queries for an engagement.
 
@@ -31,4 +31,4 @@ The MS Collaborate dashboard defaults to the Feedback query for all work items a
 
 ## How to customize the Distribution Manager download configuration
 
-In the MS Collaborate Distsribution Manager, if you are having issues with downloading packages, you can customize the download configuration to change how the system downloads files.  For details, see [Customizing Distsribution Manager Settings](package-downloads.md#customizing-distribution-manager-settings).
+In the MS Collaborate Distsribution Manager, if you are having issues with downloading packages, you can customize the download configuration to change how the system downloads files.  For details, see [Customizing Distribution Manager Settings](package-downloads.md#customizing-distribution-manager-settings).

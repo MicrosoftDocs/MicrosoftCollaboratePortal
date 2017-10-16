@@ -1,8 +1,8 @@
 ---
 title: Intro to Microsoft Collaborate
 description: Overview of the Microsoft Collaborate Portal, including features available and conceptual information on how to use the system.  MS Collaborate enables sharing of engineering system work items (bugs, feature requests), distribution of content (builds, documents, specs), and user management, replacing Microsoft Connect and the SysDev Feedback Management portal. 
-author: mattwojo
-ms.author: mattwoj
+author: chriskleinke
+ms.author: chriskl
 ms.date: 09/01/2017
 keywords: partner feedback, build downloads, downloading specs, bugs, Microsoft Connect, SysDev Bug, Dev Center bugs
 ---
@@ -27,7 +27,7 @@ Sign-in using your Dev Center credentials, as either an individual or as a membe
 The MS Collaborate system uses the concept of **Programs** and **Engagements** as the core building blocks for the system. Programs provide structure and facilitate managing engagements. Each engagements has only one parent program and they inherit feedback forms, queries, and publishing templates defined at the program level.  Engagements can be customzed and they define sets of users who can interact with content and feedback associated with the engagement. Program Owners are Microsoft users who have permissions to:
 - define program metadata, including Program Landing pages
 - define default feedback forms
-- define publishing templates to faciliate publishing packages to multiple engagements
+- define publishing templates to facilitate publishing packages to multiple engagements
 - identify Engagement Managers who have permissions to create Engagements under the program.
 
 When you log into MS Collaborate, you will see the programs and engagements you belong to. It is possible that you are a member of only one engagement or of many engagements within a program.  The functionality you see in MS Collaborate also depends on your role within each engagement. Participant users can download content and submit/edit feedback.  If you have administrative permissions, you will also see icons to edit items you are given permission to view and edit.  You can be a partcipant in one engagement and a power user in another.
@@ -71,7 +71,7 @@ The feedback, or Work Item Exchange, system within MS Collaborate enables the sh
 
 Each program and/or engagement can determine how each feedback form will be shared and which fields will be available - the decisions and configuration are the responsibility of the engagement owner.  In addition, engagement owners can further customize each feedback form to help facilitate and simplify the process for sharing work items. Depending on how the engagement is configured, work items can be created by either participant users for Microsoft to address or by Microsoft users for partner organizations to address.  Feedback forms can also be enabled to share attachments to the feedback form.
 
-The MS Collaboarate Feedback pages provide views of all your feedback items, advanced search to identify specific feedback, and the ability to save and share queries.  New in MS Collaborate is the ability to have shared queries available to all users within an engagement or program.  These queries can be configured to match queries used by Microsoft users to facilitate having the same list of bugs for review.
+The MS Collaborate Feedback pages provide views of all your feedback items, advanced search to identify specific feedback, and the ability to save and share queries.  New in MS Collaborate is the ability to have shared queries available to all users within an engagement or program.  These queries can be configured to match queries used by Microsoft users to facilitate having the same list of bugs for review.
 
 MS Collaborate also brings new functionality enabling multiple parties to share the same work item. If the engagement contains multiple parties, all members of the engagement can see, edit, and collaborate on the same work items.  Multi-party feedback collaboration does require appropriate legal agreements between the parties.
 

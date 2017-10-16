@@ -100,5 +100,5 @@ In Distribution Manager, you can access **Settings** from the menu near your log
 
 It is recommended that you only changes these if you are experiencing problems with downloading that might be due to a slow or unreliable connection.
 
-![Customize Distributuion Manager Settings](images/Distribution-Mgr-Settings.png)
+![Customize Distribution Manager Settings](images/Distribution-Mgr-Settings.png)
 
