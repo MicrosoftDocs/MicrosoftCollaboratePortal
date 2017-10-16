@@ -9,7 +9,9 @@ keywords: engagements, adding users, removing users, managing users, Collaborate
 
 # Managing Users in MS Collaborate
 
-The Microsoft Collaborate system uses **Engagements** to define the permissions/roles for the portal.  Very simply, if you are a member of the engagement, you see the engagement metadata, content and feedback associated with the engagement.  If you are not a member of the engagement, you do not see the engagement or any of its artifacts.
+The Microsoft Collaborate system uses **Engagements** to define the permissions/roles for the portal.  Very simply, if you are a participant of the engagement, you see the engagement metadata, content and feedback associated with the engagement.  The additional permissions within the engagement are defined as roles.  If you are added to a role, you can edit specific aspects of the program/engagement.  If you are not a member of the engagement, you do not see the engagement or any of its artifacts.
+
+At this time, only Microsoft users can manage programs and engagements.  Non-Microsoft users can be Participants and Power Users.
 
 MS Collaborate has the following membership roles:
 
@@ -18,8 +20,9 @@ Role | Scope of permissions | Description
 **Participants** | Engagement | Users of the content and feedback associated with the engagement. Able to view engagement information and the Program landing page the engagement is part of.  Able to download content.  Able to view, edit feedback work items associated with the engagement.
 **Power User** | Engagement | Organization admins who are able to manage users for their organization.  An organization can have multiple Power Users identified.  Power Users can add other users to the Power User role for the engagement.
 **Content Publisher** | Engagement or Program | User able to publish content packages to be downloaded by participants.  Program-level Content Publishers can publish to all engagements under the Program.  Engagement-level Content Publishers can only publish the the specific engagement.  
-**Engagement Owner** | Engagement | Microsoft users able to manage the engagement, including engagement metadata, membership, feedback forms, and publishing templates.  Engagement owners also inherit all other role permissions within the engagement, such as package publishing and participant user permissions.
-**Program Owner** | Program | Microsoft users who can manage the program and all engagements under the program.  Program owners can choose which Microsoft users are enabled to create engagements under the program.
+**Engagement Owner** | Engagement | Microsoft users able to manage the engagement, including engaement metadata, membership, feedback forms, and publishing templates.  Engagement owners also inherit all other role permissions within the engagement, such as package publishing and participant user permissions.  
+**Engagement Manager** | Microsoft users with permission to create engagements under a program.  Users in this role inherit Engagement Owner permissions within all engagements under the program.  Program owners can add/remove users from this role for the program.
+**Program Owner** | Program | Microsoft users who can manage all aspects of the program and all engagements under the program.  
 
 
 ## Managing User Memberships
