@@ -46,4 +46,4 @@ When you open the engagement, you can see the following information:
 
 ## Program Shared Queries
 
-Any feedback queries that are shared to the program will be available on the program landing page.  You can click on the query to launch the query in the feedback pages.  This is an easy way for all to have a consistent query to use.  For more information about feedback queries, see [Working with Feedback work items](feedback-items.md/#how-to-create-and-save-queries-for-work-items).
+Any feedback queries that are shared to the program will be available on the program landing page.  You can click on the query to launch the query in the feedback pages.  This is an easy way for all to have a consistent query to use.  For more information about feedback queries, see [Working with Feedback work items](feedback-items.md/#how-to-create-and-save-queries-for-feedback-work-items).
