@@ -31,8 +31,12 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/playready/breadcrumb/toc.json",
-      "extendBreadcrumb": true
+      "breadcrumb_path": "/MicrosoftCollaboratePortal/breadcrumb/toc.json",
+      "extendBreadcrumb": true,
+      "titleSuffix": "Collaborate",
+      "ms.topic": "article",
+      "ms.prod": "Windows",
+      "ms.technology": "mscollaborate"
     },
     "fileMetadata": {},
     "template": [],
