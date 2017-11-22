@@ -1,4 +1,5 @@
 # [Microsoft Collaborate Docs](index.md)
+## [Introduction](intro-to-mscollaborate.md)
 ## [Onboarding](onboarding.md)
 ## [Managing users](managing-org-users.md)
 ## [Programs & Engagements](programs.md)
