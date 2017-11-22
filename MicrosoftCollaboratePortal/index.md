@@ -14,17 +14,17 @@ The Microsoft Collaborate portal provides tools and services to streamline engin
 
 <ul class="panelContent cardsFTitle">
     <li>
-        <a href="./get-started.md">
+        <a href="./onboarding.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/common/i_get-started.svg" alt="Get Started Icon" />
+                            <img src="/media/common/i_account-management.svg" alt="Register Icon" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Get started</h3>
+                        <h3>Register (Onboarding)</h3>
                     </div>
                 </div>
             </div>
@@ -32,17 +32,17 @@ The Microsoft Collaborate portal provides tools and services to streamline engin
         </a>
     </li>
     <li>
-        <a href="./..">
+        <a href="./managing-org-users.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/common/i_code-edit.svg" alt="Code Edit Icon" />
+                            <img src="/media/common/i_agile.svg" alt="User management icon" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Link #2</h3>
+                        <h3>User management</h3>
                     </div>
                 </div>
             </div>
@@ -50,17 +50,17 @@ The Microsoft Collaborate portal provides tools and services to streamline engin
         </a>
     </li>
     <li>
-        <a href="./..">
+        <a href="./programs.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/common/i_test.svg" alt="Package Icon" />
+                            <img src="/media/common/i_kaban.svg" alt="Programs icon" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Link #3</h3>
+                        <h3>Programs and Engagements</h3>
                     </div>
                 </div>
             </div>
@@ -68,17 +68,17 @@ The Microsoft Collaborate portal provides tools and services to streamline engin
         </a>
     </li>
     <li>
-        <a href="./..">
+        <a href="./feedback-items.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/common/i_test.svg" alt="Test Icon" />
+                            <img src="/media/common/i_feedback.svg" alt="Feedback icon" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Link #4</h3>
+                        <h3>Feedback</h3>
                     </div>
                 </div>
             </div>
@@ -86,17 +86,17 @@ The Microsoft Collaborate portal provides tools and services to streamline engin
         </a>
     </li>
     <li>
-        <a href="./..">
+        <a href="./package-downloads.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/common/i_deploy.svg" alt="Submit Icon" />
+                            <img src="/media/common/i_download-install.svg" alt="Packaging icon" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Link #5</h3>
+                        <h3>Packaging for downloads</h3>
                     </div>
                 </div>
             </div>
@@ -104,17 +104,17 @@ The Microsoft Collaborate portal provides tools and services to streamline engin
         </a>
     </li>
     <li>
-        <a href="//developer.microsoft.com/windows">
+        <a href="./customization.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/common/i_multi-connect.svg" alt="Multi connect icon" />
+                            <img src="/media/common/i_config-tools.svg" alt="Customize icon" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Link #6</h3>
+                        <h3>Customizing</h3>
                     </div>
                 </div>
             </div>
@@ -122,38 +122,3 @@ The Microsoft Collaborate portal provides tools and services to streamline engin
         </a>
     </li>
   </ul>
-
----
-
-<h2>Reference</h2>
-
-<ul class="panelContent cardsW">
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardText">
-                        <h3>Resources</h3>
-                        <p><a href="//developer.microsoft.com/windows">Resource #1</a></p>
-                        <p><a href="//developer.microsoft.com/windows">Resource #2</a></p>
-                        <p><a href="//developer.microsoft.com/windows">Resource #3</a></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardText">
-                        <h3>Support</h3>
-                        <p><a href="//developer.microsoft.com/windows">Support link #1</a></p>
-                        <p><a href="//developer.microsoft.com/windows">Support link #2</a></p>
-                        <p><a href="//developer.microsoft.com/windows">Support link #3</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-</ul>
