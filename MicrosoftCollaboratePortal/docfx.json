@@ -33,6 +33,7 @@
     "globalMetadata": {
       "breadcrumb_path": "/MicrosoftCollaboratePortal/breadcrumb/toc.json",
       "extendBreadcrumb": true,
+      "searchScope": ["Collaborate"],
       "titleSuffix": "Collaborate",
       "ms.topic": "article",
       "ms.prod": "Windows",
