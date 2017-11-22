@@ -32,7 +32,7 @@ On the **Packages** page, you can filter and search for packages based on multip
 
 For example, if you are looking for a specific Windows Build package and you know the build number, you could enter it as a filter. Each filter box is cumulative, so you can start with fewer filters and add more to limit the number of packages returned until you find what you are looking for. You can also sort the list of packages by column to help with locating packages.
 
-The Disribution Manager has basic search/sort capabilities, but the portal provides a richer search/filter experience.  If you have many packages available to you, it is recommended that you use the portal's search to find the right package, and then search on the package name in the Distribution Manager.
+The Distribution Manager has basic search/sort capabilities, but the portal provides a richer search/filter experience.  If you have many packages available to you, it is recommended that you use the portal's search to find the right package, and then search on the package name in the Distribution Manager.
 
 ## How to download files from the MS Collaborate portal
 

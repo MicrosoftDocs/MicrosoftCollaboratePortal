@@ -1,7 +1,7 @@
 ---
 layout: LandingPage
-description: Documentation for the Microsoft Collaborate Portal.
-title: Microsoft Collaborate Portal documentation 
+description: Documentation for the Microsoft Collaborate.
+title: Microsoft Collaborate documentation 
 author: mattwojo
 ms.author: mattwoj
 ms.date: 06/06/2017
