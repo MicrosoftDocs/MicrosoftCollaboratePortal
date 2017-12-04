@@ -1,13 +1,13 @@
 ---
-title: Onboarding to MS Collaborate
+title: Register with MS Collaborate
 description: MS Collaborate utilizes the Developer Center Dashboard requiring an individual Microsoft Account (MSA) or an organization with Azure Active Directory set up.
 author: mattwojo
 ms.author: mattwoj
 ms.date: 09/01/2017
-keywords: partner access, permissions, onboarding, partner feedback, build downloads, downloading specs, bugs, Microsoft Connect, SysDev Bug, Dev Center bugs
+keywords: partner access, permissions, register, registration, onboarding, partner feedback, build downloads, downloading specs, bugs, Microsoft Connect, SysDev Bug, Dev Center bugs
 ---
 
-# Onboarding to Microsoft Collaborate
+# Register with Microsoft Collaborate
 
 The Microsoft Collaborate (MS Collaborate) portal is embedded into the Microsoft Dev Center Dashboard. You can use your Dev Center account to log in and interact with MS Collaborate.  Before you can download content or submit feedback, you need to be invited to an MS Collaborate engagement. This can be done by either your Microsoft engagement owner, or by your company "Organization Admin" if your organization is already added to an Engagement.
 

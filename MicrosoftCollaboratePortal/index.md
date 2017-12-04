@@ -14,7 +14,7 @@ The Microsoft Collaborate portal provides tools and services to streamline engin
 
 <ul class="panelContent cardsFTitle">
     <li>
-        <a href="./onboarding.md">
+        <a href="./registration.md">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
@@ -24,7 +24,7 @@ The Microsoft Collaborate portal provides tools and services to streamline engin
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Register (Onboarding)</h3>
+                        <h3>Registration</h3>
                     </div>
                 </div>
             </div>
@@ -78,7 +78,7 @@ The Microsoft Collaborate portal provides tools and services to streamline engin
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Feedback</h3>
+                        <h3>Feedback management</h3>
                     </div>
                 </div>
             </div>
@@ -96,25 +96,7 @@ The Microsoft Collaborate portal provides tools and services to streamline engin
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Packaging for downloads</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-    <li>
-        <a href="./customization.md">
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="/media/common/i_config-tools.svg" alt="Customize icon" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Customizing</h3>
+                        <h3>Downloading content</h3>
                     </div>
                 </div>
             </div>
