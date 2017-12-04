@@ -10,7 +10,7 @@ keywords: Microsoft Collaborate documentation, MS Collaborate, Microsoft Collabo
 
 # Microsoft Collaborate: Documentation and Guidance
 
-The Microsoft Collaborate portal provides tools and services to streamline engineering collaboration within the Microsoft ecosystem by enabling the sharing of engineering system work items (bugs, feature requests, etc.), the distribution of content (builds, documents, specs), and the ability to manage users of the system. This new system replaces the Microsoft Connect portal as well as the SysDev Feedback Management portal.
+The Microsoft Collaborate portal provides tools and services to streamline engineering collaboration within the Microsoft ecosystem by enabling the sharing of engineering system work items (bugs, feature requests, etc.) and the distribution of content (builds, documents, specs). 
 
 <ul class="panelContent cardsFTitle">
     <li>
