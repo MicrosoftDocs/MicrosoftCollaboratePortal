@@ -20,7 +20,7 @@ Available via the [Microsoft Dev Center Dashboard](//developer.microsoft.com/das
 
 You can access MS Collaborate using the friendly link:  [https://aka.ms/collaborate](https://aka.ms/collaborate).
 
-Sign-in using your Dev Center credentials, as either an individual or as a member of a company or organization.  Before using MS Collaborate, you will need to register for Dev Center. For more information, see [Onboarding to Microsoft Collaborate](onboarding.md).
+Sign-in using your Dev Center credentials, as either an individual or as a member of a company or organization.  Before using MS Collaborate, you will need to register for Dev Center. For more information, see [Register with Microsoft Collaborate](registration.md).
 
 ## Programs and Engagements
 

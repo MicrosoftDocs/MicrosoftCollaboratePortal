@@ -31,7 +31,7 @@ Your Microsoft engagement owner(s) will set up the engagements in MS Collaborate
 
 Adding users to an engagement requires that each user be registered in the Dev Center with either an individual or company Dev Center account.  If the user is a member of a company or organization, the Dev Center admin needs to add the new users to the Dev Center company account before they can be added to an MS Collaborate engagement. If the company or organization does not yet exist in Dev Center, then a company representative needs to create a new company account in Dev Center and identify an organization admin who can add other users to the Dev Center company account.  
 
-See [Onboarding to Microsoft Collaborate](onboarding.md) for more information about getting set up to use MS Collaborate.
+See [Register with Microsoft Collaborate](registration.md) for more information about getting set up to use MS Collaborate.
 
 > [!NOTE]
 > MS Collaborate uses the same Dev Center account as other programs in Dev Center.  The company you choose is important if your company or organization will also enroll in Dev Center programs that require bank account or certificate information.  
