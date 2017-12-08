@@ -3,13 +3,13 @@ title: Working with Feedback work items
 description: Microsoft Collaborate Feedback items can be bugs, feature requests or any task associated with an engagement. Feedback forms can be customized based on each engagement. 
 author: mattwojo
 ms.author: mattwoj
-ms.date: 09/01/2017
+ms.date: 12/08/2017
 keywords: feedback, engagements, work items, bugs, feature requests, Collaborate permissions, Microsoft Connect, SysDev Bug, Dev Center bugs 
 ---
 
 # Feedback management
 
-The [Feedback Hub](https://support.microsoft.com/en-us/help/4021566/windows-10-send-feedback-to-microsoft-with-feedback-hub-app) is a common mechanism for submitting bugs, issue and suggestions to Microsoft.  For organiations that are collaborating with Microsoft, MS Collaborate provides additional functionality that enables organizations and users to collaborate on feedback work items. Feedback can be configured in different ways to enable the functionality needed to support each specific collaboration.  
+The [Feedback Hub](https://support.microsoft.com/en-us/help/4021566/windows-10-send-feedback-to-microsoft-with-feedback-hub-app) is a common mechanism for submitting bugs, issue and suggestions to Microsoft.  For organizations that are collaborating with Microsoft, MS Collaborate provides additional functionality that enables organizations and users to collaborate on feedback work items. Feedback can be configured in different ways to enable the functionality needed to support each specific collaboration.  
 
 The MS Collaborate Feedback "work items" are typically bugs and feature requests that you submit to Microsoft, but the work items can be any kind of data that can be shared in a form (such as surveys, incidents, etc). Each MS Collaborate Engagement Owner defines the feedback forms and how the data is synced to an internal Microsoft team engineering system (such as VSTS). Engagement Owners also configure routing to internal systems to ensure your feedback gets to the right feature teams.
 
