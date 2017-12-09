@@ -1,5 +1,11 @@
 {
+  "build_entry_point": "docs",
   "need_generate_pdf": true,
+  "need_generate_pdf_url_template": true,
+  "need_generate_intellisense": false,
+  "branch_target_mapping": {
+    "live": ["Publish", "PDF"]
+  },
   "docsets_to_publish": [
     {
       "docset_name": "MicrosoftCollaboratePortal",
@@ -18,10 +24,15 @@
       "template_folder": "_themes"
     }
   ],
+  "Targets": {
+    "Pdf": {
+      "template_folder": "_themes.pdf"
+    }
+  },
   "notification_subscribers": [],
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
-  "need_preview_pull_request": false,
+  "need_preview_pull_request": true,
   "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
@@ -30,13 +41,10 @@
       "branch": "master",
       "branch_mapping": {}
     }
-  ],
-  "branch_target_mapping": {
-    "live": [
-      "Publish",
-      "Pdf"
-    ]
-  },
-  "need_generate_pdf_url_template": true,
-  "need_generate_intellisense": false
+    {
+    "path_to_root": "_themes.pdf",
+    "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
+    "branch": "master"
+    }
+  ], 
 }
