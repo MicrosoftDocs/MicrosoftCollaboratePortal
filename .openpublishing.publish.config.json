@@ -1,4 +1,5 @@
 {
+  "need_generate_pdf": true,
   "docsets_to_publish": [
     {
       "docset_name": "MicrosoftCollaboratePortal",
@@ -30,8 +31,12 @@
       "branch_mapping": {}
     }
   ],
-  "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false,
-  "need_generate_pdf": false,
+  "branch_target_mapping": {
+    "live": [
+      "Publish",
+      "Pdf"
+    ]
+  },
+  "need_generate_pdf_url_template": true,
   "need_generate_intellisense": false
 }
