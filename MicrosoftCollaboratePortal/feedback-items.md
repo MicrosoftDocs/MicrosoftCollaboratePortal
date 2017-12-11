@@ -27,7 +27,7 @@ In the MS Collaborate portal, each feedback work item is associated with a singl
 
 ## Legal agreement for collaboration on feedback
 
-When you onboard to MS Collaborate, you accept the terms of use covering the feedback for the engagements you belong to (you can see the terms here:  [MS Collaborate Terms of Use Agreement](https://go.microsoft.com/fwlink/?linkid=849107).
+When you onboard to MS Collaborate, you accept the terms of use covering the feedback for the engagements you belong to. You can always review default terms here:  [MS Collaborate Terms of Use Agreement](https://go.microsoft.com/fwlink/?linkid=849107).
 
 In collaboration engagements, a legal agreement must exist between the parties in order for them to collaborate. You may be asked to accept a legal agreement or terms of use before you access the engagement for the first time.  As a member of the engagement, you will be able to see the other organizations participating in the collaboration. Users can assign the bug to a specific organization to indicate the “partner on point.”  However, users will only see the names of other users in their organization.  Other organizations will not have access to the users list.
 
