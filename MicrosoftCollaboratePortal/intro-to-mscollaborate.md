@@ -24,7 +24,7 @@ Sign-in using your Dev Center credentials, as either an individual or as a membe
 
 ## Programs and Engagements
 
-The MS Collaborate system uses the concept of **Programs** and **Engagements** as the core building blocks for the system. Programs provide structure and facilitate managing engagements. Each engagements has only one parent program and they inherit feedback forms, queries, and publishing templates defined at the program level.  Engagements can be customzed and they define sets of users who can interact with content and feedback associated with the engagement. Program Owners are Microsoft users who have permissions to:
+The MS Collaborate system uses the concept of **Programs** and **Engagements** as the core building blocks for the system. Programs provide structure and facilitate managing engagements. Engagements have only one parent program and they inherit feedback forms, queries, and publishing templates defined at the program level.  Engagements can be customized and they define sets of users who can interact with content and feedback associated with the engagement. Program Owners are Microsoft users who have permissions to:
 - define program metadata, including Program Landing pages
 - define default feedback forms
 - define publishing templates to facilitate publishing packages to multiple engagements
@@ -43,7 +43,7 @@ Engagements are similar to a virtual security group, allowing engagement owners 
 - collaboration between multiple named organizations (e.g., Microsoft team 1 users, company A users, and company B users), and
 - collaboration with users from any organizations.
 
-Each engagement is associated with either the default MS Collaborate Terms of Use [Agreement](https://go.microsoft.com/fwlink/?linkid=849107) or an appropriate custom legal agreement between the parties in the engagement. Partcipant users should visit the engagement page and see the description and agreement that applies to each specific enagement.  For more information about seeing the legal agreement for an engagement, see [How to view your Engagements](view-engagements.md).
+Each engagement is associated with either the default MS Collaborate [Terms of Use](https://go.microsoft.com/fwlink/?linkid=849107) or an appropriate custom legal agreement between the parties in the engagement. Participant users should visit the engagement page and see the description and agreement that applies to each specific engagement.  For more information about seeing the legal agreement for an engagement, see [How to view your Engagements](view-engagements.md).
 
 Engagement owners are Microsoft users who manage the engagement in MS Collaborate.  Users with Engagement Owner permissions can: 
 - create new collaborations in the system as a named engagement that will map content or feedback to users, 
@@ -59,9 +59,9 @@ For information, see [Managing organization users](managing-org-users.md).
 
 ### Content Sharing 
 
-Content sharing is accomplished by publishing "packages" of files (documents, binaries, builds, tools, etc.) in MS Collaborate.  Content Publisers can target all engagements within a program or specific engagements when publishing a package so it is available to the users of targeted engagements. When published, packages are associated with engagements, descriptions, and keywords to facilitate finding the the right packages easily.  Within MS Collaborate, participant users can search for and download files within a package.  
+Content sharing is accomplished by publishing "packages" of files (documents, binaries, builds, tools, etc.) in MS Collaborate.  Content Publishers can target all engagements within a program or specific engagements when publishing a package so it is available to the users of targeted engagements. When published, packages are associated with engagements, descriptions, and keywords to facilitate finding the right packages easily.  Within MS Collaborate, participant users can search for and download files within a package.  
 
-MS Collaborate also provides a Distribution Manager to facilitate downloading of large packages or multi-file pacakages.  The Distribution Manager is a ClickOnce client app that can be accessed from within the MS Collaborate Package Download pages.  
+MS Collaborate also provides a Distribution Manager to facilitate downloading of large or multi-file packages.  The Distribution Manager is a ClickOnce client app that can be accessed from within the MS Collaborate Package Download pages.  
 
 For more information, see [Working with Package Downloads](package-downloads.md).
 
