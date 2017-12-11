@@ -1,4 +1,4 @@
----
+-.--
 title: Working with Feedback work items
 description: Microsoft Collaborate Feedback items can be bugs, feature requests or any task associated with an engagement. Feedback forms can be customized based on each engagement. 
 author: mattwojo
@@ -11,7 +11,7 @@ keywords: feedback, engagements, work items, bugs, feature requests, Collaborate
 
 The [Feedback Hub](https://support.microsoft.com/en-us/help/4021566/windows-10-send-feedback-to-microsoft-with-feedback-hub-app) is a common mechanism for submitting bugs, issue and suggestions to Microsoft.  For organizations that are collaborating with Microsoft, MS Collaborate provides additional functionality that enables organizations and users to collaborate on feedback work items. Feedback can be configured in different ways to enable the functionality needed to support each specific collaboration.  
 
-The MS Collaborate Feedback "work items" are typically bugs and feature requests that you submit to Microsoft, but the work items can be any kind of data that can be shared in a form (such as surveys, incidents, etc). Each MS Collaborate Engagement Owner defines the feedback forms and how the data is synced to an internal Microsoft team engineering system (such as VSTS). Engagement Owners also configure routing to internal systems to ensure your feedback gets to the right feature teams.
+The MS Collaborate Feedback "work items" are typically bugs and feature requests that you submit to Microsoft, but the work items can be any kind of data that can be shared in a form (such as surveys, incidents, etc.). Each MS Collaborate Engagement Owner defines the feedback forms and how the data is synced to an internal Microsoft team engineering system (such as VSTS). Engagement Owners also configure routing to internal systems to ensure your feedback gets to the right feature teams.
 
 In addition to using the MS Collaborate portal, some co-engineering partner organizations choose to integrate the MS Collaborate system into their own internal engineering system behind their firewall. This enables the partner organization's engineers to work in their own system while sharing data with Microsoft engineers, but does require additional work by the organization to onboard to MS Collaborate.
 
@@ -39,7 +39,7 @@ Your engagement owner may decide to also include additional fields showing the s
 
 ## How to submit new feedback work items (e.g. bugs, feature requests, etc.)
 
-When you want to log a new bug or submit new feedback, you first select an engagement to associate with the feedback. Each work item must be associated with only one engagement because the engagement and work item type determines which form to use and which organization in Microsoft to sync the feedback to.
+When you want to log a new bug or submit new feedback, you first select an engagement to associate with the feedback. Each work item must be associated with only one engagement because the engagement and work item type determine which form to use and which organization in Microsoft to sync the feedback to.
 
 1. Choose one of the multiple ways to create new feedback:
 - From the **MS Collaborate Dashboard**, click “Add New” under the Feedback item.
@@ -54,7 +54,6 @@ When you want to log a new bug or submit new feedback, you first select an engag
 
 	![Submit feedback window](images/submit-feedback.png)
 
-> [!NOTE]
 > Fields on the **Submit Feedback** page are dependent on the Engagement selected. Engagements can customize the feedback forms as needed.
  
 4. Clicking **Save** will take you to the **Feedback List** view. Work items submitted will appear on this page. 
@@ -81,13 +80,13 @@ To view feedback from an **Engagement's Feedback** page:
 
 ## Assigning Feedback Work Items to others
 
-When you are working with feedback work items in MS Collaborate, you have the ability to assign a work item to specific users in your organization, to a Microsoft feature team or division, or to another organization who is part of a multi-party engagement.
+When you are working with feedback work items in MS Collaborate, you can assign a work item to specific users in your organization, to a Microsoft feature team or division, or to another organization who is part of a multi-party engagement.
 
 When you log into MS Collaborate, the system knows which organization you belong to.  This enables the feedback forms to populate user information for your organization.
 
 New work items that are available for your organization to triage and assign typically have Assigned to = Active.  Note: engagement owners can customize the forms, so the exact functionality depends on how your engagement owner configured the forms.
 
-When you select an people-based drop-down, you will see the name of the users in your organizations and of the other organization name(s).  Note that any named organizations can see the work items.
+When you select a people-based drop-down, you will see the name of the users in your organizations and of the other organization name(s).  Note that any named organizations can see the work items.
 
 A work item assigned to you means it is your responsible to take action on the work item.
 
