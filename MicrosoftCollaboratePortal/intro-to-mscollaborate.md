@@ -124,3 +124,5 @@ When migrating from MS Connect to MS Collaborate, it is important to understand 
 - Program and engagement names are visible to all users.  Engagements with defined organiations or companies clearly identify the organizations who have permissions for the engagement on the engagement page.  The legal agreement for the engagement is also available to all users who are members of the engagement.
 
 When migrating from the older system to the new Dev Center-based MS Collaborate, the biggest change is migrating user accounts to Dev Center.  Dev Center identifies a "Dev Center Admin" who is responsible for managing the Dev Center accounts for the company.  You will need to know who your admin is and whether your company uses Active Directory or not.  
+
+
