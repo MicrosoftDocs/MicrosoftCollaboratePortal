@@ -1,9 +1,9 @@
 ---
 title: Working with Package Downloads
 description: Microsoft Collaborate packages contain files available for download and are associated with Engagements. A Distribution Manager is available to perform multi-file or bulk downloads.
-author: mattwojo
-ms.author: mattwoj
-ms.date: 09/01/2017
+author: ikhapova
+ms.author: ikhapova
+ms.date: 12/12/2017
 keywords: packages, engagements, package downloads, downloads, builds, Collaborate permissions, Microsoft Connect
 ---
 

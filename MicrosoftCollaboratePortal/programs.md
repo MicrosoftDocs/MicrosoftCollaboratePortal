@@ -1,9 +1,9 @@
 ---
 title: Understanding Programs and Engagements
 description: MS Collaborate uses Programs and Engagements to define roles and permissions for users and to organize content and feedback. Each engagement belongs to a Program.   
-author: chriskleinke
-ms.author: Chriskl
-ms.date: 09/21/2017
+author: ikhapova
+ms.author: ikhapova
+ms.date: 12/12/2017
 keywords: MS Collaborate Programs, programs and engagements, program landing pages, security, permissions, Microsoft Connect, SysDev Bug, Dev Center bugs
 ---
 

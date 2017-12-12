@@ -2,9 +2,9 @@
 layout: LandingPage
 description: Documentation for the Microsoft Collaborate.
 title: Microsoft Collaborate documentation 
-author: mattwojo
-ms.author: mattwoj
-ms.date: 06/06/2017
+author: ikhapova
+ms.author: ikhapova
+ms.date: 12/12/2017
 keywords: Microsoft Collaborate documentation, MS Collaborate, Microsoft Collaborate portal, Microsoft Connect, SysDev portal, Dev Center bugs
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: Register with MS Collaborate
 description: MS Collaborate utilizes the Developer Center Dashboard requiring an individual Microsoft Account (MSA) or an organization with Azure Active Directory set up.
-author: mattwojo
-ms.author: mattwoj
-ms.date: 09/01/2017
+author: ikhapova
+ms.author: ikhapova
+ms.date: 12/12/2017
 keywords: partner access, permissions, register, registration, onboarding, partner feedback, build downloads, downloading specs, bugs, Microsoft Connect, SysDev Bug, Dev Center bugs
 ---
 

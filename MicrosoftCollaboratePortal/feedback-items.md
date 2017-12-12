@@ -1,8 +1,8 @@
 ---
 title: Working with Feedback work items
 description: Microsoft Collaborate Feedback items can be bugs, feature requests or any task associated with an engagement. Feedback forms can be customized based on each engagement. 
-author: mattwojo
-ms.author: mattwoj
+author: ikhapova
+ms.author: ikhapova
 ms.date: 12/12/2017
 keywords: feedback, engagements, work items, bugs, feature requests, Collaborate permissions, Microsoft Connect, SysDev Bug, Dev Center bugs 
 ---

@@ -1,15 +1,15 @@
 ---
 title: How to customize your MS Collaborate experience
 description: In MS Collaborate, you have the ability to customize your experience by configuring your dashboard, determining how you would like to receiving notifications, and creating your own queries. 
-author: chriskleinke
-ms.author: chriskl
-ms.date: 09/21/2017
+author: ikhapova
+ms.author: ikhapova
+ms.date: 12/12/2017
 keywords: MS Collaborate customization, configuring notifications, dashboard customization
 ---
 
 # How to customize your Microsoft Collaborate experience
 
-In MS collaborate, you can decide what content to have on your MS Collaborate dashboard, how you want to receive notifications from MS Collaborate, and how to create and share saved Feedback queries for an engagement.
+In Microsoft (MS) Collaborate, you can decide what content to have on your MS Collaborate dashboard, how you want to receive notifications from MS Collaborate, and how to create and share saved Feedback queries for an engagement.
 
 ## How to work with saved Feedback queries
 
