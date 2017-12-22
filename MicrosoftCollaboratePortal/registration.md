@@ -52,11 +52,14 @@ If you received an email invitation to join Dev Center account, you need to acce
 
 Microsoft now is limiting usage of personal Microsoft accounts linked to a work/school email address, when the email domain is configured in Azure AD. If users have configured their work accounts as sign-in names for Microsoft account MSA then they would be prevented from accessing Collaborate Portal. In this scenario, users will have to rename their personal Microsoft account, by following [these steps](http://windows.microsoft.com/en-US/Windows/rename-personal-microsoft-account/):
 
-1. Sign in to the Your Info page of your Microsoft account.
-2. Select Manage how you sign in to Microsoft.
-3. Look under the Account alias section.
+1. Sign in to the [Your Info page](https://account.microsoft.com/profile) of your Microsoft account.
+2. Select **Manage how you sign in to Microsoft**.
+3. Look under the **Account alias** section.
   * If you already have a personal email address listed there, you can skip this step.
-  * If your work or school email address is the only one listed, enter your personal email address, or get a new one from Microsoft, and select Add email or Add phone number.
- 4. If your personal email address does not have (primary alias) listed next to it, select Make primary to set it as your primary alias.
- 
- Once completed proceed with accepting the Collaborate invitations that are send from Microsoft Invitations invites@microsoft.com alias.  More information about blocking the ability to create a new personal Microsoft using a work/school email address is available in this [article](https://cloudblogs.microsoft.com/enterprisemobility/2016/09/15/cleaning-up-the-azure-ad-and-microsoft-account-overlap/).
+  * If your work or school email address is the only one listed, enter your personal email address, or get a new one from Microsoft, and select **Add email** or **Add phone number**.
+ 4. If your personal email address does not have **(primary alias)** listed next to it, select **Make primary** to set it as your primary alias.
+ 5. Select **Remove** next to your work email address to remove it from your account.
+
+Going forward, you’ll sign in to your personal Microsoft account with your personal email address. You might need to sign in again to some apps and Windows devices.
+
+Once completed proceed with accepting the Collaborate invitations that are send from [Microsoft Invitations](mailto:invites@microsoft.com) alias.  More information about blocking the ability to create a new personal Microsoft using a work/school email address is available in this [article](https://cloudblogs.microsoft.com/enterprisemobility/2016/09/15/cleaning-up-the-azure-ad-and-microsoft-account-overlap/).
