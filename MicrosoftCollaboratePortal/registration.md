@@ -48,7 +48,9 @@ There are several issues that can cause difficulty signing-in.
 ### Invitations
 If you received an email invitation to join Dev Center account, you need to accept the invitation before you can access Collaborate portal. The information below is intended to give you enough info to unblock yourself.
 
-> You have been invited to access ... application as ... . However, we are not able to create this work or school account because ... is a domain that is federated with your on-premises AD. Please contact your admin to ensure you are properly configured in your on-premises AD and you can re-attempt to accept this invite.
+> You have been invited to access ... application as ... .<br> 
+> However, we are not able to create this work or school account because ... is a domain that is federated with your on-premises AD.<br> 
+> Please contact your admin to ensure you are properly configured in your on-premises AD and you can re-attempt to accept this invite.<br>
 
 Microsoft now is limiting usage of personal Microsoft accounts linked to a work/school email address, when the email domain is configured in Azure AD. If users have configured their work accounts as sign-in names for Microsoft account MSA then they would be prevented from accessing Collaborate Portal. In this scenario, users will have to rename their personal Microsoft account, by following [these steps](http://windows.microsoft.com/en-US/Windows/rename-personal-microsoft-account/):
 
