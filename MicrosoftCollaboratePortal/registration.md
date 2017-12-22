@@ -42,7 +42,7 @@ If your organization uses corporate accounts to log onto Dev Center, you will ne
 >Dev Center leverages Azure Active Directory for multi-user management and roles assignment. If your organization already uses Office 365 or other business services from Microsoft, you already have AAD. Otherwise, you can create a new AAD tenant from within Dev Center at no additional charge.
 
 
-## Troubleshoot registration issues
+## Troubleshooting registration issues
 
 There are several issues that can cause difficulty signing-in.
 ### Invitations
