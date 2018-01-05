@@ -10,10 +10,8 @@ keywords: Microsoft Connect, registration
 You have reached this page because you’ve tried to access the Microsoft Connect portal. After nearly 10 years, Microsoft Connect has been retired in favor of new tools and services that will continue to allow you to engage with Microsoft. If you are a member of an active Connect program, your program has either closed or moved to one of these tools or services. Identify your program below to get status and next steps.
 
 
-### Windows EEAP
-**Connect Site ID:** 1304
-
-**Status:** The EEAP program is now hosted on Microsoft Collaborate. By now, all companies targeted for participation in the EEAP for 2018 have been notified of the move to Collaborate and given instruction on how to register. If you do not have access to Collaborate and believe you should, please contact your Microsoft engagement owner.
+### Windows EEAP (Connect Site ID 1304)
+The EEAP program is now hosted on Microsoft Collaborate. By now, all companies targeted for participation in the EEAP for 2018 have been notified of the move to Collaborate and given instruction on how to register. If you do not have access to Collaborate and believe you should, please contact your Microsoft engagement owner.
 
 
 ### Windows Client and Server TAP
