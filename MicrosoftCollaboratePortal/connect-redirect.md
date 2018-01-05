@@ -69,3 +69,21 @@ The Microsoft Office program is now hosted on [Microsoft Collaborate](https://de
 
 ## Azure Active Directory Connection (Connect Site ID 1164)
 The Azure Active Directory Connection program is now hosted on [Microsoft Collaborate](https://developer.microsoft.com/en-us/dashboard/collaborate/). If you have any questions about your program membership or access to Collaborate, please contact the program administrators.
+
+## Microsoft Alumni Network (Connect Site ID 1379)
+Please contact the Microsoft Alumni Network program administrators for the status of the program.
+
+## WME Conformance Testing Connection (Connect Site ID 605)
+Please contact wmecert@microsoft.com for the status of the program.
+
+## High Performance Computing Team (Connect Site ID 12)
+Please contact the High Performance Computing Team program administrators for the status of the program.
+
+## DevDiv / Visual Studio and .NET Framework (Connect Site ID 210)
+Please contact vsconn@microsoft.com for the status of the program.
+
+## Services Connection (Connect Site ID 1067)
+Please contact scrmteam@microsoft.com for the status of the program.
+
+## Surface (Connect Site ID 1396)
+Please contact USSurface@microsoft.com for the status of the program.
