@@ -13,16 +13,16 @@ You have reached this page because you’ve tried to access the Microsoft Connec
 
 ## Programs Moving to [Microsoft Collaborate](https://developer.microsoft.com/en-us/dashboard/collaborate/)
 
-### Windows EEAP (Connect Site ID 1304)
+#### Windows EEAP (Connect Site ID 1304)
 The EEAP program is now hosted on [Microsoft Collaborate](https://developer.microsoft.com/en-us/dashboard/collaborate/). By now, all companies targeted for participation in the EEAP for 2018 have been notified of the move to Collaborate and given instruction on how to register. If you do not have access to Collaborate and believe you should, please contact your Microsoft engagement owner.
 
-### Windows Client and Server TAP (Connect Site ID 997)
+#### Windows Client and Server TAP (Connect Site ID 997)
 The Windows Client and Server TAP programs are now hosted on [Microsoft Collaborate](https://developer.microsoft.com/en-us/dashboard/collaborate/). Contact osnext@microsoft.com if you have not registered.
 
-### Security Update Validation Program - SUVP (Connect Site ID: 6)
+#### Security Update Validation Program - SUVP (Connect Site ID: 6)
 The Security Update Validation Program (SUVP) is now hosted on [Microsoft Collaborate](https://developer.microsoft.com/en-us/dashboard/collaborate/). If you have any questions about your program membership or access to Collaborate, please contact the SUVP program administrators.
 
-### Microsoft Custom Support (Connect Site ID 83)
+#### Microsoft Custom Support (Connect Site ID 83)
 Microsoft Custom Support is now hosted on [Microsoft Collaborate](https://developer.microsoft.com/en-us/dashboard/collaborate/). All users that were on Connect should have received instructions on how to access the program. If you have any questions or issues, please start with your TAM.
 
 ### Microsoft Dynamics 365 (Connect Site ID 687)
@@ -46,7 +46,7 @@ The StorSimple Partners program is now hosted on [Microsoft Collaborate](https:/
 ### Microsoft Learning Experiences - SME Program / LEX Content development (Connect Site ID 862)
 The LEX Content Development program is now hosted on [Microsoft Collaborate](https://developer.microsoft.com/en-us/dashboard/collaborate/). If you have any questions about your program membership or access to Collaborate, please contact mslcd@microsoft.com.
 
-## Office PIPC (Connect Site ID 846)
+### Office PIPC (Connect Site ID 846)
 The Office PIPC program is now hosted on [Microsoft Collaborate](https://developer.microsoft.com/en-us/dashboard/collaborate/). If you have any questions about your program membership or access to Collaborate, please contact the program administrators.
 
 ### Fast (Connect Site ID 898)
