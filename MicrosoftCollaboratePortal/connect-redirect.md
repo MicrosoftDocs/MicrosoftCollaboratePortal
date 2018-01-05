@@ -7,6 +7,8 @@ ms.date: 01/03/2018
 keywords: Microsoft Connect, registration
 ---
 
+# Microsoft Connect Has Been Retired
+
 You have reached this page because you’ve tried to access the Microsoft Connect portal. After nearly 10 years, Microsoft Connect has been retired in favor of new tools and services that will continue to allow you to engage with Microsoft. If you are a member of an active Connect program, your program has either closed or moved to one of these tools or services. Identify your program below to get status and next steps.
 
 
