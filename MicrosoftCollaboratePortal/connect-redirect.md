@@ -37,6 +37,35 @@ The Designed for XBOX program is now hosted on Microsoft Collaborate. If you hav
 ## Designed for Surface (Connect Site ID 1342)
 The Designed for Surface program is now hosted on Microsoft Collaborate. If you have any questions about your program membership or access to Collaborate, please contact the Designed for Surface program administrators.
 
+## Skype Business Services (Connect Site ID 355)
+The Skype Business Services program is now hosted on [Microsoft Collaborate](https://developer.microsoft.com/en-us/dashboard/collaborate/). If you have any questions about your program membership or access to Collaborate, please contact the program administrators.
+
 ## Microsoft Auto (Connect Site ID 383)
 The Microsoft Auto program is now hosted on [Microsoft Collaborate](https://developer.microsoft.com/en-us/dashboard/collaborate/). If you have any questions about your program membership or access to Collaborate, please contact msftauto@microsoft.com.
 
+## StorSimple Partners (Connect Site ID 1328)
+The StorSimple Partners program is now hosted on [Microsoft Collaborate](https://developer.microsoft.com/en-us/dashboard/collaborate/). If you have any questions about your program membership or access to Collaborate, please contact the program administrators.
+
+## Microsoft Learning Experiences - SME Program / LEX Content development (Connect Site ID 862)
+The LEX Content Development program is now hosted on [Microsoft Collaborate](https://developer.microsoft.com/en-us/dashboard/collaborate/). If you have any questions about your program membership or access to Collaborate, please contact mslcd@microsoft.com.
+
+## Office PIPC (Connect Site ID 846)
+The Office PIPC program is now hosted on [Microsoft Collaborate](https://developer.microsoft.com/en-us/dashboard/collaborate/). If you have any questions about your program membership or access to Collaborate, please contact the program administrators.
+
+## Fast (Connect Site ID 898)
+The Fast program is now hosted on [Microsoft Collaborate](https://developer.microsoft.com/en-us/dashboard/collaborate/). If you have any questions about your program membership or access to Collaborate, please contact fastcsrv@microsoft.com.
+
+## WARP (Connect Site ID 1388)
+The WARP program is now hosted on [Microsoft Collaborate](https://developer.microsoft.com/en-us/dashboard/collaborate/). If you have any questions about your program membership or access to Collaborate, please contact warphelp@microsoft.com.
+
+## eWARP (Connect Site ID 1398)
+The eWARP program is now hosted on [Microsoft Collaborate](https://developer.microsoft.com/en-us/dashboard/collaborate/). If you have any questions about your program membership or access to Collaborate, please contact warphelp@microsoft.com.
+
+## Enterprise Client Management - Intune (Connect Site ID 892)
+The Enterprise Client Management - Intune program is now hosted on [Microsoft Collaborate](https://developer.microsoft.com/en-us/dashboard/collaborate/). If you have any questions about your program membership or access to Collaborate, please contact intunetap@microsoft.com.
+
+## Microsoft Office (Connect Site ID 160)
+The Microsoft Office program is now hosted on [Microsoft Collaborate](https://developer.microsoft.com/en-us/dashboard/collaborate/). If you have any questions about your program membership or access to Collaborate, please contact officeconnectteam@microsoft.com.
+
+## Azure Active Directory Connection (Connect Site ID 1164)
+The Azure Active Directory Connection program is now hosted on [Microsoft Collaborate](https://developer.microsoft.com/en-us/dashboard/collaborate/). If you have any questions about your program membership or access to Collaborate, please contact the program administrators.
