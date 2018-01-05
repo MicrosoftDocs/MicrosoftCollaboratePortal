@@ -20,7 +20,7 @@ The EEAP program is now hosted on [Microsoft Collaborate](https://aka.ms/collabo
 The Windows Client and Server TAP programs are now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). Contact osnext@microsoft.com if you have not registered.
 
 #### Security Update Validation Program - SUVP (Connect Site ID: 6)
-The Security Update Validation Program (SUVP) is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact the SUVP program administrators.
+The Security Update Validation Program (SUVP) is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact SUVProg@microsoft.com.
 
 #### Microsoft Custom Support (Connect Site ID 83)
 Microsoft Custom Support is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). All users that were on Connect should have received instructions on how to access the program. If you have any questions or issues, please start with your TAM.
