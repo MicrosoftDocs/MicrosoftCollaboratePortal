@@ -56,7 +56,7 @@ The Fast program is now hosted on [Microsoft Collaborate](https://aka.ms/collabo
 The WARP program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact warphelp@microsoft.com.
 
 #### eWARP (Connect Site ID 1398)
-The eWARP program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact warphelp@microsoft.com.
+The eWARP program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact msews@microsoft.com.
 
 #### Enterprise Client Management - Intune (Connect Site ID 892)
 The Enterprise Client Management - Intune program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact intunetap@microsoft.com.
