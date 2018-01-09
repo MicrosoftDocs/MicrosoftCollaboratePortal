@@ -26,7 +26,7 @@ The Security Update Validation Program (SUVP) is now hosted on [Microsoft Collab
 Microsoft Custom Support is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). All users that were on Connect should have received instructions on how to access the program. If you have any questions or issues, please start with your TAM.
 
 #### Microsoft Dynamics 365 (Connect Site ID 687)
-The Dynamics 365 Finance & Operations, Business Edition team now uses [Microsoft Collaborate](https://aka.ms/collaborate) for early engagement programs.  Please email dyn365bep@microsoft and request for information on how to get on-boarded to the Microsoft Collaborate tool to participate in the Ready! programs.
+The Dynamics 365 Finance & Operations, Business Edition team now uses [Microsoft Collaborate](https://aka.ms/collaborate) for early engagement programs.  Please email dyn365bep@microsoft.com and request for information on how to get on-boarded to the Microsoft Collaborate tool to participate in the Ready! programs.
 
 #### Designed for XBOX (Connect Site ID 1314)
 The Designed for XBOX program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact the Designed for XBOX program administrators.
@@ -56,10 +56,7 @@ The Fast program is now hosted on [Microsoft Collaborate](https://aka.ms/collabo
 The WARP program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact warphelp@microsoft.com.
 
 #### eWARP (Connect Site ID 1398)
-The eWARP program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact warphelp@microsoft.com.
-
-#### Enterprise Client Management - Intune (Connect Site ID 892)
-The Enterprise Client Management - Intune program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact intunetap@microsoft.com.
+The eWARP program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact msews@microsoft.com.
 
 #### Microsoft Office (Connect Site ID 160)
 The Microsoft Office program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact officeconnectteam@microsoft.com.
@@ -71,6 +68,14 @@ The Azure Active Directory Connection program is now hosted on [Microsoft Collab
 
 #### SQL Server (Connect Site ID 68)
 The community feedback feature of the Microsoft Connect site for SQL Server will be replicated in [UserVoice](https://feedback.azure.com/forums/908035-sql-server) for the convenience of the community. We have captured all current feedback for SQL Server that was entered into Microsoft Connect and will transfer as much of the feedback as possible into the new forum.  This will happen over time and will help customers find relevant and active matching suggestions.  Any further feedback entered in Microsoft Connect may not be transferred to the new forum – use the new [forum](https://feedback.azure.com/forums/908035-sql-server) to provide new feedback to SQL Server.
+
+#### System Center Configuration Manager and Microsoft Intune (Connect Site ID 892)
+- If you have a feature request for Configuration Manager or Intune, UserVoice is still the best place for feature requests: https://configurationmanager.uservoice.com and http://microsoftintune.uservoice.com. 
+- If you want to file a bug against Configuration Manager, please use the Windows Feedback Hub, which is built into the Windows 10 operating system. For more information, see https://aka.ms/configmgrfeedback. You can track the status of new bugs filed in Feedback Hub, but not bugs previously filed under Connect; all bugs filed under Connect are still accessible by the product team. 
+- If you think you’ve found a bug with Intune, please open a support case. For more information, see https://aka.ms/intunesupport.
+- If you are part of the Customer Connection Program and are trying to access content from the Configuration Manager or Intune Advisors calls, please contact your Customer Connection Program contact to get access to the new TechCommunity. 
+- If you are a Partner, please contact your Partner contact. 
+- If you are trying to get access to content for the Technical Adoption Program (TAP) please contact your TAP buddy.   
 
 #### Microsoft 365 powered device/Accelerate (Connect Site ID 1031)
 Beginning January 1, 2018 the current Microsoft 365 powered device Connect website will be decommissioned and replaced.  The updated website and downloadable materials will be available at https://aka.ms/PoweredDevice-FTprograms. 
