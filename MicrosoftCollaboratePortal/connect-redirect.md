@@ -67,7 +67,8 @@ The Azure Active Directory Connection program is now hosted on [Microsoft Collab
 ## Programs Moving to Other Tools
 
 #### SQL Server (Connect Site ID 68)
-The community feedback feature of the Microsoft Connect site for SQL Server will be replicated in [UserVoice](https://feedback.azure.com/forums/908035-sql-server) for the convenience of the community. We have captured all current feedback for SQL Server that was entered into Microsoft Connect and will transfer as much of the feedback as possible into the new forum.  This will happen over time and will help customers find relevant and active matching suggestions.  Any further feedback entered in Microsoft Connect may not be transferred to the new forum – use the new [forum](https://feedback.azure.com/forums/908035-sql-server) to provide new feedback to SQL Server.
+
+Effective January 1, 2018, the community feedback feature of the Microsoft Connect site for SQL Server has been replicated in [UserVoice](https://feedback.azure.com/forums/908035-sql-server) for the convenience of the community. We have captured all current/active public feedback for SQL Server that was entered into Microsoft Connect and transferred it into the new forum to help customers find relevant and active matching suggestions.
 
 #### System Center Configuration Manager and Microsoft Intune (Connect Site ID 892)
 - If you have a feature request for Configuration Manager or Intune, UserVoice is still the best place for feature requests: https://configurationmanager.uservoice.com and http://microsoftintune.uservoice.com. 
