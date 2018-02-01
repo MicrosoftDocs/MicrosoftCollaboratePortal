@@ -27,14 +27,6 @@ Microsoft Custom Support is now hosted on [Microsoft Collaborate](https://aka.ms
 #### Microsoft Dynamics 365 (Connect Site ID 687)
 The Dynamics 365 Finance & Operations, Business Edition team now uses [Microsoft Collaborate](https://aka.ms/collaborate) for early engagement programs.  Please email dyn365bep@microsoft.com and request for information on how to get on-boarded to the Microsoft Collaborate tool to participate in the Ready! programs.
 
-#### Dynamics AX Feedback (Connect Site ID 13211)
-Dynamics 365 for Finance and Operations, Enterprise Edition team has made the downloads for the latest versions of Dynamics 365 for Finance and Operations available via the following links:
-- Dynamics 365 for Finance and Operations, Enterprise edition 7.3 with Platform update 12:  https://aka.ms/finandops73pu12
-- Dynamics 365 for Finance and Operations, Enterprise edition July 2017 (7.2) with Platform update 12:
-https://aka.ms/finandops72pu12
-
-For any additional questions or queries regarding Preview programs or availability or prior version download VHD’s please contact:  daxcf@microsoft.com
-
 #### Designed for XBOX (Connect Site ID 1314)
 The Designed for XBOX program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact the Designed for XBOX program administrators.
 
@@ -84,6 +76,14 @@ Effective January 1, 2018, the community feedback feature of the Microsoft Conne
 - If you are part of the Customer Connection Program and are trying to access content from the Configuration Manager or Intune Advisors calls, please contact your Customer Connection Program contact to get access to the new TechCommunity. 
 - If you are a Partner, please contact your Partner contact. 
 - If you are trying to get access to content for the Technical Adoption Program (TAP) please contact your TAP buddy.   
+
+#### Dynamics AX Feedback (Connect Site ID 13211)
+Dynamics 365 for Finance and Operations, Enterprise Edition team has made the downloads for the latest versions of Dynamics 365 for Finance and Operations available via the following links:
+- Dynamics 365 for Finance and Operations, Enterprise edition 7.3 with Platform update 12:  https://aka.ms/finandops73pu12
+- Dynamics 365 for Finance and Operations, Enterprise edition July 2017 (7.2) with Platform update 12:
+https://aka.ms/finandops72pu12
+
+For any additional questions or queries regarding Preview programs or availability or prior version download VHD’s please contact:  daxcf@microsoft.com
 
 #### Microsoft 365 powered device/Accelerate (Connect Site ID 1031)
 Beginning January 1, 2018 the current Microsoft 365 powered device Connect website will be decommissioned and replaced.  The updated website and downloadable materials will be available at https://aka.ms/PoweredDevice-FTprograms. 
