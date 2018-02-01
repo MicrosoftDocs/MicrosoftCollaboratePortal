@@ -8,7 +8,6 @@ keywords: Microsoft Connect, registration
 ---
 
 # Microsoft Connect Has Been Retired
-
 You have reached this page because you’ve tried to access the Microsoft Connect portal. After nearly 10 years, Microsoft Connect has been retired in favor of new tools and services that will continue to allow you to engage with Microsoft. If you are a member of an active Connect program, your program has either closed or moved to one of these tools or services. Identify your program below to get status and next steps.
 
 ## Programs Moving to [Microsoft Collaborate](https://aka.ms/collaborate)
@@ -27,6 +26,13 @@ Microsoft Custom Support is now hosted on [Microsoft Collaborate](https://aka.ms
 
 #### Microsoft Dynamics 365 (Connect Site ID 687)
 The Dynamics 365 Finance & Operations, Business Edition team now uses [Microsoft Collaborate](https://aka.ms/collaborate) for early engagement programs.  Please email dyn365bep@microsoft.com and request for information on how to get on-boarded to the Microsoft Collaborate tool to participate in the Ready! programs.
+
+#### Dynamics AX Feedback (Connect Site ID 13211)
+Dynamics 365 for Finance and Operations, Enterprise Edition team has made the downloads for the latest versions of Dynamics 365 for Finance and Operations available via the following links:
+- Dynamics 365 for Finance and Operations, Enterprise edition 7.3 with Platform update 12:  https://aka.ms/finandops73pu12
+- Dynamics 365 for Finance and Operations, Enterprise edition July 2017 (7.2) with Platform update 12:
+https://aka.ms/finandops72pu12
+For any additional questions or queries regarding Preview programs or availability or prior version download VHD’s please contact:  daxcf@microsoft.com
 
 #### Designed for XBOX (Connect Site ID 1314)
 The Designed for XBOX program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact the Designed for XBOX program administrators.
