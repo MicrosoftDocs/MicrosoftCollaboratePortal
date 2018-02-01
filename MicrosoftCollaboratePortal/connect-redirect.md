@@ -32,6 +32,7 @@ Dynamics 365 for Finance and Operations, Enterprise Edition team has made the do
 - Dynamics 365 for Finance and Operations, Enterprise edition 7.3 with Platform update 12:  https://aka.ms/finandops73pu12
 - Dynamics 365 for Finance and Operations, Enterprise edition July 2017 (7.2) with Platform update 12:
 https://aka.ms/finandops72pu12
+
 For any additional questions or queries regarding Preview programs or availability or prior version download VHD’s please contact:  daxcf@microsoft.com
 
 #### Designed for XBOX (Connect Site ID 1314)
