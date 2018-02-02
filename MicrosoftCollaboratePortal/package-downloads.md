@@ -25,8 +25,7 @@ Content Publisher is a permissions role in MS Collaborate associated with engage
 
 On the **Packages** page, you can filter and search for packages based on multiple criteria, including:
 - words in the name, 
-- the Program or Engagement that the package belongs to, 
-- when the package was published, 
+- the Program or Engagement that the package belongs to, - when the package was published, 
 - the type of files in the package, and
 - by using keywords.
 
@@ -84,7 +83,7 @@ You will see the files that are **Downloading Now** as well as packages that are
 
 You can also navigate to **Check for Downloads Now** from the Menu in Distribution Manager.
 
-	![Check for Downloads Now menu item on the Packages page](images/check-for-downloads.png)
+   ![Check for Downloads Now menu item on the Packages page](images/check-for-downloads.png)
 
 > [!NOTE]
 > - You can **pause downloading** and then reactivate to continue downloading.
@@ -100,5 +99,5 @@ In Distribution Manager, you can access **Settings** from the menu near your log
 
 It is recommended that you only changes these if you are experiencing problems with downloading that might be due to a slow or unreliable connection.
 
-![Customize Distribution Manager Settings](images/Distribution-Mgr-Settings.png)
+![Customize Distribution Manager Settings](images/Distribution-Mgr-Settings.PNG)
 
