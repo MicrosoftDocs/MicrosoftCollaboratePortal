@@ -2,7 +2,7 @@
 
 This documentation relates to the Microsoft Collaborate portal 
 
-View the live documentation site here: https://docs.microsoft.com/collaborate/ (still in-progress -- not yet live)
+View the live documentation site here: https://docs.microsoft.com/collaborate/
 
 Internal-only review site: https://review.docs.microsoft.com/en-us/collaborate/?branch=master
 
