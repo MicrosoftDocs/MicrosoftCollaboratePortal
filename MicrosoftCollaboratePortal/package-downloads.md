@@ -41,7 +41,6 @@ The Distribution Manager has basic search/sort capabilities, but the portal prov
 2. Search or use **Advanced Filters** to find the package you would like to download. The filters are cumulative to help narrow the search. Use the "Clear Filters" button to remove all filters.
 	- Click the **Advanced Filters** icon to toggle display of the Advanced Filter" fields.
 	![Advanced Filters icon](images/package-advanced-filter.png)
-
 3. When you locate the package you want to download, click on it to open the package. You will find all of the details about the package and a list of files available to download.
 	![Package details window](images/package-details.png)
 
@@ -58,7 +57,7 @@ In addition to downloading multiple files at once, you can queue many packages t
 ### How to install the Distribution Manager
 
 1. From the **Packages** page, click the **Distribution Manager** button at the top of the page. 
-	![Distribution Manager install on the Packages page](images/distribution-mgr-Launch.png)
+	![Distribution Manager install on the Packages page](images/Distribution-Mgr-Launch.PNG)
 
 2. Click **Open** on the message and then click **Install** in the Application Install dialog box. 
 
@@ -84,7 +83,7 @@ You will see the files that are **Downloading Now** as well as packages that are
 
 You can also navigate to **Check for Downloads Now** from the Menu in Distribution Manager.
 
-	![Check for Downloads Now menu item on the Packages page](images/check-for-downloads.png)
+   ![Check for Downloads Now menu item on the Packages page](images/check-for-downloads.png)
 
 > [!NOTE]
 > - You can **pause downloading** and then reactivate to continue downloading.
@@ -100,5 +99,5 @@ In Distribution Manager, you can access **Settings** from the menu near your log
 
 It is recommended that you only changes these if you are experiencing problems with downloading that might be due to a slow or unreliable connection.
 
-![Customize Distribution Manager Settings](images/Distribution-Mgr-Settings.png)
+![Customize Distribution Manager Settings](images/Distribution-Mgr-Settings.PNG)
 
