@@ -34,10 +34,10 @@ After going to Dev Center/Collaborate and entering your username and password, y
     *Please contact your admin to ensure you are properly configured in your on-premises AD and you can re-attempt to accept this invite.*<br>
 
 #### Why this is happening
-There is a good chance this is happening because your corporate email address is linked to a personal MSA (LiveID), which was a common practice with Microsoft Connect accounts. This practice is no longer supported by Microsoft and could lead to various issues. Please see [this blog post](https://cloudblogs.microsoft.com/enterprisemobility/2016/09/15/cleaning-up-the-azure-ad-and-microsoft-account-overlap/) for more details.
+There is a good chance this is happening because your corporate email address is linked to a personal MSA/Live ID (work and personal accounts share the same name), which was a common practice with Microsoft Connect accounts. This practice is no longer supported by Microsoft and could lead to various issues. Please see [this blog post](https://cloudblogs.microsoft.com/enterprisemobility/2016/09/15/cleaning-up-the-azure-ad-and-microsoft-account-overlap/) for more details.
 
 #### Fixes/Workarounds
-
+The workaround is to rename your personal MSA account. See [this article](https://support.microsoft.com/en-us/help/11545/microsoft-account-rename-your-personal-account) for the detailed steps.
 
 
 
