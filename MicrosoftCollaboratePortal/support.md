@@ -29,7 +29,7 @@ After going to Dev Center/Collaborate and entering your username and password, y
 - you get an error that says "Hmm, we can't reach this page."
 - you accept an invitation email from Dev Center and you get this message:
 
-   You have been invited to access ... application as ... .<br> 
+   *You have been invited to access ... application as ... .*<br> 
    However, we are not able to create this work or school account because ... is a domain that is federated with your on-premises AD.<br> 
    Please contact your admin to ensure you are properly configured in your on-premises AD and you can re-attempt to accept this invite.<br>
 
