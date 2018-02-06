@@ -25,13 +25,13 @@ The Security Update Validation Program (SUVP) is now hosted on [Microsoft Collab
 Microsoft Custom Support is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). All users that were on Connect should have received instructions on how to access the program. If you have any questions or issues, please start with your TAM.
 
 #### Microsoft Dynamics 365 (Connect Site ID 687)
-The Dynamics 365 Finance & Operations, Business Edition team now uses [Microsoft Collaborate](https://aka.ms/collaborate) for early engagement programs.  Please email dyn365bep@microsoft.com and request for information on how to get on-boarded to the Microsoft Collaborate tool to participate in the Ready! programs.
+The Dynamics 365 Finance & Operations, Business Edition team now uses [Microsoft Collaborate](https://aka.ms/collaborate) for early engagement programs.  Please email dyn365bep@microsoft.com and request for information on how to get on-boarded to the Microsoft Collaborate tool to participate in the Ready! programs. NOTE:  Please see the “Programs Moving to Other Tools” section below for “Dynamics AX Feedback (Connect Site ID 13211)” covering “Dynamics 365 for Finance and Operations, Enterprise Edition team content and updates.”
 
 #### Designed for XBOX (Connect Site ID 1314)
-The Designed for XBOX program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact the Designed for XBOX program administrators.
+The Designed for XBOX program is now hosted on Microsoft Collaborate (http://aka.ms/strata-d4xbox). If you have any questions about your program membership or access to Collaborate, please contact D4XBizDev@microsoft.com.
 
 #### Designed for Surface (Connect Site ID 1342)
-The Designed for Surface program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact the Designed for Surface program administrators.
+The Designed for Surface program is now hosted on Microsoft Collaborate (http://aka.ms/strata-dfs). If you have any questions about your program membership or access to Collaborate, please contact DFSBizDev@microsoft.com.
 
 #### Skype Business Services (Connect Site ID 355)
 The Skype Business Services program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact the program administrators.
