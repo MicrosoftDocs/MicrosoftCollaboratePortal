@@ -101,3 +101,15 @@ It is recommended that you only changes these if you are experiencing problems w
 
 ![Customize Distribution Manager Settings](images/Distribution-Mgr-Settings.PNG)
 
+### Troubleshooting
+
+You may receive an error message when you use Distribution Manager. This article contains information to help you troubleshoot these  error messages.
+
+#### Cannot Install Application
+
+> Cannot continue.  The application is improperly formatted. <br>
+> Contact the application vendor for assistance. <br>
+
+This error indicates that [Microsoft .NET Framework 4.6.1 (x86/x64)](https://www.microsoft.com/en-us/download/details.aspx?id=49981)  required by Distribution Manager is not installed on your computer. All ClickOnce applications require that the correct version of the .NET Framework is installed before they can be run.
+
+Click on the link to install [Microsoft .NET Framework 4.6.1 (x86/x64)](https://www.microsoft.com/en-us/download/details.aspx?id=49981).
