@@ -43,6 +43,7 @@ The Skype Business Services program is now hosted on [Microsoft Collaborate](htt
 The Microsoft Auto program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact msftauto@microsoft.com.
 
 #### StorSimple Partners (Connect Site ID 1328)
+
 The StorSimple Partners program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact the program administrators.
 
 #### Microsoft Learning Experiences - SME Program / LEX Content development (Connect Site ID 862)
@@ -102,6 +103,7 @@ Please contact the High Performance Computing Team program administrators for th
 
 #### DevDiv / Visual Studio and .NET Framework (Connect Site ID 210)
 Please contact vsconn@microsoft.com for the status of the program.
+For VC++ issues, please join Developer Community at https://developercommunity.visualstudio.com/spaces/62/index.html and search ConnectID or your username or contact compilercrash@microsoft.com.
 
 #### Services Connection (Connect Site ID 1067)
 Please contact scrmteam@microsoft.com for the status of the program.
