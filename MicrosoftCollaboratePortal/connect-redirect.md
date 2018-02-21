@@ -5,6 +5,7 @@ author: mimcco
 ms.author: mimcco
 ms.date: 01/03/2018
 keywords: Microsoft Connect, registration
+hide_comments: true 
 ---
 
 # Microsoft Connect Has Been Retired
