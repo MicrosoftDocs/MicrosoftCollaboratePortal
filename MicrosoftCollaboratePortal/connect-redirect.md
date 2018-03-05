@@ -102,8 +102,11 @@ Please contact wmecert@microsoft.com for the status of the program.
 Please contact the High Performance Computing Team program administrators for the status of the program.
 
 #### DevDiv / Visual Studio and .NET Framework (Connect Site ID 210)
-Please contact vsconn@microsoft.com for the status of the program.
-For VC++ issues, please join Developer Community at https://developercommunity.visualstudio.com/spaces/62/index.html and search ConnectID or your username or contact compilercrash@microsoft.com.
+We are actively reviewing and migrating bugs to Developer Community. 
+For VC++ issues, please search the [Developer Community site for C++](https://developercommunity.visualstudio.com/spaces/62/index.html) for your ConnectID or the substring of the bug title which you can find in an automated email from the original Connect system.  Please bear with us as we go through the process of triaging these issues for the new system.  
+If you cannot locate your report, please contact vsfeedback@microsoft.com. 
+
+To report a new Visual Studio bug, please use the integrated Report a Problem feature in Visual Studio 2017.   C++ compiler issues can also be filed at the [Developer Community site for C++](https://developercommunity.visualstudio.com/spaces/62/index.html).
 
 #### Services Connection (Connect Site ID 1067)
 Please contact scrmteam@microsoft.com for the status of the program.
