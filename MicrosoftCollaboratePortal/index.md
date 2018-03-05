@@ -5,6 +5,7 @@ title: Microsoft Collaborate documentation
 author: ikhapova
 ms.author: ikhapova
 ms.date: 12/12/2017
+ms.topic: landing-page
 keywords: Microsoft Collaborate documentation, MS Collaborate, Microsoft Collaborate portal, Microsoft Connect, SysDev portal, Dev Center bugs
 ---
 
