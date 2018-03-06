@@ -28,7 +28,11 @@ Microsoft Custom Support is now hosted on [Microsoft Collaborate](https://aka.ms
 Microsoft Microsoft PlayReady Support for licensed companies is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). All users that were on Connect should have received instructions by email on how to access the Collaborate Portal. If you have any questions or issues, please read the instructions [here](http://test.playready.microsoft.com/Support/HowToUseCollaborate) or email AskDRM@microsoft.com.
 
 #### Microsoft Dynamics 365 (Connect Site ID 687)
-The Dynamics 365 Finance & Operations, Business Edition team now uses [Microsoft Collaborate](https://aka.ms/collaborate) for early engagement programs.  Please email dyn365bep@microsoft.com and request for information on how to get on-boarded to the Microsoft Collaborate tool to participate in the Ready! programs. NOTE:  Please see the “Programs Moving to Other Tools” section below for “Dynamics AX Feedback (Connect Site ID 13211)” covering “Dynamics 365 for Finance and Operations, Enterprise Edition team content and updates.”
+For Dynamics 365 for Finance and Operations, Business edition and Dynamics NAV please get in touch with dyn365bep@microsoft.com to get onboarded to early engagement programs on Microsoft Collaborate.
+
+For Dynamics 365 for Finance and Operations, Enterprise edition and Dynamics AX please get in touch with daxcf@microsoft.com to get access to VHDs.
+
+For Dynamics 365 for Sales, Dynamics 365 for Marketing, and Dynamics CRM please go to Dynamics Insider and register there. 
 
 #### Designed for XBOX (Connect Site ID 1314)
 The Designed for XBOX program is now hosted on Microsoft Collaborate (http://aka.ms/strata-d4xbox). If you have any questions about your program membership or access to Collaborate, please contact D4XBizDev@microsoft.com.
