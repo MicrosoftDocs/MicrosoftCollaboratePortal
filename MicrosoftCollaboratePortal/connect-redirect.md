@@ -32,7 +32,7 @@ For Dynamics 365 for Finance and Operations, Business edition and Dynamics NAV p
 
 For Dynamics 365 for Finance and Operations, Enterprise edition and Dynamics AX please get in touch with daxcf@microsoft.com to get access to VHDs.
 
-For Dynamics 365 for Sales, Dynamics 365 for Marketing, and Dynamics CRM please go to Dynamics Insider and register there. 
+For Dynamics 365 for Sales, Dynamics 365 for Marketing, and Dynamics CRM please go to [Dynamics Insider](https://experience.dynamics.com/Account/Login/Register?returnUrl=%2Finsider%2F) and register there. 
 
 #### Designed for XBOX (Connect Site ID 1314)
 The Designed for XBOX program is now hosted on Microsoft Collaborate (http://aka.ms/strata-d4xbox). If you have any questions about your program membership or access to Collaborate, please contact D4XBizDev@microsoft.com.
