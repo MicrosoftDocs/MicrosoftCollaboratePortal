@@ -38,7 +38,7 @@
       "searchScope": ["Collaborate"],
       "feedback_system": "GitHub",
       "feedback_github_repo": "MicrosoftDocs/MicrosoftCollaboratePortal",
-      "feedback_product_url": "MicrosoftDocs/MicrosoftCollaboratePortal",
+      "feedback_product_url": "https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal/issues",
       "titleSuffix": "Collaborate",
       "ms.topic": "article",
       "ms.prod": "Windows",
