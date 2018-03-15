@@ -51,7 +51,8 @@ The Microsoft Auto program is now hosted on [Microsoft Collaborate](https://aka.
 The StorSimple Partners program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact the program administrators.
 
 #### Microsoft Learning Experiences - SME Program / LEX Content development (Connect Site ID 862)
-The LEX Content Development program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact mslcd@microsoft.com.
+Microsoft Learning Experiences - SME Program / LeX Content development (Connect Site ID 862)
+The Worldwide Learning (formerly Learning Experiences) SME Profile program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). See the Born to Learn blog post [Help Us Create Exams and Learning Content! Join our SME Database Today!](https://borntolearn.mslearn.net/b/weblog/posts/help-us-create-exams-and-learning-content-join-our-sme-database-today) for instructions on accessing the program on Collaborate.
 
 #### Office PIPC (Connect Site ID 846)
 The Office PIPC program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact the program administrators.
