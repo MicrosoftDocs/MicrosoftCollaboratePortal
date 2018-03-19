@@ -1,3 +1,4 @@
+
 # [Microsoft Collaborate Docs](index.md)
 ## [Introduction](intro-to-mscollaborate.md)
 ## [Registration](registration.md)
@@ -6,3 +7,4 @@
 ## [Package downloads](package-downloads.md)
 ## [Feedback management](feedback-items.md)
 ## [Customization](customization.md)
+## [Support](support.md)
