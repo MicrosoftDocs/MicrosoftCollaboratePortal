@@ -19,7 +19,7 @@ MS Collaborate provides two mechanisms for downloading content packages:
 
 Regardless of the download mechanism used, users will see the same packages in the portal as in the Distribution Manager.
 
-Content Publisher is a permissions role in MS Collaborate associated with engagements.  At this time, only Microsoft users can publish to engagements, but in the future it will be possible for non-Microsoft users to be provisioned to publish content to the engagement on a case by case basis.  Engagement Owners define which users have Content Publisher permissions.
+Content Publisher is a permissions role in MS Collaborate associated with engagements.  At this time, only Microsoft users can publish to engagements. Engagement Owners define which users have Content Publisher permissions.
 
 ## Finding Packages in the MS Collaborate portal
 
@@ -86,7 +86,7 @@ You can also navigate to **Check for Downloads Now** from the Menu in Distributi
    ![Check for Downloads Now menu item on the Packages page](images/check-for-downloads.png)
 
 > [!NOTE]
-> - You can **pause downloading** and then reactivate to continue downloading.
+> - You can **pause downloading** and then resume to continue downloading.
 > - You can force a sync of Distribution Manager, by clicking the menu item and then selecting **Check for Downloads Now**.
 > - Clicking on **Settings** from the Menu allows you to make customizations. 
 
@@ -97,19 +97,7 @@ In Distribution Manager, you can access **Settings** from the menu near your log
 - Download Threads, and
 - Max speeds.
 
-It is recommended that you only changes these if you are experiencing problems with downloading that might be due to a slow or unreliable connection.
+It is recommended that you only change these if you are experiencing problems with downloading that might be due to a slow or unreliable connection.
 
 ![Customize Distribution Manager Settings](images/Distribution-Mgr-Settings.PNG)
 
-### Troubleshooting
-
-You may receive an error message when you use Distribution Manager. This article contains information to help you troubleshoot these  error messages.
-
-#### Cannot Install Application
-
-> Cannot continue.  The application is improperly formatted. <br>
-> Contact the application vendor for assistance. <br>
-
-This error indicates that [Microsoft .NET Framework 4.6.1 (x86/x64)](https://www.microsoft.com/en-us/download/details.aspx?id=49981)  required by Distribution Manager is not installed on your computer. All ClickOnce applications require that the correct version of the .NET Framework is installed before they can be run.
-
-Click on the link to install [Microsoft .NET Framework 4.6.1 (x86/x64)](https://www.microsoft.com/en-us/download/details.aspx?id=49981).
