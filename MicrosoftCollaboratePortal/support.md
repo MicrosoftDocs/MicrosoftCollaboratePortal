@@ -19,8 +19,15 @@ This page provides instructions on how to get support with Microsoft Collaborate
 # Troubleshooting Guides
 
 
+### Microsoft Account Sign-in
+If you can't sign in to Microsoft Collaborate website, try these suggestions: 
+- make sure that you sign in using your complete email address
+- check the status of the Microsoft account service
+- make sure that you entered your password correctly. Passwords are case sensitive. If you've forgotten your password, go to the Microsoft account [reset your password](https://account.live.com/password/reset) page.
+- make sure that your browser is configured to allow cookies. If your browser doesn’t allow cookies, you can’t sign in with your Microsoft account.
+- try clearing your browser's cache, cookies, temporary files, and any other browsing history that is stored. Close your browser, then open a new InPrivate browsing session.
 
-## Issues with accessing Collaborate
+
 ### Browser hangs or shows "page can't be displayed" error when signing in to Dev Center
 After going to Dev Center/Collaborate and entering your username and password, you see one of these issues or errors:
 - your browser appears to hang or become unresponsive
@@ -40,4 +47,14 @@ There is a good chance this is happening because your corporate email address is
 The workaround is to rename your personal MSA account. See [this article](https://support.microsoft.com/en-us/help/11545/microsoft-account-rename-your-personal-account) for the detailed steps.
 
 
+## Distribution Manager
+You may receive an error message when you use Distribution Manager. This article contains information to help you troubleshoot these  error messages.
 
+#### Cannot Install Application
+
+> Cannot continue.  The application is improperly formatted. <br>
+> Contact the application vendor for assistance. <br>
+
+This error indicates that [Microsoft .NET Framework 4.6.1 (x86/x64)](https://www.microsoft.com/en-us/download/details.aspx?id=49981)  required by Distribution Manager is not installed on your computer. All ClickOnce applications require that the correct version of the .NET Framework is installed before they can be run.
+
+Click on the link to install [Microsoft .NET Framework 4.6.1 (x86/x64)](https://www.microsoft.com/en-us/download/details.aspx?id=49981).
