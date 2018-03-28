@@ -25,9 +25,6 @@ The Security Update Validation Program (SUVP) is now hosted on [Microsoft Collab
 #### Microsoft Custom Support (Connect Site ID 83)
 Microsoft Custom Support is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). All users that were on Connect should have received instructions on how to access the program. If you have any questions or issues, please start with your TAM.
 
-#### Microsoft Microsoft PlayReady Support
-Microsoft Microsoft PlayReady Support for licensed companies is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). All users that were on Connect should have received instructions by email on how to access the Collaborate Portal. If you have any questions or issues, please read the instructions [here](http://test.playready.microsoft.com/Support/HowToUseCollaborate) or email AskDRM@microsoft.com.
-
 #### Microsoft Dynamics 365 (Connect Site ID 687)
 For Dynamics 365 for Finance and Operations, Business edition and Dynamics NAV please get in touch with dyn365bep@microsoft.com to get onboarded to early engagement programs on Microsoft Collaborate.
 
@@ -48,7 +45,6 @@ The Skype Business Services program is now hosted on [Microsoft Collaborate](htt
 The Microsoft Auto program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact msftauto@microsoft.com.
 
 #### StorSimple Partners (Connect Site ID 1328)
-
 The StorSimple Partners program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact the program administrators.
 
 #### Microsoft Learning Experiences - SME Program / LEX Content development (Connect Site ID 862)
@@ -118,3 +114,6 @@ Please contact scrmteam@microsoft.com for the status of the program.
 
 #### Surface (Connect Site ID 1396)
 Please contact USSurface@microsoft.com for the status of the program.
+
+### Microsoft Microsoft PlayReady Support
+Microsoft PlayReady Support for licensed companies is now provided by email. Simply send your question by email to AskDRM@microsoft.com. In addition, please read documentation available [here](https://docs.microsoft.com/playready) and [here](https://test.playready.microsoft.com/).
