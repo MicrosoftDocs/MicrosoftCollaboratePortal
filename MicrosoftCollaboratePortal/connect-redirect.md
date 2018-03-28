@@ -115,5 +115,5 @@ Please contact scrmteam@microsoft.com for the status of the program.
 Please contact USSurface@microsoft.com for the status of the program.
 
 ### Microsoft PlayReady Support
-Microsoft PlayReady Support for licensed companies is now provided by email. Simply send your question by email to AskDRM@microsoft.com. In addition, please read documentation available [here](https://docs.microsoft.com/playready) and [here](https://test.playready.microsoft.com/).
+Microsoft PlayReady Support for licensed companies is now provided by email. Simply send your question by email to [AskDRM@microsoft.com](mailto:AskDRM@microsoft.com). In addition, please read documentation available [here](https://docs.microsoft.com/playready) and [here](https://test.playready.microsoft.com/).
 
