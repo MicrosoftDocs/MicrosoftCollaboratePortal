@@ -21,7 +21,7 @@ Role | Scope of permissions | Description
 **Power User** | Engagement | Organization admins who are able to manage Participants for their organization.  An organization can have multiple Power Users identified.  Only Program Owners at Microsoft can add Power Users and Power Users can only add Participants.
 **Content Publisher** | Engagement or Program | User able to publish content packages to be downloaded by participants.  Program-level Content Publishers can publish to all engagements under the Program.  Engagement-level Content Publishers can only publish the specific engagement.  
 **Engagement Owner** | Engagement | Microsoft users able to manage the engagement, including engaement metadata, membership, feedback forms, and publishing templates.  Engagement owners also inherit all other role permissions within the engagement, such as package publishing and participant user permissions.  
-**Engagement Manager** | Engagement  | Microsoft users with permission to create engagements under a program.  Users in this role inherit Engagement Owner permissions within all engagements under the program.  Program owners can add/remove users from this role for the program.
+**Engagement Manager** | Engagement  | Microsoft users with permission to create engagements under a program.  Program owners can add/remove users from this role for the program.
 **Program Owner** | Program | Microsoft users who can manage all aspects of the program and all engagements under the program.  
 
 
@@ -51,13 +51,13 @@ Once a user is registered in Dev Center, it it easy for the MS Collaborate *Enga
 	b. Power Users can add or remove users for the organization.
 	c. Note that *Power Users* need to be explicitly added as *Participants* if the user also needs access to feedback and content for the engagement.
 
-	![Select a Group](images/Membership-tab.png)
+	![Select a Group](images/Membership-tab.PNG)
 
 3.	Click the **Add User** icon in the **Members** section and then in the **Search Users** dialog, search to find the user(s) you want to add to the engagement.
 
 4. From the list of users returned by search, select the users you want to add to the engagement. You can also use **Select All**.
 
-	![Add a User](images/add-a-user.png)
+	![Add a User](images/add-a-user.PNG)
 
 5. Choose whether you would like to have an invitation mail sent to the user with a link to the engagement.
 
