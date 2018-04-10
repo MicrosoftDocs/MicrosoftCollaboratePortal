@@ -124,8 +124,20 @@ To create queries, you must be within the context of a specific engagement.
 
 4. To **Edit** an existing query, navigate to the query, click the **Advanced Filter** icon and then click **Save As** to save the query as a new query.
 
+## How to find feedback submitted by you
 
+1. Navigate to an Engagement and click on one of the options within the Engagement page to get to the list of feedback that you want in the query.
 
+2. Click the **Advanced Filter** icon to see the fields that you can use to define the query.
+
+3. Click the ![Feedback plus button](images/feedback-plus.png) button to add new filter. Select **CreatedBy** from list of available fields.
+
+4. Type **@user** in the textbox.
+
+![Feedback Created by Me](images/feedback-created-by-me.png)
+
+5. Click **Run** to return the desired query results.
+	
 ## How to export feedback to Excel
 
 After filtering to identify the work items that you want to export, you can export the table to Excel by clicking the export arrow.
