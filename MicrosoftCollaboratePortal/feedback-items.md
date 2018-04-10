@@ -17,13 +17,11 @@ In addition to using the MS Collaborate portal, some co-engineering partner orga
 
 In the MS Collaborate portal, each feedback work item is associated with a single engagement to ensure only the right users and systems have access to the work item. Engagements can be between a Microsoft organization and one other organization (a single organization engagement) or the engagement can be between multiple organizations (multi-party engagements) - for example, a Microsoft organization plus an OEM, an ODM, and an IHV partner working on a specific device.  For more information on engagements, see [Programs and Engagements](intro-to-mscollaborate.md#programs-and-engagements).
 
-- In **single-party engagements**, only the specific Microsoft organization and the one named organization can see the feedback work item(s) associated with the engagement. No other organizations or users not associated with the engagement can see the work item. The Microsoft organization can create and assign a bug to the named organization in the engagement.  Both organization users can collaborate on all work items in the engagement.
+- In **single-party engagements**, only the specific Microsoft organization and the one named organization can see the feedback work item(s) associated with the engagement. Both organization users can create new and collaborate on existing work items in the engagement. No other organizations or users not associated with the engagement can see the work item. 
 
 - In **multi-party engagements**, all organizations named in the engagement can see and edit the same shared work item(s).  No other organizations or users not associated with the engagement can see the work item.
 
-- In **any organization engagements**, users are added as individuals and not as organizations. This engagement style is typically for incoming feedback only. Users can submit feedback and can only see and edit the feedback they submitted.  
-
-- In **social media style engagements**, all users in the engagement can see all the work items, but users can only upvote (+1) and comment on the work item.  Comments can be public or private.
+- In **any organization engagements**, users are added as individuals and not as organizations. This engagement style is typically used for incoming feedback only.   
 
 ## Legal agreement for collaboration on feedback
 
