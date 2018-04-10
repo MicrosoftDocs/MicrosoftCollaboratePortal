@@ -130,7 +130,7 @@ To create queries, you must be within the context of a specific engagement.
 
 2. Click the **Advanced Filter** icon to see the fields that you can use to define the query.
 
-3. Click the **'+'** button to add new filter. Select **CreatedBy** from list of available fields.
+3. Click the '**+**' button to add new filter. Select **CreatedBy** from list of available fields.
 
 4. Type **@user** in the textbox.
 
