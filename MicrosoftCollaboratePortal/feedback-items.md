@@ -134,9 +134,10 @@ To create queries, you must be within the context of a specific engagement.
 
 4. Type **@user** in the textbox.
 
+5. Click **Run** to return the desired query results.
+
 ![Feedback Created by Me](images/feedback-created-by-me.png)
 
-5. Click **Run** to return the desired query results.
 	
 ## How to export feedback to Excel
 
