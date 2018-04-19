@@ -21,7 +21,7 @@ Role | Scope of permissions | Description
 **Power User** | Engagement | Organization admins who are able to manage Participants for their organization.  An organization can have multiple Power Users identified.  Only Program Owners at Microsoft can add Power Users and Power Users can only add Participants.
 **Content Publisher** | Engagement | Microsoft users able to publish content packages to be downloaded by participants.  
 **Engagement Owner** | Engagement | Microsoft users able to manage the engagement, including engaement metadata, membership, feedback forms, and publishing templates.  Engagement owners also inherit all other role permissions within the engagement, such as package publishing and participant user permissions.  
-**Engagement Manager** | Engagement  | Microsoft users with permission to create engagements under a program.  Program owners can add/remove users from this role for the program.
+**Engagement Manager** | Program  | Microsoft users with permission to create engagements under a program.  Program owners can add/remove users from this role for the program.
 **Program Owner** | Program | Microsoft users who can manage all aspects of the program and all engagements under the program.  
 
 
