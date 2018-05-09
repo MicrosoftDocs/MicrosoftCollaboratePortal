@@ -75,7 +75,7 @@ The exact path can be determined by the following steps:
 2. Find **Microsoft Collaborate - Distribution Manager**
 3. Right click and select **Open file location** from the list of options
 
-![Task Manager](/images/TaskManager.png)
+![Task Manager](images/TaskManager.png)
 
 4. This should take you to a folder similar to:
 > %LOCALAPPDATA%\Apps\2.0\Data\xxxxxxxx.xxx\xxxxxxxx.xxx\dist..tion_xxxxxxxxxxxxxxxx_0000.0000_xxxxxxxxxxxxxxxx\Data
