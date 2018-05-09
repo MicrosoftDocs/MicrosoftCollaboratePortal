@@ -71,9 +71,12 @@ The workaround is to delete the click-once application data.
 
 
 The exact path can be determined by the following steps:
-1. Pressing Ctrl + Alt + Del on the keyboard and selecting Task Manager
-2. Find Microsoft Collaborate - Distribution Manager
-3. Right click and select Open file location from the list of options
+1. Pressing **Ctrl + Alt + Del** on the keyboard and selecting Task Manager
+2. Find **Microsoft Collaborate - Distribution Manager**
+3. Right click and select **Open file location** from the list of options
+
+![Task Manager](TaskManager.png)
+
 4. This should take you to a folder similar to:
 > %LOCALAPPDATA%\Apps\2.0\Data\xxxxxxxx.xxx\xxxxxxxx.xxx\dist..tion_xxxxxxxxxxxxxxxx_0000.0000_xxxxxxxxxxxxxxxx\Data
 5. Now go to the Data path (%LOCALAPPDATA%\Apps\2.0\Data), and search for a folder with the same name 
