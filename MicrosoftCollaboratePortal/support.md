@@ -64,7 +64,7 @@ Click on the link to install [Microsoft .NET Framework 4.6.1 (x86/x64)](https://
 
 > Object reference not set to an instance of an object. <br>
 
-You may receive this error if you recently upraded from an older version of the application.
+You may receive this error if you recently upgraded from an older version of the application.
 
 #### Fixes/Workarounds
 The workaround is to delete the click-once application data.
@@ -77,10 +77,16 @@ The exact path can be determined by the following steps:
 
 ![Task Manager](images/TaskManager.png)
 
-4. This should take you to a folder similar to:
+4. This should take you to a folder like:
 > %LOCALAPPDATA%\Apps\2.0\Data\xxxxxxxx.xxx\xxxxxxxx.xxx\dist..tion_xxxxxxxxxxxxxxxx_0000.0000_xxxxxxxxxxxxxxxx\Data
+
+![Distribution Manager folder](images/DistributionManagerLocation.png)
+
 5. Now go to the Data path (%LOCALAPPDATA%\Apps\2.0\Data), and search for a folder with the same name 
 > dist..tion_xxxxxxxxxxxxxxxx_0000.0000_xxxxxxxxxxxxxxxx\Data
+
+![Distribution Manager folder](images/DistributionManagerDataLocation.png)
+
 6.	Delete content of the folder
 7.	Restart the application
 
