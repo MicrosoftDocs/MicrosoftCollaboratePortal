@@ -18,6 +18,7 @@ This page provides instructions on how to get support with Microsoft Collaborate
 
 # Troubleshooting Guides
 
+## Sign-in Issues
 
 ### Microsoft Account Sign-in
 If you can't sign in to Microsoft Collaborate website, try these suggestions: 
@@ -50,7 +51,7 @@ The workaround is to rename your personal MSA account. See [this article](https:
 ## Distribution Manager
 You may receive an error message when you use Distribution Manager. This article contains information to help you troubleshoot these  error messages.
 
-#### Cannot Install Application
+### Cannot Install Application
 
 > Cannot continue.  The application is improperly formatted. <br>
 > Contact the application vendor for assistance. <br>
@@ -58,3 +59,29 @@ You may receive an error message when you use Distribution Manager. This article
 This error indicates that [Microsoft .NET Framework 4.6.1 (x86/x64)](https://www.microsoft.com/en-us/download/details.aspx?id=49981)  required by Distribution Manager is not installed on your computer. All ClickOnce applications require that the correct version of the .NET Framework is installed before they can be run.
 
 Click on the link to install [Microsoft .NET Framework 4.6.1 (x86/x64)](https://www.microsoft.com/en-us/download/details.aspx?id=49981).
+
+### Cannot Launch Application 
+
+> Object reference not set to an instance of an object. <br>
+
+You may receive this error if you recently upraded from an older version of the application.
+
+#### Fixes/Workarounds
+The workaround is to delete the click-once application data.
+
+
+The exact path can be determined by the following steps:
+1. Pressing Ctrl + Alt + Del on the keyboard and selecting Task Manager
+2. Find Microsoft Collaborate - Distribution Manager
+3. Right click and select Open file location from the list of options
+4. This should take you to a folder similar to:
+> %LOCALAPPDATA%\Apps\2.0\Data\xxxxxxxx.xxx\xxxxxxxx.xxx\dist..tion_xxxxxxxxxxxxxxxx_0000.0000_xxxxxxxxxxxxxxxx\Data
+5. Now go to the Data path (%LOCALAPPDATA%\Apps\2.0\Data), and search for a folder with the same name 
+> dist..tion_xxxxxxxxxxxxxxxx_0000.0000_xxxxxxxxxxxxxxxx\Data
+6.	Delete content of the folder
+7.	Restart the application
+
+
+
+
+
