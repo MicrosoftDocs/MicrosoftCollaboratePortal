@@ -7,7 +7,7 @@ ms.date: 12/12/2017
 keywords: feedback, engagements, work items, bugs, feature requests, Collaborate permissions, Microsoft Connect, SysDev Bug, Dev Center bugs 
 ---
 
-# Feedback management
+# Feedback
 
 ## Overview
 The [Feedback Hub](https://support.microsoft.com/en-us/help/4021566/windows-10-send-feedback-to-microsoft-with-feedback-hub-app) is a common mechanism for submitting bugs, issues and suggestions to Microsoft.  For organizations that are collaborating with Microsoft, MS Collaborate provides additional functionality that enables organizations and users to collaborate on feedback work items. Feedback can be configured in different ways to enable the functionality needed to support each specific collaboration.  
@@ -24,23 +24,48 @@ In the MS Collaborate portal, each feedback work item is associated with a singl
 
 - In **any organization engagements**, users are added as individuals and not as organizations. This engagement style is typically used for incoming feedback only.   
 
-### Legal agreement for collaboration on feedback
+### Legal Agreement 
 
 When you onboard to MS Collaborate, you accept the terms of use covering the feedback for the engagements you belong to. You can always review default terms here:  MS Collaborate [Terms of Use](https://go.microsoft.com/fwlink/?linkid=849107).
 
 In collaboration engagements, a legal agreement must exist between the parties in order for them to collaborate. You may be asked to accept a legal agreement or terms of use before you access the engagement for the first time.  As a member of the engagement, you will be able to see the other organizations participating in the collaboration. Users can assign the bug to a specific organization to indicate the “partner on point.”  However, users will only see the names of other users in their organization.  Other organizations will not have access to the users list.
 
-### A Universal Partner ID for each work item
+### A Universal Partner ID
 
 The Universal Partner ID is an ID provided by the MS Collaborate feedback system and is shared with all users who have access to the work item. This ID is the ID within the MS Collaborate system and is not the specific ID of any feature team engineering system. This new universal ID facilitates multi-party collaborations so there is one common ID used by all parties.
 
 Your engagement owner may decide to also include additional fields showing the specific ID in the engineering system (for example, a VSTS ID). 
 
-## Managing Feedback
+## View
 
-When you want to log a new bug or submit new feedback, you first select an engagement to associate with the feedback. Each work item must be associated with only one engagement because the engagement and work item type determine which form to use and which organization in Microsoft to sync the feedback to.
+By default, the most recent feedback from engagements you belong to is shown on the MS Collaborate **Overview** page. 
 
-### How to submit new feedback (e.g. bugs, feature requests, etc.)
+To view feedback in the **All Feedback** page:
+1. From the Dashboard, select the **Show All** link or click **Feedback** in the left navigation.
+2. This takes you to the **All Feedback** page.
+3. Click on items in a row to open the work item.
+
+To view feedback from an **Engagement's Feedback** page:
+1. Scroll to the Feedback section and select one of the following:
+ - Select the Work Item Type link to see all work items of that type
+ - Select one of the queries to view work items specific to the query
+
+## Vote
+
+1.  Open engagement that you are interested in
+2.  Scroll to the Feedback section and click on **Work Item Type** link to see all work items of that type
+3.  Click on one of the voting icons ![voting](images/voting.png) in the left column
+
+or
+
+4.  Open specific work item
+5.  Click on one of the voting icons ![voting](images/voting.png) 
+
+You can change your vote any time.
+
+## Submit New
+
+When you want to submit new feedback, you first select an engagement to associate with the feedback. Each work item must be associated with only one engagement because the engagement and work item type determine which form to use and which organization in Microsoft to sync the feedback to.
 
 1. Choose one of the multiple ways to create new feedback:
 - From the **MS Collaborate Dashboard**, click “Add New” under the Feedback item.
@@ -59,31 +84,7 @@ When you want to log a new bug or submit new feedback, you first select an engag
  
 4. Clicking **Save** will take you to the **Feedback List** view. Work items submitted will appear on this page. 
 
-### How to view feedback work items
-
-By default, the most recent feedback from engagements you belong to is shown on the MS Collaborate **Overview** page. 
-
-To view feedback in the **All Feedback** page:
-1. From the Dashboard, select the **Show All** link or click **Feedback** in the left navigation.
-2. This takes you to the **All Feedback** page.
-3. Click on items in a row to open the work item.
-
-To view feedback from an **Engagement's Feedback** page:
-1. Scroll to the Feedback section and select one of the following:
- - Select the Work Item Type link to see all work items of that type
- - Select one of the queries to view work items specific to the query
-
-### How to vote on feedback
-1.  Open engagement that you are interested in
-2.  Scroll to the Feedback section and click on **Work Item Type** link to see all work items of that type
-3.  Click on one of the voting icons ![voting](images/voting.png) in the left column
-
-or
-
-4.  Open specific work item
-5.  Click on one of the voting icons ![voting](images/voting.png) 
-
-You can change your vote any time.
+## Manage
 
 ### How to edit feedback work items
 
@@ -105,7 +106,7 @@ A work item assigned to you means it is your responsible to take action on the w
 
 **To assign a work item to Microsoft**, select the Microsoft organization in the Assigned to (or Partner on Point) field.
 
-## Searching for specific feedback
+## Search
 
 On the [All Feedback page](//developer.microsoft.com/dashboard/collaborate/feedback/bugs) in the MS Collaborate portal, you can see all work items for the engagements you have access to.  You can filter the page for specific feedback in the following ways:
 -	Sort individual columns in the feedback table.
@@ -114,6 +115,8 @@ On the [All Feedback page](//developer.microsoft.com/dashboard/collaborate/feedb
 -	Filter by work item type.
 
 	![Feedback search window](images/feedback-search.png)
+
+## Queries
 
 ### How to create and save queries
 
@@ -153,8 +156,9 @@ To create queries, you must be within the context of a specific engagement.
 
 ![Feedback Created by Me](images/feedback-created-by-me.png)
 
-	
-## How to export feedback to Excel
+## Export
+
+### How to export feedback to Excel
 
 After filtering to identify the work items that you want to export, you can export the table to Excel by clicking the export arrow.
 
