@@ -7,11 +7,11 @@ ms.date: 05/11/2018
 keywords: feedback, engagements, work items, bugs, feature requests, Collaborate permissions, Microsoft Connect, SysDev Bug, Dev Center bugs
 ---
 
-# Feedback: View, Vote and Comment
-
-By default, the most recent feedback from engagements you belong to is shown on the MS Collaborate **Overview** page. 
+# View, Vote and Comment on Feedback
 
 ## How to view feedback
+
+By default, the most recent feedback from engagements you belong to is shown on the MS Collaborate **Overview** page. 
 
 To view feedback in the **All Feedback** page:
 1. From the Dashboard, click on the feedback icon or select **Feedback** menu item in the left navigation. This takes you to the **All Feedback** page.
