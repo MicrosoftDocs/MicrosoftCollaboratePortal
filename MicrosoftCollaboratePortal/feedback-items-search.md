@@ -19,7 +19,7 @@ On the [All Feedback page](//developer.microsoft.com/dashboard/collaborate/feedb
 
 	![Feedback search window](images/feedback-search.png)
 
-## How to create and save queries
+## How to create queries
 
 There are a few kinds of queries that can be saved with an Engagement. You can open the Engagement to see the Feedback work item types and the queries available.
 
