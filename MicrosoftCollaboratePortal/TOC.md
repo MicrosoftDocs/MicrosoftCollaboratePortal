@@ -5,7 +5,8 @@
 ## [Programs & Engagements](programs.md)
 ## [Package downloads](package-downloads.md)
 ## Feedback
-### [View, Vote and Comment](feedback-items.md)
+### [Overview](feedback-items.md)
+### [View, Vote and Comment](feedback-items-view.md)
 ### [Submit and Manage](feedback-items-manage.md)
 ### [Search and Build Queries](feedback-items-search.md)
 ### [Export](feedback-items-export.md)
