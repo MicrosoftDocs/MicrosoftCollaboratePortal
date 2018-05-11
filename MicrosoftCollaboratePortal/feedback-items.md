@@ -77,7 +77,7 @@ You can change your vote any time.
 
 > You cannot modify or remove submitted comments.
 
-## Manage Feedback
+## Manage
 
 ### How to submit new feedback
 
@@ -120,7 +120,7 @@ A work item assigned to you means it is your responsible to take action on the w
 
 **To assign a work item to Microsoft**, select the Microsoft organization in the Assigned to (or Partner on Point) field.
 
-## Search and Filtering
+## Search
 
 On the [All Feedback page](//developer.microsoft.com/dashboard/collaborate/feedback/bugs) in the MS Collaborate portal, you can see all work items for the engagements you have access to.  You can filter the page for specific feedback in the following ways:
 -	Sort individual columns in the feedback table.
