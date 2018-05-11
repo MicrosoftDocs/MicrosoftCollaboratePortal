@@ -4,8 +4,8 @@
 ## [Managing users](managing-org-users.md)
 ## [Programs & Engagements](programs.md)
 ## [Package downloads](package-downloads.md)
-## [Feedback](feedback-items-overview.md)
-### [View, Vote and Comment](feedback-items-view.md)
+## Feedback
+### [View, Vote and Comment](feedback-items.md)
 ### [Submit and Manage](feedback-items-manage.md)
 ### [Search and Build Queries](feedback-items-search.md)
 ### [Export](feedback-items-export.md)
