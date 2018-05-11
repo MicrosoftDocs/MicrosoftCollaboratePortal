@@ -1,5 +1,5 @@
 ---
-title: Export Feedbackk
+title: Export Feedback
 description: Microsoft Collaborate Feedback items can be bugs, feature requests or any task associated with an engagement. Feedback forms can be customized based on each engagement. 
 author: ikhapova
 ms.author: ikhapova
