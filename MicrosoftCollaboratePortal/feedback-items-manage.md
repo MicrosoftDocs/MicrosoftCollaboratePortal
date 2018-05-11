@@ -7,7 +7,7 @@ ms.date: 12/12/2017
 keywords: feedback, engagements, work items, bugs, feature requests, Collaborate permissions, Microsoft Connect, SysDev Bug, Dev Center bugs 
 ---
 
-# Submit and Manage Feedback
+# Submit and Modify
 
 ## How to submit new feedback
 
