@@ -64,7 +64,7 @@ or
 You can change your vote any time.
 
 > [!NOTE]
-> **Prerequisites**: Engagement must have commenting configured for the work item. this step is performed by engagement owner.
+> **Prerequisites**: Engagement must have commenting configured for the work item. This step is performed by engagement owner.
 
 ### How to comment on feedback
 1. Open overview page for the engagement that feedback belongs to
@@ -73,7 +73,8 @@ You can change your vote any time.
 4. Enter comment into the **Post Comment** section and click **Submit Comment** button.
 
 > [!NOTE]
-> **Prerequisites**: Engagement must have commenting configured for the work item. this step is performed by engagement owner.
+> **Prerequisites**: Engagement must have commenting configured for the work item. This step is performed by engagement owner.
+
 > You cannot modify or remove submitted comments.
 
 ## Manage Feedback
