@@ -9,6 +9,8 @@ keywords: feedback, engagements, work items, bugs, feature requests, Collaborate
 
 # Search and Queries
 
+## Search
+
 On the [All Feedback page](//developer.microsoft.com/dashboard/collaborate/feedback/bugs) in the MS Collaborate portal, you can see all work items for the engagements you have access to.  You can filter the page for specific feedback in the following ways:
 -	Sort individual columns in the feedback table.
 - Select specific Engagements.
