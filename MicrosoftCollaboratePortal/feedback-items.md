@@ -30,7 +30,7 @@ When you onboard to MS Collaborate, you accept the terms of use covering the fee
 
 In collaboration engagements, a legal agreement must exist between the parties in order for them to collaborate. You may be asked to accept a legal agreement or terms of use before you access the engagement for the first time.  As a member of the engagement, you will be able to see the other organizations participating in the collaboration. Users can assign the bug to a specific organization to indicate the “partner on point.”  However, users will only see the names of other users in their organization.  Other organizations will not have access to the users list.
 
-### A Universal Partner ID
+### Universal Partner ID
 
 The Universal Partner ID is an ID provided by the MS Collaborate feedback system and is shared with all users who have access to the work item. This ID is the ID within the MS Collaborate system and is not the specific ID of any feature team engineering system. This new universal ID facilitates multi-party collaborations so there is one common ID used by all parties.
 
@@ -63,7 +63,9 @@ or
 
 You can change your vote any time.
 
-## Submit New
+## Manage
+
+## How to submit new feedback
 
 When you want to submit new feedback, you first select an engagement to associate with the feedback. Each work item must be associated with only one engagement because the engagement and work item type determine which form to use and which organization in Microsoft to sync the feedback to.
 
@@ -84,15 +86,13 @@ When you want to submit new feedback, you first select an engagement to associat
  
 4. Clicking **Save** will take you to the **Feedback List** view. Work items submitted will appear on this page. 
 
-## Manage
-
-### How to edit feedback work items
+### How to update feedback
 
 1. Open a work item from any of the **Feedback List** pages. The **Edit Feedback** page will appear. You can edit any available fields depending on the state of the work item and the rules established for the engagement.
 
 2. Saving the work item will sync changes for all organizations in the Engagement.
 
-### How to assign feedback work items to others
+### How to assign feedback to others
 
 When you are working with feedback work items in MS Collaborate, you can assign a work item to specific users in your organization, to a Microsoft feature team or division, or to another organization who is part of a multi-party engagement.
 
@@ -106,7 +106,7 @@ A work item assigned to you means it is your responsible to take action on the w
 
 **To assign a work item to Microsoft**, select the Microsoft organization in the Assigned to (or Partner on Point) field.
 
-## Search
+## Search and Filtering
 
 On the [All Feedback page](//developer.microsoft.com/dashboard/collaborate/feedback/bugs) in the MS Collaborate portal, you can see all work items for the engagements you have access to.  You can filter the page for specific feedback in the following ways:
 -	Sort individual columns in the feedback table.
@@ -115,8 +115,6 @@ On the [All Feedback page](//developer.microsoft.com/dashboard/collaborate/feedb
 -	Filter by work item type.
 
 	![Feedback search window](images/feedback-search.png)
-
-## Queries
 
 ### How to create and save queries
 
