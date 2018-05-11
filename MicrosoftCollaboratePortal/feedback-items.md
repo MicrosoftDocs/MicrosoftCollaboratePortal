@@ -36,36 +36,49 @@ The Universal Partner ID is an ID provided by the MS Collaborate feedback system
 
 Your engagement owner may decide to also include additional fields showing the specific ID in the engineering system (for example, a VSTS ID). 
 
-## View
+## View, Vote and Comment
 
 By default, the most recent feedback from engagements you belong to is shown on the MS Collaborate **Overview** page. 
 
 To view feedback in the **All Feedback** page:
-1. From the Dashboard, select the **Show All** link or click **Feedback** in the left navigation.
-2. This takes you to the **All Feedback** page.
-3. Click on items in a row to open the work item.
+1. From the Dashboard, click on the feedback icon or select **Feedback** menu item in the left navigation. This takes you to the **All Feedback** page.
+2. Click on any field to open the work item.
 
 To view feedback from an **Engagement's Feedback** page:
-1. Scroll to the Feedback section and select one of the following:
+1. Open engagement overview page.
+2. Scroll to the feedback section and select one of the following:
  - Select the Work Item Type link to see all work items of that type
  - Select one of the queries to view work items specific to the query
 
-## Vote
+### How to vote on feedback
 
-1.  Open engagement that you are interested in
-2.  Scroll to the Feedback section and click on **Work Item Type** link to see all work items of that type
+1.  Open overview page for the engagement that feedback belongs to
+2.  Scroll to the feedback section and click on **Work Item Type** link to see all work items of that type
 3.  Click on one of the voting icons ![voting](images/voting.png) in the left column
 
 or
 
-4.  Open specific work item
-5.  Click on one of the voting icons ![voting](images/voting.png) 
+3.  Open work item from list
+4.  Click on one of the voting icons ![voting](images/voting.png) 
 
 You can change your vote any time.
 
-## Manage
+> [!NOTE]
+> **Prerequisites**: Engagement must have commenting configured for the work item. this step is performed by engagement owner.
 
-## How to submit new feedback
+### How to comment on feedback
+1. Open overview page for the engagement that feedback belongs to
+2. Scroll to the feedback section and click on **Work Item Type** link to see all work items of that type
+3. Open work item from the list and scroll to the bottom of the page
+4. Enter comment into the **Post Comment** section and click **Submit Comment** button.
+
+> [!NOTE]
+> **Prerequisites**: Engagement must have commenting configured for the work item. this step is performed by engagement owner.
+> You cannot modify or remove submitted comments.
+
+## Manage Feedback
+
+### How to submit new feedback
 
 When you want to submit new feedback, you first select an engagement to associate with the feedback. Each work item must be associated with only one engagement because the engagement and work item type determine which form to use and which organization in Microsoft to sync the feedback to.
 
