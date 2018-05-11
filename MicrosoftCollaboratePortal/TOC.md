@@ -8,7 +8,7 @@
 ### [Overview](feedback-items.md)
 ### [View, Vote and Comment](feedback-items-view.md)
 ### [Submit and Manage](feedback-items-manage.md)
-### [Search and Build Queries](feedback-items-search.md)
+### [Search and Queries](feedback-items-search.md)
 ### [Export](feedback-items-export.md)
 ## [Customization](customization.md)
 ## [Support](support.md)
