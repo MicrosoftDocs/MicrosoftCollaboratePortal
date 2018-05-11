@@ -1,10 +1,14 @@
-
 # [Microsoft Collaborate Docs](index.md)
 ## [Introduction](intro-to-mscollaborate.md)
 ## [Registration](registration.md)
 ## [Managing users](managing-org-users.md)
 ## [Programs & Engagements](programs.md)
 ## [Package downloads](package-downloads.md)
-## [Feedback management](feedback-items.md)
+## Feedback
+### [Overview](feedback-items.md)
+### [View, Vote and Comment](feedback-items-view.md)
+### [Submit and Manage](feedback-items-manage.md)
+### [Search and Queries](feedback-items-search.md)
+### [Export](feedback-items-export.md)
 ## [Customization](customization.md)
 ## [Support](support.md)
