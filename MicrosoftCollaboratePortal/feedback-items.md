@@ -74,14 +74,14 @@ To view feedback from an **Engagement's Feedback** page:
  - Select one of the queries to view work items specific to the query
 
 ### How to vote on feedback
-1. Open engagement that you are interested in
-2. Scroll to the Feedback section and click on **Work Item Type** link to see all work items of that type
-3. Click on one of the voting icons ![voting](images/voting.png) in the left column
+1.  Open engagement that you are interested in
+2.  Scroll to the Feedback section and click on **Work Item Type** link to see all work items of that type
+3.  Click on one of the voting icons ![voting](images/voting.png) in the left column
 
 or
 
-4. Open specific work item
-5. Click on one of the voting icons ![voting](images/voting.png) 
+4.  Open specific work item
+5.  Click on one of the voting icons ![voting](images/voting.png) 
 
 You can change your vote any time.
 
