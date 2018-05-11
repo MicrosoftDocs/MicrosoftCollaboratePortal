@@ -7,7 +7,7 @@ ms.date: 12/12/2017
 keywords: MS Collaborate Programs, programs and engagements, program landing pages, security, permissions, Microsoft Connect, SysDev Bug, Dev Center bugs
 ---
 
-# Understanding Programs and Engagements in MS Collaborate
+# Understanding Programs and Engagements
 
 Microsoft Collaborate organizes engagements into **Programs** and each program belongs to a Business Group.  A Microsoft Program Owner is responsible for managing the program and the default configurations for the engagements associated with that program.  The Program Owner can pre-define feedback forms, publishing templates inherited by the engagements.  Larger programs (for example, the Windows TAP or EEAP programs) will typically have many engagements under the program.  Users may be in multiple engagements within a program, or in only one engagement within a program.
 
