@@ -15,6 +15,15 @@ This page provides instructions on how to get support with Microsoft Collaborate
 2. If something is not working the way you expect, check the troubleshooting guides below and see if your issue is included.
 3. If you have a question or issue, such as getting access to specific content,  related to the specific program you are participating in, contact the program administrators.
 4. If none of the above answers your question or resolves your issue, contact Dev Center Customer Support at https://aka.ms/dcsupport.
+  * Click **Contact Us**
+  * Select **Dashboard Issue** for the **Developer Support Topic** dropdown
+  * Select **Collaborate** for the **Issue Type**
+  * Click **Chat Now** under **Choose how to contact us**
+
+>[!NOTE]
+>
+> You must sign in to chat.<br>
+> You must sign in with Microsoft Account to submit an incident<br>
 
 # Troubleshooting Guides
 
