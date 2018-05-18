@@ -22,8 +22,8 @@ This page provides instructions on how to get support with Microsoft Collaborate
 
 >[!NOTE]
 >
-> You must sign-in to chat.<br>
-> You must sign-in with Microsoft Account to submit an incident<br>
+> You must sign in to chat.<br>
+> You must sign in with Microsoft Account to submit an incident<br>
 
 # Troubleshooting Guides
 
