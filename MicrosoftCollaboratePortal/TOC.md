@@ -10,5 +10,4 @@
 ### [Submit and Manage](feedback-items-manage.md)
 ### [Search and Queries](feedback-items-search.md)
 ### [Export](feedback-items-export.md)
-## [Customization](customization.md)
 ## [Support](support.md)
