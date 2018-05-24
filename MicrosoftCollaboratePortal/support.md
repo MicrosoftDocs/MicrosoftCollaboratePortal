@@ -25,11 +25,11 @@ This page provides instructions on how to get support with Microsoft Collaborate
 > You must sign in to chat.<br>
 > You must sign in with Microsoft Account to submit an incident<br>
 
-# Troubleshooting Guides
+## Troubleshooting Guides
 
-## Sign-in Issues
+### Sign-in
 
-### Microsoft Account Sign-in
+#### Microsoft Account Sign-in
 If you can't sign in to Microsoft Collaborate website, try these suggestions: 
 - make sure that you sign in using your complete email address
 - check the status of the Microsoft account service
@@ -37,8 +37,7 @@ If you can't sign in to Microsoft Collaborate website, try these suggestions:
 - make sure that your browser is configured to allow cookies. If your browser doesn’t allow cookies, you can’t sign in with your Microsoft account.
 - try clearing your browser's cache, cookies, temporary files, and any other browsing history that is stored. Close your browser, then open a new InPrivate browsing session.
 
-
-### Browser hangs or shows "page can't be displayed" error when signing in to Dev Center
+#### Browser hangs or shows "page can't be displayed" error when signing in to Dev Center
 After going to Dev Center/Collaborate and entering your username and password, you see one of these issues or errors:
 - your browser appears to hang or become unresponsive
 - you get a "page can't be displayed" error
@@ -50,15 +49,15 @@ After going to Dev Center/Collaborate and entering your username and password, y
     *However, we are not able to create this work or school account because ... is a domain that is federated with your on-premises AD.*<br> 
     *Please contact your admin to ensure you are properly configured in your on-premises AD and you can re-attempt to accept this invite.*<br>
 
-#### Why this is happening
+##### Why this is happening
 There is a good chance this is happening because your corporate email address is linked to a personal MSA/Live ID (work and personal accounts share the same name), which was a common practice with Microsoft Connect accounts. This practice is no longer supported by Microsoft and could lead to various issues. Please see [this blog post](https://cloudblogs.microsoft.com/enterprisemobility/2016/09/15/cleaning-up-the-azure-ad-and-microsoft-account-overlap/) for more details.
 
-#### Fixes/Workarounds
+##### Fixes/Workarounds
 The workaround is to rename your personal MSA account. See [this article](https://support.microsoft.com/en-us/help/11545/microsoft-account-rename-your-personal-account) for the detailed steps.
 
-## Registration
+### Registration
 
-### Invitations
+#### Invitations
 If you have been invited to join Dev Center account, you need to accept the invitation before you can access Collaborate portal. If you see an error message similar to shown below, it means that you have two accounts with Microsoft using the same email address. 
 
 > You have been invited to access ... application as ... .<br> 
@@ -80,10 +79,10 @@ Going forward, you’ll sign in to your personal Microsoft account with your per
 
 Once completed proceed with accepting the Collaborate invitations that are send from [Microsoft Invitations](mailto:invites@microsoft.com) alias.  More information about blocking the ability to create a new personal Microsoft using a work/school email address is available in this [article](https://cloudblogs.microsoft.com/enterprisemobility/2016/09/15/cleaning-up-the-azure-ad-and-microsoft-account-overlap/).
 
-## Distribution Manager
+### Distribution Manager
 You may receive an error message when you use Distribution Manager. This article contains information to help you troubleshoot these  error messages.
 
-### Cannot Install Application
+#### Cannot Install Application
 
 > Cannot continue.  The application is improperly formatted. <br>
 > Contact the application vendor for assistance. <br>
@@ -92,13 +91,13 @@ This error indicates that [Microsoft .NET Framework 4.6.1 (x86/x64)](https://www
 
 Click on the link to install [Microsoft .NET Framework 4.6.1 (x86/x64)](https://www.microsoft.com/en-us/download/details.aspx?id=49981).
 
-### Cannot Launch Application 
+#### Cannot Launch Application 
 
 > Object reference not set to an instance of an object. <br>
 
 You may receive this error if you recently upgraded from an older version of the application.
 
-#### Fixes/Workarounds
+##### Fixes/Workarounds
 The workaround is to delete the click-once application data.
 
 
