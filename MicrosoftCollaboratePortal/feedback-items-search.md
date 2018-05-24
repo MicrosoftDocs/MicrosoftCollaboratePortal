@@ -1,4 +1,4 @@
----
+e---
 title: Search and Queries
 description: Microsoft Collaborate Feedback items can be bugs, feature requests or any task associated with an engagement. Feedback forms can be customized based on each engagement. 
 author: ikhapova
@@ -19,7 +19,7 @@ On the [All Feedback page](//developer.microsoft.com/dashboard/collaborate/feedb
 
 	![Feedback search window](images/feedback-search.png)
 
-## Saved Queries
+## Types of queries
 
 The Feedback system in MS Collaborate has different types of saved queries.  Feedback queries are an easy way to find work items that meet the criteria you define.  You simply click on the query link and the results list will appear.  You can also save edits to an existing query or use save as to create a new query with a new name.
 
