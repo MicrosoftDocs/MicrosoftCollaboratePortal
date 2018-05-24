@@ -14,9 +14,6 @@ Before you can download content or submit feedback, you need to join an engageme
 
 ## The account signup process
 
-> [!NOTE]
-> In some cases, the screens and fields you see when registering for an account may vary slightly from what is outlined below. The basic information and process will be the same.
-
 1.  Navigate to the [https://aka.ms/collaborate](https://aka.ms/collaborate) page. 
 2.  If you're not already signed in with a Microsoft account, sign in now, or create a new Microsoft account. The Microsoft account you use here will be what you use to sign in to Microsoft Collaborate.
 3.  If you are not enrolled in Microsoft Collaborate the  system will automatically redirect you to the [registration page](https://go.microsoft.com/fwlink/?linkid=851519).
@@ -46,14 +43,14 @@ When creating a company account, we suggest that you follow these guidelines, es
 > To allow multiple users to access your Dev Center account, we recommend using Azure Active Directory to assign roles to individual users. Each user can then access the Dev Center account by signing in with their individual Azure AD credentials. For more info, see [Manage account users](manage-account-users.md).
 
 -   Create your Microsoft account using an email address that doesn't already belong to you or another individual, such as MyCompany_DevCenter@outlook.com. You may not be able to use an email address at your company's domain, especially if your company already uses Azure AD.
--   If you plan to join Windows program for app development in future and want to reuse your dev center account then it is recommended that you enroll to Windows program first and then join Microsoft Collaborate. Otherwise you might have to create separate accounts for these programs.
+-   If you plan to join Windows program for app development in future and want to reuse your dev center account, then it is recommended that you enroll to Windows program first and then join Microsoft Collaborate. Otherwise you might have to create separate accounts for these programs.
 -   Add a company phone number that does not require an extension and is accessible to key team members.
 
 ## How to associate your Dev Center account with Azure Active Directory and manage users
 
 You can use Azure Active Directory to add and manage additional users in your Dev Center account. You can define the role or custom permissions that each user should have. 
 
-In order to add and manage account users, you must first associate your Dev Center account with your organization's Azure Active Directory. 
+You must first associate your Dev Center account with your organization's Azure Active Directory to be able to add and manage users. 
 
 This section describes how to do the following:
 
@@ -61,7 +58,7 @@ This section describes how to do the following:
 -   [Add users, groups, and Azure AD applications to your Dev Center account](add-users-groups-and-azure-ad-applications.md)
 -   [Set roles and custom permissions for account users](set-custom-permissions-for-account-users.md)
 
-> [!NOTE]
+> [!TIP]
 > Dev Center leverages Azure Active Directory for multi-user management and roles assignment. If your organization already uses Office 365 or other business services from Microsoft, you already have an AAD. Otherwise, you can create a new AAD tenant from within Dev Center at no additional charge.
 
 ## How to log in to the MS Collaborate portal
@@ -70,5 +67,5 @@ This section describes how to do the following:
 
 2.	You will be asked for credentials to log in. This is your Dev Center account credentials. If you have more than one account, select the appropriate account that you used to sign up for Dev Center. This can be a Microsoft alias account (MSA) or an Active Directory organization account. If you have not logged in before, you will need to enter your password.
 
-3. After logging in, the Microsoft Collaborate dashboard will appear, showing you the engagements, packages, and feedback you are configured to see. If you are not a member of any programs or engagements, the lists will be blank. You need to be added to an engagement to interact with content or feedback. 
+3. After logging in, the Microsoft Collaborate dashboard will appear, showing you the engagements, packages, and feedback, you are configured to see. If you are not a member of any programs or engagements, the lists will be blank. You need to be added to an engagement to interact with content or feedback. 
 
