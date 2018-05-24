@@ -61,7 +61,7 @@ The Microsoft Collaborate portal provides tools and services to streamline engin
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Programs and Engagements</h3>
+                        <h3>Programs and engagements</h3>
                     </div>
                 </div>
             </div>
@@ -79,7 +79,7 @@ The Microsoft Collaborate portal provides tools and services to streamline engin
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Feedback management</h3>
+                        <h3>Feedback</h3>
                     </div>
                 </div>
             </div>
@@ -97,7 +97,7 @@ The Microsoft Collaborate portal provides tools and services to streamline engin
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Downloading content</h3>
+                        <h3>Downloads</h3>
                     </div>
                 </div>
             </div>
