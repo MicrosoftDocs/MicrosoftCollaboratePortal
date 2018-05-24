@@ -19,13 +19,18 @@ On the [All Feedback page](//developer.microsoft.com/dashboard/collaborate/feedb
 
 	![Feedback search window](images/feedback-search.png)
 
-## How to create queries
+## Saved Feedback queries
 
-There are a few kinds of queries that can be saved with an Engagement. You can open the Engagement to see the Feedback work item types and the queries available.
+The Feedback system in MS Collaborate has different types of saved queries.  Feedback queries are an easy way to find work items that meet the criteria you define.  You simply click on the query link and the results list will appear.  You can also save edits to an existing query or use save as to create a new query with a new name.
 
+You can use use the following types of queries for an engagement or program:
 - **My Queries** are created by you and are visible only to you. This is a private query.
-- **Shared Queries** are created by participant users in the Engagement. This query is visible to all users in the Engagement.
-- **Pre-Defined Queries** are created by the *Engagement Owner* and are available to all in the Engagement. This query is available to all users but is only editable by the *Engagement Owner*.
+- **Shared Queries** are created by program and engagement owners. These queries are visible to all users within an engagement.
+- **Pre-Defined Queries** are managed by the MS Collaborate team.  Contact your engagement owners to recommend changes.
+
+You can open any existing query and use the Save As option to save it to your **My Queries** list or to create a new query from the existing one.
+
+## How to create queries
 
 To create queries, you must be within the context of a specific engagement.  
 
