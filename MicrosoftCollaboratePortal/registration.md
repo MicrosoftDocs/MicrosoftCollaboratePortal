@@ -54,7 +54,7 @@ You must first associate your Dev Center account with your organization's Azure 
 
 This section describes how to do the following:
 
--   [Associate Azure Active Directory with your Dev Center account](associate-azure-ad-with-dev-center.md)
+-   [Associate Azure Active Directory with your Dev Center account](../../windows/uwp/publish/associate-azure-ad-with-dev-center)
 -   [Add users, groups, and Azure AD applications to your Dev Center account](add-users-groups-and-azure-ad-applications.md)
 -   [Set roles and custom permissions for account users](set-custom-permissions-for-account-users.md)
 
