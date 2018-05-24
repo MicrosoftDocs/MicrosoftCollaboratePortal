@@ -40,7 +40,7 @@ Before you can download content or submit feedback, you need to join an engageme
 When creating a company account, we suggest that you follow these guidelines, especially if more than one person needs to access the account.
 
 > [!IMPORTANT]
-> To allow multiple users to access your Dev Center account, we recommend using Azure Active Directory to assign roles to individual users. Each user can then access the Dev Center account by signing in with their individual Azure AD credentials. For more info, see [Manage account users](manage-account-users.md).
+> To allow multiple users to access your Dev Center account, we recommend using Azure Active Directory to assign roles to individual users. Each user can then access the Dev Center account by signing in with their individual Azure AD credentials. For more info, see [Manage account users](/windows/uwp/publish/manage-account-users.md).
 
 -   Create your Microsoft account using an email address that doesn't already belong to you or another individual, such as MyCompany_DevCenter@outlook.com. You may not be able to use an email address at your company's domain, especially if your company already uses Azure AD.
 -   If you plan to join Windows program for app development in future and want to reuse your dev center account, then it is recommended that you enroll to Windows program first and then join Microsoft Collaborate. Otherwise you might have to create separate accounts for these programs.
@@ -54,9 +54,9 @@ You must first associate your Dev Center account with your organization's Azure 
 
 This section describes how to do the following:
 
--   [Associate Azure Active Directory with your Dev Center account](../../windows/uwp/publish/associate-azure-ad-with-dev-center)
--   [Add users, groups, and Azure AD applications to your Dev Center account](../../windows/uwp/publish/add-users-groups-and-azure-ad-applications)
--   [Set roles and custom permissions for account users](../../windows/uwp/publish/set-custom-permissions-for-account-users)
+-   [Associate Azure Active Directory with your Dev Center account](/windows/uwp/publish/associate-azure-ad-with-dev-center)
+-   [Add users, groups, and Azure AD applications to your Dev Center account](/windows/uwp/publish/add-users-groups-and-azure-ad-applications)
+-   [Set roles and custom permissions for account users](/windows/uwp/publish/set-custom-permissions-for-account-users)
 
 > [!TIP]
 > Dev Center leverages Azure Active Directory for multi-user management and roles assignment. If your organization already uses Office 365 or other business services from Microsoft, you already have an AAD. Otherwise, you can create a new AAD tenant from within Dev Center at no additional charge.
