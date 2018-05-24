@@ -13,17 +13,45 @@ The Microsoft Collaborate (MS Collaborate) portal is embedded into the Microsoft
 
 Microsoft Collaborate is available at [https://aka.ms/collaborate](https://aka.ms/collaborate).
 
-## How to register with Microsoft Developer Center
+## The account signup process
 
-There are two ways to register with Dev Center: 
-1. as an individual using a Microsoft Account (MSA), or
-2. as a member of an organization with Azure Active Directory set up.  
+> [!NOTE]
+> In some cases, the screens and fields you see when registering for an account may vary slightly from what is outlined below. The basic information and process will be the same.
 
-Using Azure Active Directory is the preferred method for organizations collaborating with Microsoft.  If the organization is already set up in Dev Center, MS Collaborate simply uses the existing accounts.  
+1.  Navigate to the [https://aka.ms/collaborate](https://aka.ms/collaborate) page. The system will automatically redirect you to the Collaborate registration page.
+2.  If you're not already signed in with a Microsoft account, sign in now, or create a new Microsoft account. The Microsoft account you use here will be what you use to sign in to your developer account.
+3.  Select the country/region in which you live, or where your business is located. You won't be able to change this later.
+4.  Select your account type (individual or company). You won't be able to change this later, so be sure to choose the right type of account.
+5.  Enter the **publisher display name** that you wish to use (50 characters or fewer). Select this carefully, as this name will be used when you interact with Collaborate (download content, submit feedback and etc.). For company accounts, be sure to use your organization's registered business name or trade name. Note that if you enter a name that someone else has already selected, or if it appears that someone else has the rights to use that name, we will not allow you to use that name. 
 
-If your organization has not yet been onboarded to Dev Center, or for additional help, see the following articles:
-- [Opening a developer account](//docs.microsoft.com/en-us/windows/uwp/publish/opening-a-developer-account)
-- [Creating a company account](//docs.microsoft.com/en-us/windows/uwp/publish/opening-a-developer-account#additional-guidelines-for-company-accounts)
+  > [!NOTE]
+  > Make sure you have the rights to use the name you enter here. If someone else has trademarked or copyrighted the name you picked, your account could be closed. See the [App Developer Agreement](https://msdn.microsoft.com/library/windows/apps/Hh694058) for more info. If someone else is using a publisher display name for which you hold the trademark or other legal right, [contact Microsoft](http://go.microsoft.com/fwlink/p/?LinkId=233777).    
+
+6.  Enter the contact info you want to use for your account.
+
+  > [!NOTE]
+  > We'll use this info to contact you about account-related matters. For example, you'll receive an email confirmation message after you complete your registration. After that, we'll send messages when we pay you, or if you need to fix something with your account. We may also send informational emails as described above, unless you opt out of receiving non-transactional emails.
+
+   If you are registering as a company, you'll also need to enter the name, email address, and phone number of the person who will approve your company's account.
+
+7.  Review your account info and confirm that everything is correct. Then, read and accept the terms and conditions of the [Collaborate Agreement](https://go.microsoft.com/fwlink/?linkid=849107). Check the box to indicate you have read and accepted these terms.
+
+8.  Click **Finish** to confirm your registration.  
+
+## Additional guidelines for company accounts
+
+When creating a company account, we suggest that you follow these guidelines, especially if more than one person needs to access the account by using the Microsoft account that opened the account. 
+
+> [!IMPORTANT]
+> To allow multiple users to access your Dev Center account, we recommend using Azure Active Directory to assign roles to individual users. Each user can then access the Dev Center account by signing in with their individual Azure AD credentials. For more info, see [Manage account users](manage-account-users.md).
+
+-   Create your Microsoft account using an email address that doesn't already belong to you or another individual, such as MyCompany_DevCenter@outlook.com. You may not be able to use an email address at your company's domain, especially if your company already uses Azure AD.
+-   Limit access to this Microsoft account to the smallest possible number of users.
+-   Set up a corporate email distribution list that includes everyone who needs to access the developer account, and add this email address to your security info. This allows all of the employees on the list to receive security codes when needed. If setting up a distribution list is not feasible, the owner of the individual email account will need to be available to access and share the security code when prompted (such as when new security info is added to the account, or when it is accessed from a new device).
+-   Add a company phone number that does not require an extension and is accessible to key team members.
+-   In general, have developers use trusted devices to log in to your company's developer account. All key team members should have access to these trusted devices. This will reduce the need for security codes to be sent when accessing the account. There is a limit to the number of codes that can be generated per account, per week.
+-   If you need to allow access to the account from a non-trusted PC, limit that access to a maximum of five developers. Ideally, these developers should access the account from machines that share the same geographical and network location.
+-   Frequently review your company’s security info at [https://account.live.com/proofs/Manage](http://go.microsoft.com/fwlink/p/?LinkID=266648) to make sure it's all current.
 
 ## How to log in to the MS Collaborate portal
 
