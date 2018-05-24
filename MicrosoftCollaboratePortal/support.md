@@ -53,9 +53,32 @@ After going to Dev Center/Collaborate and entering your username and password, y
 #### Why this is happening
 There is a good chance this is happening because your corporate email address is linked to a personal MSA/Live ID (work and personal accounts share the same name), which was a common practice with Microsoft Connect accounts. This practice is no longer supported by Microsoft and could lead to various issues. Please see [this blog post](https://cloudblogs.microsoft.com/enterprisemobility/2016/09/15/cleaning-up-the-azure-ad-and-microsoft-account-overlap/) for more details.
 
-##### Fixes/Workarounds
+#### Fixes/Workarounds
 The workaround is to rename your personal MSA account. See [this article](https://support.microsoft.com/en-us/help/11545/microsoft-account-rename-your-personal-account) for the detailed steps.
 
+## Registration
+
+### Invitations
+If you have been invited to join Dev Center account, you need to accept the invitation before you can access Collaborate portal. If you see an error message similar to shown below, it means that you have two accounts with Microsoft using the same email address. 
+
+> You have been invited to access ... application as ... .<br> 
+> However, we are not able to create this work or school account because ... is a domain that is federated with your on-premises AD.<br> 
+> Please contact your admin to ensure you are properly configured in your on-premises AD and you can re-attempt to accept this invite.<br>
+
+The information below is intended to give you enough info to unblock yourself.
+Microsoft now is limiting usage of personal Microsoft accounts linked to a work/school email address, when the email domain is configured in Azure AD. If users have configured their work accounts as sign-in names for Microsoft account MSA then they would be prevented from accessing Collaborate Portal. In this scenario, users will have to rename their personal Microsoft account, by following [these steps](http://windows.microsoft.com/en-US/Windows/rename-personal-microsoft-account/):
+
+1. Sign in to the [Your Info page](https://account.microsoft.com/profile) of your Microsoft account.
+2. Select **Manage how you sign in to Microsoft**.
+3. Look under the **Account alias** section.
+  * If you already have a personal email address listed there, you can skip this step.
+  * If your work or school email address is the only one listed, enter your personal email address, or get a new one from Microsoft, and select **Add email** or **Add phone number**.
+ 4. If your personal email address does not have **(primary alias)** listed next to it, select **Make primary** to set it as your primary alias.
+ 5. Select **Remove** next to your work email address to remove it from your account.
+
+Going forward, you’ll sign in to your personal Microsoft account with your personal email address. You might need to sign in again to some apps and Windows devices.
+
+Once completed proceed with accepting the Collaborate invitations that are send from [Microsoft Invitations](mailto:invites@microsoft.com) alias.  More information about blocking the ability to create a new personal Microsoft using a work/school email address is available in this [article](https://cloudblogs.microsoft.com/enterprisemobility/2016/09/15/cleaning-up-the-azure-ad-and-microsoft-account-overlap/).
 
 ## Distribution Manager
 You may receive an error message when you use Distribution Manager. This article contains information to help you troubleshoot these  error messages.
@@ -98,8 +121,6 @@ The exact path can be determined by the following steps:
 
 6.	Delete content of the folder
 7.	Restart the application
-
-
 
 
 
