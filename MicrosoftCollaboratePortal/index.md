@@ -97,7 +97,7 @@ The Microsoft Collaborate portal provides tools and services to streamline engin
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Downloads</h3>
+                        <h3>Package downloads</h3>
                     </div>
                 </div>
             </div>
