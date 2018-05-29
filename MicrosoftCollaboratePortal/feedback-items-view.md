@@ -45,11 +45,11 @@ Users can vote on work items submitted by other users.
 
 User can change previously submitted vote any time.
 
-To remove a vote:
+#### To remove a vote:
 1. Open work item from list
 2. Click on the same voting icon you used before
 
-To change a vote:
+#### To change a vote:
 1. Open work item from list
 2. Click on different voting icon compared to the one you used before
 
