@@ -25,21 +25,37 @@ To view feedback from an **Engagement's Feedback** page:
 
 ## How to vote on feedback
 
-1.  Open overview page for the engagement that feedback belongs to
-2.  Scroll to the feedback section and click on **Work Item Type** link to see all work items of that type
-3.  Click on one of the voting icons ![voting](images/voting.png) in the left column
-
-or
-
-3.  Open work item from list
-4.  Click on one of the voting icons ![voting](images/voting.png) 
-
-You can change your vote any time.
+Users can vote on work items submitted by other users.
 
 > [!NOTE]
 > **Prerequisites**: Engagement must have voting configured for the work item. This step is performed by engagement owner.
 
+### How to vote using feedback list view
+
+1. Open overview page for the engagement that feedback belongs to
+2. Scroll to the feedback section and click on **Work Item Type** link to see all work items of that type
+3. Click on one of the voting icons ![voting](images/voting.png) in the left column
+
+### How to vote using work item view
+
+1. Open work item from list
+2. Click on one of the voting icons ![voting](images/voting.png) 
+
+### How to update the vote
+
+User can change previously submitted vote any time.
+
+To remove a vote:
+1. Open work item from list
+2. Click on the same voting icon you used before
+
+To change a vote:
+1. Open work item from list
+2. Click on different voting icon compared to the one you used before
+
 ## How to comment on feedback
+Users can comment on work items they submitted and work items submitted by other users.
+
 1. Open overview page for the engagement that feedback belongs to
 2. Scroll to the feedback section and click on **Work Item Type** link to see all work items of that type
 3. Open work item from the list and scroll to the bottom of the page
