@@ -36,6 +36,6 @@ Follow the steps below to de-identify feedback work item and/or any comments you
 
 ## How to de-identify all feedback submitted by you
 
-Users can de-deidentify all feedback they submitted using **[Privacy Response Center](aka.ms/privacyresponse)**.
-More information on GDPR, and how Microsoft can help GDPR compliance journey, is available at [Microsoft.com/GDPR](Microsoft.com/GDPR).
+Users can de-deidentify all feedback they submitted using **[Privacy Response Center](https://aka.ms/privacyresponse)**.
+More information on GDPR, and how Microsoft can help GDPR compliance journey, is available at [Microsoft.com/GDPR](https://Microsoft.com/GDPR).
 
