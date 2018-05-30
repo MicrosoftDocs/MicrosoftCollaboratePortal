@@ -13,10 +13,10 @@ When feedback form allows modifications, users can manually update form fields t
 Users can also change their votes, and de-identify feedback and comments.
 
 > [!NOTE]
-> Engagement feedback form can be configured as:
+> 
+> How feedback form is configured depends on engagement. Engagement owner can setup feedback as: <br>
 > * view only after submission
-> * view and update after submission <br>
-> This step is performed by engagement owner.
+> * view and update after submission
 
 ## How to update the vote
 
@@ -37,6 +37,6 @@ Follow the steps below to de-identify feedback work item and/or any comments you
 
 ## How to de-identify all feedback submitted by you
 
-Users can de-deidentify all feedback they submitted using **[Privacy Response Center][aka.ms/privacyresponse]**.
+Users can de-deidentify all feedback they submitted using **[Privacy Response Center](aka.ms/privacyresponse)**.
 More information on GDPR, and how Microsoft can help GDPR compliance journey, is available at [Microsoft.com/GDPR](Microsoft.com/GDPR).
 
