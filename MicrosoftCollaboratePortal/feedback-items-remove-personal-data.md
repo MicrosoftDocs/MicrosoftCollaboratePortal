@@ -21,7 +21,7 @@ Users can also change their votes, and de-identify feedback and comments.
 ## How to update the vote
 
 User can change previously submitted vote any time.
-Read more: [How to update the vote](feedback-items-view#how-to-update-the-vote.md)
+Read more: [How to update the vote](feedback-items-view.md#how-to-update-the-vote)
 
 ## How to de-identify a feedback work item and comments
 
