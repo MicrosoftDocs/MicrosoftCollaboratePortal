@@ -56,12 +56,12 @@ User can change previously submitted vote any time.
 ## How to comment on feedback
 Users can comment on work items they submitted and work items submitted by other users.
 
+> [!NOTE]
+> **Prerequisite**: Engagement must have commenting configured for the work item. This step is performed by engagement owner.
+
 1. Open overview page for the engagement that feedback belongs to
 2. Scroll to the feedback section and click on **Work Item Type** link to see all work items of that type
 3. Open work item from the list and scroll to the bottom of the page
 4. Enter comment into the **Post Comment** section and click **Submit Comment** button.
 
 > You cannot modify or remove submitted comments.
-
-> [!NOTE]
-> **Prerequisites**: Engagement must have commenting configured for the work item. This step is performed by engagement owner.
