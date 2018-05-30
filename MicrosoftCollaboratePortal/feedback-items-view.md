@@ -28,7 +28,7 @@ To view feedback from an **Engagement's Feedback** page:
 Users can vote on work items submitted by other users.
 
 > [!NOTE]
-> **Prerequisites**: Engagement must have voting configured for the work item. This step is performed by engagement owner.
+> **Prerequisite**: Engagement must have voting configured for the work item. This step is performed by engagement owner.
 
 ### How to vote using feedback list view
 
