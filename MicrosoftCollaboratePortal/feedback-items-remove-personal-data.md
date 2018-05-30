@@ -28,8 +28,8 @@ Read more:
 
 Follow the steps below to de-identify feedback work item and/or any comments you submitted for this work item.
 
-1. Open the work item you want to de-identify
-2. Click on **De-identify** link in the right corner in the bottom of the form
+1. Open the work item
+2. Click on **De-identify** link in bottom of the form on the right
 3. Press **Confirm** to proceed when system prompts for confirmation
 
 > [!IMPORTANT]
