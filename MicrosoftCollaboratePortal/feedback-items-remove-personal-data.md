@@ -33,7 +33,7 @@ Follow the steps below to de-identify feedback work item and/or any comments you
 3. Press **Confirm** to proceed when system prompts for confirmation
 
 > [!IMPORTANT]
-> You cannot de-identify individual comments or work item only. De-identify will unlink your account from both the feedback work item and any comments you submitted for this particular work item.
+> You cannot de-identify individual comments or work item only. De-identify will unlink your account from both the feedback work item and any comments you submitted for this work item.
 
 ## How to de-identify all feedback submitted by you
 
