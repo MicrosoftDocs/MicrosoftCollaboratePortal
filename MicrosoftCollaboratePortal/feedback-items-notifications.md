@@ -28,7 +28,7 @@ Perform these steps to review or modify notifications setup for an engagament:
 1. Click on the engagaments icon on the dashboard
 2. Open engagement from the list bu clicking on its name
 3. Click **Notification** button
-4. Find subscription *A work item I created is changed*
+4. Find *A work item I created is changed* in the list of available subscriptions
 5. Check **Subscribe** field if you would like to receive notifications for your feedback
 6. Uncheck **Subscribe** field if you no longer need to receive notifications for your feedback
 
