@@ -25,7 +25,7 @@ Users can configure preferred e-mail address and choose which types of notificat
 
 Perform these steps to review or modify notifications setup for an engagement.
 
-1. Click on the engagaments icon on the dashboard
+1. Click on the engagements icon on the dashboard
 2. Open engagement from the list by clicking on its name
 3. Click **Notification** button
 4. Find *A work item I created is changed* in the list of available subscriptions
@@ -33,7 +33,7 @@ Perform these steps to review or modify notifications setup for an engagement.
 6. Uncheck **Subscribe** field if you no longer need to receive notifications for your feedback
 
 >[!TIP]
-> By default users receive notifications for the feedback they submitted. 
+> By default, users receive notifications for the feedback they submitted. 
 
 ## How to setup notification for a work item
 
@@ -46,14 +46,14 @@ Perform these steps to subscribe to notifications for a specific work item.
 Perform these steps to unsubscribe to notifications for a specific work item.
 
 1. Open work item
-2. Click on the ![Eye](images/eye-blue.png) **Eye** icon again to cancel further notifications (**UnFollow** work item).
+2. Click on the ![Eye](images/eye-blue.png) **Eye** icon again to cancel further notifications (**Unfollow** work item).
 3. Not that icon color has changed back to black and tooltip shows *Follow Work Item*
 
 ## How to get notified when a work item is assigned to your organization
 
 Perform these steps to review or modify notifications for the work items that are assigned to your organization.
 
-1. Click on the engagaments icon on the dashboard
+1. Click on the engagements icon on the dashboard
 2. Open engagement from the list by clicking on its name
 3. Click **Notification** button
 4. Find *A work item is assigned to my organization* in the list of available subscriptions
@@ -61,4 +61,4 @@ Perform these steps to review or modify notifications for the work items that ar
 6. Uncheck **Subscribe** field if you no longer wish to receive notifications for organization
 
 >[!NOTE]
-> Availability of this functionality depends on how feedback form is configured for an engaagment. This step is performed by the engagement owner.
+> Availability of this functionality depends on how feedback form is configured for an engagement. This step is performed by the engagement owner.
