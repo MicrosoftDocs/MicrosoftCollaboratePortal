@@ -46,7 +46,7 @@ Perform these steps to subscribe to notifications for a specific work item.
 Perform these steps to unsubscribe to notifications for a specific work item.
 
 1. Open work item
-2. Click on the ![Eye](images/eye.png) **Eye** icon again cancel notifications (**UnFollow** work item).
+2. Click on the ![Eye](images/eye-blue.png) **Eye** icon again to cancel further notifications (**UnFollow** work item).
 3. Not that icon color has changed back to black and tooltip shows *Follow Work Item*
 
 ## How to setup notification for work items that are assigned to your organization
