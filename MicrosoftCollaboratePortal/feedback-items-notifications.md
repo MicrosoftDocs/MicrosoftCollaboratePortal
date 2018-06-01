@@ -23,7 +23,7 @@ Users can configure preferred e-mail address and choose which types of notificat
 
 ## How to setup notification for feedback that you submitted
 
-Perform these steps to review or modify notifications setup for an engagament:
+Perform these steps to review or modify notifications setup for an engagement.
 
 1. Click on the engagaments icon on the dashboard
 2. Open engagement from the list bu clicking on its name
@@ -36,6 +36,18 @@ Perform these steps to review or modify notifications setup for an engagament:
 > By default users receive notifications for the feedback they submitted. 
 
 ## How to setup notification for a work item
+
+Perform these steps to subscribe to notifications for a specific work item.
+
+1. Open work item
+2. Click on the ![Eye](images/eye.png) **Eye** icon to receive notifications (**Follow** work item).
+3. Not that icon color has changed to blue and tooltip shows *Unfollow Work Item*
+
+Perform these steps to unsubscribe to notifications for a specific work item.
+
+1. Open work item
+2. Click on the ![Eye](images/eye.png) **Eye** icon again cancel notifications (**UnFollow** work item).
+3. Not that icon color has changed back to black and tooltip shows *Follow Work Item*
 
 ## How to setup notification for work items that are assigned to your organization
 
