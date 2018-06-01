@@ -4,7 +4,7 @@ description: Microsoft Collaborate Feedback items can be bugs, feature requests 
 author: ikhapova
 ms.author: ikhapova
 ms.date: 05/25/2018
-keywords: feedback, engagements, work items, bugs, feature requests, Collaborate permissions, Microsoft Connect, SysDev Bug, Dev Center bugs 
+keywords: feedback, engagements, work items, bugs, feature requests, Collaborate permissions, Dev Center bugs 
 ---
 
 # Remove personal data
@@ -36,6 +36,6 @@ Follow the steps below to de-identify feedback work item and/or any comments you
 
 ## How to de-identify all feedback submitted by you
 
-Users can de-deidentify all feedback they submitted using **[Privacy Response Center](https://aka.ms/privacyresponse)**.
-More information on GDPR, and how Microsoft can help GDPR compliance journey, is available at [Microsoft.com/GDPR](https://Microsoft.com/GDPR).
+Users can de-identify all feedback they submitted using **[Privacy Response Center](https://aka.ms/privacyresponse)**.
+More information on GDPR is available at [Microsoft.com/GDPR](https://Microsoft.com/GDPR).
 
