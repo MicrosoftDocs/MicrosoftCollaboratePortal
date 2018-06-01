@@ -15,7 +15,7 @@ Users can setup alerts to be notifies when a work item changes. For example, you
 
 Users can configure preferred e-mail address and choose which types of notifications to receive.
 
-1. Open notifications preferences by selecting **My preferences** item from the ![Settings](images/settings.png) **Settings** menu in the upper right corner or by clicking the [My preferences](https://developer.microsoft.com/en-us/dashboard/engagement/preference).
+1. Open notifications preferences by selecting [**My preferences**](https://developer.microsoft.com/en-us/dashboard/engagement/preference) item from the ![Settings](images/settings.png) **Settings** menu in the upper right corner.
 2. Verify that **Preferred e-mail address** is correct. Change if needed.
 3. Click on **Microsoft Collaborate** under **Notification preferences**.
 4. Find *Work Item Management* in the list and check **Email** field.
