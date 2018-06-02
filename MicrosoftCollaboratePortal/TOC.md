@@ -10,5 +10,6 @@
 ### [Submit and Manage](feedback-items-manage.md)
 ### [Search and Queries](feedback-items-search.md)
 ### [Export](feedback-items-export.md)
-### [Remove Personal Data](feedback-items-remove-personal-data.md )
+### [Remove Personal Data](feedback-items-remove-personal-data.md)
+### [Notifications](feedback-items-notifications.md)
 ## [Support](support.md)
