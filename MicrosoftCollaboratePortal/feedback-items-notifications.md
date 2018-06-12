@@ -9,7 +9,7 @@ keywords: feedback, notifications, work items, bugs, feature requests
 
 # Notifications
 
-Users can setup alerts to be notifies when a work item changes. For example, you can set an alert to be notified whenever a bug that you opened is resolved or a work item is assigned to your organization.
+Users can setup alerts to be notified when a work item changes. For example, you can set an alert to be notified whenever a bug that you opened is resolved or a work item is assigned to your organization.
 
 ## How to configure notification preferences
 
