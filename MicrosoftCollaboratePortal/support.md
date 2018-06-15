@@ -61,7 +61,11 @@ The workaround is to rename your personal MSA account. See [this article](https:
 
 > We could not validate your identity as a global administrator. Make sure you're able to sign in with a global administrator account for the Azure AD tenant you want to associate.
 
-The error indicates that a user is signed in with a work account (AAD) that does not have administrator priviliges. Follow the [instructions](https://docs.microsoft.com/en-us/collaborate/registration) to register using Microsoft Account.
+The error indicates that a user is signed in with a work account (AAD) that does not have administrator priviliges. 
+
+#### Fixes/Workarounds
+
+Follow the [instructions](https://docs.microsoft.com/en-us/collaborate/registration) to register using Microsoft Account.
 
 Check out the [Azure Identity](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/understand-azure-identity-solutions#terms-to-know) article to learn more about global administor role.
 
