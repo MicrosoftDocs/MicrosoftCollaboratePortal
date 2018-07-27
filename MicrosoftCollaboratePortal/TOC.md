@@ -1,7 +1,7 @@
 # [Microsoft Collaborate Docs](index.md)
 ## [Introduction](intro-to-mscollaborate.md)
 ## [Registration](registration.md)
-## [Term of Use](terms-of-use.md)
+## [Terms of Use](terms-of-use.md)
 ## [Managing users](managing-org-users.md)
 ## [Programs & Engagements](programs.md)
 ## [Package downloads](package-downloads.md)
