@@ -9,7 +9,7 @@ hide_comments: true
 ---
 
 # Microsoft Collaborate Terms of Use 
-Updated: July 2018
+Updated: *July 2018*
 
 ## 1. ACCEPTANCE OF TERMS OF USE
 Microsoft provides you with access to a variety of resources on this web site, comprised of documents, images, videos and other content ("Content"); software such as pre-release software, developer tools, computer code, and sample code ("Software"); and communication forums and other services ("Services"). For clarity, Software does not include any Content.  The Content, Software, Services and all other aspects of this web site are subject to these Terms of Use (“terms”). Microsoft reserves the right to update these terms at any time without notice to you. The applicable and most current version of the terms can be reviewed by clicking on the "Terms of Use" hypertext link located at the bottom of our web pages.
@@ -17,23 +17,24 @@ Microsoft provides you with access to a variety of resources on this web site, c
 By accessing or using this web site in any way, you agree to and are bound by the terms. If you are agreeing to these terms on behalf on an entity, such as your employer, you represent that you have the legal authority to bind that entity.  If you specify a company in connection with accessing this website and agreeing to the terms, you will be deemed to agree to these terms on behalf of that organization or company.  If you do not agree to all of the terms contained herein, do not access or use this web site.
 
 ## 2. PRIVACY 
-Your privacy is important to us. By using the Software, Service and Content, you agree that Microsoft may collect, use, and disclose the information as described in the Microsoft Privacy Statement (aka.ms/privacy), and as may be described in the user interface associated with the Software or on the web site.  
+Your privacy is important to us. By using the Software, Service and Content, you agree that Microsoft may collect, use, and disclose the information as described in the [Microsoft Privacy Statement](http://aka.ms/privacy), and as may be described in the user interface associated with the Software or on the web site.  
 
 ## 3. SOFTWARE
 All Software that is made available from the web site is the copyrighted work of Microsoft or its suppliers and is licensed, not sold.  Your use of Software is governed by the license terms, if any, which accompany or are included with the Software.  If no Microsoft license is presented to you for Software, these terms apply.  The Software or Services may include third-party code. Any third-party scripts or code, linked to or referenced from the software or website, are licensed to you by the third parties that own such code, not by Microsoft. Notices, if any, for the third-party code are included for your information only.
 
-Pre-Release Software:  If this web site provides any preview, insider, beta or other pre-release Software (“Pre-release Software”) and does not include a Microsoft license agreement, subject to the terms of this agreement you may use the Pre-release Software on your premises solely to design, develop, and test your programs for use with the Pre-release Software.  You may not test the Pre-release Software in a live operating environment unless Microsoft permits you to do so under another agreement. You may not disclose the results of any benchmark tests of the Pre-release Software to any third party without Microsoft’s prior written approval.  Pre-release Software may not work the way a final version of it will.  Pre-release Software may be substantially different from the commercially released version.  Microsoft also may not release a commercial version.
+**Pre-Release Software:**  If this web site provides any preview, insider, beta or other pre-release Software (“Pre-release Software”) and does not include a Microsoft license agreement, subject to the terms of this agreement you may use the Pre-release Software on your premises solely to design, develop, and test your programs for use with the Pre-release Software.  You may not test the Pre-release Software in a live operating environment unless Microsoft permits you to do so under another agreement. You may not disclose the results of any benchmark tests of the Pre-release Software to any third party without Microsoft’s prior written approval.  Pre-release Software may not work the way a final version of it will.  Pre-release Software may be substantially different from the commercially released version.  Microsoft also may not release a commercial version.
 
-Sample Software:  If this web site provides any Software marked as "sample" or “example” (“Sample Software”) and does not include a Microsoft license agreement, then it is licensed to you under the terms of the MIT license set forth below in Section 19.
+**Sample Software:**  If this web site provides any Software marked as "sample" or “example” (“Sample Software”) and does not include a Microsoft license agreement, then it is licensed to you under the terms of the MIT license set forth below in Section 19.
 
-Other Software Without Separate Terms:  If this web site provides any Software other than Pre-release Software and Sample Software and does not include a Microsoft license agreement, subject to the terms of this agreement you may use it solely to design, develop and test your programs to run on Microsoft products and services. 
+**Other Software Without Separate Terms:**  If this web site provides any Software other than Pre-release Software and Sample Software and does not include a Microsoft license agreement, subject to the terms of this agreement you may use it solely to design, develop and test your programs to run on Microsoft products and services. 
+
 ## 4. CONTENT
 All Content is the copyrighted work of Microsoft or its suppliers. Your use of the Content is governed by license terms, if any, which accompany or are included with the Content.
 
 If any Content is made available to you on this web site without a license agreement, then subject to the terms of this agreement you may make a reasonable number of copies of the Content for your internal use, solely for the purposes of our business relationship with each other. You must preserve the copyright notice set forth below in all copies of the Content and ensure that both the copyright notice and this permission notice appear in those copies.
 
-Copyright Notice:
-© 2018 Microsoft Corporation. All rights reserved.
+> **Copyright Notice:**
+> © 2018 Microsoft Corporation. All rights reserved.
 
 Except as provided above in this section, no portion of the web site may be copied, imitated, published, transmitted, broadcast or distributed, in whole or in part.  
 
