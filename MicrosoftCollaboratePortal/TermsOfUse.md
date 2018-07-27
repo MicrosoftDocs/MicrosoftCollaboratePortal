@@ -33,13 +33,14 @@ All Content is the copyrighted work of Microsoft or its suppliers. Your use of t
 
 If any Content is made available to you on this web site without a license agreement, then subject to the terms of this agreement you may make a reasonable number of copies of the Content for your internal use, solely for the purposes of our business relationship with each other. You must preserve the copyright notice set forth below in all copies of the Content and ensure that both the copyright notice and this permission notice appear in those copies.
 
-> **Copyright Notice:**
+> **Copyright Notice:**<br>
 > © 2018 Microsoft Corporation. All rights reserved.
 
 Except as provided above in this section, no portion of the web site may be copied, imitated, published, transmitted, broadcast or distributed, in whole or in part.  
 
 ## 5. RESERVATION OF RIGHTS
 Microsoft reserves all rights not expressly granted under these terms, and no other rights are granted under these terms of use by implication or estoppel or otherwise.
+
 Microsoft may have patents, patent applications, trademarks, copyrights, or other intellectual property rights covering subject matter in the Content, Software or Services.  Except as expressly provided in any written license agreement from Microsoft, the furnishing of Content, Software or Services does not give you any license to these patents, trademarks, copyrights, or other intellectual property.
 
 ## 6. CONFIDENTIAL INFORMATION, DATA, AND PERSONAL INFORMATION
@@ -48,12 +49,12 @@ Certain portions of this web site are accessible only to users who are invited t
 If you have a non-disclosure agreement (“NDA”) with Microsoft, then the terms of that NDA govern your confidentiality obligations with respect to confidential information. If no NDA exists between you and Microsoft, you agree that for a period of five years from the time you accessed this confidential information, you may not disclose this confidential information to any third party. This restriction will not apply to any information that is or becomes publicly available without a breach of this restriction, was lawfully known to the receiver of the information without an obligation to keep it confidential, is received from another source who can disclose it lawfully and without an obligation to keep it confidential, or is independently developed. You may disclose this confidential information if required to comply with a court order or other government demand that has the force of law. Before doing so, you must seek the highest level of protection available and, when possible, give Microsoft enough prior notice to provide a reasonable chance to seek a protective order.
 
 As part of the Content or Services, Microsoft may, at its discretion, provide you with error reporting or other data (“Data”). If you have an applicable agreement with Microsoft that governs sharing of Data and Personal Information (“Data Terms”), then the Data Terms govern your obligations with respect to such exchange.  If no Data Terms exist between you and Microsoft, then:
-•	You agree to use Data solely for the purpose of testing and resolving compatibility or quality issues related to how your product works with Microsoft products or services, and not to disclose Data for any purpose; 
-•	If Microsoft exposes you to any Personal Information, then between you and Microsoft, that Personal Information is confidential information of Microsoft;
-•	If the Data provided to you includes any Personal Information, you agree to delete such Personal Information within thirty (30) days after receipt, and to return to Microsoft or destroy that information immediately upon Microsoft’s request;  
-•	During such thirty (30) days, you must store any Personal Information only on a secure server with access to such server limited to you, or if an entity, your regular employees. In addition, you must take any action reasonably requested by Microsoft related to this Data if necessary for Microsoft to comply with its legal obligations;  
-•	If you are served with a court order compelling disclosure of any Personal Information, you will oppose the order, will notify Microsoft of such order, and will provide Microsoft the opportunity to intervene before you file any response to the order; and 
-•	You agree to conduct an audit on at least an annual basis to verify your compliance with the terms of this section.
+*	You agree to use Data solely for the purpose of testing and resolving compatibility or quality issues related to how your product works with Microsoft products or services, and not to disclose Data for any purpose; 
+*	If Microsoft exposes you to any Personal Information, then between you and Microsoft, that Personal Information is confidential information of Microsoft;
+*	If the Data provided to you includes any Personal Information, you agree to delete such Personal Information within thirty (30) days after receipt, and to return to Microsoft or destroy that information immediately upon Microsoft’s request;  
+*	During such thirty (30) days, you must store any Personal Information only on a secure server with access to such server limited to you, or if an entity, your regular employees. In addition, you must take any action reasonably requested by Microsoft related to this Data if necessary for Microsoft to comply with its legal obligations;  
+*	If you are served with a court order compelling disclosure of any Personal Information, you will oppose the order, will notify Microsoft of such order, and will provide Microsoft the opportunity to intervene before you file any response to the order; and 
+*	You agree to conduct an audit on at least an annual basis to verify your compliance with the terms of this section.
 
 In addition, you may not provide Personal Information to Microsoft through the Services other than, at your discretion, business contact information, unless Microsoft permits you to do so under the Data Terms or another agreement. As used herein, “Personal Information" means any information relating to an identified or identifiable natural person; an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.  
 
@@ -62,22 +63,25 @@ If any of the Services requires you to open an account, you must complete the re
 
 ## 8. PROHIBITED USES
 As a condition of your use of the Software, Content, and Services, you will not use them for any purpose that is unlawful or prohibited by these terms, conditions, and notices. You may not reverse engineer, decompile, disassemble or work around technical limitations in the Software, Content and Services, except to the extent that applicable law permits it despite these limitations.  You may not disable, tamper with or otherwise attempt to circumvent any restriction or mechanism that limits your use of the Software, Content, and Services.  You may not use the Software, Content, and Services in any manner that could damage, disable, overburden, or impair any Microsoft server, or the network(s) connected to any Microsoft server, or interfere with any other party's use and enjoyment of any Services. You may not attempt to gain unauthorized access to any Services, other accounts, computer systems or networks connected to any Microsoft server or to any of the Services, through hacking, password mining or any other means. You may not obtain or attempt to obtain any materials or information through any means not intentionally made available through the Services.  You may not publish, rent, lease, lend, sell, distribute, transfer, or sublicense any Software, Content, and Services or portion thereof, except as explicitly permitted herein or in license terms that accompany any Software or Services component.
+
 The Services may contain communities, notification services, and/or other message or communication facilities designed to enable you to communicate with others or share Submissions ("Communication Services"). You agree to use the Communication Services only to receive messages and material that are proper and, when applicable, related to the particular Communication Service. By way of example, and not as a limitation, you agree that when using the Communication Services, you will not:
-•	Use the Communication Services in connection with surveys, contests, pyramid schemes, chain letters, junk email, spamming or any duplicative or unsolicited messages (commercial or otherwise).
-•	Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others.
-•	Publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory, obscene, indecent or unlawful topic, name, material or information.
-•	Upload, or otherwise make available, files that contain images, photographs, software or other material protected by intellectual property laws, including, by way of example, and not as limitation, copyright or trademark laws (or by rights of privacy or publicity) unless you own or control the rights thereto or have received all necessary consent to do the same.
-•	Use any material or information, including images or photographs, which are made available through the Services in any manner that infringes any copyright, trademark, patent, trade secret, or other proprietary right of any party.
-•	Upload files that contain viruses, Trojan horses, worms, time bombs, cancelbots, corrupted files, or any other similar software or programs that may damage the operation of another's computer or property of another.
-•	Advertise or offer to sell or buy any goods or services for any business purpose, unless such Communication Services specifically allows such messages.
-•	Download any file posted by another user of a Communication Service that you know, or reasonably should know, cannot be legally reproduced, displayed, performed, and/or distributed in such manner.
-•	Falsify or delete any copyright management information, such as author attributions, legal or other proper notices or proprietary designations or labels of the origin or source of software or other material contained in a file that is uploaded.
-•	Restrict or inhibit any other user from using and enjoying the Communication Services.
-•	Violate any code of conduct or other guidelines which may be applicable for any particular Communication Service.
-•	Harvest or otherwise collect information about others, including e-mail addresses.
-•	Violate any applicable laws or regulations.
-•	Create a false identity for the purpose of misleading others.
-•	Use, download or otherwise copy, or provide (whether or not for a fee) to a person or entity any directory of users of the Services or other user or usage information or any portion thereof.
+
+*	Use the Communication Services in connection with surveys, contests, pyramid schemes, chain letters, junk email, spamming or any duplicative or unsolicited messages (commercial or otherwise).
+*	Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others.
+*	Publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory, obscene, indecent or unlawful topic, name, material or information.
+*	Upload, or otherwise make available, files that contain images, photographs, software or other material protected by intellectual property laws, including, by way of example, and not as limitation, copyright or trademark laws (or by rights of privacy or publicity) unless you own or control the rights thereto or have received all necessary consent to do the same.
+*	Use any material or information, including images or photographs, which are made available through the Services in any manner that infringes any copyright, trademark, patent, trade secret, or other proprietary right of any party.
+*	Upload files that contain viruses, Trojan horses, worms, time bombs, cancelbots, corrupted files, or any other similar software or programs that may damage the operation of another's computer or property of another.
+*	Advertise or offer to sell or buy any goods or services for any business purpose, unless such Communication Services specifically allows such messages.
+*	Download any file posted by another user of a Communication Service that you know, or reasonably should know, cannot be legally reproduced, displayed, performed, and/or distributed in such manner.
+*	Falsify or delete any copyright management information, such as author attributions, legal or other proper notices or proprietary designations or labels of the origin or source of software or other material contained in a file that is uploaded.
+*	Restrict or inhibit any other user from using and enjoying the Communication Services.
+*	Violate any code of conduct or other guidelines which may be applicable for any particular Communication Service.
+*	Harvest or otherwise collect information about others, including e-mail addresses.
+*	Violate any applicable laws or regulations.
+*	Create a false identity for the purpose of misleading others.
+*	Use, download or otherwise copy, or provide (whether or not for a fee) to a person or entity any directory of users of the Services or other user or usage information or any portion thereof.
+
 Microsoft has no obligation to monitor the Communication Services. However, Microsoft reserves the right to review materials posted to the Communication Services and to remove any materials in its sole discretion.
 
 Microsoft reserves the right at all times to disclose any information as Microsoft deems necessary to satisfy any applicable law, regulation, legal process or governmental request, or to edit, refuse to post or to remove any information or materials, in whole or in part, in Microsoft's sole discretion.
@@ -98,9 +102,10 @@ IN NO EVENT SHALL MICROSOFT OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INDIRECT
 ## 12. SUBMISSIONS 
 Microsoft does not claim ownership of code, content, comments, feedback, suggestions, information or materials that you provide via this web site or any Services ("Submission") under these terms.  However, unless otherwise agreed to in a separate agreement between the parties, by providing a Submission you irrevocably grant Microsoft and its affiliated companies the right to make, use, modify, distribute and otherwise commercialize the Submission in any way and for any purpose and no compensation will be paid with respect to the use of your Submissions.  Unless otherwise agreed to in a separate agreement between the parties, by providing a Submission you warrant that you own or otherwise control all of the rights to your Submission and that your Submission is not subject to a license or other obligation that requires Microsoft to grant or pass through any rights or make any disclosures or payments to third parties. These rights survive these terms and are granted under all applicable intellectual property rights you own or control.   You may not deliver any Submission on this web site to Microsoft, or any third party, in whole or in part, that is governed by an Excluded License.  “Excluded License” is any license that requires, as a condition of use, modification and/or distribution of software subject to the Excluded License, that such software and/or other software combined and/or distributed with such software be: 
 
-•	disclosed or distributed in source code form; 
-•	licensed for the purpose of making derivative works; or 
-•	redistributable at no charge. 
+*	disclosed or distributed in source code form; 
+*	licensed for the purpose of making derivative works; or 
+*	redistributable at no charge. 
+
 Microsoft is under no obligation to post or use any Submission, and Microsoft may remove any Submission at any time.  
 
 ## 13. TERMINATION
