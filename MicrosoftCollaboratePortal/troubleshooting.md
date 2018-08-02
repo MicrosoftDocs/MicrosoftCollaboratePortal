@@ -57,8 +57,8 @@ Finding global administrator can be be a difficult task, especially if organizat
 3. Select **Roles and Administrtors** in the second left menu
 4. Find **Global Administrator** role in the list and click to view members
 
-Check out these articles to learn more about global administrator role.
-* [Understand Azure identity solutions](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/understand-azure-identity-solutions#terms-to-know)
+Check out these articles to learn more about Global Administrator role.
+* [Understanding Azure identity solutions](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/understand-azure-identity-solutions#terms-to-know)
 * [View members and descriptions of administrator roles in Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/directory-manage-roles-portal)
 
 ### Invitations
