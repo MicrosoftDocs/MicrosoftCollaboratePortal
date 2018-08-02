@@ -70,15 +70,18 @@ Check out these articles to learn more about **Global Administrator** role.
 
 ##### Using PowerShell
 1. Launch Windows Powershell console as Administrator
-2. If you have never installed Azure AD module for Powershell, execute this command
+2. If you have never installed Azure AD module for Powershell, execute this command <br>
+
 ```
     Install-Module AzureAD
 ```
-3. Execute these commands to view list of Global Administrators
+
+3. Execute these commands to view list of Global Administrators <br>
+
 ```  
-    Connect-AzureAD
-    $role = Get-AzureADDirectoryRole | Where-Object {$_.displayName -eq 'Company Administrator'}
-    Get-AzureADDirectoryRoleMember -ObjectId $role.ObjectId | Where-Object {$_.ObjectType -eq 'User'} | Get-AzureADUser
+    Connect-AzureAD  
+    $role = Get-AzureADDirectoryRole | Where-Object {$_.displayName -eq 'Company Administrator'} 
+    Get-AzureADDirectoryRoleMember -ObjectId $role.ObjectId | Where-Object {$_.ObjectType -eq 'User'} | Get-AzureADUser 
 ```
 
 >[!NOTE]
