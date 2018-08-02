@@ -56,8 +56,8 @@ Finding global administrator can be be a difficult task, especially if organizat
 
 >[!NOTE]
 >
-> You must sign in with your organizational account to use Azure portal.<br>
-> You will not be able to use **Azure Portal** if your organization decided to restrict user access.
+> You must sign in with your organizational account to use **Azure Portal**. <br>
+> You will not be able to use **Azure Portal** if your organization decided to restrict user access for non-administrators.
 
 1. Navigate to [Azure Portal](https://portal.azure.com)
 2. Select [Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview) in the first left menu
