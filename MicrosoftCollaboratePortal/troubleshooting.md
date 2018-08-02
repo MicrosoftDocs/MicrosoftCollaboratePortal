@@ -64,6 +64,10 @@ Finding global administrator can be be a difficult task, especially if organizat
 >
 > You must sign in with your organizational account to use Azure portal.<br>
 
+>[!NOTE]
+>
+> You will not be able to use **Azure Portal** if your organization decided to restrict user access.
+
 Check out these articles to learn more about **Global Administrator** role.
 * [Understanding Azure identity solutions](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/understand-azure-identity-solutions#terms-to-know)
 * [View members and descriptions of administrator roles in Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/directory-manage-roles-portal)
