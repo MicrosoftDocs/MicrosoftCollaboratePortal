@@ -50,7 +50,7 @@ The error indicates that a user is signed in with a work account (AAD) that does
 Follow the [instructions](https://docs.microsoft.com/en-us/collaborate/registration) to register using Microsoft Account.
 
 #### How to find Global Administrator for your Organization
-Finding global administrator can be be a difficult task, especially if organization is big and office are located in multiple countries. 
+Finding **Global Administrator** can be be a difficult task, especially if organization is big and office are located in multiple countries. 
 
 ##### Using **Azure Portal**:
 
@@ -82,7 +82,7 @@ Check out these articles to learn more about **Global Administrator** role.
 ```
     Install-Module AzureAD
 ```
-3. Execute these commands to view list of Global Administrators <br>
+3. Execute these commands to view members of **Global Administrator** role <br>
 
 ```  
     Connect-AzureAD  
