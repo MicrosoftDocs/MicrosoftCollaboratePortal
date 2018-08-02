@@ -47,10 +47,19 @@ The workaround is to rename your personal MSA account. See [this article](https:
 The error indicates that a user is signed in with a work account (AAD) that does not have administrator privileges. 
 
 #### Fixes/Workarounds
-
 Follow the [instructions](https://docs.microsoft.com/en-us/collaborate/registration) to register using Microsoft Account.
 
-Check out the [Azure Identity](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/understand-azure-identity-solutions#terms-to-know) article to learn more about global administor role.
+#### How to find Global Administrator for your Organization
+Finding global administrator can be be a difficult task, especially if organization is big and office are located in multiple countries. You can find this information using [Azure portal](https://portal.azure.com):
+
+1. Navigate to [Azure portal](https://portal.azure.com)
+2. Select [Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview) in the first left menu
+3. Select **Roles and Administrtors** in the second left menu
+4. Find **Global Administrator** role in the list and click to view members
+
+Check out these articles to learn more about global administrator role.
+* [Understand Azure identity solutions](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/understand-azure-identity-solutions#terms-to-know)
+* [View members and descriptions of administrator roles in Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/directory-manage-roles-portal)
 
 ### Invitations
 If you have been invited to join Dev Center account, you need to accept the invitation before you can access Collaborate portal. If you see an error message similar to shown below, it means that you have two accounts with Microsoft using the same email address. 
