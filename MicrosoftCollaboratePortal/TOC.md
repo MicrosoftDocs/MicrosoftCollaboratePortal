@@ -1,7 +1,6 @@
 # [Microsoft Collaborate Docs](index.md)
 ## [Introduction](intro-to-mscollaborate.md)
 ## [Registration](registration.md)
-## [Terms of Use](terms-of-use.md)
 ## [Managing users](managing-org-users.md)
 ## [Programs & Engagements](programs.md)
 ## [Package downloads](package-downloads.md)
@@ -13,4 +12,7 @@
 ### [Export](feedback-items-export.md)
 ### [Remove Personal Data](feedback-items-remove-personal-data.md)
 ### [Notifications](feedback-items-notifications.md)
-## [Support](support.md)
+## Resources
+### [Support](support.md)
+### [Troubleshooting](troubleshooting.md)
+### [Terms of Use](terms-of-use.md)
