@@ -52,8 +52,8 @@ Follow the [instructions](https://docs.microsoft.com/en-us/collaborate/registrat
 #### How to find Global Administrator for your Organization
 Finding global administrator can be be a difficult task, especially if organization is big and office are located in multiple countries. 
 
-##### Using [Azure portal](https://portal.azure.com):
-1. Navigate to [Azure portal](https://portal.azure.com)
+##### Using **Azure Portal**:
+1. Navigate to [Azure Portal](https://portal.azure.com)
 2. Select [Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview) in the first left menu
 3. Select **Roles and Administrtors** in the second left menu
 4. Find **Global Administrator** role in the list and click to view members
