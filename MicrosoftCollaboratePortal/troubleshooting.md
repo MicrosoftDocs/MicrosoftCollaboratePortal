@@ -76,13 +76,13 @@ Check out these articles to learn more about **Global Administrator** role.
 >
 > You must sign in with your organizational account to connect to Azure AD using PowerShell.<br>
 
-1. Launch Windows Powershell console as Administrator
-2. If you have never installed Azure AD module for Powershell, execute this command <br>
+1.  Launch Windows Powershell console as Administrator
+2.  If you have never installed Azure AD module for Powershell, execute this command <br>
 
 ```
     Install-Module AzureAD
 ```
-3. Execute these commands to view members of **Global Administrator** role <br>
+3.  Execute these commands to view members of **Global Administrator** role <br>
 
 ```  
     Connect-AzureAD  
