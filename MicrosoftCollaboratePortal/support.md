@@ -4,7 +4,7 @@ description: How to get support and troubleshoot common issues.
 author: mimcco
 ms.author: mimcco
 ms.date: 02/06/2018
-keywords: support, troubeshooting, registration, access, accounts, feedback
+keywords: support, troubeshooting
 ---
 
 # How to Get Support
@@ -12,8 +12,9 @@ This page provides instructions on how to get support with Microsoft Collaborate
 
 ## Support Options
 1. If you are not sure how to do something in Microsoft Collaborate, review the [Documentation and Guidance](https://docs.microsoft.com/en-us/collaborate/) for the area you have questions about.
-2. If something is not working the way you expect, check the [Troubleshooting Guide](https://docs.microsoft.com/en-us/collaborate/troubleshooting) to see if your issue is included.
-3. If you have a question or issue, such as getting access to specific content,  related to the specific program you are participating in, contact the program administrators.
+2. If your question or issue is related to a specific program or engagement, check their support options first. This information is available on the program and engagement overview pages respectively.
+3. If something is not working the way you expect, check the [Troubleshooting Guide](https://docs.microsoft.com/en-us/collaborate/troubleshooting) to see if your issue is described.
+4. Contact support team if none of the above resolved the issue. 
 
 ## Live Chat
 If none of the above answers your question or resolves your issue, contact Dev Center Customer Support at https://aka.ms/dcsupport.
