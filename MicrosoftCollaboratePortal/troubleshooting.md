@@ -53,6 +53,12 @@ Follow the [instructions](https://docs.microsoft.com/en-us/collaborate/registrat
 Finding global administrator can be be a difficult task, especially if organization is big and office are located in multiple countries. 
 
 ##### Using **Azure Portal**:
+
+>[!NOTE]
+>
+> You must sign in with your organizational account to use Azure portal.<br>
+> You will not be able to use **Azure Portal** if your organization decided to restrict user access.
+
 1. Navigate to [Azure Portal](https://portal.azure.com)
 2. Select [Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview) in the first left menu
 3. Select **Roles and Administrtors** in the second left menu
@@ -60,19 +66,16 @@ Finding global administrator can be be a difficult task, especially if organizat
 
 ![Roles and Administrators](images/aad-global-admin.png)
 
->[!NOTE]
->
-> You must sign in with your organizational account to use Azure portal.<br>
-
->[!NOTE]
->
-> You will not be able to use **Azure Portal** if your organization decided to restrict user access.
-
 Check out these articles to learn more about **Global Administrator** role.
 * [Understanding Azure identity solutions](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/understand-azure-identity-solutions#terms-to-know)
 * [View members and descriptions of administrator roles in Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/directory-manage-roles-portal)
 
 ##### Using PowerShell
+
+>[!NOTE]
+>
+> You must sign in with your organizational account to connect to Azure AD using PowerShell.<br>
+
 1. Launch Windows Powershell console as Administrator
 2. If you have never installed Azure AD module for Powershell, execute this command <br>
 
@@ -86,10 +89,6 @@ Check out these articles to learn more about **Global Administrator** role.
     $role = Get-AzureADDirectoryRole | Where-Object {$_.displayName -eq 'Company Administrator'} 
     Get-AzureADDirectoryRoleMember -ObjectId $role.ObjectId | Where-Object {$_.ObjectType -eq 'User'} | Get-AzureADUser 
 ```
-
->[!NOTE]
->
-> You must sign in with your organizational account to connect to Azure AD using PowerShell.<br>
 
 Check out these articles to learn more about **PowerShell** and **Azure AD Module**.
 * [Installing Windows PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/setup/installing-windows-powershell?view=powershell-6)
