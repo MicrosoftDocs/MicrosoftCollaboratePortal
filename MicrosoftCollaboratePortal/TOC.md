@@ -13,4 +13,6 @@
 ### [Export](feedback-items-export.md)
 ### [Remove Personal Data](feedback-items-remove-personal-data.md)
 ### [Notifications](feedback-items-notifications.md)
-## [Support](support.md)
+## Resources
+### [Support](support.md)
+### [Troubleshooting](troubleshooting.md)
