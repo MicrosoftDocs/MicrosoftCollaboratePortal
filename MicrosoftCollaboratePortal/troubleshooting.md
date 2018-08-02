@@ -47,10 +47,53 @@ The workaround is to rename your personal MSA account. See [this article](https:
 The error indicates that a user is signed in with a work account (AAD) that does not have administrator privileges. 
 
 #### Fixes/Workarounds
-
 Follow the [instructions](https://docs.microsoft.com/en-us/collaborate/registration) to register using Microsoft Account.
 
-Check out the [Azure Identity](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/understand-azure-identity-solutions#terms-to-know) article to learn more about global administor role.
+#### How to find Global Administrator for your Organization
+Finding **Global Administrator** can be be a difficult task, especially if organization is big and office are located in multiple countries. 
+
+##### Using **Azure Portal**:
+
+>[!NOTE]
+>
+> You must sign in with your organizational account to use **Azure Portal**. <br>
+> You will not be able to use **Azure Portal** if your organization decided to restrict user access for non-administrators.
+
+1. Navigate to [Azure Portal](https://portal.azure.com)
+2. Select [Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview) in the first left menu
+3. Select **Roles and Administrtors** in the second left menu
+4. Find **Global Administrator** role in the list and click to view members
+
+![Roles and Administrators](images/aad-global-admin.png)
+
+Check out these articles to learn more about **Global Administrator** role.
+* [Understanding Azure identity solutions](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/understand-azure-identity-solutions#terms-to-know)
+* [View members and descriptions of administrator roles in Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/directory-manage-roles-portal)
+
+##### Using PowerShell
+
+>[!NOTE]
+>
+> You must sign in with your organizational account to connect to Azure AD using PowerShell.<br>
+
+1.  Launch Windows Powershell console as Administrator
+2.  If you have never installed Azure AD module for Powershell, execute this command <br>
+
+```
+    Install-Module AzureAD
+```
+3.  Execute these commands to view members of **Global Administrator** role <br>
+
+```  
+    Connect-AzureAD  
+    $role = Get-AzureADDirectoryRole | Where-Object {$_.displayName -eq 'Company Administrator'} 
+    Get-AzureADDirectoryRoleMember -ObjectId $role.ObjectId | Where-Object {$_.ObjectType -eq 'User'} | Get-AzureADUser 
+```
+
+Check out these articles to learn more about **PowerShell** and **Azure AD Module**.
+* [Installing Windows PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/setup/installing-windows-powershell?view=powershell-6)
+* [Installing the Azure AD Module
+](https://docs.microsoft.com/en-us/powershell/azure/active-directory/install-adv2?view=azureadps-2.0#installing-the-azure-ad-module)
 
 ### Invitations
 If you have been invited to join Dev Center account, you need to accept the invitation before you can access Collaborate portal. If you see an error message similar to shown below, it means that you have two accounts with Microsoft using the same email address. 
@@ -115,6 +158,4 @@ The exact path can be determined by the following steps:
 
 6.	Delete content of the folder
 7.	Restart the application
-
-
 

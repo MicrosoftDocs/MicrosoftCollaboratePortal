@@ -13,6 +13,6 @@
 ### [Remove Personal Data](feedback-items-remove-personal-data.md)
 ### [Notifications](feedback-items-notifications.md)
 ## Resources
+### [Terms of Use](terms-of-use.md)
 ### [Support](support.md)
 ### [Troubleshooting](troubleshooting.md)
-### [Terms of Use](terms-of-use.md)
