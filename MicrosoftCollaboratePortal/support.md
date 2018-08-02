@@ -13,7 +13,7 @@ This page provides instructions on how to get support with Microsoft Collaborate
 ## Support Options
 1. If you are not sure how to do something in Microsoft Collaborate, review the [Documentation and Guidance](https://docs.microsoft.com/en-us/collaborate/) for the area you have questions about.
 2. If your question or issue is related to a specific program or engagement, check their support options first. This information is available on the program and engagement overview pages respectively.
-3. If something is not working the way you expect, check the [Troubleshooting Guide](https://docs.microsoft.com/en-us/collaborate/troubleshooting) to see if your issue is described.
+3. If something is not working the way you expect, check the [Troubleshooting Guides](https://docs.microsoft.com/en-us/collaborate/troubleshooting) to see if your issue is described.
 4. Contact support team if none of the above resolved the issue. 
 
 ## Live Chat
