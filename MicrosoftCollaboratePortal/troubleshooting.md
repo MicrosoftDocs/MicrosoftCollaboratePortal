@@ -75,7 +75,6 @@ Check out these articles to learn more about **Global Administrator** role.
 ```
     Install-Module AzureAD
 ```
-
 3. Execute these commands to view list of Global Administrators <br>
 
 ```  
