@@ -39,4 +39,4 @@ You can also submit an incident via e-mail using Customer Support site.
 
 >[!NOTE]
 >
-> You must sign in with Microsoft Account to submit an incident<br>
+> You must sign in with a Microsoft Account to submit an incident<br>
