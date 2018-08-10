@@ -68,7 +68,7 @@ Once the user is added to the list, the user can begin accessing the engagement 
 An organization's Power Users can only search for users within their own organization's Dev Center account.  For Engagement Owners, if the engagement has named organizations, the search for users will be limited to users within the named organizations.
 
 If the users are not appearing in the search results for your engagement:
-- check whether the user has been added to the organization’s Azure Active Directory (AAD) in Dev Center.  If not, have your organization's Dev Center admin add the user to your AAD and to the MS Collaborate program.
+- verify if users have been added to the organization’s account in Dev Center. If not, work with the **Administrator** of your organization account to add missing users. See [Add users to your Dev Center account](https://docs.microsoft.com/en-us/windows/uwp/publish/add-users-groups-and-azure-ad-applications#add-users-to-your-dev-center-account) article for the detailed instructions.
 - It is possible that the organization has more than one Dev Center organization account (seller ID) in Dev Center.  Be sure the appropriate organization has been added to the engagement and that the appropriate users are in that organization.  If the organization is incorrect, please contact your Microsoft Engagement Owner.
 	
 ## How to remove users
