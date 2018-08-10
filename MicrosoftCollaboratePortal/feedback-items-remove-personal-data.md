@@ -39,3 +39,7 @@ Follow the steps below to de-identify feedback work item and/or any comments you
 Users can de-identify all feedback they submitted using **[Privacy Response Center](https://aka.ms/privacyresponse)**.
 More information on GDPR is available at [Microsoft.com/GDPR](https://Microsoft.com/GDPR).
 
+## How to leave an organization as a guest user
+
+A user, who previously accepted **invitation** from an organization to partcipate in Collaborate, can decide to leave organization at any time if access is no longer needed. A user can leave an organization on their own, without having to contact an administrator.
+See [Leave an Organization](https://docs.microsoft.com/en-us/azure/active-directory/b2b/leave-the-organization#leave-an-organization) for detailed instructions.
