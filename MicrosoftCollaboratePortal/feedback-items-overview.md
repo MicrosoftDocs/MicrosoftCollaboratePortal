@@ -31,8 +31,8 @@ When you onboard to MS Collaborate, you accept the terms of use covering the fee
 
 In collaboration engagements, a legal agreement must exist between the parties in order for them to collaborate. You may be asked to accept a legal agreement or terms of use before you access the engagement for the first time.  As a member of the engagement, you will be able to see the other organizations participating in the collaboration. Users can assign the bug to a specific organization to indicate the “partner on point.”  However, users will only see the names of other users in their organization.  Other organizations will not have access to the users list.
 
-## Universal Partner ID
+## Universal ID
 
-The Universal Partner ID is an ID provided by the MS Collaborate feedback system and is shared with all users who have access to the work item. This ID is the ID within the MS Collaborate system and is not the specific ID of any feature team engineering system. This new universal ID facilitates multi-party collaborations so there is one common ID used by all parties.
+The **Universal ID** is an ID provided by the MS Collaborate feedback system and is shared with all users who have access to the work item. This ID is the identifier within the MS Collaborate system and is not the specific identifier of any feature team engineering systems. This new **Universal ID** facilitates multi-party collaborations so there is one common identifier used by all parties.
 
 Your engagement owner may decide to also include additional fields showing the specific ID in the engineering system (for example, a VSTS ID). 
