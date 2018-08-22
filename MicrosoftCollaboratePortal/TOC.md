@@ -16,3 +16,4 @@
 ### [Terms of Use](terms-of-use.md)
 ### [Support](support.md)
 ### [Troubleshooting](troubleshooting.md)
+### [How to find Global Administrator](troubleshooting.md#how-to-find-global-administrator-for-your-organization)
