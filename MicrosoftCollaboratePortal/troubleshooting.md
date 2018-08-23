@@ -117,6 +117,17 @@ Going forward, you’ll sign in to your personal Microsoft account with your per
 
 Once completed proceed with accepting the Collaborate invitations that are send from [Microsoft Invitations](mailto:invites@microsoft.com) alias.  More information about blocking the ability to create a new personal Microsoft using a work/school email address is available in this [article](https://cloudblogs.microsoft.com/enterprisemobility/2016/09/15/cleaning-up-the-azure-ad-and-microsoft-account-overlap/).
 
+## Access
+
+### User cannot see packages and/or engagements he/she has access to
+Most users belong to a single AAD tenant and single account within DevCenter. Users, that exist in several AAD tenants and/or accounts in DevCenter, might need to manully select specific AAD tenant and/or account to get access to resources.
+
+#### How to select an AAD tenant
+Click on the badge icon in the upper right corner of the screen. You will see a list of available AAD tenants if you exist in more than one AAD tenant. 
+
+#### How to select specific account for an AAD tenant
+Account name is shown in the left navigation pane above list of programs available for this account. Click on the currently displayed account name to open a list of available accounts for the selected AAD tenant.
+
 ## Distribution Manager
 You may receive an error message when you use Distribution Manager. This article contains information to help you troubleshoot these  error messages.
 
