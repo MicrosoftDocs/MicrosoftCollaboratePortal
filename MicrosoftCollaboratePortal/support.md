@@ -22,8 +22,6 @@ This page provides instructions on how to get support with Microsoft Collaborate
   * Select **Dashboard Issue** for the **Developer Support Topic** dropdown
   * Select **Collaborate** for the **Issue Type**
 
-![Customer Support](images/customer-support.png) 
-
 ### Live Chat
   * Click **Chat Now** under **Choose how to contact us**
 
@@ -37,3 +35,6 @@ This page provides instructions on how to get support with Microsoft Collaborate
 >[!NOTE]
 >
 > You must sign in to submit an incident.<br>
+
+![Customer Support](images/customer-support.png) 
+
