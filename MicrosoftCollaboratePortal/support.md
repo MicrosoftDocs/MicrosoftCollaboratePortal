@@ -18,23 +18,23 @@ This page provides instructions on how to get support with Microsoft Collaborate
 
 ## Customer Support
   * Navigate to https://aka.ms/dcsupport.
+  * **Sign in**  
   * Click **Contact Us**
   * Select **Dashboard Issue** for the **Developer Support Topic** dropdown
   * Select **Collaborate** for the **Issue Type**
 
+>[!NOTE]
+>
+> You must sign in to chat or to submit an incident.<br>
+
 ### Live Chat
+
   * Click **Chat Now** under **Choose how to contact us**
 
->[!NOTE]
->
-> You must sign in to chat.<br>
-
 ### Submit an Incident
+
   * Click [**Submit an Incident**](https://support.microsoft.com/en-us/supportrequestform/83cdfd8d-c24a-fbe4-fb2a-3fead30613a9) under **Choose how to contact us**
-  
->[!NOTE]
->
-> You must sign in to submit an incident.<br>
+ 
 
 ![Customer Support](images/customer-support.png) 
 
