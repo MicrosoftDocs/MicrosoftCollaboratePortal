@@ -9,7 +9,7 @@ keywords: feedback, engagements, work items, bugs, feature requests, Collaborate
 
 # Feedback
 
-##Overview 
+## Overview 
 
 The [Feedback Hub](https://support.microsoft.com/en-us/help/4021566/windows-10-send-feedback-to-microsoft-with-feedback-hub-app) is a common mechanism for submitting bugs, issues and suggestions to Microsoft.  For organizations that are collaborating with Microsoft, MS Collaborate provides additional functionality that enables organizations and users to collaborate on feedback work items. Feedback can be configured in different ways to enable the functionality needed to support each specific collaboration.  
 
