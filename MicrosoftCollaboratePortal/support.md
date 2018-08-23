@@ -2,9 +2,9 @@
 title: Support and Troubleshooting
 description: How to get support and troubleshoot common issues.
 author: mimcco
-ms.author: mimcco
+ms.author: ikhapova
 ms.date: 02/06/2018
-keywords: support, troubeshooting
+keywords: support, troubleshooting
 ---
 
 # How to Get Support
@@ -21,6 +21,8 @@ This page provides instructions on how to get support with Microsoft Collaborate
   * Click **Contact Us**
   * Select **Dashboard Issue** for the **Developer Support Topic** dropdown
   * Select **Collaborate** for the **Issue Type**
+
+![Customer Support](images/customer-support.png) 
 
 ### Live Chat
   * Click **Chat Now** under **Choose how to contact us**
