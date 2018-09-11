@@ -56,12 +56,6 @@ The Office PIPC program is now hosted on [Microsoft Collaborate](https://aka.ms/
 ### Fast (Connect Site ID 898)
 The Fast program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact fastcsrv@microsoft.com.
 
-### WARP (Connect Site ID 1388)
-The WARP program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact warphelp@microsoft.com.
-
-### eWARP (Connect Site ID 1398)
-The eWARP program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact msews@microsoft.com.
-
 ### Microsoft Office (Connect Site ID 160)
 The Microsoft Office program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact officeconnectteam@microsoft.com.
 
