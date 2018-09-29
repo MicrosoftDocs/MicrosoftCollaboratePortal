@@ -9,7 +9,7 @@
         "exclude": [
           "**/obj/**",
           "**/includes/**",
-          "**/_themes/**", 
+          "**/_themes/**",
           "**/_themes.pdf/**",
           "README.md",
           "LICENSE",
@@ -35,7 +35,9 @@
     "globalMetadata": {
       "breadcrumb_path": "/collaborate/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "searchScope": ["Collaborate"],
+      "searchScope": [
+        "Collaborate"
+      ],
       "feedback_system": "GitHub",
       "feedback_github_repo": "MicrosoftDocs/MicrosoftCollaboratePortal",
       "feedback_product_url": "https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal/issues",
@@ -46,6 +48,7 @@
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "MicrosoftCollaboratePortal"
+    "dest": "MicrosoftCollaboratePortal",
+    "markdownEngineName": "markdig"
   }
 }

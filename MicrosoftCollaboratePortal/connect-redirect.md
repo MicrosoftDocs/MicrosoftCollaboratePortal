@@ -33,10 +33,10 @@ For Dynamics 365 for Finance and Operations, Enterprise edition and Dynamics AX 
 For Dynamics 365 for Sales, Dynamics 365 for Marketing, and Dynamics CRM please go to [Dynamics Insider](https://experience.dynamics.com/Account/Login/Register?returnUrl=%2Finsider%2F) and register there. 
 
 ### Designed for XBOX (Connect Site ID 1314)
-The Designed for XBOX program is now hosted on Microsoft Collaborate (http://aka.ms/strata-d4xbox). If you have any questions about your program membership or access to Collaborate, please contact D4XBizDev@microsoft.com.
+The Designed for XBOX program is now hosted on Microsoft Collaborate (<http://aka.ms/strata-d4xbox>). If you have any questions about your program membership or access to Collaborate, please contact D4XBizDev@microsoft.com.
 
 ### Designed for Surface (Connect Site ID 1342)
-The Designed for Surface program is now hosted on Microsoft Collaborate (http://aka.ms/strata-dfs). If you have any questions about your program membership or access to Collaborate, please contact DFSBizDev@microsoft.com.
+The Designed for Surface program is now hosted on Microsoft Collaborate (<http://aka.ms/strata-dfs>). If you have any questions about your program membership or access to Collaborate, please contact DFSBizDev@microsoft.com.
 
 ### Skype Business Services (Connect Site ID 355)
 The Skype Business Services program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact the program administrators.

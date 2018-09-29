@@ -35,9 +35,9 @@ See [Register with Microsoft Collaborate](registration.md) for more information 
 
 > [!NOTE]
 > MS Collaborate uses the same Dev Center account as other programs in Dev Center.  The company you choose is important if your company or organization will also enroll in Dev Center programs that require bank account or certificate information.  
-
+> 
 > If your organization uses Azure Active Directory (AAD) in Dev Center, you need to onboard the users to Dev Center in your AAD account.
-
+> 
 > If you belong to multiple Dev Center organizations, you may need to switch your sign in to the organization that is onboarded to the MS Collaborate engagement you want to see.
 
 ## How to add users

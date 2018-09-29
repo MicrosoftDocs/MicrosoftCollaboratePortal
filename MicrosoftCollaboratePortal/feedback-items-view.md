@@ -20,8 +20,8 @@ To view feedback in the **All Feedback** page:
 To view feedback from an **Engagement's Feedback** page:
 1. Open engagement overview page.
 2. Scroll to the feedback section and select one of the following:
- - Select the Work Item Type link to see all work items of that type
- - Select one of the queries to view work items specific to the query
+   - Select the Work Item Type link to see all work items of that type
+   - Select one of the queries to view work items specific to the query
 
 ## How to vote on feedback
 
