@@ -14,26 +14,26 @@ Before you can download content or submit feedback, you need to join an engageme
 
 ## The account signup process
 
-1. Navigate to the [https://aka.ms/collaborate](https://aka.ms/collaborate) page. 
-2. If you're not already signed in with a Microsoft account, sign in now, or create a new Microsoft account. The Microsoft account you use here will be what you use to sign in to Microsoft Collaborate.
-3. If you are not enrolled in Microsoft Collaborate the  system will automatically redirect you to the [registration page](https://go.microsoft.com/fwlink/?linkid=851519).
-4. Select the country/region in which you live, or where your business is located. You won't be able to change this later.
-5. Select your account type (individual or company). You won't be able to change this later, so be sure to choose the right type of account.
-6. Enter the **publisher display name** that you wish to use (50 characters or fewer). Select this carefully, as this name will be used when you interact with Collaborate (download content, submit feedback and etc.). For company accounts, be sure to use your organization's registered business name or trade name. Note that if you enter a name that someone else has already selected, or if it appears that someone else has the rights to use that name, we will not allow you to use that name. 
+1.  Navigate to the [https://aka.ms/collaborate](https://aka.ms/collaborate) page. 
+2.  If you're not already signed in with a Microsoft account, sign in now, or create a new Microsoft account. The Microsoft account you use here will be what you use to sign in to Microsoft Collaborate.
+3.  If you are not enrolled in Microsoft Collaborate the  system will automatically redirect you to the [registration page](https://go.microsoft.com/fwlink/?linkid=851519).
+4.  Select the country/region in which you live, or where your business is located. You won't be able to change this later.
+5.  Select your account type (individual or company). You won't be able to change this later, so be sure to choose the right type of account.
+6.  Enter the **publisher display name** that you wish to use (50 characters or fewer). Select this carefully, as this name will be used when you interact with Collaborate (download content, submit feedback and etc.). For company accounts, be sure to use your organization's registered business name or trade name. Note that if you enter a name that someone else has already selected, or if it appears that someone else has the rights to use that name, we will not allow you to use that name. 
 
-   > [!NOTE]
-   > Make sure you have the rights to use the name you enter here. If someone else has trademarked or copyrighted the name you picked, your account could be closed. If someone else is using a publisher display name for which you hold the trademark or other legal right, [contact Microsoft](http://go.microsoft.com/fwlink/p/?LinkId=233777).    
+  > [!NOTE]
+  > Make sure you have the rights to use the name you enter here. If someone else has trademarked or copyrighted the name you picked, your account could be closed. If someone else is using a publisher display name for which you hold the trademark or other legal right, [contact Microsoft](http://go.microsoft.com/fwlink/p/?LinkId=233777).    
 
-7. Enter the contact info you want to use for your account.
+7.  Enter the contact info you want to use for your account.
 
-   > [!NOTE]
-   > We'll use this info to contact you about account-related matters. For example, you'll receive an email confirmation message after you complete your registration.
+  > [!NOTE]
+  > We'll use this info to contact you about account-related matters. For example, you'll receive an email confirmation message after you complete your registration.
 
    If you are registering as a company, you'll also need to enter the name, email address, and phone number of the person who will approve your company's account.
 
-8. Review your account info and confirm that everything is correct. Then, read and accept the terms and conditions of the [Collaborate Agreement](https://go.microsoft.com/fwlink/?linkid=849107). Check the box to indicate you have read and accepted these terms.
+8.  Review your account info and confirm that everything is correct. Then, read and accept the terms and conditions of the [Collaborate Agreement](https://go.microsoft.com/fwlink/?linkid=849107). Check the box to indicate you have read and accepted these terms.
 
-9. Click **Finish** to confirm your registration.  
+9.  Click **Finish** to confirm your registration.  
 
 ## Additional guidelines for company accounts
 
@@ -42,9 +42,9 @@ When creating a company account, we suggest that you follow these guidelines, es
 > [!IMPORTANT]
 > To allow multiple users to access your Dev Center account, we recommend using Azure Active Directory to assign roles to individual users. Each user can then access the Dev Center account by signing in with their individual Azure AD credentials. For more info, see [Manage account users](/windows/uwp/publish/manage-account-users).
 
-- Create your Microsoft account using an email address that doesn't already belong to you or another individual, such as MyCompany_DevCenter@outlook.com. You may not be able to use an email address at your company's domain, especially if your company already uses Azure AD.
-- If you plan to join Windows program for app development in future and want to reuse your dev center account, then it is recommended that you enroll to Windows program first and then join Microsoft Collaborate. Otherwise you might have to create separate accounts for these programs.
-- Add a company phone number that does not require an extension and is accessible to key team members.
+-   Create your Microsoft account using an email address that doesn't already belong to you or another individual, such as MyCompany_DevCenter@outlook.com. You may not be able to use an email address at your company's domain, especially if your company already uses Azure AD.
+-   If you plan to join Windows program for app development in future and want to reuse your dev center account, then it is recommended that you enroll to Windows program first and then join Microsoft Collaborate. Otherwise you might have to create separate accounts for these programs.
+-   Add a company phone number that does not require an extension and is accessible to key team members.
 
 ## How to associate your Dev Center account with Azure Active Directory and manage users
 
