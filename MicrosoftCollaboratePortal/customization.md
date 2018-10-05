@@ -13,14 +13,14 @@ You can customize Microsoft Collaborate to better meet you needs.
 
 ## Saved Feedback queries
 
-The Feedback system in MS Collaborate has different types of saved queries.  Feedback queries are an easy way to find work items that meet the criteria you define.  You simply click on the query link and the results list will appear.  You can also save edits to an existing query or use save as to create a new query with a new name.
+The Feedback system in MS Collaborate has different types of saved queries.  Feedback queries are an easy way to find work items that meet the criteria you define.  You simply click on the query link and the results list will appear.  You can also save edits to an existing query or use **save as** to create a new query with a new name.
 
 You can use use the following types of queries for an engagement or program:
 - **My Queries** are only available to you.  
 - **Shared Queries** are available to all users in an engagement or program, making it easier for users to have the same query results
 - **Pre-Defined Queries** are provided by the MS Collaborate system and are common queries useful to all. 
 
-You can open any existing query and use the Save As option to save it to your **My Queries** list or to create a new query from the existing one.
+You can open any existing query and use the **Save As** option to save it to your **My Queries** list or to create a new query from the existing one.
 
 Program and Engagement Owners can create and modify the **Shared Queries**.  The **Pre-Defined Queries** are managed by the MS Collaborate team.  Contact your Engagement Owners to recommend changes.  
 
