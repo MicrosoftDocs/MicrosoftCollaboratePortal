@@ -13,6 +13,8 @@ The Microsoft Collaborate system uses **Engagements** to define the permissions/
 
 At this time, only Microsoft users can manage programs and engagements.  Non-Microsoft users can be Participants and Power Users.
 
+## Roles in Collaborate
+
 MS Collaborate has the following membership roles:
 
 Role | Scope of permissions | Description
