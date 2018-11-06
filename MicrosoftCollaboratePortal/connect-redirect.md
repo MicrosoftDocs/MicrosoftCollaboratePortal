@@ -20,7 +20,7 @@ Visit [Download Center](https://www.microsoft.com/download) if you are looking f
 
 [Microsoft Docs](https://docs.microsoft.com) is the home for Microsoft documentation for end users, developers, and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
 
-## Programs Moving to Other Tools
+## Where to Find Connect Programs
 
 ### SQL Server (Connect Site ID 68)
 Effective January 1, 2018, the community feedback feature of the Microsoft Connect site for SQL Server has been replicated in [UserVoice](https://feedback.azure.com/forums/908035-sql-server) for the convenience of the community. We have captured all current/active public feedback for SQL Server that was entered into Microsoft Connect and transferred it into the new forum to help customers find relevant and active matching suggestions.
