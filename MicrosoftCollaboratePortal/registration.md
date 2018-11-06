@@ -23,12 +23,12 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 
 ![Get Started](images/PartnerCenterDirectory.png)
 
-  > ![TIP]
+  > [!TIP]
   >  If you get an error message **We could not validate your identity as a global administrator** you cannot continue registration. You can try to [find global administrator](troubleshooting#how-to-find-global-administrator-for-your-organization) for your organization or sign out and then sign in again using **Microsoft Account**.
 
 4.  The link will take you to the **Account info** page. 
 
-  > ![TIP]
+  > [!TIP]
   > If you signed in with the existing Partner Center account the page will contain information from that account. You can modify **Publisher display name** and **Contact info** if needed.
   
 5.  Select the country/region in which you live, or where your business is located. You won't be able to change this later.
