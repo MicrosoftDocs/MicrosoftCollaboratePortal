@@ -9,63 +9,23 @@ hide_comments: true
 ---
 
 # Microsoft Connect Has Been Retired
-You have reached this page because you’ve tried to access the Microsoft Connect portal. After nearly 10 years, Microsoft Connect has been retired in favor of new tools and services that will continue to allow you to engage with Microsoft. If you are a member of an active Connect program, your program has either closed or moved to one of these tools or services. Identify your program below to get status and next steps.
 
-## Programs Moving to [Microsoft Collaborate](https://aka.ms/collaborate)
+You have reached this page because you’ve tried to access the Microsoft Connect portal. After nearly 10 years, Microsoft Connect has been retired in favor of new tools and services.
 
-### Windows EEAP (Connect Site ID 1304)
-The EEAP program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). By now, all companies targeted for participation in the EEAP for 2018 have been notified of the move to Collaborate and given instruction on how to register. If you do not have access to Collaborate and believe you should, please contact your Microsoft engagement owner.
+## Microsoft Download Center
 
-### Windows Client and Server TAP (Connect Site ID 997)
-The Windows Client and Server TAP programs are now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). Contact osnext@microsoft.com if you have not registered.
+Visit [Download Center](https://www.microsoft.com/download) if you are looking for a package that was previoulsy available in Connect.
 
-### Security Update Validation Program - SUVP (Connect Site ID: 6)
-The Security Update Validation Program (SUVP) is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact SUVProg@microsoft.com.
+## Microsoft Docs
 
-### Microsoft Custom Support (Connect Site ID 83)
-Microsoft Custom Support is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). All users that were on Connect should have received instructions on how to access the program. If you have any questions or issues, please start with your TAM.
+[Microsoft Docs](https://docs.microsoft.com) is the home for Microsoft documentation for end users, developers, hardware manufacturers and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
 
-### Microsoft Dynamics 365 (Connect Site ID 687)
-For Dynamics 365 for Finance and Operations, Business edition and Dynamics NAV please get in touch with dyn365bep@microsoft.com to get onboarded to early engagement programs on Microsoft Collaborate.
+## Where to Find Connect Programs
 
-For Dynamics 365 for Finance and Operations, Enterprise edition and Dynamics AX please get in touch with daxcf@microsoft.com to get access to VHDs.
-
-For Dynamics 365 for Sales, Dynamics 365 for Marketing, and Dynamics CRM please go to [Dynamics Insider](https://experience.dynamics.com/Account/Login/Register?returnUrl=%2Finsider%2F) and register there. 
-
-### Designed for XBOX (Connect Site ID 1314)
-The Designed for XBOX program is now hosted on Microsoft Collaborate (http://aka.ms/strata-d4xbox). If you have any questions about your program membership or access to Collaborate, please contact D4XBizDev@microsoft.com.
-
-### Designed for Surface (Connect Site ID 1342)
-The Designed for Surface program is now hosted on Microsoft Collaborate (http://aka.ms/strata-dfs). If you have any questions about your program membership or access to Collaborate, please contact DFSBizDev@microsoft.com.
-
-### Skype Business Services (Connect Site ID 355)
-The Skype Business Services program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact the program administrators.
-
-### Microsoft Auto (Connect Site ID 383)
-The Microsoft Auto program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact msftauto@microsoft.com.
-
-### StorSimple Partners (Connect Site ID 1328)
-The StorSimple Partners program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact the program administrators.
-
-### Microsoft Learning Experiences - SME Program / LEX Content development (Connect Site ID 862)
-The Worldwide Learning (formerly Learning Experiences) SME Profile program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). See the Born to Learn blog post [Help Us Create Exams and Learning Content! Join our SME Database Today!](https://borntolearn.mslearn.net/b/weblog/posts/help-us-create-exams-and-learning-content-join-our-sme-database-today) for instructions on accessing the program on Collaborate.
-
-### Office PIPC (Connect Site ID 846)
-The Office PIPC program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact the program administrators.
-
-### Fast (Connect Site ID 898)
-The Fast program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact fastcsrv@microsoft.com.
-
-### Microsoft Office (Connect Site ID 160)
-The Microsoft Office program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact officeconnectteam@microsoft.com.
-
-### Azure Active Directory Connection (Connect Site ID 1164)
-The Azure Active Directory Connection program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact the program administrators.
-
-## Programs Moving to Other Tools
+In case your Connect program is not listed below it may be discontinued or operates as “invitation only”. If you can't find your program, please get in touch with your Microsoft contact for further information regarding program availability.
 
 ### SQL Server (Connect Site ID 68)
-Effective January 1, 2018, the community feedback feature of the Microsoft Connect site for SQL Server has been replicated in [UserVoice](https://feedback.azure.com/forums/908035-sql-server) for the convenience of the community. We have captured all current/active public feedback for SQL Server that was entered into Microsoft Connect and transferred it into the new forum to help customers find relevant and active matching suggestions.
+Effective January 1, 2018, the community feedback feature of the Microsoft Connect site for SQL Server has been replicated to the [SQL Server section of the Azure Feedback Forums](https://feedback.azure.com/forums/908035-sql-server). Current and active public feedback for SQL Server from Microsoft Connect was transferred it into the new forum to help customers find relevant and active matching suggestions.
 
 ### System Center Configuration Manager and Microsoft Intune (Connect Site ID 892)
 - If you have a feature request for Configuration Manager or Intune, UserVoice is still the best place for feature requests: https://configurationmanager.uservoice.com and http://microsoftintune.uservoice.com. 
@@ -84,30 +44,28 @@ https://aka.ms/finandops72pu12
 For any additional questions or queries regarding Preview programs or availability or prior version download VHD’s please contact:  daxcf@microsoft.com
 
 ### Microsoft 365 powered device/Accelerate (Connect Site ID 1031)
-Beginning January 1, 2018 the current Microsoft 365 powered device Connect website will be decommissioned and replaced.  The updated website and downloadable materials will be available at https://aka.ms/PoweredDevice-FTprograms. 
+Effective January 1, 2018 the current Microsoft 365 powered device Connect website was decommissioned. The updated website and downloadable materials can be found at https://aka.ms/PoweredDevice-FTprograms. 
 
 ### Microsoft Alumni Network (Connect Site ID 1379)
 Please contact the Microsoft Alumni Network program administrators for the status of the program.
 
 ### WME Conformance Testing Connection (Connect Site ID 605)
-Please contact wmecert@microsoft.com for the status of the program.
+Please contact [wmecert@microsoft.com](mailto:wmecert@microsoft.com) for the status of the program.
 
 ### High Performance Computing Team (Connect Site ID 12)
-Please contact the High Performance Computing Team program administrators for the status of the program.
+Please visit https://partner.microsoft.com/en-us/solutions/practice-areas/cloud-infrastructure-management/high-performance-computing.
 
 ### DevDiv / Visual Studio and .NET Framework (Connect Site ID 210)
-We are actively reviewing and migrating bugs to Developer Community. 
-For VC++ issues, please search the [Developer Community site for C++](https://developercommunity.visualstudio.com/spaces/62/index.html) for your ConnectID or the substring of the bug title which you can find in an automated email from the original Connect system.  Please bear with us as we go through the process of triaging these issues for the new system.  
-If you cannot locate your report, please contact vsfeedback@microsoft.com. 
+We have reviewed and migrated bugs to Developer Community. 
+For VC++ issues, please search the [Developer Community site for C++](https://developercommunity.visualstudio.com/spaces/62/index.html) for your ConnectID or the substring of the bug title, found in an an automated email you received from the original Connect system.  Please bear with us as we go through the process of triaging these issues for the new system. If you cannot locate your report, please contact [vsfeedback@microsoft.com](mailto:vsfeedback@microsoft.com). 
 
 To report a new Visual Studio bug, please use the integrated Report a Problem feature in Visual Studio 2017.   C++ compiler issues can also be filed at the [Developer Community site for C++](https://developercommunity.visualstudio.com/spaces/62/index.html).
 
 ### Services Connection (Connect Site ID 1067)
-Please contact scrmteam@microsoft.com for the status of the program.
+Please contact [scrmteam@microsoft.com](mailto:scrmteam@microsoft.com) for the status of the program.
 
 ### Surface (Connect Site ID 1396)
-Please contact USSurface@microsoft.com for the status of the program.
+Please contact [USSurface@microsoft.com](mailto:USSurface@microsoft.com) for the status of the program.
 
 ### Microsoft PlayReady Support
-Microsoft PlayReady Support for licensed companies is now provided by email. Simply send your question by email to [AskDRM@microsoft.com](mailto:AskDRM@microsoft.com). In addition, please read documentation available [here](https://docs.microsoft.com/playready) and [here](https://test.playready.microsoft.com/).
-
+Microsoft PlayReady Support for licensed companies is now provided by email. Please, send your questions to [AskDRM@microsoft.com](mailto:AskDRM@microsoft.com). In addition, please review documentation available at [Microsoft Docs](https://docs.microsoft.com/playready) and [PlayReady Test Server](https://test.playready.microsoft.com/).
