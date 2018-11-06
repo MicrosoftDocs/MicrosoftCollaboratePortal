@@ -22,7 +22,7 @@ Visit [Download Center](https://www.microsoft.com/download) if you are looking f
 
 ## Where to Find Connect Programs
 
-In case your Connect program is not listed below it may be discontinued or operates in “invitation only” mode. If you can't find your program, please get in touch with your Microsoft contact for further information regarding program availability.
+In case your Connect program is not listed below it may be discontinued or operates as “invitation only”. If you can't find your program, please get in touch with your Microsoft contact for further information regarding program availability.
 
 ### SQL Server (Connect Site ID 68)
 Effective January 1, 2018, the community feedback feature of the Microsoft Connect site for SQL Server has been replicated to the [SQL Server section of the Azure Feedback Forums](https://feedback.azure.com/forums/908035-sql-server). Current and active public feedback for SQL Server from Microsoft Connect was transferred it into the new forum to help customers find relevant and active matching suggestions.
