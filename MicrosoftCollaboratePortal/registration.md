@@ -23,20 +23,22 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 
 3.  Scroll down to **Developer programs** section and click on [Get Started](https://partner.microsoft.com/en-us/dashboard/registration/collaborate) link for **Microsoft Collaborate**. 
 
-![Get Started](images/PartnerCenterDirectory.png)
+  ![Get Started](images/PartnerCenterDirectory.png)
 
   > [!TIP]
-  >  If you get an error message **We could not validate your identity as a global administrator** you cannot continue registration. You can try to [find global administrator](troubleshooting#how-to-find-global-administrator-for-your-organization) for your organization or sign out and then sign in again using **Microsoft Account**.
+  >  If you get an error message **We could not validate your identity as a global administrator** you cannot continue registration.
+  >  This is what you can do:
+  >  * try to [find global administrator](troubleshooting#how-to-find-global-administrator-for-your-organization) for your organization
+  >  * sign in using *Microsoft Account*. 
 
-
-4.  The link will take you to the **Account info** page. 
+4.  The **Get Started** link will take you to the **Account info** page. 
 
   > [!NOTE]
   > If you signed in with the existing Partner Center account the page will contain information from that account. You can modify **Publisher display name** and **Contact info** if needed.
   
-5.  Select the country/region in which you live, or where your business is located. You won't be able to change this later.
-6.  Select your account type (individual or company). You won't be able to change this later, so be sure to choose the right type of account.
-7.  Enter the **publisher display name** that you wish to use (50 characters or fewer). Select this carefully, as this name will be used when you interact with Collaborate (download content, submit feedback and etc.). For company accounts, be sure to use your organization's registered business name or trade name. Note that if you enter a name that someone else has already selected, or if it appears that someone else has the rights to use that name, we will not allow you to use that name. 
+5.  Select the **Account country/region** in which you live, or where your business is located. You won't be able to change this later.
+6.  Select your **Account type** (individual or company). You won't be able to change this later, so be sure to choose the right type of account.
+7.  Enter the **Publisher display name** that you wish to use (50 characters or fewer). Select this carefully, as this name will be used when you interact with Collaborate (download content, submit feedback and etc.). For company accounts, be sure to use your organization's registered business name or trade name. Note that if you enter a name that someone else has already selected, or if it appears that someone else has the rights to use that name, we will not allow you to use that name. 
 
   > [!NOTE]
   > Make sure you have the rights to use the name you enter here. If someone else has trademarked or copyrighted the name you picked, your account could be closed. If someone else is using a publisher display name for which you hold the trademark or other legal right, [contact Microsoft](http://go.microsoft.com/fwlink/p/?LinkId=233777).    
