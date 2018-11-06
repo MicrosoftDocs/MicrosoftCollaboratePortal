@@ -18,7 +18,7 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 
   > [!TIP]
   > You can use *Azure AD* or *Microsoft Account* to sign in. You must have the *global administrator* role to register with *Azure AD*. If you do not have the role, you this is what you can do:
-  > * try to [find global administrator](troubleshooting#how-to-find-global-administrator-for-your-organization) for your organization
+  > * try to [find global administrator](/troubleshooting#how-to-find-global-administrator-for-your-organization) for your organization
   > * sign in using *Microsoft Account*. 
 
 3.  Scroll down to **Developer programs** section and click on [Get Started](https://partner.microsoft.com/en-us/dashboard/registration/collaborate) link for **Microsoft Collaborate**. 
