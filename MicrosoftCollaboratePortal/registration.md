@@ -25,7 +25,7 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 
   ![Get Started](images/PartnerCenterDirectory.png)
 
-4.  The **Get Started** link will take you to the **Account info** page. 
+4.  The **Get Started** link will take you to the registraion page. 
 
   ![Account Info](images/RegistrationAccountInfo.png)
 
