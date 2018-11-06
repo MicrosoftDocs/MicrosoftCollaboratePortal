@@ -9,58 +9,16 @@ hide_comments: true
 ---
 
 # Microsoft Connect Has Been Retired
-You have reached this page because you’ve tried to access the Microsoft Connect portal. After nearly 10 years, Microsoft Connect has been retired in favor of new tools and services that will continue to allow you to engage with Microsoft. If you are a member of an active Connect program, your program has either closed or moved to one of these tools or services. Identify your program below to get status and next steps.
 
-## Programs Moving to [Microsoft Collaborate](https://aka.ms/collaborate)
+You have reached this page because you’ve tried to access the Microsoft Connect portal. After nearly 10 years, Microsoft Connect has been retired in favor of new tools and services.
 
-### Windows EEAP (Connect Site ID 1304)
-The EEAP program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). By now, all companies targeted for participation in the EEAP for 2018 have been notified of the move to Collaborate and given instruction on how to register. If you do not have access to Collaborate and believe you should, please contact your Microsoft engagement owner.
+## Microsoft Download Center
 
-### Windows Client and Server TAP (Connect Site ID 997)
-The Windows Client and Server TAP programs are now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). Contact osnext@microsoft.com if you have not registered.
+Visit [Download Center](https://www.microsoft.com/download) if you are looking for a package that was previoulsy available in Connect.
 
-### Security Update Validation Program - SUVP (Connect Site ID: 6)
-The Security Update Validation Program (SUVP) is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact SUVProg@microsoft.com.
+## Microsoft Docs
 
-### Microsoft Custom Support (Connect Site ID 83)
-Microsoft Custom Support is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). All users that were on Connect should have received instructions on how to access the program. If you have any questions or issues, please start with your TAM.
-
-### Microsoft Dynamics 365 (Connect Site ID 687)
-For Dynamics 365 for Finance and Operations, Business edition and Dynamics NAV please get in touch with dyn365bep@microsoft.com to get onboarded to early engagement programs on Microsoft Collaborate.
-
-For Dynamics 365 for Finance and Operations, Enterprise edition and Dynamics AX please get in touch with daxcf@microsoft.com to get access to VHDs.
-
-For Dynamics 365 for Sales, Dynamics 365 for Marketing, and Dynamics CRM please go to [Dynamics Insider](https://experience.dynamics.com/Account/Login/Register?returnUrl=%2Finsider%2F) and register there. 
-
-### Designed for XBOX (Connect Site ID 1314)
-The Designed for XBOX program is now hosted on Microsoft Collaborate (http://aka.ms/strata-d4xbox). If you have any questions about your program membership or access to Collaborate, please contact D4XBizDev@microsoft.com.
-
-### Designed for Surface (Connect Site ID 1342)
-The Designed for Surface program is now hosted on Microsoft Collaborate (http://aka.ms/strata-dfs). If you have any questions about your program membership or access to Collaborate, please contact DFSBizDev@microsoft.com.
-
-### Skype Business Services (Connect Site ID 355)
-The Skype Business Services program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact the program administrators.
-
-### Microsoft Auto (Connect Site ID 383)
-The Microsoft Auto program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact msftauto@microsoft.com.
-
-### StorSimple Partners (Connect Site ID 1328)
-The StorSimple Partners program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact the program administrators.
-
-### Microsoft Learning Experiences - SME Program / LEX Content development (Connect Site ID 862)
-The Worldwide Learning (formerly Learning Experiences) SME Profile program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). See the Born to Learn blog post [Help Us Create Exams and Learning Content! Join our SME Database Today!](https://borntolearn.mslearn.net/b/weblog/posts/help-us-create-exams-and-learning-content-join-our-sme-database-today) for instructions on accessing the program on Collaborate.
-
-### Office PIPC (Connect Site ID 846)
-The Office PIPC program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact the program administrators.
-
-### Fast (Connect Site ID 898)
-The Fast program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact fastcsrv@microsoft.com.
-
-### Microsoft Office (Connect Site ID 160)
-The Microsoft Office program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact officeconnectteam@microsoft.com.
-
-### Azure Active Directory Connection (Connect Site ID 1164)
-The Azure Active Directory Connection program is now hosted on [Microsoft Collaborate](https://aka.ms/collaborate). If you have any questions about your program membership or access to Collaborate, please contact the program administrators.
+[Microsoft Docs](https://docs.microsoft.com) is the home for Microsoft documentation for end users, developers, and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
 
 ## Programs Moving to Other Tools
 
@@ -109,5 +67,5 @@ Please contact scrmteam@microsoft.com for the status of the program.
 Please contact USSurface@microsoft.com for the status of the program.
 
 ### Microsoft PlayReady Support
-Microsoft PlayReady Support for licensed companies is now provided by email. Simply send your question by email to [AskDRM@microsoft.com](mailto:AskDRM@microsoft.com). In addition, please read documentation available [here](https://docs.microsoft.com/playready) and [here](https://test.playready.microsoft.com/).
+Microsoft PlayReady Support for licensed companies is now provided by email. Simply send your question by email to [AskDRM@microsoft.com](mailto:AskDRM@microsoft.com). In addition, please review documentation available at [Microsoft Docs](https://docs.microsoft.com/playready) and [PlayReady Test Server](https://test.playready.microsoft.com/).
 
