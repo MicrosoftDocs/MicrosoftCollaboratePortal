@@ -25,7 +25,12 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 
   ![Get Started](images/PartnerCenterDirectory.png)
 
-  > [!TIP]
+4.  The **Get Started** link will take you to the **Account info** page. 
+
+  > [!NOTE]
+  > If you signed in with the existing Partner Center account the page will contain information from that account. You can modify **Publisher display name** and **Contact info** if needed.
+
+  > [!IMPORTANT]
   > The following error indicates that user is signed in with an *Azure AD* account that does not have administrator privileges and registration cannot be completed. 
   > > We could not validate your identity as a global administrator. 
   
@@ -33,11 +38,6 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
   >  * try to [find global administrator](troubleshooting#how-to-find-global-administrator-for-your-organization) for your organization
   >  * sign in using *Microsoft Account*. 
 
-4.  The **Get Started** link will take you to the **Account info** page. 
-
-  > [!NOTE]
-  > If you signed in with the existing Partner Center account the page will contain information from that account. You can modify **Publisher display name** and **Contact info** if needed.
-  
 5.  Select the **Account country/region** in which you live, or where your business is located. You won't be able to change this later.
 6.  Select your **Account type** (individual or company). You won't be able to change this later, so be sure to choose the right type of account.
 7.  Enter the **Publisher display name** that you wish to use (50 characters or fewer). Select this carefully, as this name will be used when you interact with Collaborate (download content, submit feedback and etc.). For company accounts, be sure to use your organization's registered business name or trade name. Note that if you enter a name that someone else has already selected, or if it appears that someone else has the rights to use that name, we will not allow you to use that name. 
