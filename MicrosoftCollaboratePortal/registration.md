@@ -27,6 +27,8 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 
 4.  The **Get Started** link will take you to the **Account info** page. 
 
+  ![Account Info](images/RegistrationAccountInfo.png)
+
   > [!NOTE]
   > If you signed in with the existing Partner Center account the page will contain information from that account. You can modify **Publisher display name** and **Contact info** if needed.
 
