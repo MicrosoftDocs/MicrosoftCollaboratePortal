@@ -28,6 +28,7 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
   > [!TIP]
   >  If you get an error message **We could not validate your identity as a global administrator** you cannot continue registration. You can try to [find global administrator](troubleshooting#how-to-find-global-administrator-for-your-organization) for your organization or sign out and then sign in again using **Microsoft Account**.
 
+
 4.  The link will take you to the **Account info** page. 
 
   > [!NOTE]
