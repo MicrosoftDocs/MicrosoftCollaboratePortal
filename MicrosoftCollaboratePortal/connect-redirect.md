@@ -18,12 +18,14 @@ Visit [Download Center](https://www.microsoft.com/download) if you are looking f
 
 ## Microsoft Docs
 
-[Microsoft Docs](https://docs.microsoft.com) is the home for Microsoft documentation for end users, developers, and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
+[Microsoft Docs](https://docs.microsoft.com) is the home for Microsoft documentation for end users, developers, hardware manufacturers and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
 
 ## Where to Find Connect Programs
 
+In case your Connect program is not listed below it may be discontinued or operates in “invitation only” mode. If you can't find your program, please get in touch with your Microsoft contact for further information regarding program availability.
+
 ### SQL Server (Connect Site ID 68)
-Effective January 1, 2018, the community feedback feature of the Microsoft Connect site for SQL Server has been replicated in [UserVoice](https://feedback.azure.com/forums/908035-sql-server) for the convenience of the community. We have captured all current/active public feedback for SQL Server that was entered into Microsoft Connect and transferred it into the new forum to help customers find relevant and active matching suggestions.
+Effective January 1, 2018, the community feedback feature of the Microsoft Connect site for SQL Server has been replicated to the [SQL Server section of the Azure Feedback Forums](https://feedback.azure.com/forums/908035-sql-server). Current and active public feedback for SQL Server from Microsoft Connect was transferred it into the new forum to help customers find relevant and active matching suggestions.
 
 ### System Center Configuration Manager and Microsoft Intune (Connect Site ID 892)
 - If you have a feature request for Configuration Manager or Intune, UserVoice is still the best place for feature requests: https://configurationmanager.uservoice.com and http://microsoftintune.uservoice.com. 
@@ -42,7 +44,7 @@ https://aka.ms/finandops72pu12
 For any additional questions or queries regarding Preview programs or availability or prior version download VHD’s please contact:  daxcf@microsoft.com
 
 ### Microsoft 365 powered device/Accelerate (Connect Site ID 1031)
-Beginning January 1, 2018 the current Microsoft 365 powered device Connect website will be decommissioned and replaced.  The updated website and downloadable materials will be available at https://aka.ms/PoweredDevice-FTprograms. 
+Effective January 1, 2018 the current Microsoft 365 powered device Connect website was decommissioned. The updated website and downloadable materials can be found at https://aka.ms/PoweredDevice-FTprograms. 
 
 ### Microsoft Alumni Network (Connect Site ID 1379)
 Please contact the Microsoft Alumni Network program administrators for the status of the program.
@@ -51,12 +53,11 @@ Please contact the Microsoft Alumni Network program administrators for the statu
 Please contact [wmecert@microsoft.com](wmecert@microsoft.com) for the status of the program.
 
 ### High Performance Computing Team (Connect Site ID 12)
-Please contact the High Performance Computing Team program administrators for the status of the program.
+Please visit https://partner.microsoft.com/en-us/solutions/practice-areas/cloud-infrastructure-management/high-performance-computing.
 
 ### DevDiv / Visual Studio and .NET Framework (Connect Site ID 210)
-We are actively reviewing and migrating bugs to Developer Community. 
-For VC++ issues, please search the [Developer Community site for C++](https://developercommunity.visualstudio.com/spaces/62/index.html) for your ConnectID or the substring of the bug title which you can find in an automated email from the original Connect system.  Please bear with us as we go through the process of triaging these issues for the new system.  
-If you cannot locate your report, please contact vsfeedback@microsoft.com. 
+We have reviewed and migrated bugs to Developer Community. 
+For VC++ issues, please search the [Developer Community site for C++](https://developercommunity.visualstudio.com/spaces/62/index.html) for your ConnectID or the substring of the bug title, found in an an automated email you received from the original Connect system.  Please bear with us as we go through the process of triaging these issues for the new system. If you cannot locate your report, please contact [vsfeedback@microsoft.com](mailto:vsfeedback@microsoft.com). 
 
 To report a new Visual Studio bug, please use the integrated Report a Problem feature in Visual Studio 2017.   C++ compiler issues can also be filed at the [Developer Community site for C++](https://developercommunity.visualstudio.com/spaces/62/index.html).
 
@@ -67,8 +68,4 @@ Please contact [scrmteam@microsoft.com](mailto:scrmteam@microsoft.com) for the s
 Please contact [USSurface@microsoft.com](mailto:USSurface@microsoft.com) for the status of the program.
 
 ### Microsoft PlayReady Support
-Microsoft PlayReady Support for licensed companies is now provided by email. Simply send your question by email to [AskDRM@microsoft.com](mailto:AskDRM@microsoft.com). In addition, please review documentation available at [Microsoft Docs](https://docs.microsoft.com/playready) and [PlayReady Test Server](https://test.playready.microsoft.com/).
-
-## Other Connect programs
-
-In case your Connect program is not listed above it may be discontinued or operates in “invitation only” mode. If you can't find your program, please get in touch with your Microsoft contact for further information regarding program availability.
+Microsoft PlayReady Support for licensed companies is now provided by email. Please, send your questions to [AskDRM@microsoft.com](mailto:AskDRM@microsoft.com). In addition, please review documentation available at [Microsoft Docs](https://docs.microsoft.com/playready) and [PlayReady Test Server](https://test.playready.microsoft.com/).
