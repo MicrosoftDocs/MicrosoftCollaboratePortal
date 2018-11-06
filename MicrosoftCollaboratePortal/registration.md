@@ -16,7 +16,7 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 1.  Navigate to the [Partner Center Directory](https://partner.microsoft.com/en-us/dashboard/directory).
 2.  If you're not already signed, sign in now using existing account or create new *Microsoft Account*. 
 
-  > [!NOTE]
+  > [!TIP]
   > You can use *Azure AD* or *Microsoft Account* to sign in. You must have the *global administrator* role to register with *Azure AD*. If you do not have the role, you this is what you can do:
   > * try to [find global administrator](troubleshooting#how-to-find-global-administrator-for-your-organization) for your organization
   > * sign in using *Microsoft Account*. 
@@ -30,7 +30,7 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 
 4.  The link will take you to the **Account info** page. 
 
-  > [!TIP]
+  > [!NOTE]
   > If you signed in with the existing Partner Center account the page will contain information from that account. You can modify **Publisher display name** and **Contact info** if needed.
   
 5.  Select the country/region in which you live, or where your business is located. You won't be able to change this later.
