@@ -50,7 +50,7 @@ Effective January 1, 2018 the current Microsoft 365 powered device Connect websi
 Please contact the Microsoft Alumni Network program administrators for the status of the program.
 
 ### WME Conformance Testing Connection (Connect Site ID 605)
-Please contact [wmecert@microsoft.com](wmecert@microsoft.com) for the status of the program.
+Please contact [wmecert@microsoft.com](mailto:wmecert@microsoft.com) for the status of the program.
 
 ### High Performance Computing Team (Connect Site ID 12)
 Please visit https://partner.microsoft.com/en-us/solutions/practice-areas/cloud-infrastructure-management/high-performance-computing.
