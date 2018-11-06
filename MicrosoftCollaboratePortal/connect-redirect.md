@@ -48,7 +48,7 @@ Beginning January 1, 2018 the current Microsoft 365 powered device Connect websi
 Please contact the Microsoft Alumni Network program administrators for the status of the program.
 
 ### WME Conformance Testing Connection (Connect Site ID 605)
-Please contact wmecert@microsoft.com for the status of the program.
+Please contact [wmecert@microsoft.com](wmecert@microsoft.com) for the status of the program.
 
 ### High Performance Computing Team (Connect Site ID 12)
 Please contact the High Performance Computing Team program administrators for the status of the program.
@@ -61,10 +61,10 @@ If you cannot locate your report, please contact vsfeedback@microsoft.com.
 To report a new Visual Studio bug, please use the integrated Report a Problem feature in Visual Studio 2017.   C++ compiler issues can also be filed at the [Developer Community site for C++](https://developercommunity.visualstudio.com/spaces/62/index.html).
 
 ### Services Connection (Connect Site ID 1067)
-Please contact scrmteam@microsoft.com for the status of the program.
+Please contact [scrmteam@microsoft.com](mailto:scrmteam@microsoft.com) for the status of the program.
 
 ### Surface (Connect Site ID 1396)
-Please contact USSurface@microsoft.com for the status of the program.
+Please contact [USSurface@microsoft.com](mailto:USSurface@microsoft.com) for the status of the program.
 
 ### Microsoft PlayReady Support
 Microsoft PlayReady Support for licensed companies is now provided by email. Simply send your question by email to [AskDRM@microsoft.com](mailto:AskDRM@microsoft.com). In addition, please review documentation available at [Microsoft Docs](https://docs.microsoft.com/playready) and [PlayReady Test Server](https://test.playready.microsoft.com/).
