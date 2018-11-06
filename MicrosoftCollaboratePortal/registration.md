@@ -26,8 +26,10 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
   ![Get Started](images/PartnerCenterDirectory.png)
 
   > [!TIP]
-  >  If you get an error message **We could not validate your identity as a global administrator** you cannot continue registration.
-  >  This is what you can do:
+  > The following error indicates that user is signed in with an *Azure AD* account that does not have administrator privileges and registration cannot be completed. 
+  > > We could not validate your identity as a global administrator. 
+  
+  > This is what you can do:
   >  * try to [find global administrator](troubleshooting#how-to-find-global-administrator-for-your-organization) for your organization
   >  * sign in using *Microsoft Account*. 
 
