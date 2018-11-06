@@ -69,3 +69,6 @@ Please contact [USSurface@microsoft.com](mailto:USSurface@microsoft.com) for the
 ### Microsoft PlayReady Support
 Microsoft PlayReady Support for licensed companies is now provided by email. Simply send your question by email to [AskDRM@microsoft.com](mailto:AskDRM@microsoft.com). In addition, please review documentation available at [Microsoft Docs](https://docs.microsoft.com/playready) and [PlayReady Test Server](https://test.playready.microsoft.com/).
 
+## Other Connect programs
+
+In case your Connect program is not listed above it may be discontinued or operates in “invitation only” mode. If you can't find your program, please get in touch with your Microsoft contact for further information regarding program availability.
