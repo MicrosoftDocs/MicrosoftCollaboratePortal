@@ -9,14 +9,23 @@ keywords: partner access, permissions, register, registration, onboarding, partn
 
 # Register with Microsoft Collaborate
 
-The Microsoft Collaborate program requires registration. If you have an account in Dev Center  you can use it to login and interact with Collaborate. 
-Before you can download content or submit feedback, you need to join an engagement. Some engagements require invitation from Microsoft **Engagement Owner** or **Power User** (when your organization is already added to an engagement). Other engagements are **Open** for users to join.
+The Microsoft Collaborate program requires registration. If you already have an account in Partner Center you can use it to enroll in Collaborate. 
 
 ## The account signup process
 
-1.  Navigate to the [https://aka.ms/collaborate](https://aka.ms/collaborate) page. 
-2.  If you're not already signed in with a Microsoft account, sign in now, or create a new Microsoft account. The Microsoft account you use here will be what you use to sign in to Microsoft Collaborate.
-3.  If you are not enrolled in Microsoft Collaborate the  system will automatically redirect you to the [registration page](https://go.microsoft.com/fwlink/?linkid=851519).
+1.  Navigate to the [Partner Center Directory](https://partner.microsoft.com/en-us/dashboard/directory).
+2.  If you're not already signed, sign in now using existing account or create a new Microsoft account. 
+
+  > [!NOTE]
+  > You can use **Azure AD** or **Microsoft Account** to sign in. You must have global administrator role to register with **Azure AD**. If you do not have the role, you can try to [find global administrator](troubleshooting#how-to-find-global-administrator-for-your-organization) for your organization or sign in using **Microsoft Account**.
+
+3.  Scroll down to **Developer programs** section and click on [Get Started](https://partner.microsoft.com/dashboard/registration/microsoft-insider) link for **Microsoft Collaborate**.
+
+![Get Started](images/PartnerCenterDirectory.png)
+
+  > ![TIP]
+  >  If you get an error message **We could not validate your identity as a global administrator** you cannot continue registration. Global administrator of your organization must complete registration. You can try to [find global administrator](troubleshooting#how-to-find-global-administrator-for-your-organization) for your organization or sign out and then sign in again using **Microsoft Account**.
+      
 4.  Select the country/region in which you live, or where your business is located. You won't be able to change this later.
 5.  Select your account type (individual or company). You won't be able to change this later, so be sure to choose the right type of account.
 6.  Enter the **publisher display name** that you wish to use (50 characters or fewer). Select this carefully, as this name will be used when you interact with Collaborate (download content, submit feedback and etc.). For company accounts, be sure to use your organization's registered business name or trade name. Note that if you enter a name that someone else has already selected, or if it appears that someone else has the rights to use that name, we will not allow you to use that name. 
@@ -69,3 +78,6 @@ This section describes how to do the following:
 
 3. After logging in, the Microsoft Collaborate dashboard will appear, showing you the engagements, packages, and feedback, you are configured to see. If you are not a member of any programs or engagements, the lists will be blank. You need to be added to an engagement to interact with content or feedback. 
 
+## Next steps
+
+Before you can download content or submit feedback, you need to join an engagement. Some engagements require invitation from Microsoft **Engagement Owner** or **Power User** (when your organization is already added to an engagement). Other engagements are **Open** for users to join.
