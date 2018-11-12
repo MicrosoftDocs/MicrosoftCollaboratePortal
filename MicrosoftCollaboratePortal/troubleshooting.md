@@ -120,7 +120,7 @@ Once completed proceed with accepting the Collaborate invitations that are send 
 ## Access
 
 ### User cannot see packages and/or engagements he/she has access to
-Most users belong to a single AAD tenant and single account within DevCenter. Users, that exist in several AAD tenants and/or accounts in DevCenter, might need to manully select specific AAD tenant and/or account to get access to resources.
+Most users belong to a single AAD tenant and single account within DevCenter. Users, that exist in several AAD tenants and/or accounts in DevCenter, might need to manually select specific AAD tenant and/or account to get access to resources.
 
 #### How to select an AAD tenant
 Click on the badge icon in the upper right corner of the screen. You will see a list of available AAD tenants if you exist in more than one AAD tenant. 
