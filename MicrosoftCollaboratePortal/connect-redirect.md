@@ -14,7 +14,7 @@ You have reached this page because you’ve tried to access the Microsoft Connec
 
 ## Microsoft Download Center
 
-Visit [Download Center](https://www.microsoft.com/download) if you are looking for a package that was previoulsy available in Connect.
+Visit [Download Center](https://www.microsoft.com/download) if you are looking for a package that was previoulsy available on Connect.
 
 ## Microsoft Docs
 
@@ -64,8 +64,5 @@ To report a new Visual Studio bug, please use the integrated Report a Problem fe
 ### Services Connection (Connect Site ID 1067)
 Please contact [scrmteam@microsoft.com](mailto:scrmteam@microsoft.com) for the status of the program.
 
-### Surface (Connect Site ID 1396)
-Please contact [USSurface@microsoft.com](mailto:USSurface@microsoft.com) for the status of the program.
-
 ### Microsoft PlayReady Support
-Microsoft PlayReady Support for licensed companies is now provided by email. Please, send your questions to [AskDRM@microsoft.com](mailto:AskDRM@microsoft.com). In addition, please review documentation available at [Microsoft Docs](https://docs.microsoft.com/playready) and [PlayReady Test Server](https://test.playready.microsoft.com/).
+Microsoft PlayReady Support for licensed companies is now provided by email. Please, send your questions to [AskDRM@microsoft.com](mailto:AskDRM@microsoft.com). In addition, please review documentation available at https://docs.microsoft.com/playready and [PlayReady Test Server](https://test.playready.microsoft.com/).
