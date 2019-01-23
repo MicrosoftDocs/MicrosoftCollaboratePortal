@@ -65,4 +65,4 @@ To report a new Visual Studio bug, please use the integrated Report a Problem fe
 Please contact [scrmteam@microsoft.com](mailto:scrmteam@microsoft.com) for the status of the program.
 
 ### Microsoft PlayReady Support
-Microsoft PlayReady Support for licensed companies is now provided by email. Please, send your questions to [AskDRM@microsoft.com](mailto:AskDRM@microsoft.com). In addition, please review documentation available at https://docs.microsoft.com/playready and [PlayReady Test Server](https://test.playready.microsoft.com/).
+Microsoft PlayReady Support for licensed companies is now provided by email. Please, send your questions to [AskDRM@microsoft.com](mailto:AskDRM@microsoft.com). In addition, please review documentation available at <https://docs.microsoft.com/playready> and [PlayReady Test Server](https://test.playready.microsoft.com/).

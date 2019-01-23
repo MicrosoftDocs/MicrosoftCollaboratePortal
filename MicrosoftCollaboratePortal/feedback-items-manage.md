@@ -13,22 +13,22 @@ keywords: feedback, engagements, work items, bugs, feature requests, Collaborate
 
 When you want to submit new feedback, you first select an engagement to associate with the feedback. Each work item must be associated with only one engagement because the engagement and work item type determine which form to use and which organization in Microsoft to sync the feedback to.
 
-1.  Choose one of the multiple ways to create new feedback:
-- From the **MS Collaborate Dashboard**, click “Add New” under the Feedback item.
-- From the **All Feedback** list page, select “Submit New Feedback".
-- From an **Engagement** page, select "New" next to the specific work item type.
+1. Choose one of the multiple ways to create new feedback:
+2. From the **MS Collaborate Dashboard**, click “Add New” under the Feedback item.
+3. From the **All Feedback** list page, select “Submit New Feedback".
+4. From an **Engagement** page, select "New" next to the specific work item type.
 
-2.  Select the appropriate Engagement for the work item.
+5. Select the appropriate Engagement for the work item.
 
-	![Select an Engagement window](images/select-engagement.png)
+   ![Select an Engagement window](images/select-engagement.png)
 
-3.  The “Submit Feedback” page will appear. Complete the required fields and click “Save”.
+6. The “Submit Feedback” page will appear. Complete the required fields and click “Save”.
 
-	![Submit feedback window](images/submit-feedback.png)
+   ![Submit feedback window](images/submit-feedback.png)
 
 > Fields on the **Submit Feedback** page are dependent on the Engagement selected. Engagements can customize the feedback forms as needed.
  
-4.  Clicking **Save** will take you to the **Feedback List** view. Work items submitted will appear on this page. 
+4. Clicking **Save** will take you to the **Feedback List** view. Work items submitted will appear on this page. 
 
 > [!NOTE]
 > **Prerequisites**: 
