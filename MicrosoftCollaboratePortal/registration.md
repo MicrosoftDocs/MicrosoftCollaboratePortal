@@ -1,10 +1,10 @@
 ---
 title: Register with MS Collaborate
-description: MS Collaborate utilizes the Developer Center Dashboard requiring an individual Microsoft Account (MSA) or an organization with Azure Active Directory set up.
+description: MS Collaborate utilizes the Partner Center Dashboard requiring an individual Microsoft Account (MSA) or an organization with Azure Active Directory set up.
 author: ikhapova
 ms.author: ikhapova
 ms.date: 12/12/2017
-keywords: partner access, permissions, register, registration, onboarding, partner feedback, build downloads, downloading specs, bugs, Microsoft Connect, SysDev Bug, Dev Center bugs
+keywords: partner access, permissions, register, registration, onboarding, partner feedback, build downloads, downloading specs, bugs, Microsoft Connect, SysDev Bug, Partner Center bugs
 ---
 
 # Registration
@@ -61,32 +61,32 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 When creating a company account, we suggest that you follow these guidelines, especially if more than one person needs to access the account.
 
 > [!IMPORTANT]
-> To allow multiple users to access your Dev Center account, we recommend using Azure Active Directory to assign roles to individual users. Each user can then access the Dev Center account by signing in with their individual Azure AD credentials. For more info, see [Manage account users](/windows/uwp/publish/manage-account-users).
+> To allow multiple users to access your Partner Center account, we recommend using Azure Active Directory to assign roles to individual users. Each user can then access the Partner Center account by signing in with their individual Azure AD credentials. For more info, see [Manage account users](/windows/uwp/publish/manage-account-users).
 
--   Create your Microsoft account using an email address that doesn't already belong to you or another individual, such as MyCompany_DevCenter@outlook.com. You may not be able to use an email address at your company's domain, especially if your company already uses Azure AD.
--   If you plan to join Windows program for app development in future and want to reuse your dev center account, then it is recommended that you enroll to Windows program first and then join Microsoft Collaborate. Otherwise you might have to create separate accounts for these programs.
+-   Create your Microsoft account using an email address that doesn't already belong to you or another individual, such as MyCompany_PartnerCenter@outlook.com. You may not be able to use an email address at your company's domain, especially if your company already uses Azure AD.
+-   If you plan to join Windows program for app development in future and want to reuse your partner center account, then it is recommended that you enroll to Windows program first and then join Microsoft Collaborate. Otherwise you might have to create separate accounts for these programs.
 -   Add a company phone number that does not require an extension and is accessible to key team members.
 
-## How to associate your Dev Center account with Azure Active Directory and manage users
+## How to associate your Partner Center account with Azure Active Directory and manage users
 
-You can use Azure Active Directory to add and manage additional users in your Dev Center account. You can define the role or custom permissions that each user should have. 
+You can use Azure Active Directory to add and manage additional users in your Partner Center account. You can define the role or custom permissions that each user should have. 
 
-You must first associate your Dev Center account with your organization's Azure Active Directory to be able to add and manage users. 
+You must first associate your Partner Center account with your organization's Azure Active Directory to be able to add and manage users. 
 
 This section describes how to do the following:
 
--   [Associate Azure Active Directory with your Dev Center account](/windows/uwp/publish/associate-azure-ad-with-dev-center)
--   [Add users, groups, and Azure AD applications to your Dev Center account](/windows/uwp/publish/add-users-groups-and-azure-ad-applications)
+-   [Associate Azure Active Directory with your Partner Center account](/windows/uwp/publish/associate-azure-ad-with-dev-center)
+-   [Add users, groups, and Azure AD applications to your Partner Center account](/windows/uwp/publish/add-users-groups-and-azure-ad-applications)
 -   [Set roles and custom permissions for account users](/windows/uwp/publish/set-custom-permissions-for-account-users)
 
 > [!TIP]
-> Dev Center leverages Azure Active Directory for multi-user management and roles assignment. If your organization already uses Office 365 or other business services from Microsoft, you already have an AAD. Otherwise, you can create a new AAD tenant from within Dev Center at no additional charge.
+> Partner Center leverages Azure Active Directory for multi-user management and roles assignment. If your organization already uses Office 365 or other business services from Microsoft, you already have an AAD. Otherwise, you can create a new AAD tenant from within Partner Center at no additional charge.
 
 ## How to log in to the MS Collaborate portal
 
 1. Navigate to MS Collaborate: [https://aka.ms/collaborate](https://aka.ms/collaborate).
 
-2.	You will be asked for credentials to log in. This is your Dev Center account credentials. If you have more than one account, select the appropriate account that you used to sign up for Dev Center. This can be a Microsoft alias account (MSA) or an Active Directory organization account. If you have not logged in before, you will need to enter your password.
+2.	You will be asked for credentials to log in. This is your Partner Center account credentials. If you have more than one account, select the appropriate account that you used to sign up for Partner Center. This can be a Microsoft alias account (MSA) or an Active Directory organization account. If you have not logged in before, you will need to enter your password.
 
 3. After logging in, the Microsoft Collaborate dashboard will appear, showing you the engagements, packages, and feedback, you are configured to see. If you are not a member of any programs or engagements, the lists will be blank. You need to be added to an engagement to interact with content or feedback. 
 
