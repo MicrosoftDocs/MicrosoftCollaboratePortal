@@ -44,6 +44,8 @@ The workaround is to rename your personal MSA account. See [this article](https:
 
 > We could not validate your identity as a global administrator. Make sure you're able to sign in with a global administrator account for the Azure AD tenant you want to associate.
 
+![We could not validate your identity as global administrator](images/GlobalAdministrator.png)
+
 The error indicates that a user is signed in with a work account (AAD) that does not have administrator privileges. 
 
 #### Fixes/Workarounds
