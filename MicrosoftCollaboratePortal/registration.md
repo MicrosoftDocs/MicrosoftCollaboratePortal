@@ -4,7 +4,7 @@ description: MS Collaborate utilizes the Partner Center Dashboard requiring an i
 author: ikhapova
 ms.author: ikhapova
 ms.date: 12/12/2017
-keywords: partner access, permissions, register, registration, onboarding, partner feedback, build downloads, downloading specs, bugs, Microsoft Connect, SysDev Bug, Partner Center bugs
+keywords: partner access, permissions, register, registration, onboarding, partner feedback, build downloads, downloading specs, bugs, Microsoft Connect, SysDev Bug, Partner Center
 ---
 
 # Registration
@@ -13,48 +13,48 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 
 ## How to register as a user
 
-1.  Navigate to the [Partner Center Directory](https://partner.microsoft.com/en-us/dashboard/directory).
-2.  If you're not already signed, sign in now using existing account or create new *Microsoft Account*. 
+1. Navigate to the [Partner Center Directory](https://partner.microsoft.com/en-us/dashboard/directory).
+2. If you're not already signed, sign in now using existing account or create new *Microsoft Account*. 
 
-  > [!TIP]
-  > You can use *Azure AD* or *Microsoft Account* to sign in. You must have the *global administrator* role to register with *Azure AD*. If you do not have the role, you this is what you can do:
-  > * try to [find global administrator](troubleshooting.md#how-to-find-global-administrator-for-your-organization) for your organization
-  > * sign in using *Microsoft Account*. 
+   > [!TIP]
+   > You can use *Azure AD* or *Microsoft Account* to sign in. You must have the *global administrator* role to register with *Azure AD*. If you do not have the role, you this is what you can do:
+   > * try to [find global administrator](troubleshooting.md#how-to-find-global-administrator-for-your-organization) for your organization
+   > * sign in using *Microsoft Account*. 
 
-3.  Scroll down to **Developer programs** section and click on [Get Started](https://partner.microsoft.com/en-us/dashboard/registration/collaborate) link for **Microsoft Collaborate**. 
+3. Scroll down to **Developer programs** section and click on [Get Started](https://partner.microsoft.com/en-us/dashboard/registration/collaborate) link for **Microsoft Collaborate**. 
 
-  ![Get Started](images/PartnerCenterDirectory.png)
+   ![Get Started](images/PartnerCenterDirectory.png)
 
-4.  The **Get Started** link will take you to the registraion page. 
+4. The **Get Started** link will take you to the registraion page. 
 
-  ![Account Info](images/RegistrationAccountInfo.png)
+   ![Account Info](images/RegistrationAccountInfo.png)
 
-  > [!NOTE]
-  > If you signed in with the existing Partner Center account the page will contain information from that account. You can modify **Publisher display name** and **Contact info** if needed.
+   > [!NOTE]
+   > If you signed in with the existing Partner Center account the page will contain information from that account. You can modify **Publisher display name** and **Contact info** if needed.
+   > 
+   > [!IMPORTANT]
+   > The following error indicates that user is signed in with an *Azure AD* account that does not have administrator privileges and registration cannot be completed. 
+   > > We could not validate your identity as a global administrator. 
+   > 
+   > Try to [find global administrator](troubleshooting.md#how-to-find-global-administrator-for-your-organization) for your organization or sign out and sign in again using *Microsoft Account*. 
 
-  > [!IMPORTANT]
-  > The following error indicates that user is signed in with an *Azure AD* account that does not have administrator privileges and registration cannot be completed. 
-  > > We could not validate your identity as a global administrator. 
-  
-  > Try to [find global administrator](troubleshooting.md#how-to-find-global-administrator-for-your-organization) for your organization or sign out and sign in again using *Microsoft Account*. 
+5. Select the **Account country/region** in which you live, or where your business is located. You won't be able to change this later.
+6. Select your **Account type** (individual or company). You won't be able to change this later, so be sure to choose the right type of account.
+7. Enter the **Publisher display name** that you wish to use (50 characters or fewer). Select this carefully, as this name will be used when you interact with Collaborate (download content, submit feedback and etc.). For company accounts, be sure to use your organization's registered business name or trade name. Note that if you enter a name that someone else has already selected, or if it appears that someone else has the rights to use that name, we will not allow you to use that name. 
 
-5.  Select the **Account country/region** in which you live, or where your business is located. You won't be able to change this later.
-6.  Select your **Account type** (individual or company). You won't be able to change this later, so be sure to choose the right type of account.
-7.  Enter the **Publisher display name** that you wish to use (50 characters or fewer). Select this carefully, as this name will be used when you interact with Collaborate (download content, submit feedback and etc.). For company accounts, be sure to use your organization's registered business name or trade name. Note that if you enter a name that someone else has already selected, or if it appears that someone else has the rights to use that name, we will not allow you to use that name. 
+   > [!NOTE]
+   > Make sure you have the rights to use the name you enter here. If someone else has trademarked or copyrighted the name you picked, your account could be closed. If someone else is using a publisher display name for which you hold the trademark or other legal right, [contact Microsoft](http://go.microsoft.com/fwlink/p/?LinkId=233777).    
 
-  > [!NOTE]
-  > Make sure you have the rights to use the name you enter here. If someone else has trademarked or copyrighted the name you picked, your account could be closed. If someone else is using a publisher display name for which you hold the trademark or other legal right, [contact Microsoft](http://go.microsoft.com/fwlink/p/?LinkId=233777).    
+8. Enter the contact info you want to use for your account.
 
-8.  Enter the contact info you want to use for your account.
-
-  > [!NOTE]
-  > We'll use this info to contact you about account-related matters. For example, you'll receive an email confirmation message after you complete your registration.
+   > [!NOTE]
+   > We'll use this info to contact you about account-related matters. For example, you'll receive an email confirmation message after you complete your registration.
 
    If you are registering as a company, you'll also need to enter the name, email address, and phone number of the person who will approve your company's account.
 
-9.  Review your account info and confirm that everything is correct. Then, read and accept the terms and conditions of the [Collaborate Agreement](https://go.microsoft.com/fwlink/?linkid=849107). Check the box to indicate you have read and accepted these terms.
+9. Review your account info and confirm that everything is correct. Then, read and accept the terms and conditions of the [Collaborate Agreement](https://go.microsoft.com/fwlink/?linkid=849107). Check the box to indicate you have read and accepted these terms.
 
-10.  Click **Finish** to confirm your registration.  
+10. Click **Finish** to confirm your registration.  
 
 ## How to register as an organization
 
@@ -63,9 +63,9 @@ When creating a company account, we suggest that you follow these guidelines, es
 > [!IMPORTANT]
 > To allow multiple users to access your Partner Center account, we recommend using Azure Active Directory to assign roles to individual users. Each user can then access the Partner Center account by signing in with their individual Azure AD credentials. For more info, see [Manage account users](/windows/uwp/publish/manage-account-users).
 
--   Create your Microsoft account using an email address that doesn't already belong to you or another individual, such as MyCompany_PartnerCenter@outlook.com. You may not be able to use an email address at your company's domain, especially if your company already uses Azure AD.
--   If you plan to join Windows program for app development in future and want to reuse your partner center account, then it is recommended that you enroll to Windows program first and then join Microsoft Collaborate. Otherwise you might have to create separate accounts for these programs.
--   Add a company phone number that does not require an extension and is accessible to key team members.
+ - Create your Microsoft account using an email address that doesn't already belong to you or another individual, such as MyCompany_PartnerCenter@outlook.com. You may not be able to use an email address at your company's domain, especially if your company already uses Azure AD.
+ - If you plan to join Windows program for app development in future and want to reuse your dev center account, then it is recommended that you enroll to Windows program first and then join Microsoft Collaborate. Otherwise you might have to create separate accounts for these programs.
+ - Add a company phone number that does not require an extension and is accessible to key team members.
 
 ## How to associate your Partner Center account with Azure Active Directory and manage users
 
