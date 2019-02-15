@@ -63,9 +63,9 @@ When creating a company account, we suggest that you follow these guidelines, es
 > [!IMPORTANT]
 > To allow multiple users to access your Partner Center account, we recommend using Azure Active Directory to assign roles to individual users. Each user can then access the Partner Center account by signing in with their individual Azure AD credentials. For more info, see [Manage account users](/windows/uwp/publish/manage-account-users).
 
-- Create your Microsoft account using an email address that doesn't already belong to you or another individual, such as MyCompany_PartnerCenter@outlook.com. You may not be able to use an email address at your company's domain, especially if your company already uses Azure AD.
-- If you plan to join Windows program for app development in future and want to reuse your dev center account, then it is recommended that you enroll to Windows program first and then join Microsoft Collaborate. Otherwise you might have to create separate accounts for these programs.
-- Add a company phone number that does not require an extension and is accessible to key team members.
+ - Create your Microsoft account using an email address that doesn't already belong to you or another individual, such as MyCompany_PartnerCenter@outlook.com. You may not be able to use an email address at your company's domain, especially if your company already uses Azure AD.
+ - If you plan to join Windows program for app development in future and want to reuse your dev center account, then it is recommended that you enroll to Windows program first and then join Microsoft Collaborate. Otherwise you might have to create separate accounts for these programs.
+ - Add a company phone number that does not require an extension and is accessible to key team members.
 
 ## How to associate your Partner Center account with Azure Active Directory and manage users
 
