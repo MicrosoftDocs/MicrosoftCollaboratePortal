@@ -37,15 +37,15 @@ To create queries, you must be within the context of a specific engagement.
 
 1. Navigate to an Engagement and click on one of the options within the Engagement page to get to the list of feedback that you want in the query.
 
-  ![Feedback query window](images/create-feedback-query.png)
+   ![Feedback query window](images/create-feedback-query.png)
 
 2. Click the **Advanced Filter** icon to see the fields that you can use to define the query. 
 
-  ![Feedback Advanced Filter window](images/feedback-advanced-filter.png)
+   ![Feedback Advanced Filter window](images/feedback-advanced-filter.png)
 
 3. Click **Run** to return the desired query results, you can click **Save As** to add the query.
 
-  ![Feedback Save Query window](images/feedback-query-save.png)
+   ![Feedback Save Query window](images/feedback-query-save.png)
 
 4. To **Edit** an existing query, navigate to the query, click the **Advanced Filter** icon and then click **Save As** to save the query as a new query.
 
@@ -57,10 +57,10 @@ To create queries, you must be within the context of a specific engagement.
 
 3. Click the '**+**' button to add new filter. Select **CreatedBy** from list of available fields.
 
-4. Type **@user** in the textbox.
+4. Type <strong>@user</strong> in the textbox.
 
 5. Click **Run** to return the desired query results.
 
-  ![Feedback Created by Me](images/feedback-created-by-me.png)
+   ![Feedback Created by Me](images/feedback-created-by-me.png)
   
   
