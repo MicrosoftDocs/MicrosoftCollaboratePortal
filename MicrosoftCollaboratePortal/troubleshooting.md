@@ -108,10 +108,10 @@ Microsoft now is limiting usage of personal Microsoft accounts linked to a work/
 1. Sign in to the [Your Info page](https://account.microsoft.com/profile) of your Microsoft account.
 2. Select **Manage how you sign in to Microsoft**.
 3. Look under the **Account alias** section.
-   * If you already have a personal email address listed there, you can skip this step.
-   * If your work or school email address is the only one listed, enter your personal email address, or get a new one from Microsoft, and select **Add email** or **Add phone number**.
-   * If your personal email address does not have **(primary alias)** listed next to it, select **Make primary** to set it as your primary alias.
-   * Select **Remove** next to your work email address to remove it from your account.
+ - If you already have a personal email address listed there, you can skip this step.
+ - If your work or school email address is the only one listed, enter your personal email address, or get a new one from Microsoft, and select **Add email** or **Add phone number**.
+ - If your personal email address does not have **(primary alias)** listed next to it, select **Make primary** to set it as your primary alias.
+ - Select **Remove** next to your work email address to remove it from your account.
 
 Going forward, you’ll sign in to your personal Microsoft account with your personal email address. You might need to sign in again to some apps and Windows devices.
 
