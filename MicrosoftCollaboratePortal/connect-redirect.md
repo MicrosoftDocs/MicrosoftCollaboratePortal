@@ -14,7 +14,7 @@ You have reached this page because you’ve tried to access the Microsoft Connec
 
 ## Microsoft Download Center
 
-Visit [Download Center](https://www.microsoft.com/download) if you are looking for a package that was previoulsy available on Connect.
+Visit [Download Center](https://www.microsoft.com/download) if you are looking for a package that was previously available on Connect.
 
 ## Microsoft Docs
 
