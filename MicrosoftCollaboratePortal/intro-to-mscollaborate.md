@@ -4,7 +4,7 @@ description: Overview of the Microsoft Collaborate Portal, including features av
 author: chriskleinke
 ms.author: chriskl
 ms.date: 09/01/2017
-keywords: partner feedback, build downloads, downloading specs, bugs, Microsoft Connect, SysDev Bug, Dev Center bugs
+keywords: partner feedback, build downloads, downloading specs, bugs, Microsoft Connect, SysDev Bug, Partner Center bugs
 ---
 
 # Introduction to Microsoft Collaborate
@@ -16,11 +16,11 @@ MS Collaborate enables:
 - Distribution of content (builds, documents, tools, specs);  
 - Ability to manage users of the system. 
 
-Available via the [Microsoft Dev Center Dashboard](//developer.microsoft.com/dashboard/collaborate), the new MS Collaborate portal provides a single location using a single set of credentials to see your work items and content.  This new system replaces the Microsoft Connect portal as well as the SysDev Feedback Management portal. 
+Available via the [Microsoft Partner Center Dashboard](https://partner.microsoft.com/dashboard/collaborate), the new MS Collaborate portal provides a single location using a single set of credentials to see your work items and content.  This new system replaces the Microsoft Connect portal as well as the SysDev Feedback Management portal. 
 
 You can access MS Collaborate using the friendly link:  [https://aka.ms/collaborate](https://aka.ms/collaborate).
 
-Sign-in using your Dev Center credentials, as either an individual or as a member of a company or organization.  Before using MS Collaborate, you will need to register for Dev Center. For more information, see [Register with Microsoft Collaborate](registration.md).
+Sign-in using your Partner Center credentials, as either an individual or as a member of a company or organization.  Before using MS Collaborate, you will need to register for Partner Center. For more information, see [Register with Microsoft Collaborate](registration.md).
 
 ## Programs and Engagements
 
@@ -87,7 +87,7 @@ For more information, see [Working with Feedback work items](feedback-items.md).
 
 Users will be able to receive notifications when specific actions or events happen within the system.  There will be default notifications (invitations to new engagements, new packages available for download, feedback work items that change state, etc.) that are available to all users.  In future versions, users will be able to subscribe and customize the notifications they receive. 
 
-To receive notifications, each user must ensure an appropriate email address is provided in the Notications section on Dev Center.  MS Collaborate uses your Dev Center account information for notifications and permissions within the system.
+To receive notifications, each user must ensure an appropriate email address is provided in the Notications section on Partner Center.  MS Collaborate uses your Partner Center account information for notifications and permissions within the system.
 
 ### Reporting and Analytics
 
@@ -118,10 +118,10 @@ MS Collaborate replaces Microsoft Connect, including a different look and new fu
 
 When migrating from MS Connect to MS Collaborate, it is important to understand how programs and engagements work, and how they are used to drive user access to and collaboration on content and feedback.  
 
-- *Organizations*: MS Collaborate integrates with the Account Management System in Dev Center, which uses both Microsoft Accounts (MSAs) and Azure Active Directory.  By adding Active Directory, MS Collaborate can take advantage of Dev Center's concept of organizations or companies; users are members of organizations using a corporate account or they are individuals with an MSA (single sign-on Microsoft account).
+- *Organizations*: MS Collaborate integrates with the Account Management System in Partner Center, which uses both Microsoft Accounts (MSAs) and Azure Active Directory.  By adding Active Directory, MS Collaborate can take advantage of Partner Center's concept of organizations or companies; users are members of organizations using a corporate account or they are individuals with an MSA (single sign-on Microsoft account).
 - *Engagement Owner*: Administrator for the engagement, able to configure the engagement, modify users; inherits all other user role powers for the engagement (publishing, configuration of feedback, etc.).
 - *Content Manager*: Able to publish and edit packages for an engagement or program.
 - Program and engagement names are visible to all users.  Engagements with defined organiations or companies clearly identify the organizations who have permissions for the engagement on the engagement page.  The legal agreement for the engagement is also available to all users who are members of the engagement.
 
-When migrating from the older system to the new Dev Center-based MS Collaborate, the biggest change is migrating user accounts to Dev Center.  Dev Center identifies a "Dev Center Admin" who is responsible for managing the Dev Center accounts for the company.  You will need to know who your admin is and whether your company uses Active Directory or not.  
+When migrating from the older system to the new Partner Center-based MS Collaborate, the biggest change is migrating user accounts to Partner Center.  Partner Center identifies a "Partner Center Admin" who is responsible for managing the Partner Center accounts for the company.  You will need to know who your admin is and whether your company uses Active Directory or not.  
    
