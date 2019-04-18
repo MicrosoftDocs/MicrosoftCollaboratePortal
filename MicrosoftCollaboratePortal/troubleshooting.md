@@ -13,7 +13,7 @@ This page provides troubleshooting guides for common issues.
 ## Sign-in
 
 ### Browser shows "Resources for partners" page when signing in to Partner Center
-After going to Partner Center/Collaborate and entering your username and password, you are being redirected to [Resources for partners](https://partner.microsoft.com/en-us/dashboard/directory) page.
+After navigating to Collaborate dashboard and entering your username and password, you are being redirected to [Resources for partners](https://partner.microsoft.com/en-us/dashboard/directory) page.
 
 #### Fixes/Workarounds
 
@@ -30,6 +30,12 @@ After going to Partner Center/Collaborate and entering your username and passwor
 
 Read more about [browser cache](https://support.microsoft.com/en-us/help/10607/microsoft-edge-view-delete-browser-history).
 
+##### Clear browsing cache in Chrome
+- Open **Customize and control Google Chrome** menu
+- Select **More tools**, then **Clear browsing data...**
+- Select **Cookies and other site data** and **Cached images and files** options
+- Click **Clear data** button.
+
 ### Microsoft Account Sign-in
 If you can't sign in to Microsoft Collaborate website, try these suggestions: 
 - make sure that you sign in using your complete email address
@@ -39,7 +45,7 @@ If you can't sign in to Microsoft Collaborate website, try these suggestions:
 - try clearing your browser's cache, cookies, temporary files, and any other browsing history that is stored. Close your browser, then open a new InPrivate browsing session.
 
 ### Browser hangs or shows "page can't be displayed" error when signing in to Partner Center
-After going to Partner Center/Collaborate and entering your username and password, you see one of these issues or errors:
+After navigating to Collaborate dashboard and entering your username and password, you see one of these issues or errors:
 - your browser appears to hang or become unresponsive
 - you get a "page can't be displayed" error
 - you get an error that says "ERR_TOO_MANY_REDIRECTS"
