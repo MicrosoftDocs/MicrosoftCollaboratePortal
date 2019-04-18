@@ -12,6 +12,30 @@ This page provides troubleshooting guides for common issues.
 
 ## Sign-in
 
+### Browser shows "Resources for partners" page when signing in to Partner Center
+After navigating to Collaborate dashboard and entering your username and password, you are being redirected to [Resources for partners](https://partner.microsoft.com/en-us/dashboard/directory) page.
+
+#### Fixes/Workarounds
+
+##### Change Directory / Account
+- click on the badge icon in the upper right corner and select the directory you usually work in
+- use account selection control in the left navigation menu to select correct account
+
+##### Clear browsing cache in EDGE
+- Open **Settings and more** menu
+- Select **Settings**, then **Privacy and security**
+- Click on **Choose what to clear** button under **Clear browsing data** section
+- Select **Cookies and saved website data** and **Cached data and files** options
+- Click **Clear** button.
+
+Read more about [browser cache](https://support.microsoft.com/en-us/help/10607/microsoft-edge-view-delete-browser-history).
+
+##### Clear browsing cache in Chrome
+- Open **Customize and control Google Chrome** menu
+- Select **More tools**, then **Clear browsing data...**
+- Select **Cookies and other site data** and **Cached images and files** options
+- Click **Clear data** button.
+
 ### Microsoft Account Sign-in
 If you can't sign in to Microsoft Collaborate website, try these suggestions: 
 - make sure that you sign in using your complete email address
@@ -20,13 +44,13 @@ If you can't sign in to Microsoft Collaborate website, try these suggestions:
 - make sure that your browser is configured to allow cookies. If your browser doesn’t allow cookies, you can’t sign in with your Microsoft account.
 - try clearing your browser's cache, cookies, temporary files, and any other browsing history that is stored. Close your browser, then open a new InPrivate browsing session.
 
-### Browser hangs or shows "page can't be displayed" error when signing in to Dev Center
-After going to Dev Center/Collaborate and entering your username and password, you see one of these issues or errors:
+### Browser hangs or shows "page can't be displayed" error when signing in to Partner Center
+After navigating to Collaborate dashboard and entering your username and password, you see one of these issues or errors:
 - your browser appears to hang or become unresponsive
 - you get a "page can't be displayed" error
 - you get an error that says "ERR_TOO_MANY_REDIRECTS"
 - you get an error that says "Hmm, we can't reach this page."
-- you accept an invitation email from Dev Center and you get this message:
+- you accept an invitation email from Partner Center and you get this message:
 
 > You have been invited to access ... application as ... .
 > However, we are not able to create this work or school account because ... is a domain that is federated with your on-premises AD.
@@ -44,7 +68,7 @@ The workaround is to rename your personal MSA account. See [this article](https:
 
 > We could not validate your identity as a global administrator. Make sure you're able to sign in with a global administrator account for the Azure AD tenant you want to associate.
 
-![DiWe could not validate your identity as a global administrator](images/GlobalAdministrator.png)
+![We could not validate your identity as a global administrator](images/GlobalAdministrator.png)
 
 The error indicates that a user is signed in with a work account (AAD) that does not have administrator privileges. 
 
@@ -63,7 +87,7 @@ Finding **Global Administrator** can be be a difficult task, especially if organ
 
 1. Navigate to [Azure Portal](https://portal.azure.com)
 2. Select [Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview) in the first left menu
-3. Select **Roles and Administrtors** in the second left menu
+3. Select **Roles and Administrators** in the second left menu
 4. Find **Global Administrator** role in the list and click to view members
 
 ![Roles and Administrators](images/aad-global-admin.png)
@@ -98,7 +122,7 @@ Check out these articles to learn more about **PowerShell** and **Azure AD Modul
 ](https://docs.microsoft.com/en-us/powershell/azure/active-directory/install-adv2?view=azureadps-2.0#installing-the-azure-ad-module)
 
 ### Invitations
-If you have been invited to join Dev Center account, you need to accept the invitation before you can access Collaborate portal. If you see an error message similar to shown below, it means that you have two accounts with Microsoft using the same email address. 
+If you have been invited to join Partner Center account, you need to accept the invitation before you can access Collaborate portal. If you see an error message similar to shown below, it means that you have two accounts with Microsoft using the same email address. 
 
 > You have been invited to access ... application as ... .<br> 
 > However, we are not able to create this work or school account because ... is a domain that is federated with your on-premises AD.<br> 
