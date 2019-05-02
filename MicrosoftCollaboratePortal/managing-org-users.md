@@ -4,7 +4,7 @@ description: Microsoft Collaborate enables users from organizations to control t
 author: ikhapova
 ms.author: ikhapova
 ms.date: 12/12/2017
-keywords: engagements, adding users, removing users, managing users, Collaborate security, Collaborate permissions, Microsoft Connect, SysDev Bug, Dev Center bugs
+keywords: engagements, adding users, removing users, managing users, Collaborate security, Collaborate permissions, Microsoft Connect, SysDev Bug, Partner Center bugs
 ---
 
 # Managing Users in MS Collaborate
@@ -31,20 +31,20 @@ Role | Scope of permissions | Description
 
 Your Microsoft engagement owner(s) will set up the engagements in MS Collaborate and users will be invited to participate in the engagement.
 
-Adding users to an engagement requires that each user be registered in the Dev Center with either an individual or company Dev Center account.  If the user is a member of a company or organization, the Dev Center admin needs to add the new users to the Dev Center company account before they can be added to an MS Collaborate engagement. If the company or organization does not yet exist in Dev Center, then a company representative needs to create a new company account in Dev Center and identify an organization admin who can add other users to the Dev Center company account.  
+Adding users to an engagement requires that each user be registered in the Partner Center with either an individual or company Partner Center account.  If the user is a member of a company or organization, the Partner Center admin needs to add the new users to the Partner Center company account before they can be added to an MS Collaborate engagement. If the company or organization does not yet exist in DePartnerv Center, then a company representative needs to create a new company account in Partner Center and identify an organization admin who can add other users to the Partner Center company account.  
 
 See [Register with Microsoft Collaborate](registration.md) for more information about getting set up to use MS Collaborate.
 
 > [!NOTE]
-> MS Collaborate uses the same Dev Center account as other programs in Dev Center.  The company you choose is important if your company or organization will also enroll in Dev Center programs that require bank account or certificate information.  
+> MS Collaborate uses the same Partner Center account as other programs in Partner Center.  The company you choose is important if your company or organization will also enroll in Partner Center programs that require bank account or certificate information.  
 > 
-> If your organization uses Azure Active Directory (AAD) in Dev Center, you need to onboard the users to Dev Center in your AAD account.
+> If your organization uses Azure Active Directory (AAD) in Partner Center, you need to onboard the users to Partner Center in your AAD account.
 > 
-> If you belong to multiple Dev Center organizations, you may need to switch your sign in to the organization that is onboarded to the MS Collaborate engagement you want to see.
+> If you belong to multiple Partner Center organizations, you may need to switch your sign in to the organization that is onboarded to the MS Collaborate engagement you want to see.
 
 ## How to add users
 
-Once a user is registered in Dev Center, it it easy for the MS Collaborate *Engagement Owner(s)* or organization's *Power User(s)* to a add the user to an engagement.  Engagement Owners can add Power Users for an organization.  Contact the MS Collaborate Engagement Owner to be added as a Power User for your organization.
+Once a user is registered in Partner Center, it it easy for the MS Collaborate *Engagement Owner(s)* or organization's *Power User(s)* to a add the user to an engagement.  Engagement Owners can add Power Users for an organization.  Contact the MS Collaborate Engagement Owner to be added as a Power User for your organization.
 
 1. Navigate to the Engagement in which you want to add or remove users and click **Edit Engagement** to open the Engagement management page. As an organization Power User, you can only change membership roles for users in your organization.  All other tabs will be read only.
 
@@ -67,11 +67,11 @@ Once the user is added to the list, the user can begin accessing the engagement 
 
 ## Troubleshooting users missing from search
 
-An organization's Power Users can only search for users within their own organization's Dev Center account.  For Engagement Owners, if the engagement has named organizations, the search for users will be limited to users within the named organizations.
+An organization's Power Users can only search for users within their own organization's Partner Center account.  For Engagement Owners, if the engagement has named organizations, the search for users will be limited to users within the named organizations.
 
 If the users are not appearing in the search results for your engagement:
-- verify if users have been added to the organization’s account in Dev Center. If not, work with the **Administrator** of your organization account to add missing users. See [Add users to your Dev Center account](https://docs.microsoft.com/en-us/windows/uwp/publish/add-users-groups-and-azure-ad-applications#add-users-to-your-dev-center-account) article for the detailed instructions.
-- It is possible that the organization has more than one Dev Center organization account (seller ID) in Dev Center.  Be sure the appropriate organization has been added to the engagement and that the appropriate users are in that organization.  If the organization is incorrect, please contact your Microsoft Engagement Owner.
+- verify if users have been added to the organization’s account in Partner Center. If not, work with the **Administrator** of your organization account to add missing users. See [Add users to your Partner Center account](https://docs.microsoft.com/en-us/windows/uwp/publish/add-users-groups-and-azure-ad-applications#add-users-to-your-dev-center-account) article for the detailed instructions.
+- It is possible that the organization has more than one Partner Center organization account (seller ID) in Partner Center.  Be sure the appropriate organization has been added to the engagement and that the appropriate users are in that organization.  If the organization is incorrect, please contact your Microsoft Engagement Owner.
 	
 ## How to remove users
 
@@ -81,4 +81,4 @@ If the users are not appearing in the search results for your engagement:
 
 2.	Confirm that you want to remove the user, and the user will no longer be a member of the group.
 
-Note that removing a user from an engagement does not impact the user's account in the Dev Center account system.  The user account will remain available for other engagements and other Dev Center programs.
+Note that removing a user from an engagement does not impact the user's account in the Partner Center account system.  The user account will remain available for other engagements and other Partner Center programs.
