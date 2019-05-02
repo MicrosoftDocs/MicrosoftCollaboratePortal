@@ -42,7 +42,7 @@ When you open the engagement, you can see the following information:
 - participating organizations (if any) - organizations that can see and edit feedback and content associated with the engagement,
 - the Terms of Use that apply for the engagement, including information about the agreement if it is a custom agreement,
 - a button to see a list of packages associated with the emgagement, and 
-- a ist of feedback work items available to the engagement, including a link to create new work items and any queries saved by you or shared to the program or engagement.
+- a list of feedback work items available to the engagement, including a link to create new work items and any queries saved by you or shared to the program or engagement.
 
 ## Program Shared Queries
 
