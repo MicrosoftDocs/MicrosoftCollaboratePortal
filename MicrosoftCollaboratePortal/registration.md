@@ -66,14 +66,13 @@ When creating a company account, we suggest that you follow these guidelines, es
 
 ## How to configure access for multiple users
 
-You can use Azure Active Directory to add and manage additional users in your Partner Center account. You can define the role or custom permissions that each user should have. 
+You can use Azure Active Directory to add and manage additional users in your Partner Center account. 
+-   [Associate Azure Active Directory with your Partner Center account](/windows/uwp/publish/associate-azure-ad-with-dev-center)
 
 You must first associate your Partner Center account with your organization's Azure Active Directory to be able to add and manage users. 
-
-This section describes how to do the following:
-
--   [Associate Azure Active Directory with your Partner Center account](/windows/uwp/publish/associate-azure-ad-with-dev-center)
 -   [Add users, groups, and Azure AD applications to your Partner Center account](/windows/uwp/publish/add-users-groups-and-azure-ad-applications)
+
+You can define the role or custom permissions that each user should have. 
 -   [Set roles and custom permissions for account users](/windows/uwp/publish/set-custom-permissions-for-account-users)
 
 > [!TIP]
