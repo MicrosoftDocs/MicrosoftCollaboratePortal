@@ -65,6 +65,12 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 -   [Add users, groups, and Azure AD applications to your Partner Center account](/windows/uwp/publish/add-users-groups-and-azure-ad-applications)
 -   [Set roles and custom permissions for account users](/windows/uwp/publish/set-custom-permissions-for-account-users)
 
+### What happens when Azure AD tenant is linked to partner center account
+
+* No changes are made to the tenant itself during  onboarding
+* *Tenant ID* is added to the partner canter account data
+* *Account Administrator* gets the ability to see Azure AD users and add them to the account
+* *Global Admin* gets the ability to create new users in the Azure AD tenant and invite guest users
 
 ## How to register as an organization
 
