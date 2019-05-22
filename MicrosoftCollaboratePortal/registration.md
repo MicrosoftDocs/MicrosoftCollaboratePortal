@@ -58,18 +58,13 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 10. Click **Finish** to confirm your registration.  
 
 ## How to configure access for multiple users
+> [!TIP]
+> [Partner Center](https://partner.microsoft.com/dashboard) leverages Azure AD for multi-user account access and management. If your organization already uses Office 365 or other business services from Microsoft, you already have Azure AD. Otherwise, you can create a new Azure AD tenant from within Partner Center at no additional charge.
 
-You can use Azure Active Directory to add and manage additional users in your Partner Center account. 
 -   [Associate Azure Active Directory with your Partner Center account](/windows/uwp/publish/associate-azure-ad-with-dev-center)
-
-You must first associate your Partner Center account with your organization's Azure Active Directory to be able to add and manage users. 
 -   [Add users, groups, and Azure AD applications to your Partner Center account](/windows/uwp/publish/add-users-groups-and-azure-ad-applications)
-
-You can define the role or custom permissions that each user should have. 
 -   [Set roles and custom permissions for account users](/windows/uwp/publish/set-custom-permissions-for-account-users)
 
-> [!TIP]
-> Partner Center leverages Azure Active Directory for multi-user management and roles assignment. If your organization already uses Office 365 or other business services from Microsoft, you already have an AAD. Otherwise, you can create a new AAD tenant from within Partner Center at no additional charge.
 
 ## How to register as an organization
 
