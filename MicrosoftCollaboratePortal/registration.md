@@ -11,16 +11,17 @@ keywords: partner access, permissions, register, registration, onboarding, partn
 
 Microsoft Collaborate program is offered through Partner Center and requires registration. If you already have an account in Partner Center it is best to use the same account to enroll in Collaborate. 
 
-## How to register as a user
+ > [!IMPORTANT]
+ > You can use one of the following accounts to work in Partner Center:
+ > * *Microsoft Account* (personal account)
+ > * *Azure AD* (organizational account)
+ >
+ > Only users with *global administrator* role can register using *Azure AD* account. If you do not have this role, you can try to [find global administrator](troubleshooting.md#how-to-find-global-administrator-for-your-organization) for your organization to help you register.
+ 
+## How to register as an individual
 
 1. Navigate to the [Partner Center Directory](https://partner.microsoft.com/en-us/dashboard/directory).
 2. If you're not already signed, sign in now using existing account or create new *Microsoft Account*. 
-
-   > [!TIP]
-   > You can use *Azure AD* or *Microsoft Account* to sign in. You must have the *global administrator* role to register with *Azure AD*. If you do not have the role, you this is what you can do:
-   > * try to [find global administrator](troubleshooting.md#how-to-find-global-administrator-for-your-organization) for your organization
-   > * sign in using *Microsoft Account*. 
-
 3. Scroll down to **Developer programs** section and click on [Get Started](https://partner.microsoft.com/en-us/dashboard/registration/collaborate) link for **Microsoft Collaborate**. 
 
    ![Get Started](images/PartnerCenterDirectory.png)
@@ -31,7 +32,7 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 
    > [!NOTE]
    > If you signed in with the existing Partner Center account the page will contain information from that account. You can modify **Publisher display name** and **Contact info** if needed.
-   > 
+    
    > [!IMPORTANT]
    > The following error indicates that user is signed in with an *Azure AD* account that does not have administrator privileges and registration cannot be completed. 
    > > We could not validate your identity as a global administrator. 
@@ -56,40 +57,55 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 
 10. Click **Finish** to confirm your registration.  
 
-## How to register as an organization
-
-When creating a company account, we suggest that you follow these guidelines, especially if more than one person needs to access the account.
-
-> [!IMPORTANT]
-> To allow multiple users to access your Partner Center account, we recommend using Azure Active Directory to assign roles to individual users. Each user can then access the Partner Center account by signing in with their individual Azure AD credentials. For more info, see [Manage account users](/windows/uwp/publish/manage-account-users).
-
- - Create your Microsoft account using an email address that doesn't already belong to you or another individual, such as MyCompany_PartnerCenter@outlook.com. You may not be able to use an email address at your company's domain, especially if your company already uses Azure AD.
- - If you plan to join Windows program for app development in future and want to reuse your dev center account, then it is recommended that you enroll to Windows program first and then join Microsoft Collaborate. Otherwise you might have to create separate accounts for these programs.
- - Add a company phone number that does not require an extension and is accessible to key team members.
-
-## How to associate your Partner Center account with Azure Active Directory and manage users
-
-You can use Azure Active Directory to add and manage additional users in your Partner Center account. You can define the role or custom permissions that each user should have. 
-
-You must first associate your Partner Center account with your organization's Azure Active Directory to be able to add and manage users. 
-
-This section describes how to do the following:
+## How to configure access for multiple users
+> [!TIP]
+> [Partner Center](https://partner.microsoft.com/dashboard) leverages Azure AD for multi-user account access and management. If your organization already uses Office 365 or other business services from Microsoft, you already have Azure AD. Otherwise, you can create a new Azure AD tenant from within Partner Center at no additional charge.
 
 -   [Associate Azure Active Directory with your Partner Center account](/windows/uwp/publish/associate-azure-ad-with-dev-center)
 -   [Add users, groups, and Azure AD applications to your Partner Center account](/windows/uwp/publish/add-users-groups-and-azure-ad-applications)
 -   [Set roles and custom permissions for account users](/windows/uwp/publish/set-custom-permissions-for-account-users)
 
-> [!TIP]
-> Partner Center leverages Azure Active Directory for multi-user management and roles assignment. If your organization already uses Office 365 or other business services from Microsoft, you already have an AAD. Otherwise, you can create a new AAD tenant from within Partner Center at no additional charge.
+## What happens when an Azure AD tenant is linked to a Partner Center account
 
-## How to log in to the MS Collaborate portal
+* No changes are made to the *Azure AD* tenant itself
+* *Tenant ID* is added to the account data
+* Account *Administrator* gets the ability to view *Azure AD* users and add them to the account
+* Tenant *Global Admin* gets the ability to create new users in the *Azure AD* tenant and invite guest users using Partner Center user management pages
+
+## How to register as an organization
+
+### Before you begin
+To create an account on Partner Center, you’ll need to have on hand the following information. You may want to take a few minutes to gather these items before you get started:
+
+* Global administrator work email. If you're not sure what your company's work account is, see [how to find global administrator](troubleshooting.md#how-to-find-global-administrator-for-your-organization).
+
+* If your company doesn’t have a work account, you can create one during the account creation process.
+
+* Your company’s legal business name, address, and primary contact. We need this information to confirm that your company has an established profile and that you are authorized to act on its behalf.
+
+* Authority to sign legal agreements. Ensure that you are authorized to sign legal agreements on your company's behalf as you’ll be asked to do so during the enrollment process.
+
+* Name and company email of the person you want to act as your primary contact.
+
+### Guidelines
+When creating a company account, we suggest that you follow these guidelines, especially if more than one person needs to access the account.
+
+ - Create your Microsoft account using an email address that doesn't already belong to you or another individual, such as *MyCompany_PartnerCenter@outlook.com*. You may not be able to use an email address at your company's domain, especially if your company already uses Azure AD.
+ - If you plan to join **Windows** program for app development in future and want to reuse your partner center account, then it is recommended that you enroll to **Windows** program first and then join **Collaborate**. Otherwise you might have to create separate accounts for these programs.
+ - Add a company phone number that does not require an extension and is accessible to key team members.
+
+
+## How to access the Collaborate portal
 
 1. Navigate to MS Collaborate: [https://aka.ms/collaborate](https://aka.ms/collaborate).
 
-2.	You will be asked for credentials to log in. This is your Partner Center account credentials. If you have more than one account, select the appropriate account that you used to sign up for Partner Center. This can be a Microsoft alias account (MSA) or an Active Directory organization account. If you have not logged in before, you will need to enter your password.
+2.	You will be asked for credentials to sign in. This is your Partner Center account credentials. If you have more than one account, select the appropriate account that you used to sign up for Partner Center. This can be a personal (Microsoft Account) or work (Azure Active Directory) account. 
 
-3. After logging in, the Microsoft Collaborate dashboard will appear, showing you the engagements, packages, and feedback, you are configured to see. If you are not a member of any programs or engagements, the lists will be blank. You need to be added to an engagement to interact with content or feedback. 
+3. Once you are signed in, the Collaborate dashboard will appear, showing you the engagements, packages, and feedback, you are configured to see. 
+
+   > [!NOTE]
+   > If you are not a member of any programs or engagements, the lists will be blank. You need to join or request access an engagement to interact with content or feedback. 
 
 ## Next steps
 
-Before you can download content or submit feedback, you need to join an engagement. Some engagements require invitation from Microsoft **Engagement Owner** or **Power User** (when your organization is already added to an engagement). Other engagements are **Open** for users to join.
+Before you can download content or submit feedback, you need to join an engagement. Some engagements require an invitation from **Engagement Owner** or **Power User** (when your organization is already added to an engagement). Other engagements are **Open** for users to join.
