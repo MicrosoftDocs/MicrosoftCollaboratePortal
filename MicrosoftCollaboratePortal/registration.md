@@ -94,18 +94,20 @@ When creating a company account, we suggest that you follow these guidelines, es
  - If you plan to join **Windows** program for app development in future and want to reuse your partner center account, then it is recommended that you enroll to **Windows** program first and then join **Collaborate**. Otherwise you might have to create separate accounts for these programs.
  - Add a company phone number that does not require an extension and is accessible to key team members.
 
+## Next steps
 
-## How to access the Collaborate portal
+### Accessing the Collaborate portal
 
-1. Navigate to MS Collaborate: [https://aka.ms/collaborate](https://aka.ms/collaborate).
+1. Navigate to the Collaborate homepage: [https://aka.ms/collaborate](https://aka.ms/collaborate).
+2.	Sign in using Partner Center account credentials. 
 
-2.	You will be asked for credentials to sign in. This is your Partner Center account credentials. If you have more than one account, select the appropriate account that you used to sign up for Partner Center. This can be a personal (Microsoft Account) or work (Azure Active Directory) account. 
+> [!TIP]
+> If your organization created multiple *Azure AD* tenants, select the one it uses for Collaborate. Click on badge icon on the *right* of the screen to view the list of available tenants. 
+> If your organization opened multiple accounts in Partner Center, select the one it uses for Collaborate. Click on the account name in the *left* navigation menu to view list of account.
 
 3. Once you are signed in, the Collaborate dashboard will appear, showing you the engagements, packages, and feedback, you are configured to see. 
 
    > [!NOTE]
    > If you are not a member of any programs or engagements, the lists will be blank. You need to join or request access an engagement to interact with content or feedback. 
-
-## Next steps
 
 Before you can download content or submit feedback, you need to join an engagement. Some engagements require an invitation from **Engagement Owner** or **Power User** (when your organization is already added to an engagement). Other engagements are **Open** for users to join.
