@@ -96,7 +96,7 @@ When creating a company account, we suggest that you follow these guidelines, es
 
 ## Next steps
 
-### Accessing the Collaborate portal
+### Open the Collaborate homepage
 
 1. Navigate to the Collaborate homepage: [https://aka.ms/collaborate](https://aka.ms/collaborate).
 2.	Sign in using Partner Center account credentials. 
@@ -105,9 +105,26 @@ When creating a company account, we suggest that you follow these guidelines, es
 > If your organization created multiple *Azure AD* tenants, select the one it uses for Collaborate. Click on badge icon on the *right* of the screen to view the list of available tenants. 
 > If your organization opened multiple accounts in Partner Center, select the one it uses for Collaborate. Click on the account name in the *left* navigation menu to view list of account.
 
-3. Once you are signed in, the Collaborate dashboard will appear, showing you the engagements, packages, and feedback, you are configured to see. 
+> [TIP!]
+>
+> Before you can download content or submit feedback, you need to join an engagement. Depending on how engagement is configured, you will need to:
+* join via portal
+* request access via portal
+* request an invitation from **Engagement Owner** or **Power User** (when your organization is already added to an engagement). this happens offline via other channels such as email. 
 
-   > [!NOTE]
-   > If you are not a member of any programs or engagements, the lists will be blank. You need to join or request access an engagement to interact with content or feedback. 
+### Join an engagement
 
-Before you can download content or submit feedback, you need to join an engagement. Some engagements require an invitation from **Engagement Owner** or **Power User** (when your organization is already added to an engagement). Other engagements are **Open** for users to join.
+3. When authentication is completed, you will see the homepage and the icons for programs, engagements, packages and feedback. 
+4. Click on the engagements icon or **Engagements** item in the left navigation menu to open the list of engagements.
+5. Then, click on the **Join** button to browse list of *new* engagements available to you and your organization.
+
+> [TIP!]
+> Depending on how engagement is configured, owner approval might be required for users to join. Some of the engagaments only require acceptance of terms of use.
+
+6. Find the engagement you are interested in and click on its name.
+7. Page with detailed engagement information will open. Carefully review *Description* and *Terms of use* to make sure you understand engagement purpose and terms. 
+8. Check *I accept Terms of Use* field and click **Join** or **Request Access** button.
+
+9. If owner approval *is not required* (**Join** option), engagement will be added to the engagement list and you can start using it. If you do not see the engagement - press **F5** to refresh the page.
+
+10. If owner approval *is required* you will be asked to provide justification for requesting access. *Engagement owner* ond *Power User* will be notified about access request via e-mail. They will review the request and configure engagement access. Usually they will notify you when, when access is granted. If you do not receive a notification, review the list of engagements to check if your access request was approved.
