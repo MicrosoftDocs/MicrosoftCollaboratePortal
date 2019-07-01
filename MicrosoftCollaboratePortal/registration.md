@@ -9,7 +9,7 @@ keywords: partner access, permissions, register, registration, onboarding, partn
 
 # Registration
 
-Microsoft Collaborate program is offered through Partner Center and requires registration. If you already have an account in Partner Center it is best to use the same account to enroll in Collaborate. 
+Microsoft Collaborate program is offered through Partner Center and requires registration. If you already have an account in Partner Center, it is best to use the same account to enroll in Collaborate. 
 
  > [!IMPORTANT]
  > You can use one of the following accounts to work in Partner Center:
@@ -26,7 +26,7 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 
    ![Get Started](images/PartnerCenterDirectory.png)
 
-4. The **Get Started** link will take you to the registraion page. 
+4. The **Get Started** link will take you to the registration page. 
 
    ![Account Info](images/RegistrationAccountInfo.png)
 
@@ -41,7 +41,7 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 
 5. Select the **Account country/region** in which you live, or where your business is located. You won't be able to change this later.
 6. Select your **Account type** (individual or company). You won't be able to change this later, so be sure to choose the right type of account.
-7. Enter the **Publisher display name** that you wish to use (50 characters or fewer). Select this carefully, as this name will be used when you interact with Collaborate (download content, submit feedback and etc.). For company accounts, be sure to use your organization's registered business name or trade name. Note that if you enter a name that someone else has already selected, or if it appears that someone else has the rights to use that name, we will not allow you to use that name. 
+7. Enter the **Publisher display name** that you wish to use (50 characters or fewer). Select this carefully, as this name will be used when you interact with Collaborate (download content, submit feedback etc.). For company accounts, be sure to use your organization's registered business name or trade name. Note that if you enter a name that someone else has already selected, or if it appears that someone else has the rights to use that name, we will not allow you to use that name. 
 
    > [!NOTE]
    > Make sure you have the rights to use the name you enter here. If someone else has trademarked or copyrighted the name you picked, your account could be closed. If someone else is using a publisher display name for which you hold the trademark or other legal right, [contact Microsoft](http://go.microsoft.com/fwlink/p/?LinkId=233777).    
@@ -110,7 +110,7 @@ When creating a company account, we suggest that you follow these guidelines, es
 3. When authentication is completed, you will see the homepage displaying your name and organization.
 
 > [TIP!]
-> Homepage will look different if you partcipate in at least one engagement - you will see links to resources available to you. 
+> Homepage will look different if you participate in at least one engagement - you will see links to resources available to you. 
 
 ### Request access
 
@@ -128,4 +128,4 @@ Before you can download content or submit feedback, you need to join an engageme
 3. Carefully review *Description* and *Terms of use* to make sure you understand engagement purpose and terms of use. 
 4. Check *I accept Terms of Use* field and click **Join** or **Request Access** button.
 5. If owner approval *is not required* (**Join** option), engagement will be added to the engagement list and you can start using it. If you do not see the engagement in the list - press **F5** to refresh the page.
-6. If owner approval *is required* you will be asked to provide justification for requesting access. *Engagement owner* ond *Power User* will be notified about access request via e-mail. They will review the request and configure engagement access. Usually they will notify you when, when access is granted. If you do not receive a notification, review the list of engagements to check if your access request was approved.
+6. If owner approval *is required* you will be asked to provide justification for requesting access. *Engagement owner* and *Power User* will be notified about access request via e-mail. They will review the request and configure engagement access. Usually they will notify you when access is granted. If you do not receive a notification, review the list of engagements to check if your access request was approved.
