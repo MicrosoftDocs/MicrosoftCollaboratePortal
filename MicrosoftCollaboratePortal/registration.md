@@ -9,7 +9,7 @@ keywords: partner access, permissions, register, registration, onboarding, partn
 
 # Registration
 
-Microsoft Collaborate program is offered through Partner Center and requires registration. If you already have an account in Partner Center it is best to use the same account to enroll in Collaborate. 
+Microsoft Collaborate program is offered through Partner Center and requires registration. If you already have an account in Partner Center, it is best to use the same account to enroll in Collaborate. 
 
  > [!IMPORTANT]
  > You can use one of the following accounts to work in Partner Center:
@@ -26,7 +26,7 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 
    ![Get Started](images/PartnerCenterDirectory.png)
 
-4. The **Get Started** link will take you to the registraion page. 
+4. The **Get Started** link will take you to the registration page. 
 
    ![Account Info](images/RegistrationAccountInfo.png)
 
@@ -41,7 +41,7 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 
 5. Select the **Account country/region** in which you live, or where your business is located. You won't be able to change this later.
 6. Select your **Account type** (individual or company). You won't be able to change this later, so be sure to choose the right type of account.
-7. Enter the **Publisher display name** that you wish to use (50 characters or fewer). Select this carefully, as this name will be used when you interact with Collaborate (download content, submit feedback and etc.). For company accounts, be sure to use your organization's registered business name or trade name. Note that if you enter a name that someone else has already selected, or if it appears that someone else has the rights to use that name, we will not allow you to use that name. 
+7. Enter the **Publisher display name** that you wish to use (50 characters or fewer). Select this carefully, as this name will be used when you interact with Collaborate (download content, submit feedback etc.). For company accounts, be sure to use your organization's registered business name or trade name. Note that if you enter a name that someone else has already selected, or if it appears that someone else has the rights to use that name, we will not allow you to use that name. 
 
    > [!NOTE]
    > Make sure you have the rights to use the name you enter here. If someone else has trademarked or copyrighted the name you picked, your account could be closed. If someone else is using a publisher display name for which you hold the trademark or other legal right, [contact Microsoft](http://go.microsoft.com/fwlink/p/?LinkId=233777).    
@@ -67,10 +67,12 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 
 ## What happens when an Azure AD tenant is linked to a Partner Center account
 
-* No changes are made to the *Azure AD* tenant itself
 * *Tenant ID* is added to the account data
-* Account *Administrator* gets the ability to view *Azure AD* users and add them to the account
-* Tenant *Global Admin* gets the ability to create new users in the *Azure AD* tenant and invite guest users using Partner Center user management pages
+* Account *Administrator* gets the ability to view users of the *Azure AD* tenant and add them to the account
+* Tenant *Global Admin* gets the ability to add new tenant users in Partner Center
+* Tenant *Global Admin* gets the ability to invite guest users in Partner Center
+
+No changes are made to the *Azure AD* tenant itself.
 
 ## How to register as an organization
 
@@ -94,18 +96,36 @@ When creating a company account, we suggest that you follow these guidelines, es
  - If you plan to join **Windows** program for app development in future and want to reuse your partner center account, then it is recommended that you enroll to **Windows** program first and then join **Collaborate**. Otherwise you might have to create separate accounts for these programs.
  - Add a company phone number that does not require an extension and is accessible to key team members.
 
-
-## How to access the Collaborate portal
-
-1. Navigate to MS Collaborate: [https://aka.ms/collaborate](https://aka.ms/collaborate).
-
-2.	You will be asked for credentials to sign in. This is your Partner Center account credentials. If you have more than one account, select the appropriate account that you used to sign up for Partner Center. This can be a personal (Microsoft Account) or work (Azure Active Directory) account. 
-
-3. Once you are signed in, the Collaborate dashboard will appear, showing you the engagements, packages, and feedback, you are configured to see. 
-
-   > [!NOTE]
-   > If you are not a member of any programs or engagements, the lists will be blank. You need to join or request access an engagement to interact with content or feedback. 
-
 ## Next steps
 
-Before you can download content or submit feedback, you need to join an engagement. Some engagements require an invitation from **Engagement Owner** or **Power User** (when your organization is already added to an engagement). Other engagements are **Open** for users to join.
+### Navigate to the portal
+
+1. Navigate to the Collaborate homepage: [https://aka.ms/collaborate](https://aka.ms/collaborate).
+2.	Sign in using Partner Center account credentials. 
+
+> [!TIP]
+> If your organization created multiple *Azure AD* tenants, select the one it uses for Collaborate. Click on badge icon on the *right* of the screen to view the list of available tenants. 
+> If your organization opened multiple accounts in Partner Center, select the one it uses for Collaborate. Click on the account name in the *left* navigation menu to view list of account.
+
+3. When authentication is completed, you will see the homepage displaying your name and organization.
+
+> [!TIP]
+> Homepage will look different if you participate in at least one engagement - you will see links to resources available to you. 
+
+### Request access
+
+Before you can download content or submit feedback, you need to join an engagement. Depending on how engagement is configured, you can:
+* Join via portal
+* Request access via portal
+* Ask engagement administrators (users with **Engagement Owner** or **Power User** role) to add you to the engagement using other channels, for example - e-mail. 
+
+> [!TIP]
+> **Power User** is a representative from your organization who manages engagement access.  
+> Depending on how engagement is configured, owner approval might be required for users to join. Some engagements only require acceptance of terms of use.
+
+1. Click on the *Join engagements* link to browse the list of *new* engagements available to you and your organization.
+2. Find the engagement you are interested in and click on its name. Page with detailed engagement information will open.
+3. Carefully review *Description* and *Terms of use* to make sure you understand engagement purpose and terms of use. 
+4. Check *I accept Terms of Use* field and click **Join** or **Request Access** button.
+5. If owner approval is not required (*Join* option), engagement will be added to the engagement list and you can start using it. If you do not see the engagement in the list - press **F5** to refresh the page.
+6. If owner approval is required you will be asked to provide justification for requesting access. *Engagement owner* and *Power User* will be notified about access request via e-mail. They will review the request and configure engagement access. Usually they will notify you when access is granted. If you do not receive a notification, review the list of engagements to check if your access request was approved.
