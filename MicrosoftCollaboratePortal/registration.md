@@ -102,12 +102,9 @@ When creating a company account, we suggest that you follow these guidelines, es
 
 1. Navigate to the Collaborate homepage: [https://aka.ms/collaborate](https://aka.ms/collaborate).
 2.	Sign in using Partner Center account credentials. 
-
-> [!TIP]
-> If your organization created multiple *Azure AD* tenants, select the one it uses for Collaborate. Click on badge icon on the *right* of the screen to view the list of available tenants. 
-> If your organization opened multiple accounts in Partner Center, select the one it uses for Collaborate. Click on the account name in the *left* navigation menu to view list of account.
-
-3. When authentication is completed, you will see the homepage displaying your name and organization.
+3. If your organization created multiple *Azure AD* tenants, select the one it uses for Collaborate. Click on badge icon on the *right* of the screen to view the list of available tenants. 
+4. If your organization opened multiple accounts in Partner Center, select the one it uses for Collaborate. Click on the account name in the *left* navigation menu to view list of account.
+5. When authentication is completed, you will see the homepage displaying your name and organization.
 
 > [!TIP]
 > Homepage will look different if you participate in at least one engagement - you will see links to resources available to you. 
