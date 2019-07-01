@@ -109,7 +109,7 @@ When creating a company account, we suggest that you follow these guidelines, es
 
 3. When authentication is completed, you will see the homepage displaying your name and organization.
 
-> [TIP!]
+> [!TIP]
 > Homepage will look different if you participate in at least one engagement - you will see links to resources available to you. 
 
 ### Request access
@@ -119,7 +119,7 @@ Before you can download content or submit feedback, you need to join an engageme
 > * Request access via portal
 > * Ask engagement administrators (users with **Engagement Owner** or **Power User** role) to add you to the engagement using other channels, for example - e-mail. 
 
-> [TIP!]
+> [!TIP]
 > **Power User** is a representative from your organization who manages engagement access.  
 > Depending on how engagement is configured, owner approval might be required for users to join. Some engagements only require acceptance of terms of use.
 
