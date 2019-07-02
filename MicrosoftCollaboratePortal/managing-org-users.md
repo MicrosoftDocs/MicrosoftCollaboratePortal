@@ -7,13 +7,13 @@ ms.date: 12/12/2017
 keywords: engagements, adding users, removing users, managing users, Collaborate security, Collaborate permissions, Microsoft Connect, SysDev Bug, Partner Center bugs
 ---
 
-# Managing Users in MS Collaborate
+# Managing Users
 
-The Microsoft Collaborate system uses **Engagements** to define the permissions/roles for the portal.  Very simply, if you are a participant of the engagement, you see the engagement metadata, content and feedback associated with the engagement.  The additional permissions within the engagement are defined as roles.  If you are added to a role, you can edit specific aspects of the program/engagement.  If you are not a member of the engagement, you do not see the engagement or any of its artifacts.
+The Microsoft Collaborate system uses **Engagements** to define the permissions/roles for the portal.  If you are a participant of the engagement, you can see the engagement metadata, content and feedback associated with the engagement.  The additional permissions within the engagement are defined as roles.  If you are added to a role, you can edit specific aspects of the program/engagement.  If you are not a member of the engagement, you do not see the engagement or any of its artifacts.
 
-At this time, only Microsoft users can manage programs and engagements.  Non-Microsoft users can be Participants and Power Users.
+At this time, only Microsoft users can create and manage programs and engagements. Non-Microsoft users can use join existing engagements and manage user access for their organization.
 
-## Roles in Collaborate
+## Roles
 
 MS Collaborate has the following membership roles:
 
@@ -27,24 +27,22 @@ Role | Scope of permissions | Description
 **Program Owner** | Program | Microsoft users who can manage all aspects of the program and all engagements under the program.  
 
 
-## Managing User Memberships
+## Managing user access
 
-Your Microsoft engagement owner(s) will set up the engagements in MS Collaborate and users will be invited to participate in the engagement.
-
-Adding users to an engagement requires that each user be registered in the Partner Center with either an individual or company Partner Center account.  If the user is a member of a company or organization, the Partner Center admin needs to add the new users to the Partner Center company account before they can be added to an MS Collaborate engagement. If the company or organization does not yet exist in DePartnerv Center, then a company representative needs to create a new company account in Partner Center and identify an organization admin who can add other users to the Partner Center company account.  
+Only users that exist in Partner Center account can be added to engagements. If a company or an organization does not yet exist in Partner Center, then a company representative needs to create a new company account and identify an organization admin who can add other users to the Partner Center company account. 
 
 See [Register with Microsoft Collaborate](registration.md) for more information about getting set up to use MS Collaborate.
 
 > [!NOTE]
-> MS Collaborate uses the same Partner Center account as other programs in Partner Center.  The company you choose is important if your company or organization will also enroll in Partner Center programs that require bank account or certificate information.  
+> MS Collaborate uses the same account as other programs in Partner Center.  The type of account you choose is important if your company or organization plans to enroll in other Partner Center programs that require bank account or certificate information.  
 > 
-> If your organization uses Azure Active Directory (AAD) in Partner Center, you need to onboard the users to Partner Center in your AAD account.
+> If your organization uses Azure Active Directory (AAD), you need to add users from AAD tenant to the Partner Center account before they can join an engagement.
 > 
-> If you belong to multiple Partner Center organizations, you may need to switch your sign in to the organization that is onboarded to the MS Collaborate engagement you want to see.
+> If you belong to multiple Partner Center accounts, be sure to use Collaborate with the one your organization used for Collaborate onboarding.  
 
 ## How to add users
 
-Once a user is registered in Partner Center, it it easy for the MS Collaborate *Engagement Owner(s)* or organization's *Power User(s)* to a add the user to an engagement.  Engagement Owners can add Power Users for an organization.  Contact the MS Collaborate Engagement Owner to be added as a Power User for your organization.
+Once a user is registered in Partner Center, it it easy for the *Engagement Owner(s)* or organization's *Power User(s)* to a add the user to an engagement.  Engagement Owners can add Power Users for an organization.  Contact the MS Collaborate Engagement Owner to be added as a Power User for your organization.
 
 1. Navigate to the Engagement in which you want to add or remove users and click **Edit Engagement** to open the Engagement management page. As an organization Power User, you can only change membership roles for users in your organization.  All other tabs will be read only.
 
