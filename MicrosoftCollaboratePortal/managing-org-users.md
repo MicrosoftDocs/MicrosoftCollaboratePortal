@@ -42,7 +42,7 @@ See [Register with Microsoft Collaborate](registration.md) for more information 
 
 ### How to add participants
 
-Once a user is registered in Partner Center, *Engagement Owner(s)* or organization's *Power User(s)* can add them to an engagement. *Power User(s)* can only manage *Participants* for their organization. *Power User(s)* cannot add or remove other *Power User(s)*. 
+Once a user is added to a Partner Center account, *Power User(s)* delegated by the organization can add them to engagements. *Power User(s)* can only manage *Participant(s)* group for their organization. *Power User(s)* cannot add or remove other *Power User(s)*. 
 
 1. Find the engagement you want to add participant to and click **Manage Membership**. 
 
@@ -50,15 +50,19 @@ Once a user is registered in Partner Center, *Engagement Owner(s)* or organizati
 
 	![Select a Group](images/Membership-tab.PNG)
 
-3.	Click the **Add User** icon in the **Members** section and then in the **Search Users** dialog, search to find the user(s) you want to add to the engagement.
+3. Click the **Add** button under **Members (Participant)**. 
 
-4. From the list of users returned by search, select the users you want to add to the engagement. You can also use **Select All**.
+4. Search dialog will open. Enter name of the user or e-mail address click **Search** button. You can also serach using partial match.
+
+	![Search for user](images/Search-User.PNG)
+
+4. Select the users you want to add to the engagement. You can also use **Select All** option.
 
 	![Add a User](images/add-a-user.PNG)
 
-5. Choose whether you would like to have an invitation mail sent to the user with a link to the engagement.
+5. Choose if you would like to send an invitation mail to the user with a link to the engagement.
 
-Once the user is added to the list, the user can begin accessing the engagement content and feedback.
+Once added to the *Partcipant* group, the user can download content and submit feedback (if engagement is configured to accept feedback).
 
 ### How to add power users
 
