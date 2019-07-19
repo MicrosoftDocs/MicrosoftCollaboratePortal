@@ -40,7 +40,7 @@ See [Register with Microsoft Collaborate](registration.md) for more information 
 > 
 > If you belong to multiple Partner Center accounts, be sure to use Collaborate with the one your organization used for Collaborate onboarding.  
 
-### How to add participants
+### How to add a Participant
 
 Once a user is added to a Partner Center account, *Power User(s)* delegated by the organization can add them to engagements. *Power User(s)* can only manage *Participant(s)* group for their organization. *Power User(s)* cannot add or remove other *Power User(s)*. 
 
@@ -52,39 +52,32 @@ Once a user is added to a Partner Center account, *Power User(s)* delegated by t
 
 3. Click the **Add** button under **Members (Participant)**. 
 
-4. Search dialog will open. Enter name of the user or e-mail address click **Search** button. You can also serach using partial match.
+4. Search dialog will open. Enter name of the user or e-mail address click **Search** button. You can also search using partial match.
 
 	![Search for user](images/Search-User.PNG)
 
 4. Select the users you want to add to the engagement. You can also use **Select All** option.
 
-	![Add a User](images/add-a-user.PNG)
+5. Select if you want to send an invitation mail to the user(s) with engagement link.
 
-5. Choose if you would like to send an invitation mail to the user with a link to the engagement.
+Once added to the *Partcipant* group, users can download content and submit feedback (if engagement is configured to accept feedback).
 
-Once added to the *Partcipant* group, the user can download content and submit feedback (if engagement is configured to accept feedback).
+### How to add a Power user
 
-### How to add power users
+Only *Engagement Owners* can add *Power Users* for an organization. Reach out to your Microsoft contact to inform them who will manage access for you organization and they will add them to the *Power User* group. 
 
-Engagement Owners can add Power Users for an organization.  Contact the MS Collaborate Engagement Owner to be added as a Power User for your organization.
+### If a user is missing from search
 
+An organization's *Power Users* can only search for users within their own organization's Partner Center account. 
 
-### How to request access
-
-## Troubleshooting users missing from search
-
-An organization's Power Users can only search for users within their own organization's Partner Center account.  For Engagement Owners, if the engagement has named organizations, the search for users will be limited to users within the named organizations.
-
-If the users are not appearing in the search results for your engagement:
-- verify if users have been added to the organization’s account in Partner Center. If not, work with the **Administrator** of your organization account to add missing users. See [Add users to your Partner Center account](https://docs.microsoft.com/en-us/windows/uwp/publish/add-users-groups-and-azure-ad-applications#add-users-to-your-dev-center-account) article for the detailed instructions.
-- It is possible that the organization has more than one Partner Center organization account (seller ID) in Partner Center.  Be sure the appropriate organization has been added to the engagement and that the appropriate users are in that organization.  If the organization is incorrect, please contact your Microsoft Engagement Owner.
+If a user does not appear in search results:
+- verify if they are added to the organization’s account in Partner Center. If not, work with the **Administrator** of your organization account to add missing users. See [Add users to your Partner Center account](https://docs.microsoft.com/en-us/windows/uwp/publish/add-users-groups-and-azure-ad-applications#add-users-to-your-dev-center-account) article for the detailed instructions.
+- It is possible that the organization has more than one Partner Center organization account (seller ID) in Partner Center. Verify that correct organization is used. If incorrect organization is used, reach out to your Microsoft contact.
 	
-## How to remove users
+### How to remove a Participant
 
-1.	To remove a user, select the user in the **Members** list and click the delete icon.
+1. To remove a user, select their name in the list and click the delete ![Delete](images/Delete.PNG) icon.
  
-	![Remove a User](images/remove-a-user.png)
-
-2.	Confirm that you want to remove the user, and the user will no longer be a member of the group.
+2. Confirm that you want to remove the user, and they will no longer be a member of the group.
 
 Note that removing a user from an engagement does not impact the user's account in the Partner Center account system.  The user account will remain available for other engagements and other Partner Center programs.
