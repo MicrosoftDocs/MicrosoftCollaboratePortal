@@ -114,7 +114,7 @@ When creating a company account, we suggest that you follow these guidelines, es
 Before you can download content or submit feedback, you need to join an engagement. Depending on how engagement is configured, you can:
 * Join
 * Request access
-* Ask engagement administrators (users with **Engagement Owner** or **Power User** role) to add you to the engagement using other offline channels (like e-mail). 
+* Contact engagement administrators (users with **Engagement Owner** or **Power User** role) and ask them to add you to the engagement using other channels, for example via e-mail. 
 
 > [!TIP]
 > **Power User** is a representative from your organization who manages engagement access.  
