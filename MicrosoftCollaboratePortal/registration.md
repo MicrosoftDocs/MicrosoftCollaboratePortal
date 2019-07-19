@@ -109,6 +109,8 @@ When creating a company account, we suggest that you follow these guidelines, es
 > [!TIP]
 > Homepage will look different if you participate in at least one engagement - you will see links to resources available to you. 
 
+![Collaborate homepage](images/First-time-user.PNG)
+
 ### Request access
 
 Before you can download content or submit feedback, you need to join an engagement. Depending on how engagement is configured, you can:
@@ -121,8 +123,13 @@ Before you can download content or submit feedback, you need to join an engageme
 > Depending on how engagement is configured, owner approval might be required for users to join. Some engagements only require acceptance of terms of use.
 
 1. Click on the *Join engagements* link to browse the list of *new* engagements available to you and your organization.
+
+![Available engagements](images/Request-access.PNG)
+
 2. Find the engagement you are interested in and click on its name. Page with detailed engagement information will open.
 3. Carefully review *Description* and *Terms of use* to make sure you understand engagement purpose and terms of use. 
 4. Check *I accept Terms of Use* field and click **Join** or **Request Access** button.
 5. If owner approval is not required (*Join* option), engagement will be added to the engagement list and you can start using it. If you do not see the engagement in the list - press **F5** to refresh the page.
 6. If owner approval is required you will be asked to provide justification for requesting access. *Engagement owner* and *Power User* will be notified about access request via e-mail. They will review the request and configure engagement access. Usually they will notify you when access is granted. If you do not receive a notification, review the list of engagements to check if your access request was approved.
+
+![Request Access](images/Request-access2.PNG)
