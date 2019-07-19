@@ -86,7 +86,7 @@ If a user does not appear in search results:
 
 1. Select the *Participant* group.
 
-2. Click *Export* button. 
+2. Click **Export** button. 
 
 3. Save the file to local disk.
 
@@ -94,7 +94,7 @@ If a user does not appear in search results:
 
 1. Select the *Participant* group.
 
-2. Click *Copy* button. 
+2. Click **Copy** button. 
 
 3. Type name of the engagement you want to copy users from and click **Search** button.
 
