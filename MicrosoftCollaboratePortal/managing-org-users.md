@@ -62,6 +62,14 @@ Once a user is added to a Partner Center account, *Power User(s)* delegated by t
 
 Once added to the *Partcipant* group, users can download content and submit feedback (if engagement is configured to accept feedback).
 
+### How to remove a Participant
+
+1. To remove a user, select their name in the list and click the delete ![Delete](images/Delete.PNG) icon.
+ 
+2. Confirm that you want to remove the user, and they will no longer be a member of the group.
+
+Note that removing a user from an engagement does not impact the user's account in the Partner Center account system.  The user account will remain available for other engagements and other Partner Center programs.
+
 ### How to add a Power user
 
 Only *Engagement Owners* can add *Power Users* for an organization. Reach out to your Microsoft contact to inform them who will manage access for you organization and they will add them to the *Power User* group. 
@@ -74,10 +82,24 @@ If a user does not appear in search results:
 - verify if they are added to the organization’s account in Partner Center. If not, work with the **Administrator** of your organization account to add missing users. See [Add users to your Partner Center account](https://docs.microsoft.com/en-us/windows/uwp/publish/add-users-groups-and-azure-ad-applications#add-users-to-your-dev-center-account) article for the detailed instructions.
 - It is possible that the organization has more than one Partner Center organization account (seller ID) in Partner Center. Verify that correct organization is used. If incorrect organization is used, reach out to your Microsoft contact.
 	
-### How to remove a Participant
+### How to export list of Partcipants to a file
 
-1. To remove a user, select their name in the list and click the delete ![Delete](images/Delete.PNG) icon.
- 
-2. Confirm that you want to remove the user, and they will no longer be a member of the group.
+1. Select the *Participant* group.
 
-Note that removing a user from an engagement does not impact the user's account in the Partner Center account system.  The user account will remain available for other engagements and other Partner Center programs.
+2. Click *Export* button. 
+
+3. Save the file to local disk.
+
+### How to copy users from other engagement
+
+1. Select the *Participant* group.
+
+2. Click *Copy* button. 
+
+3. Type name of the engagement you want to copy users from and click **Search** button.
+
+4. Select the users from the list and click **Add Users** button.
+
+
+
+
