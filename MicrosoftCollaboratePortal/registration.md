@@ -116,7 +116,7 @@ When creating a company account, we suggest that you follow these guidelines, es
 Before you can download content or submit feedback, you need to join an engagement. Depending on how engagement is configured, you can:
 * Join
 * Request access
-* Contact engagement administrators (users with **Engagement Owner** or **Power User** role) and ask them to add you to the engagement using other channels, for example via e-mail. 
+* Contact engagement administrators (users with **Engagement Owner** or **Power User** role) using other channels, for example e-mail, and ask them to add you to the engagement. 
 
 > [!TIP]
 > **Power User** is a representative from your organization who manages engagement access.  
@@ -130,7 +130,7 @@ Before you can download content or submit feedback, you need to join an engageme
 
 ![Request Access](images/Request-Access2.PNG)
 
-3. Carefully review *Description* and *Terms of use* to make sure you understand engagement purpose and terms of use. 
+3. Review *Description* and *Terms of use* to make sure you understand the engagement purpose and terms of use. 
 4. Check *I accept Terms of Use* field and click **Join** or **Request Access** button.
-5. If owner approval is not required (*Join* option), engagement will be added to the engagement list and you can start using it. If you do not see the engagement in the list - press **F5** to refresh the page.
-6. If owner approval is required you will be asked to provide justification for requesting access. *Engagement owner* and *Power User* will be notified about access request via e-mail. They will review the request and configure engagement access. Usually they will notify you when access is granted. If you do not receive a notification, review the list of engagements to check if your access request was approved.
+5. If owner approval **is not required** (*Join* option), engagement will be added to the engagement list and you can start using it. If you do not see the engagement in the list - press **F5** to refresh the page.
+6. If owner approval **is required** you will be asked to provide justification for requesting access. *Engagement owner* and *Power User* will be notified about access request via e-mail. They will review the request and configure engagement access. Usually they will notify you when access is granted. If you do not receive a notification, review the list of engagements to check if your access request was approved.
