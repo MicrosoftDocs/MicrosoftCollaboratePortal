@@ -29,6 +29,22 @@ The following groups exist in the portal:
 | Engagement Manager | Program  | Microsoft users who create new engagements | Create new engagements under specific program | 
 | Program Owner | Program | Microsoft users who manage programs | Manage all aspects of the program and all engagements under the program | 
 
+## Joining an engagement
+
+Before you can download content or submit feedback, you need to join an engagement. You can only join as a participant.
+
+1. Click on the *Join engagements* link to browse the list of *new* engagements available to you and your organization.
+
+
+
+2. Find the engagement you are interested in and click on its name. Page with detailed engagement information will open.
+
+![Request Access](images/Request-Access2.PNG)
+
+3. Carefully review *Description* and *Terms of use* to make sure you understand engagement purpose and terms of use. 
+4. Check *I accept Terms of Use* field and click **Join** button.
+5. Engagement will be added to the engagement list and you can start using it. If you do not see the engagement in the list - press **F5** to refresh the page.
+
 ## Requesting access 
 
 Before you can download content or submit feedback, you need to join an engagement. Depending on how engagement is configured, you can:
