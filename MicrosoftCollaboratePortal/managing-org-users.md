@@ -21,12 +21,12 @@ The following groups exist in the portal:
 
 
 | Group | Scope of permissions | Description | Permissions |
----------------- | ------------------- | ------------------------ | ---------------------------- |
+| ----- | -------------------- | ----------- | ----------- |
 | Participant | Engagement | Regular engagement users | View engagement and program overview, download content, view and modify existing feedback, submit new feedback |
 | Power User | Engagement | Advanced users who manage access for their organization | Add and remove participants for their organization |
 | Content Publisher | Engagement | Microsoft users who publish content | Publish content |
 | Engagement Owner | Engagement | Microsoft users who manage existing engagements | Manage all aspects of the engagement |
-| Engagement Manager | Program  | Microsoft users who create new engagements | Create new engagaments under specific program | 
+| Engagement Manager | Program  | Microsoft users who create new engagements | Create new engagements under specific program | 
 | Program Owner | Program | Microsoft users who manage programs | Manage all aspects of the program and all engagements under the program | 
 
 
@@ -63,7 +63,7 @@ Once a user is added to a Partner Center account, *Power User(s)* delegated by t
 
 5. Select if you want to send an invitation mail to the user(s) with engagement link.
 
-Once added to the *Partcipant* group, users can download content and submit feedback (if engagement is configured to accept feedback).
+Once added to the *Participant* group, users can download content and submit feedback (if engagement is configured to accept feedback).
 
 ### How to remove a participant
 
@@ -85,7 +85,7 @@ If a user does not appear in search results:
 - verify if they are added to the organization’s account in Partner Center. If not, work with the **Administrator** of your organization account to add missing users. See [Add users to your Partner Center account](https://docs.microsoft.com/en-us/windows/uwp/publish/add-users-groups-and-azure-ad-applications#add-users-to-your-dev-center-account) article for the detailed instructions.
 - It is possible that the organization has more than one Partner Center organization account (seller ID) in Partner Center. Verify that correct organization is used. If incorrect organization is used, reach out to your Microsoft contact.
 	
-### How to export list of partcipants to a file
+### How to export list of participants to a file
 
 1. Select the *Participant* group.
 
