@@ -22,12 +22,12 @@ The following groups exist in the portal:
 
 | Group | Scope of permissions | Description | Permissions |
 ---------------- | ------------------- | ------------------------ | ---------------------------- |
-| **Participants** | Engagement | Regular engagement users | View engagement and program overview, download content, view and modify existing feedback, submit new feedback |
-| **Power User** | Engagement | Advanced users who manage access for their organization | Add and remove participants for their organization |
-| **Content Publisher** | Engagement | Microsoft users who publish content | Publish content |
-| **Engagement Owner** | Engagement | Microsoft users who manage existing engagements | Manage all aspects of the engagement |
-| **Engagement Manager** | Program  | Microsoft users who create new engagements | Create new engagaments under specific program | 
-| **Program Owner** | Program | Microsoft users who manage programs | Manage all aspects of the program and all engagements under the program | 
+| Participant | Engagement | Regular engagement users | View engagement and program overview, download content, view and modify existing feedback, submit new feedback |
+| Power User | Engagement | Advanced users who manage access for their organization | Add and remove participants for their organization |
+| Content Publisher | Engagement | Microsoft users who publish content | Publish content |
+| Engagement Owner | Engagement | Microsoft users who manage existing engagements | Manage all aspects of the engagement |
+| Engagement Manager | Program  | Microsoft users who create new engagements | Create new engagaments under specific program | 
+| Program Owner | Program | Microsoft users who manage programs | Manage all aspects of the program and all engagements under the program | 
 
 
 ## Managing users
@@ -43,7 +43,7 @@ See [Register with Microsoft Collaborate](registration.md) for more information 
 > 
 > If you belong to multiple Partner Center accounts, be sure to use Collaborate with the one your organization used for Collaborate onboarding.  
 
-### How to add a *participant*
+### How to add a participant
 
 Once a user is added to a Partner Center account, *Power User(s)* delegated by the organization can add them to engagements. *Power User(s)* can only manage *Participant(s)* group for their organization. *Power User(s)* cannot add or remove other *Power User(s)*. 
 
@@ -65,7 +65,7 @@ Once a user is added to a Partner Center account, *Power User(s)* delegated by t
 
 Once added to the *Partcipant* group, users can download content and submit feedback (if engagement is configured to accept feedback).
 
-### How to remove a *participant*
+### How to remove a participant
 
 1. To remove a user, select their name in the list and click the delete ![Delete](images/Delete.PNG) icon.
  
@@ -73,7 +73,7 @@ Once added to the *Partcipant* group, users can download content and submit feed
 
 Note that removing a user from an engagement does not impact the user's account in the Partner Center account system.  The user account will remain available for other engagements and other Partner Center programs.
 
-### How to add a Power user
+### How to add a power user
 
 Only *Engagement Owners* can add *Power Users* for an organization. Reach out to your Microsoft contact to inform them who will manage access for you organization and they will add them to the *Power User* group. 
 
@@ -93,7 +93,7 @@ If a user does not appear in search results:
 
 3. Save the file to local disk.
 
-### How to copy users from other engagement
+### How to copy participants from other engagement
 
 1. Select the *Participant* group.
 
@@ -101,7 +101,7 @@ If a user does not appear in search results:
 
 3. Type name of the engagement you want to copy users from and click **Search** button.
 
-4. Select the users from the list and click **Add Users** button.
+4. Select users from the list and click **Add Users** button.
 
 
 
