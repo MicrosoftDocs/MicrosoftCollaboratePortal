@@ -1,5 +1,5 @@
 ---
-title: Managing engagement users
+title: Access Management
 description: Microsoft Collaborate enables users from organizations to control the adding/removing of users for the organization.  During onboarding, Engagement Owners can assign individuals from an organization Power User permissions.  Power Users can only manage their own organization’s users. 
 author: ikhapova
 ms.author: ikhapova
@@ -7,9 +7,9 @@ ms.date: 12/12/2017
 keywords: engagements, adding users, removing users, managing users, Collaborate security, Collaborate permissions, Microsoft Connect, SysDev Bug, Partner Center bugs
 ---
 
-# Managing Users
+# Access Management
 
-What a user can do within the portal is defined by *engagements* and *groups* they belong to. If user is a *participant*, they can see the engagement metadata, content and feedback associated with the engagement. Additional permissions can be granted through other groups. 
+What a user can do within the portal is defined by the *engagements* and *groups* they belong to. If user is a *participant*, they can see the engagement metadata, content and feedback associated with the engagement. Additional permissions can be granted through other groups. 
 
 At this time, only Microsoft users can manage programs and engagements. Non-Microsoft users can use join existing engagements and manage user access for their organization.
 
@@ -17,14 +17,14 @@ At this time, only Microsoft users can manage programs and engagements. Non-Micr
 
 The following groups exist in the portal:
 
-Group | Scope of permissions | Description
----------------- | ------------------- | ---------------------------------
-**Participants** | Engagement | Users of the content and feedback associated with the engagement. Able to view engagement information and the Program landing page the engagement is part of.  Able to download content.  Able to view, edit feedback work items associated with the engagement.
-**Power User** | Engagement | Organization admins who are able to manage Participants for their organization.  An organization can have multiple Power Users identified.  Only Program Owners at Microsoft can add Power Users and Power Users can only add Participants.
-**Content Publisher** | Engagement | Microsoft users able to publish content packages to be downloaded by participants.  
-**Engagement Owner** | Engagement | Microsoft users able to manage the engagement, including engaement metadata, membership, feedback forms, and publishing templates.  Engagement owners also inherit all other role permissions within the engagement, such as package publishing and participant user permissions.  
-**Engagement Manager** | Program  | Microsoft users with permission to create engagements under a program.  Program owners can add/remove users from this role for the program.
-**Program Owner** | Program | Microsoft users who can manage all aspects of the program and all engagements under the program.  
+Group | Scope of permissions | Description | Permissions |
+---------------- | ------------------- | --------------------------------- | --------------------------------- |
+**Participants** | Engagement | Regular engagement users | 1) view engagement data <br> 2) view general info for the program the engagement is part of <br> 3. download content <br> 4. view and edit feedback work items associated with the engagement. |
+**Power User** | Engagement | Advanced users who manage access for their organization | 1) add and remove participants for their organization |
+**Content Publisher** | Engagement | Microsoft users who publish content | 1) Publish content |
+**Engagement Owner** | Engagement | Microsoft users who manage existing engagements | 1) Manage engagement <br> 2) Manage access for all engagement groups and organizations <br> 3) manage feedback forms <br> 4) manage publishing templates <br> 5) publish content |
+**Engagement Manager** | Program  | Microsoft users who create new engagements | 1) Create new engagaments under specific program | 
+**Program Owner** | Program | Microsoft users who manage programs | Manage all aspects of the program and all engagements under the program. | 
 
 
 ## Managing access
