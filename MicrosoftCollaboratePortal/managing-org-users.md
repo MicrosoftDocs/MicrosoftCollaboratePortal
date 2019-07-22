@@ -39,7 +39,7 @@ Before you can download content or submit feedback, you need to join an engageme
 
 2. Find the engagement you are interested in and click on its name. Page with detailed engagement information will open.
 
-![Request Access](images/Request-Access2.PNG)
+![Join](images/Join-2.PNG)
 
 3. Carefully review *Description* and *Terms of use* to make sure you understand engagement purpose and terms of use. 
 4. Check *I accept Terms of Use* field and click **Join** button.
