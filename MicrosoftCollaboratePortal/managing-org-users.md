@@ -35,7 +35,7 @@ Before you can download content or submit feedback, you need to join an engageme
 
 1. Click on the *Join engagements* link to browse the list of *new* engagements available to you and your organization.
 
-
+![Available engagements](images/Join.PNG)
 
 2. Find the engagement you are interested in and click on its name. Page with detailed engagement information will open.
 
