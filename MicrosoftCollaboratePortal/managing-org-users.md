@@ -13,7 +13,7 @@ keywords: engagements, adding users, removing users, managing users, Collaborate
 
 What a user can do within the portal is defined by the *engagements* and *groups* they belong to. If user is a *participant*, they can see the engagement metadata, content and feedback associated with the engagement. Additional permissions can be granted through other groups. 
 
-At this time, only Microsoft users can manage programs and engagements. Non-Microsoft users can use join existing engagements and manage user access for their organization.
+At this time, only Microsoft users can manage programs and engagements. Partners and customers can participate in the existing engagements and manage user access for their organization.
 
 ## Groups
 
@@ -42,31 +42,34 @@ The following groups exist in the portal:
 In order to download content or submit feedback you need to become a participant. Depending on how engagement is configured, you can:
 * Join
 * Request access
-* Contact engagement administrators (users with **Engagement Owner** or **Power User** role) and ask them to add you to the engagement using other channels, for example via e-mail.  
+* Contact engagement administrators (users with **Engagement Owner** or **Power User** role) using other channels, for example e-mail, and ask them to add you to the engagement.  
 
 > [!TIP]
 > **Power User** is a representative from your organization who manages engagement access.  
 > Depending on how engagement is configured, owner approval might be required for users to join. Some engagements only require acceptance of terms of use.
 
-### How to join
+### Join
 
 1. Find the engagement you are interested in and click on its name. Page with detailed engagement information will open.
-2. Carefully review *Description* and *Terms of use* to make sure you understand engagement purpose and terms of use. 
-3. Check *I accept Terms of Use* field and click **Join** button.
+2. Review *Description* and *Terms of use* to make sure you understand engagement purpose and terms of use. 
+3. Check *I accept Terms of Use* field. 
+4. Click **Join** button.
 
 ![Join](images/Join-2.PNG)
 
-4. Engagement will be added to the engagement list and you can start using it. If you do not see the engagement in the list - press **F5** to refresh the page.
+Engagement will be added to the engagement list and you can start using it. If you do not see the engagement in the list - press **F5** to refresh the page.
 
-## How to request access
+### Request access
 
 1. Find the engagement you are interested in and click on its name. Page with detailed engagement information will open.
-2. Carefully review *Description* and *Terms of use* to make sure you understand engagement purpose and terms of use. 
-3. Check *I accept Terms of Use* field and click **Request Access** button.
+2. Review *Description* and *Terms of use* to make sure you understand engagement purpose and terms of use. 
+3. Check *I accept Terms of Use* field.
+4. Provide justification for requesting access.
+5. Click **Request Access** button.
 
 ![Request Access](images/Request-Access2.PNG)
 
-4. Provide justification for requesting access. *Engagement owner* and *Power User* will be notified about access request via e-mail. They will review the request and configure engagement access. Usually they will notify you when access is granted. If you do not receive a notification, review the list of engagements to check if your access request was approved.
+Administrators (users in *Engagement owner* and *Power User* groups) will be notified about access request via e-mail. They will review the request and configure engagement access. It is recommended that they notify users when access is granted. If you do not receive a notification, review the list of engagements to check if your access request was approved.
 
 ## Managing users
 
@@ -113,7 +116,7 @@ Note that removing a user from an engagement does not impact the user's account 
 
 ### How to add a power user
 
-Only *Engagement Owners* can add *Power Users* for an organization. Reach out to your Microsoft contact to inform them who will manage access for you organization and they will add them to the *Power User* group. 
+Only *Engagement Owners* can add *Power Users* for an organization. Reach out to your Microsoft contact to inform them who will manage access for your organization and they will add them to the *Power User* group. 
 
 ### If a user is missing from search results
 
