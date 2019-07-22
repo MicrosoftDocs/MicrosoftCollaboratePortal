@@ -1,5 +1,5 @@
 ---
-title: Managing engagement users
+title: Access Management
 description: Microsoft Collaborate enables users from organizations to control the adding/removing of users for the organization.  During onboarding, Engagement Owners can assign individuals from an organization Power User permissions.  Power Users can only manage their own organization’s users. 
 author: ikhapova
 ms.author: ikhapova
@@ -7,78 +7,143 @@ ms.date: 12/12/2017
 keywords: engagements, adding users, removing users, managing users, Collaborate security, Collaborate permissions, Microsoft Connect, SysDev Bug, Partner Center bugs
 ---
 
-# Managing Users in MS Collaborate
+# Access Management
 
-The Microsoft Collaborate system uses **Engagements** to define the permissions/roles for the portal.  Very simply, if you are a participant of the engagement, you see the engagement metadata, content and feedback associated with the engagement.  The additional permissions within the engagement are defined as roles.  If you are added to a role, you can edit specific aspects of the program/engagement.  If you are not a member of the engagement, you do not see the engagement or any of its artifacts.
+## Overview 
 
-At this time, only Microsoft users can manage programs and engagements.  Non-Microsoft users can be Participants and Power Users.
+What a user can do within the portal is defined by the *engagements* and *groups* they belong to. If user is a *participant*, they can see the engagement metadata, content and feedback associated with the engagement. Additional permissions can be granted through other groups. 
 
-## Roles in Collaborate
+At this time, only Microsoft users can manage programs and engagements. Partners and customers can participate in the existing engagements and manage user access for their organization.
 
-MS Collaborate has the following membership roles:
+## Groups
 
-Role | Scope of permissions | Description
----------------- | ------------------- | ---------------------------------
-**Participants** | Engagement | Users of the content and feedback associated with the engagement. Able to view engagement information and the Program landing page the engagement is part of.  Able to download content.  Able to view, edit feedback work items associated with the engagement.
-**Power User** | Engagement | Organization admins who are able to manage Participants for their organization.  An organization can have multiple Power Users identified.  Only Program Owners at Microsoft can add Power Users and Power Users can only add Participants.
-**Content Publisher** | Engagement | Microsoft users able to publish content packages to be downloaded by participants.  
-**Engagement Owner** | Engagement | Microsoft users able to manage the engagement, including engaement metadata, membership, feedback forms, and publishing templates.  Engagement owners also inherit all other role permissions within the engagement, such as package publishing and participant user permissions.  
-**Engagement Manager** | Program  | Microsoft users with permission to create engagements under a program.  Program owners can add/remove users from this role for the program.
-**Program Owner** | Program | Microsoft users who can manage all aspects of the program and all engagements under the program.  
+The following groups exist in the portal:
 
 
-## Managing User Memberships
+| Group | Scope of permissions | Description | Permissions |
+| ----- | -------------------- | ----------- | ----------- |
+| Participant | Engagement | Regular engagement users | View engagement and program overview, download content, view and modify existing feedback, submit new feedback |
+| Power User | Engagement | Advanced users who manage access for their organization | Add and remove participants for their organization |
+| Content Publisher | Engagement | Microsoft users who publish content | Publish content |
+| Engagement Owner | Engagement | Microsoft users who manage existing engagements | Manage all aspects of the engagement |
+| Engagement Manager | Program  | Microsoft users who create new engagements | Create new engagements under specific program | 
+| Program Owner | Program | Microsoft users who manage programs | Manage all aspects of the program and all engagements under the program | 
 
-Your Microsoft engagement owner(s) will set up the engagements in MS Collaborate and users will be invited to participate in the engagement.
+## Discovering available engagements
 
-Adding users to an engagement requires that each user be registered in the Partner Center with either an individual or company Partner Center account.  If the user is a member of a company or organization, the Partner Center admin needs to add the new users to the Partner Center company account before they can be added to an MS Collaborate engagement. If the company or organization does not yet exist in DePartnerv Center, then a company representative needs to create a new company account in Partner Center and identify an organization admin who can add other users to the Partner Center company account.  
+**New users**
+* Click on the [Join engagements](https://partner.microsoft.com/en-us/dashboard/collaborate/engagements/discover) link on the dashboard to browse the list of *new* engagements available to you and your organization.
 
-See [Register with Microsoft Collaborate](registration.md) for more information about getting set up to use MS Collaborate.
+**Existing users**
+* Navigate to the [engagements](https://partner.microsoft.com/en-us/dashboard/collaborate/engagements) list and click **Join** button to view available engagements.
+
+![Available engagements](images/Join.PNG)
+
+In order to download content or submit feedback you need to become a participant. Depending on how engagement is configured, you can:
+* Join
+* Request access
+* Contact engagement administrators (users with **Engagement Owner** or **Power User** role) using other channels, for example e-mail, and ask them to add you to the engagement.  
+
+> [!TIP]
+> **Power User** is a representative from your organization who manages engagement access.  
+> Depending on how engagement is configured, owner approval might be required for users to join. Some engagements only require acceptance of terms of use.
+
+### Join
+
+1. Find the engagement you are interested in and click on its name. Page with detailed engagement information will open.
+2. Review *Description* and *Terms of use* to make sure you understand engagement purpose and terms of use. 
+3. Check *I accept Terms of Use* field. 
+4. Click **Join** button.
+
+![Join](images/Join-2.PNG)
+
+Engagement will be added to the engagement list and you can start using it. If you do not see the engagement in the list - press **F5** to refresh the page.
+
+### Request access
+
+1. Find the engagement you are interested in and click on its name. Page with detailed engagement information will open.
+2. Review *Description* and *Terms of use* to make sure you understand engagement purpose and terms of use. 
+3. Check *I accept Terms of Use* field.
+4. Provide justification for requesting access.
+5. Click **Request Access** button.
+
+![Request Access](images/Request-Access2.PNG)
+
+Administrators (users in *Engagement owner* and *Power User* groups) will be notified about access request via e-mail. They will review the request and configure engagement access. It is recommended that they notify users when access is granted. If you do not receive a notification, review the list of engagements to check if your access request was approved.
+
+## Managing users
+
+Only users that exist in a Partner Center account can be added to engagements. If a company or an organization does not have an account in Partner Center, their representative needs to create an account and identify an organization admin who can add other users. 
+
+See [Register with Microsoft Collaborate](registration.md) for more information about creating an account in Partner Center.
 
 > [!NOTE]
-> MS Collaborate uses the same Partner Center account as other programs in Partner Center.  The company you choose is important if your company or organization will also enroll in Partner Center programs that require bank account or certificate information.  
+> Collaborate uses the same account as other programs in Partner Center.  The type of account you choose is important if your company or organization plans to enroll in other Partner Center programs that require bank account or certificate information.  
 > 
-> If your organization uses Azure Active Directory (AAD) in Partner Center, you need to onboard the users to Partner Center in your AAD account.
+> If your organization uses Azure Active Directory (AAD), you need to add users from AAD tenant to the Partner Center account before they can join an engagement.
 > 
-> If you belong to multiple Partner Center organizations, you may need to switch your sign in to the organization that is onboarded to the MS Collaborate engagement you want to see.
+> If you belong to multiple Partner Center accounts, be sure to use Collaborate with the one your organization used for Collaborate onboarding.  
 
-## How to add users
+### How to add a participant
 
-Once a user is registered in Partner Center, it it easy for the MS Collaborate *Engagement Owner(s)* or organization's *Power User(s)* to a add the user to an engagement.  Engagement Owners can add Power Users for an organization.  Contact the MS Collaborate Engagement Owner to be added as a Power User for your organization.
+Once a user is added to a Partner Center account, *Power User(s)* delegated by the organization can add them to engagements. *Power User(s)* can only manage *Participant(s)* group for their organization. *Power User(s)* cannot add or remove other *Power User(s)*. 
 
-1. Navigate to the Engagement in which you want to add or remove users and click **Edit Engagement** to open the Engagement management page. As an organization Power User, you can only change membership roles for users in your organization.  All other tabs will be read only.
+1. Find the engagement you want to add participant to and click **Manage Membership**. 
 
-2. Click on the **Membership** tab and select the **Group** that you want to manage.
-	a. Participants can interact with the engagement artifacts (feedback, packages).
-	b. Power Users can add or remove users for the organization.
-	c. Note that *Power Users* need to be explicitly added as *Participants* if the user also needs access to feedback and content for the engagement.
+2. Click on the **Membership** tab and select the *Participant* group.
 
 	![Select a Group](images/Membership-tab.PNG)
 
-3.	Click the **Add User** icon in the **Members** section and then in the **Search Users** dialog, search to find the user(s) you want to add to the engagement.
+3. Click the **Add** button under **Members (Participant)**. 
 
-4. From the list of users returned by search, select the users you want to add to the engagement. You can also use **Select All**.
+4. Search dialog will open. Enter name of the user or e-mail address click **Search** button. You can also search using partial match.
 
-	![Add a User](images/add-a-user.PNG)
+	![Search for user](images/Search-User.PNG)
 
-5. Choose whether you would like to have an invitation mail sent to the user with a link to the engagement.
+4. Select the users you want to add to the engagement. You can also use **Select All** option.
 
-Once the user is added to the list, the user can begin accessing the engagement content and feedback.
+5. Select if you want to send an invitation mail to the user(s) with engagement link.
 
-## Troubleshooting users missing from search
+Once added to the *Participant* group, users can download content and submit feedback (if engagement is configured to accept feedback).
 
-An organization's Power Users can only search for users within their own organization's Partner Center account.  For Engagement Owners, if the engagement has named organizations, the search for users will be limited to users within the named organizations.
+### How to remove a participant
 
-If the users are not appearing in the search results for your engagement:
-- verify if users have been added to the organization’s account in Partner Center. If not, work with the **Administrator** of your organization account to add missing users. See [Add users to your Partner Center account](https://docs.microsoft.com/en-us/windows/uwp/publish/add-users-groups-and-azure-ad-applications#add-users-to-your-dev-center-account) article for the detailed instructions.
-- It is possible that the organization has more than one Partner Center organization account (seller ID) in Partner Center.  Be sure the appropriate organization has been added to the engagement and that the appropriate users are in that organization.  If the organization is incorrect, please contact your Microsoft Engagement Owner.
-	
-## How to remove users
-
-1.	To remove a user, select the user in the **Members** list and click the delete icon.
+1. To remove a user, select their name in the list and click the delete ![Delete](images/Delete.PNG) icon.
  
-	![Remove a User](images/remove-a-user.png)
-
-2.	Confirm that you want to remove the user, and the user will no longer be a member of the group.
+2. Confirm that you want to remove the user, and they will no longer be a member of the group.
 
 Note that removing a user from an engagement does not impact the user's account in the Partner Center account system.  The user account will remain available for other engagements and other Partner Center programs.
+
+### How to add a power user
+
+Only *Engagement Owners* can add *Power Users* for an organization. Reach out to your Microsoft contact to inform them who will manage access for your organization and they will add them to the *Power User* group. 
+
+### If a user is missing from search results
+
+An organization's *Power Users* can only search for users within their own organization's Partner Center account. 
+
+If a user does not appear in search results:
+- verify if they are added to the organization’s account in Partner Center. If not, work with the **Administrator** of your organization account to add missing users. See [Add users to your Partner Center account](https://docs.microsoft.com/en-us/windows/uwp/publish/add-users-groups-and-azure-ad-applications#add-users-to-your-dev-center-account) article for the detailed instructions.
+- It is possible that the organization has more than one Partner Center organization account (seller ID) in Partner Center. Verify that correct organization is used. If incorrect organization is used, reach out to your Microsoft contact.
+	
+### How to export list of participants to a file
+
+1. Select the *Participant* group.
+
+2. Click **Export** button. 
+
+3. Save the file to local disk.
+
+### How to copy participants from other engagement
+
+1. Select the *Participant* group.
+
+2. Click **Copy** button. 
+
+3. Type name of the engagement you want to copy users from and click **Search** button.
+
+4. Select users from the list and click **Add Users** button.
+
+
+
+
