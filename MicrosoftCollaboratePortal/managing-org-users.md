@@ -20,7 +20,7 @@ The following groups exist in the portal:
 
 | Group | Scope of permissions | Description | Permissions |
 ---------------- | ------------------- | ------------------- | --------------------------------- |
-| **Participants** | Engagement | Regular engagement users | View engagement data and overview of the program it belongs to, download content, view and modify existing feedback, submit new feedback |
+| **Participants** | Engagement | Regular engagement users | View engagement and program overview, download content, view and modify existing feedback, submit new feedback |
 | **Power User** | Engagement | Advanced users who manage access for their organization | Add and remove participants for their organization |
 | **Content Publisher** | Engagement | Microsoft users who publish content | Publish content |
 | **Engagement Owner** | Engagement | Microsoft users who manage existing engagements | Manage all aspects of the engagement |
