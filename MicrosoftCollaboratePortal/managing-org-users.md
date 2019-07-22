@@ -29,9 +29,13 @@ The following groups exist in the portal:
 | Engagement Manager | Program  | Microsoft users who create new engagements | Create new engagements under specific program | 
 | Program Owner | Program | Microsoft users who manage programs | Manage all aspects of the program and all engagements under the program | 
 
-## Discovering engagements
+## Discovering available engagements
 
-Click on the *Join engagements* link to browse the list of *new* engagements available to you and your organization.
+**New users**
+* Click on the [Join engagements](https://partner.microsoft.com/en-us/dashboard/collaborate/engagements/discover) link on the dashboard to browse the list of *new* engagements available to you and your organization.
+
+**Existing users**
+* Navigate to the [engagements](https://partner.microsoft.com/en-us/dashboard/collaborate/engagements) list and click **Join** button to view available engagements.
 
 ![Available engagements](images/Join.PNG)
 
