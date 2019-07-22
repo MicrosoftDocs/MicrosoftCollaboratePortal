@@ -17,14 +17,15 @@ At this time, only Microsoft users can manage programs and engagements. Non-Micr
 
 The following groups exist in the portal:
 
-Group | Scope of permissions | Description | Permissions |
----------------- | ------------------- | --------------------------------- | --------------------------------- |
-**Participants** | Engagement | Regular engagement users | 1. View engagement data <br> 2. View general info for the program the engagement is part of <br> 3. Download content <br> 4. View and edit feedback work items associated with the engagement. |
-**Power User** | Engagement | Advanced users who manage access for their organization | Add and remove participants for their organization |
-**Content Publisher** | Engagement | Microsoft users who publish content | Publish content |
-**Engagement Owner** | Engagement | Microsoft users who manage existing engagements | 1. Manage engagement <br> 2. Manage access for all engagement groups and organizations <br> 3. Manage feedback forms <br> 4. Manage publishing templates <br> 5. Publish content |
-**Engagement Manager** | Program  | Microsoft users who create new engagements | Create new engagaments under specific program | 
-**Program Owner** | Program | Microsoft users who manage programs | Manage all aspects of the program and all engagements under the program. | 
+
+| Group | Scope of permissions | Description | Permissions |
+---------------- | ------------------- | ------------------- | --------------------------------- |
+| **Participants** | Engagement | Regular engagement users | View engagement data and overview of the program it belongs to, download content, view and modify existing feedback, submit new feedback |
+| **Power User** | Engagement | Advanced users who manage access for their organization | Add and remove participants for their organization |
+| **Content Publisher** | Engagement | Microsoft users who publish content | Publish content |
+| **Engagement Owner** | Engagement | Microsoft users who manage existing engagements | Manage all aspects of the engagement |
+| **Engagement Manager** | Program  | Microsoft users who create new engagements | Create new engagaments under specific program | 
+| **Program Owner** | Program | Microsoft users who manage programs | Manage all aspects of the program and all engagements under the program | 
 
 
 ## Managing access
