@@ -43,7 +43,7 @@ The Microsoft Collaborate portal provides tools and services to streamline engin
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>User management</h3>
+                        <h3>Access management</h3>
                     </div>
                 </div>
             </div>
