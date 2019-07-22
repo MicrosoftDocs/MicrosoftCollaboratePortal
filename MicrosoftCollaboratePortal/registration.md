@@ -31,7 +31,7 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
    ![Account Info](images/RegistrationAccountInfo.png)
 
    > [!NOTE]
-   > If you signed in with the existing Partner Center account the page will contain information from that account. You can modify **Publisher display name** and **Contact info** if needed.
+   > If you signed in with the existing Partner Center account, the page would contain information from that account. You can modify **Publisher display name** and **Contact info** if needed.
     
    > [!IMPORTANT]
    > The following error indicates that user is signed in with an *Azure AD* account that does not have administrator privileges and registration cannot be completed. 
@@ -65,7 +65,7 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 -   [Add users, groups, and Azure AD applications to your Partner Center account](/windows/uwp/publish/add-users-groups-and-azure-ad-applications)
 -   [Set roles and custom permissions for account users](/windows/uwp/publish/set-custom-permissions-for-account-users)
 
-## What happens when an Azure AD tenant is linked to a Partner Center account
+## What happens when an Azure AD tenant is linked to a Partner Center account?
 
 * *Tenant ID* is added to the account data
 * Account *Administrator* gets the ability to view users of the *Azure AD* tenant and add them to the account
@@ -133,4 +133,4 @@ Before you can download content or submit feedback, you need to join an engageme
 3. Review *Description* and *Terms of use* to make sure you understand the engagement purpose and terms of use. 
 4. Check *I accept Terms of Use* field and click **Join** or **Request Access** button.
 5. If owner approval **is not required** (*Join* option), engagement will be added to the engagement list and you can start using it. If you do not see the engagement in the list - press **F5** to refresh the page.
-6. If owner approval **is required** you will be asked to provide justification for requesting access. *Engagement owner* and *Power User* will be notified about access request via e-mail. They will review the request and configure engagement access. Usually they will notify you when access is granted. If you do not receive a notification, review the list of engagements to check if your access request was approved.
+6. If owner approval **is required**, you will be asked to provide justification for requesting access. *Engagement owner* and *Power User* will be notified about access request via e-mail. They will review the request and configure engagement access. Usually they will notify you when access is granted. If you do not receive a notification, review the list of engagements to check if your access request was approved.
