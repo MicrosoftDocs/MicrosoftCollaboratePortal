@@ -29,45 +29,40 @@ The following groups exist in the portal:
 | Engagement Manager | Program  | Microsoft users who create new engagements | Create new engagements under specific program | 
 | Program Owner | Program | Microsoft users who manage programs | Manage all aspects of the program and all engagements under the program | 
 
-## Joining an engagement
+## Discovering engagements
 
-Before you can download content or submit feedback, you need to join an engagement. You can only join as a participant.
-
-1. Click on the *Join engagements* link to browse the list of *new* engagements available to you and your organization.
+Click on the *Join engagements* link to browse the list of *new* engagements available to you and your organization.
 
 ![Available engagements](images/Join.PNG)
 
-2. Find the engagement you are interested in and click on its name. Page with detailed engagement information will open.
-3. Carefully review *Description* and *Terms of use* to make sure you understand engagement purpose and terms of use. 
-4. Check *I accept Terms of Use* field and click **Join** button.
-
-![Join](images/Join-2.PNG)
-
-5. Engagement will be added to the engagement list and you can start using it. If you do not see the engagement in the list - press **F5** to refresh the page.
-
-## Requesting access 
-
-Before you can download content or submit feedback, you need to join an engagement. Depending on how engagement is configured, you can:
+In order to download content or submit feedback you need to become a participant. Depending on how engagement is configured, you can:
 * Join
 * Request access
-* Contact engagement administrators (users with **Engagement Owner** or **Power User** role) and ask them to add you to the engagement using other channels, for example via e-mail. 
+* Contact engagement administrators (users with **Engagement Owner** or **Power User** role) and ask them to add you to the engagement using other channels, for example via e-mail.  
 
 > [!TIP]
 > **Power User** is a representative from your organization who manages engagement access.  
 > Depending on how engagement is configured, owner approval might be required for users to join. Some engagements only require acceptance of terms of use.
 
-1. Click on the *Join engagements* link to browse the list of *new* engagements available to you and your organization.
+### How to join
 
-![Available engagements](images/Request-Access.PNG)
+1. Find the engagement you are interested in and click on its name. Page with detailed engagement information will open.
+2. Carefully review *Description* and *Terms of use* to make sure you understand engagement purpose and terms of use. 
+3. Check *I accept Terms of Use* field and click **Join** button.
 
-2. Find the engagement you are interested in and click on its name. Page with detailed engagement information will open.
-3. Carefully review *Description* and *Terms of use* to make sure you understand engagement purpose and terms of use. 
-4. Check *I accept Terms of Use* field and click **Join** or **Request Access** button.
+![Join](images/Join-2.PNG)
+
+4. Engagement will be added to the engagement list and you can start using it. If you do not see the engagement in the list - press **F5** to refresh the page.
+
+## How to request access
+
+1. Find the engagement you are interested in and click on its name. Page with detailed engagement information will open.
+2. Carefully review *Description* and *Terms of use* to make sure you understand engagement purpose and terms of use. 
+3. Check *I accept Terms of Use* field and click **Request Access** button.
 
 ![Request Access](images/Request-Access2.PNG)
 
-5. If owner approval is not required (*Join* option), engagement will be added to the engagement list and you can start using it. If you do not see the engagement in the list - press **F5** to refresh the page.
-6. If owner approval is required you will be asked to provide justification for requesting access. *Engagement owner* and *Power User* will be notified about access request via e-mail. They will review the request and configure engagement access. Usually they will notify you when access is granted. If you do not receive a notification, review the list of engagements to check if your access request was approved.
+4. Provide justification for requesting access. *Engagement owner* and *Power User* will be notified about access request via e-mail. They will review the request and configure engagement access. Usually they will notify you when access is granted. If you do not receive a notification, review the list of engagements to check if your access request was approved.
 
 ## Managing users
 
