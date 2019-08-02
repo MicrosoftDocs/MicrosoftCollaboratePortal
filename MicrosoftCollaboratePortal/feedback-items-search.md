@@ -9,58 +9,83 @@ keywords: feedback, engagements, work items, bugs, feature requests, Collaborate
 
 # Search and Queries
 
+There are several options available to work with feedback. If you want to see all feedback in one place, you shoud use [All Feedback](//partner.microsoft.com/dashboard/collaborate/feedback/bugs) page. Navigate to the page by:
+* clicking **Feedback** in the left navigation menu
+* clicking feedback icon on the homepage
+
+If you want to see feedback for only one engagement:
+1. Open list of [engagements](//partner.microsoft.com/en-us/dashboard/collaborate/engagements)
+2. Select an engagement and click on its name to open 
+3. Select work item type under **Feedback**
+
+
 ## Search
 
-On the [All Feedback page](//developer.microsoft.com/dashboard/collaborate/feedback/bugs) in the MS Collaborate portal, you can see all work items for the engagements you have access to.  You can filter the page for specific feedback in the following ways:
--  Sort individual columns in the feedback table.
--  Select specific engagements.
--  Filter by **Title**.
--  Filter by **Work item type**.
+You can search for work item using title field. Enter serach criteria and press *Enter*.
 
-![Feedback search window](images/feedback-search.png)
+## Basic filtering
 
+### By work item type
 
-## Types of queries
+Select work item type using drop-down control. By default the page shows *Bugs*.
 
-The Feedback system in MS Collaborate has different types of saved queries.  Feedback queries are an easy way to find work items that meet the criteria you define.  You simply click on the query link and the results list will appear.  You can also save edits to an existing query or use **save as** to create a new query with a new name.
+### By engagement
 
-You can use use the following types of queries for an engagement or program:
-- **My Queries** are created by you and are visible only to you. This is a private query.
-- **Shared Queries** are created by program and engagement owners. These queries are visible to all users within an engagement.
-- **Pre-Defined Queries** are managed by the MS Collaborate team.  Contact your engagement owners to recommend changes.
+Select engagement using using drop down control. By default the system shows all engagements.
 
-You can open any existing query and use the **Save As** option to save it to your **My Queries** list or to create a new query from the existing one.
+### Advanced filtering
 
-## How to create queries
+You must select an engagement to filter work items using fields other then work item type and title.
 
-To create queries, you must be within the context of a specific engagement.  
+1. Select engagement using drop down control
+2. Click **Customize** icon to open filter pane
+3. Click **+** sign to add a field to filter criteria
+4. Enter value to look for
+5. Click **Run** to return results
 
-1. Navigate to an Engagement and click on one of the options within the Engagement page to get to the list of feedback that you want in the query.
+## Queries
 
-   ![Feedback query window](images/create-feedback-query.png)
+Feedback queries are an easy way to find work items that meet the criteria you define. Save can modify an existing query or use **Save As** to create a query with a new name.
 
-2. Click the **Advanced Filter** icon to see the fields that you can use to define the query. 
+### My Queries
 
-   ![Feedback Advanced Filter window](images/feedback-advanced-filter.png)
+Queries of this type are created by you and are only visible to you. 
 
-3. Click **Run** to return the desired query results, you can click **Save As** to add the query.
+### Shared Queries
 
-   ![Feedback Save Query window](images/feedback-query-save.png)
+Queries of this type are created by program and engagement owners. These queries are visible to all users within an engagement or a program. You can open any existing query and use the **Save As** option to save it to your **My Queries** list or to create a new query from the existing one.
 
-4. To **Edit** an existing query, navigate to the query, click the **Advanced Filter** icon and then click **Save As** to save the query as a new query.
+## How to create a new query
+
+You must select an engagement to create a query. You can open [All Feedback](//partner.microsoft.com/dashboard/collaborate/feedback/bugs) page and slect an engagement or you can open specific engagement first.
+
+1. Click **Customize** icon to open filter pane
+2. Click **+** sign to add a field to filter criteria
+3. Enter value to look for
+4. Click **Run** to return results
+5. Click **Save As** to save the query
+
+## How to modify a query created by you
+
+1. Run the query
+2. Click the **Customize** icon 
+3. Make changes
+4. Click **Save**
+
+## How to modify a shared query
+
+1. Run the query
+2. Click the **Customize** icon 
+3. Make changes
+4. Click **Save As** to sve a query with a new name
 
 ## How to find feedback submitted by you
 
-1. Navigate to an Engagement and click on one of the options within the Engagement page to get to the list of feedback that you want in the query.
+You must select an engagement to find feedback submitted by you.
 
-2. Click the **Advanced Filter** icon to see the fields that you can use to define the query.
-
-3. Click the '**+**' button to add new filter. Select **CreatedBy** from list of available fields.
-
-4. Type <strong>@user</strong> in the textbox.
-
-5. Click **Run** to return the desired query results.
+1. Click **Customize** icon to open filter pane
+2. Click **+** sign to add new filter. Select **CreatedBy** from list of available fields.
+3. Type **@user** in the textbox.
+4. Click **Run** to return the desired query results.
 
    ![Feedback Created by Me](images/feedback-created-by-me.png)
-  
-  
