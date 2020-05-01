@@ -124,7 +124,7 @@ Each of us acknowledges that money damages may not be sufficient compensation fo
 In any dispute relating to these terms the prevailing party will be entitled to recover reasonable attorneys’ fees and costs.
 
 ## 18. NOTICES AND PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT INFRINGEMENT
-Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed copyright infringement should be sent to Service Provider's Designated Agent. ALL INQUIRIES NOT RELEVANT TO THE FOLLOWING PROCEDURE WILL NOT RECEIVE A RESPONSE. See [Notice and Procedure for Making Claims of Copyright Infringement](https://microsoft.com/info/cpyrtinfrg.aspx).
+Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed copyright infringement should be sent to Service Provider's Designated Agent. ALL INQUIRIES NOT RELEVANT TO THE FOLLOWING PROCEDURE WILL NOT RECEIVE A RESPONSE. See [Notice and Procedure for Making Claims of Copyright Infringement](https://go.microsoft.com/fwlink/p/?LinkId=233777).
 
 ## 19. SAMPLE SOFTWARE UNDER MIT LICENSE
 The MIT license set forth below governs use of Sample Software available on this web site without a separate license agreement.  If you use Sample Software, you accept this license.  If you do not accept this license, do not use the Sample Software.
