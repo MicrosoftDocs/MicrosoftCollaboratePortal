@@ -3,13 +3,13 @@ title: Microsoft Collaborate Terms of Use
 description: Microsoft Collaborate Terms of Use
 author: ikhapova
 ms.author: ikhapova
-ms.date: 07/27/2018
+ms.date: 04/30/2020
 keywords: Microsoft Collaborate, TOU, terms
 hide_comments: true 
 ---
 
 # Microsoft Collaborate Terms of Use 
-Updated: *July 2018*
+Updated: *April 2020*
 
 ## 1. ACCEPTANCE OF TERMS OF USE
 Microsoft provides you with access to a variety of resources on this web site, comprised of documents, images, videos and other content ("Content"); software such as pre-release software, developer tools, computer code, and sample code ("Software"); and communication forums and other services ("Services"). For clarity, Software does not include any Content.  The Content, Software, Services and all other aspects of this web site are subject to these Terms of Use (“terms”). Microsoft reserves the right to update these terms at any time without notice to you. The applicable and most current version of the terms can be reviewed by clicking on the "Terms of Use" hypertext link located at the bottom of our web pages.
@@ -124,7 +124,7 @@ Each of us acknowledges that money damages may not be sufficient compensation fo
 In any dispute relating to these terms the prevailing party will be entitled to recover reasonable attorneys’ fees and costs.
 
 ## 18. NOTICES AND PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT INFRINGEMENT
-Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed copyright infringement should be sent to Service Provider's Designated Agent. ALL INQUIRIES NOT RELEVANT TO THE FOLLOWING PROCEDURE WILL NOT RECEIVE A RESPONSE.
+Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed copyright infringement should be sent to Service Provider's Designated Agent. ALL INQUIRIES NOT RELEVANT TO THE FOLLOWING PROCEDURE WILL NOT RECEIVE A RESPONSE. See [Notice and Procedure for Making Claims of Copyright Infringement](https://microsoft.com/info/cpyrtinfrg.aspx).
 
 ## 19. SAMPLE SOFTWARE UNDER MIT LICENSE
 The MIT license set forth below governs use of Sample Software available on this web site without a separate license agreement.  If you use Sample Software, you accept this license.  If you do not accept this license, do not use the Sample Software.
