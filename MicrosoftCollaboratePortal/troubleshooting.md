@@ -129,7 +129,7 @@ If you have been invited to join Partner Center account, you need to accept the 
 > Please contact your admin to ensure you are properly configured in your on-premises AD and you can re-attempt to accept this invite.<br>
 
 The information below is intended to give you enough info to unblock yourself.
-Microsoft now is limiting usage of personal Microsoft accounts linked to a work/school email address, when the email domain is configured in Azure AD. If users have configured their work accounts as sign-in names for Microsoft account MSA then they would be prevented from accessing Collaborate Portal. In this scenario, users will have to rename their personal Microsoft account, by following [these steps](http://windows.microsoft.com/Windows/rename-personal-microsoft-account/):
+Microsoft now is limiting usage of personal Microsoft accounts linked to a work/school email address, when the email domain is configured in Azure AD. If users have configured their work accounts as sign-in names for Microsoft account MSA then they would be prevented from accessing Collaborate Portal. In this scenario, users will have to rename their personal Microsoft account, by following [these steps](https://windows.microsoft.com/Windows/rename-personal-microsoft-account/):
 
 1. Sign in to the [Your Info page](https://account.microsoft.com/profile) of your Microsoft account.
 2. Select **Manage how you sign in to Microsoft**.
