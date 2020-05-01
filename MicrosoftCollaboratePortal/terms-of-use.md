@@ -3,13 +3,13 @@ title: Microsoft Collaborate Terms of Use
 description: Microsoft Collaborate Terms of Use
 author: ikhapova
 ms.author: ikhapova
-ms.date: 07/27/2018
-keywords: Microsoft Collaborate, TOU, terms
+ms.date: 04/30/2020
+keywords: Microsoft Collaborate, TOU, terms of use
 hide_comments: true 
 ---
 
 # Microsoft Collaborate Terms of Use 
-Updated: *July 2018*
+Updated: *April 2020*
 
 ## 1. ACCEPTANCE OF TERMS OF USE
 Microsoft provides you with access to a variety of resources on this web site, comprised of documents, images, videos and other content ("Content"); software such as pre-release software, developer tools, computer code, and sample code ("Software"); and communication forums and other services ("Services"). For clarity, Software does not include any Content.  The Content, Software, Services and all other aspects of this web site are subject to these Terms of Use (“terms”). Microsoft reserves the right to update these terms at any time without notice to you. The applicable and most current version of the terms can be reviewed by clicking on the "Terms of Use" hypertext link located at the bottom of our web pages.
@@ -17,7 +17,7 @@ Microsoft provides you with access to a variety of resources on this web site, c
 By accessing or using this web site in any way, you agree to and are bound by the terms. If you are agreeing to these terms on behalf on an entity, such as your employer, you represent that you have the legal authority to bind that entity.  If you specify a company in connection with accessing this website and agreeing to the terms, you will be deemed to agree to these terms on behalf of that organization or company.  If you do not agree to all of the terms contained herein, do not access or use this web site.
 
 ## 2. PRIVACY 
-Your privacy is important to us. By using the Software, Service and Content, you agree that Microsoft may collect, use, and disclose the information as described in the [Microsoft Privacy Statement](http://aka.ms/privacy), and as may be described in the user interface associated with the Software or on the web site.  
+Your privacy is important to us. By using the Software, Service and Content, you agree that Microsoft may collect, use, and disclose the information as described in the [Microsoft Privacy Statement](https://aka.ms/privacy), and as may be described in the user interface associated with the Software or on the web site.  
 
 ## 3. SOFTWARE
 All Software that is made available from the web site is the copyrighted work of Microsoft or its suppliers and is licensed, not sold.  Your use of Software is governed by the license terms, if any, which accompany or are included with the Software.  If no Microsoft license is presented to you for Software, these terms apply.  The Software or Services may include third-party code. Any third-party scripts or code, linked to or referenced from the software or website, are licensed to you by the third parties that own such code, not by Microsoft. Notices, if any, for the third-party code are included for your information only.
@@ -124,7 +124,7 @@ Each of us acknowledges that money damages may not be sufficient compensation fo
 In any dispute relating to these terms the prevailing party will be entitled to recover reasonable attorneys’ fees and costs.
 
 ## 18. NOTICES AND PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT INFRINGEMENT
-Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed copyright infringement should be sent to Service Provider's Designated Agent. ALL INQUIRIES NOT RELEVANT TO THE FOLLOWING PROCEDURE WILL NOT RECEIVE A RESPONSE.
+Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed copyright infringement should be sent to Service Provider's Designated Agent. ALL INQUIRIES NOT RELEVANT TO THE FOLLOWING PROCEDURE WILL NOT RECEIVE A RESPONSE. See [Notice and Procedure for Making Claims of Copyright Infringement](https://go.microsoft.com/fwlink/p/?LinkId=233777).
 
 ## 19. SAMPLE SOFTWARE UNDER MIT LICENSE
 The MIT license set forth below governs use of Sample Software available on this web site without a separate license agreement.  If you use Sample Software, you accept this license.  If you do not accept this license, do not use the Sample Software.
