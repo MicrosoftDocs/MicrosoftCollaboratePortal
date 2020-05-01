@@ -4,7 +4,7 @@ description: Microsoft Collaborate Terms of Use
 author: ikhapova
 ms.author: ikhapova
 ms.date: 04/30/2020
-keywords: Microsoft Collaborate, TOU, terms
+keywords: Microsoft Collaborate, TOU, terms of use
 hide_comments: true 
 ---
 
