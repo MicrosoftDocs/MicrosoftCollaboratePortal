@@ -1,0 +1,40 @@
+### YamlMime:Landing
+
+title: Microsoft Collaborate documentation # < 60 chars
+summary: The Microsoft Collaborate portal provides tools and services to streamline engineering collaboration within the Microsoft ecosystem by enabling the sharing of engineering system work items (bugs, feature requests, etc.) and the distribution of content (builds, documents, specs).  # < 160 chars
+
+metadata:
+  title: Microsoft Collaborate documentation # Required; page title displayed in search results. Include the brand. < 60 chars.
+  description: Microsoft Collaborate portal provides tools and services to streamline engineering collaboration within the Microsoft ecosystem. # Required; article description that is displayed in search results. < 160 chars.
+  ms.prod: collaborate #Required; service per approved list. service slug assigned to your service by ACOM.
+  ms.topic: landing-page # Required
+  author: ikhapova #Required; your GitHub user alias, with correct capitalization.
+  ms.author: ikhapova #Required; microsoft alias of author; optional team alias.
+  ms.date: 07/06/2020 #Required; mm/dd/yyyy format.
+
+# linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
+
+landingContent:
+# Cards and links should be based on top customer tasks or top subjects
+# Start card title with a verb
+  # Card (optional)
+  - title: About Microsoft Collaborate
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: Introduction
+            url: /collaborate/intro-to-mscollaborate
+      - linkListType: how-to-guide
+        links:
+          - text: Registration
+            url: /collaborate/registration
+          - text: Access Management
+            url: /collaborate/managing-org-users
+          - text: Programs and Engagements
+            url: /collaborate/programs
+          - text: Package downloads
+            url: /collaborate/package-downloads
+      - linkListType: reference
+        links:
+          - text: Feedback
+            url: /collaborate/feedback-items
