@@ -56,7 +56,8 @@ Please contact [wmecert@microsoft.com](mailto:wmecert@microsoft.com) for the sta
 Please visit https://partner.microsoft.com/en-us/solutions/practice-areas/cloud-infrastructure-management/high-performance-computing.
 
 ### DevDiv / Visual Studio and .NET Framework (Connect Site ID 210)
-We have reviewed and migrated bugs to Developer Community. 
+
+We have reviewed and migrated bugs to [Developer Community](https://developercommunity.visualstudio.com/). 
 For VC++ issues, please search the [Developer Community site for C++](https://developercommunity.visualstudio.com/spaces/62/index.html) for your ConnectID or the substring of the bug title, found in an an automated email you received from the original Connect system.  Please bear with us as we go through the process of triaging these issues for the new system. If you cannot locate your report, please contact [vsfeedback@microsoft.com](mailto:vsfeedback@microsoft.com). 
 
 To report a new Visual Studio bug, please use the integrated Report a Problem feature in Visual Studio 2017.   C++ compiler issues can also be filed at the [Developer Community site for C++](https://developercommunity.visualstudio.com/spaces/62/index.html).

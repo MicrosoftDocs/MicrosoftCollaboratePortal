@@ -1,3 +1,11 @@
+---
+title: Contribute to MS Collaborate documentation
+description: Covers the basic steps and guidelines for contributing to the documentation. 
+author: ikhapova
+ms.author: ikhapova
+ms.date: 11/25/2019
+---
+
 # Contributing to the MS Collaborate documentation
 
 Thank you for your interest in our documentation. We appreciate your feedback, edits, additions and help with improving our docs. This page covers the basic steps and guidelines for contributing.

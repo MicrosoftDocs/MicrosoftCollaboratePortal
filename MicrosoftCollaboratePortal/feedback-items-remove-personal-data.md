@@ -42,4 +42,4 @@ More information on GDPR is available at [Microsoft.com/GDPR](https://Microsoft.
 ## How to leave an organization as a guest user
 
 A user, who previously accepted **invitation** from an organization to partcipate in Collaborate, can decide to leave organization at any time if access is no longer needed. A user can leave an organization on their own, without having to contact an administrator.
-See [Leave an Organization](https://docs.microsoft.com/en-us/azure/active-directory/b2b/leave-the-organization#leave-an-organization) for detailed instructions.
+See [Leave an Organization](https://docs.microsoft.com/azure/active-directory/b2b/leave-the-organization#leave-an-organization) for detailed instructions.

@@ -73,7 +73,7 @@ The workaround is to rename your personal MSA account. See [this article](https:
 The error indicates that a user is signed in with a work account (AAD) that does not have administrator privileges. 
 
 #### Fixes/Workarounds
-Follow the [instructions](https://docs.microsoft.com/en-us/collaborate/registration) to register using Microsoft Account.
+Follow the [instructions](https://docs.microsoft.com/collaborate/registration) to register using Microsoft Account.
 
 #### How to find Global Administrator for your Organization
 Finding **Global Administrator** can be be a difficult task, especially if organization is big and offices are located in multiple countries. 
@@ -93,8 +93,8 @@ Finding **Global Administrator** can be be a difficult task, especially if organ
 ![Roles and Administrators](images/aad-global-admin.png)
 
 Check out these articles to learn more about **Global Administrator** role.
-* [Understanding Azure identity solutions](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/understand-azure-identity-solutions#terms-to-know)
-* [View members and descriptions of administrator roles in Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/directory-manage-roles-portal)
+* [Understanding Azure identity solutions](https://docs.microsoft.com/azure/active-directory/fundamentals/understand-azure-identity-solutions#terms-to-know)
+* [View members and descriptions of administrator roles in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-manage-roles-portal)
 
 ##### Using PowerShell
 
@@ -117,9 +117,9 @@ Check out these articles to learn more about **Global Administrator** role.
 ```
 
 Check out these articles to learn more about **PowerShell** and **Azure AD Module**.
-* [Installing Windows PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/setup/installing-windows-powershell?view=powershell-6)
+* [Installing Windows PowerShell](https://docs.microsoft.com/powershell/scripting/setup/installing-windows-powershell?view=powershell-6)
 * [Installing the Azure AD Module
-](https://docs.microsoft.com/en-us/powershell/azure/active-directory/install-adv2?view=azureadps-2.0#installing-the-azure-ad-module)
+](https://docs.microsoft.com/powershell/azure/active-directory/install-adv2?view=azureadps-2.0#installing-the-azure-ad-module)
 
 ### Invitations
 If you have been invited to join Partner Center account, you need to accept the invitation before you can access Collaborate portal. If you see an error message similar to shown below, it means that you have two accounts with Microsoft using the same email address. 
@@ -129,7 +129,7 @@ If you have been invited to join Partner Center account, you need to accept the 
 > Please contact your admin to ensure you are properly configured in your on-premises AD and you can re-attempt to accept this invite.<br>
 
 The information below is intended to give you enough info to unblock yourself.
-Microsoft now is limiting usage of personal Microsoft accounts linked to a work/school email address, when the email domain is configured in Azure AD. If users have configured their work accounts as sign-in names for Microsoft account MSA then they would be prevented from accessing Collaborate Portal. In this scenario, users will have to rename their personal Microsoft account, by following [these steps](http://windows.microsoft.com/en-US/Windows/rename-personal-microsoft-account/):
+Microsoft now is limiting usage of personal Microsoft accounts linked to a work/school email address, when the email domain is configured in Azure AD. If users have configured their work accounts as sign-in names for Microsoft account MSA then they would be prevented from accessing Collaborate Portal. In this scenario, users will have to rename their personal Microsoft account, by following [these steps](https://windows.microsoft.com/Windows/rename-personal-microsoft-account/):
 
 1. Sign in to the [Your Info page](https://account.microsoft.com/profile) of your Microsoft account.
 2. Select **Manage how you sign in to Microsoft**.
@@ -162,9 +162,9 @@ You may receive an error message when you use Distribution Manager. This article
 > Cannot continue.  The application is improperly formatted. <br>
 > Contact the application vendor for assistance. <br>
 
-This error indicates that [Microsoft .NET Framework 4.6.1 (x86/x64)](https://www.microsoft.com/en-us/download/details.aspx?id=49981)  required by Distribution Manager is not installed on your computer. All ClickOnce applications require that the correct version of the .NET Framework is installed before they can be run.
+This error indicates that [Microsoft .NET Framework 4.6.1 (x86/x64)](https://www.microsoft.com/download/details.aspx?id=49981)  required by Distribution Manager is not installed on your computer. All ClickOnce applications require that the correct version of the .NET Framework is installed before they can be run.
 
-Click on the link to install [Microsoft .NET Framework 4.6.1 (x86/x64)](https://www.microsoft.com/en-us/download/details.aspx?id=49981).
+Click on the link to install [Microsoft .NET Framework 4.6.1 (x86/x64)](https://www.microsoft.com/download/details.aspx?id=49981).
 
 ### Cannot Launch Application 
 

@@ -1,4 +1,4 @@
-# [Microsoft Collaborate Docs](index.md)
+# [Microsoft Collaborate Docs](index.yml)
 ## [Introduction](intro-to-mscollaborate.md)
 ## [Registration](registration.md)
 ## [Access Management](managing-org-users.md)
