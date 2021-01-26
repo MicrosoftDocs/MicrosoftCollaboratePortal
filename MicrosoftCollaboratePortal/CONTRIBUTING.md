@@ -13,7 +13,7 @@ Thank you for your interest in our documentation. We appreciate your feedback, e
 > [!IMPORTANT]
 > All repositories that publish to docs.microsoft.com have adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any questions or comments.<br> 
 > 
-> Minor corrections or clarifications to documentation and code examples in public repositories are covered by the [docs.microsoft.com Terms of Use](https://docs.microsoft.com/legal/termsofuse). New or significant changes will generate a comment in the pull request asking you to submit an online Contribution License Agreement (CLA) if you are not an employee of Microsoft. We need you to complete the online form before we can accept your pull request.
+> Minor corrections or clarifications to documentation and code examples in public repositories are covered by the [docs.microsoft.com Terms of Use](/legal/termsofuse). New or significant changes will generate a comment in the pull request asking you to submit an online Contribution License Agreement (CLA) if you are not an employee of Microsoft. We need you to complete the online form before we can accept your pull request.
 
 ## How to make a change
 
@@ -26,13 +26,13 @@ Thank you for your interest in our documentation. We appreciate your feedback, e
 | 5. Click Preview changes to verify the formatting looks as expected. | ![Preview changes](images/edit-in-github.png)|
 | 6. When you're done, scroll to the bottom of the page and click "Propose file change", you will be presented with a "Comparing changes" page, allowing you to verify your changes. Then click the "Create pull request" button to submit your changes. At this point you are finished! | ![Propose a change](images/propose.jpg)|
 
-After you submit changes (via a pull request), they will be reviewed by a member of the documentation team. If your request is accepted, updates are published to [https://docs.microsoft.com/collaborate](https://docs.microsoft.com/collaborate).
+After you submit changes (via a pull request), they will be reviewed by a member of the documentation team. If your request is accepted, updates are published to [https://docs.microsoft.com/collaborate](/collaborate).
 
 *For internal review only, you can see your changes at [https://review.docs.microsoft.com/collaborateportal](https://review.docs.microsoft.com/en-us/collaborate/?branch=master).
 
 ## Working with Branches
 
-The [MS Collaborate GitHub repository](https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal) utilizes two main parent branches: [Master](https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal/tree/master), this content can be reviewed on the [staging site](https://review.docs.microsoft.com/collaborate), and [Live](https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal/tree/live), for content appearing on the [live site](https://docs.microsoft.com/collaborate). 
+The [MS Collaborate GitHub repository](https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal) utilizes two main parent branches: [Master](https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal/tree/master), this content can be reviewed on the [staging site](https://review.docs.microsoft.com/collaborate), and [Live](https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal/tree/live), for content appearing on the [live site](/collaborate). 
 
 When making contributions, please submit your Pull Request (PR) to the **Master** branch. This branch can be viewed on the staging site and should only contain contributions that are ready to be published live. You may also create and submit a branch with your own unique branch name which can be selected and viewed in the staging site. (The **Live** branch is only allowed for use by the content administrators.)
 
