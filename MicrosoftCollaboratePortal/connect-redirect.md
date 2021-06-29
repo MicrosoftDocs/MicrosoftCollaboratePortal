@@ -18,7 +18,7 @@ Visit [Download Center](https://www.microsoft.com/download) if you are looking f
 
 ## Microsoft Docs
 
-[Microsoft Docs](https://docs.microsoft.com) is the home for Microsoft documentation for end users, developers, hardware manufacturers and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
+[Microsoft Docs]() is the home for Microsoft documentation for end users, developers, hardware manufacturers and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
 
 ## Where to Find Connect Programs
 
