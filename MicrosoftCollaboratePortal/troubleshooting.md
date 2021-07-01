@@ -8,36 +8,43 @@ keywords: troubeshooting, issues, registration, access, accounts, feedback
 ---
 
 # How to Troubleshoot Common Issues
+
 This page provides troubleshooting guides for common issues.
 
 ## Sign-in
 
 ### Browser shows "Resources for partners" page when signing in to Partner Center
+
 After navigating to Collaborate dashboard and entering your username and password, you are being redirected to [Resources for partners](https://partner.microsoft.com/en-us/dashboard/directory) page.
 
 #### Fixes/Workarounds
 
 ##### Change Directory / Account
+
 - click on the badge icon in the upper right corner and select the directory you usually work in
 - use account selection control in the left navigation menu to select correct account
 
 ##### Clear browsing cache in EDGE
+
 - Open **Settings and more** menu
 - Select **Settings**, then **Privacy and security**
 - Click on **Choose what to clear** button under **Clear browsing data** section
 - Select **Cookies and saved website data** and **Cached data and files** options
 - Click **Clear** button.
 
-Read more about [browser cache](https://support.microsoft.com/en-us/help/10607/microsoft-edge-view-delete-browser-history).
+Read more about [browser cache](https://support.microsoft.com/help/10607/microsoft-edge-view-delete-browser-history).
 
 ##### Clear browsing cache in Chrome
+
 - Open **Customize and control Google Chrome** menu
 - Select **More tools**, then **Clear browsing data...**
 - Select **Cookies and other site data** and **Cached images and files** options
 - Click **Clear data** button.
 
 ### Microsoft Account Sign-in
-If you can't sign in to Microsoft Collaborate website, try these suggestions: 
+
+If you can't sign in to Microsoft Collaborate website, try these suggestions:
+
 - make sure that you sign in using your complete email address
 - check the status of the Microsoft account service
 - make sure that you entered your password correctly. Passwords are case sensitive. If you've forgotten your password, go to the Microsoft account [reset your password](https://account.live.com/password/reset) page.
@@ -45,7 +52,9 @@ If you can't sign in to Microsoft Collaborate website, try these suggestions:
 - try clearing your browser's cache, cookies, temporary files, and any other browsing history that is stored. Close your browser, then open a new InPrivate browsing session.
 
 ### Browser hangs or shows "page can't be displayed" error when signing in to Partner Center
+
 After navigating to Collaborate dashboard and entering your username and password, you see one of these issues or errors:
+
 - your browser appears to hang or become unresponsive
 - you get a "page can't be displayed" error
 - you get an error that says "ERR_TOO_MANY_REDIRECTS"
@@ -57,9 +66,11 @@ After navigating to Collaborate dashboard and entering your username and passwor
 > Please contact your admin to ensure you are properly configured in your on-premises AD and you can re-attempt to accept this invite.
 
 #### Why this is happening
+
 There is a good chance this is happening because your corporate email address is linked to a personal MSA/Live ID (work and personal accounts share the same name), which was a common practice with Microsoft Connect accounts. This practice is no longer supported by Microsoft and could lead to various issues. Please see [this blog post](https://cloudblogs.microsoft.com/enterprisemobility/2016/09/15/cleaning-up-the-azure-ad-and-microsoft-account-overlap/) for more details.
 
 #### Fixes/Workarounds
+
 The workaround is to rename your personal MSA account. See [this article](https://support.microsoft.com/en-us/help/11545/microsoft-account-rename-your-personal-account) for the detailed steps.
 
 ## Registration
@@ -73,9 +84,11 @@ The workaround is to rename your personal MSA account. See [this article](https:
 The error indicates that a user is signed in with a work account (AAD) that does not have administrator privileges. 
 
 #### Fixes/Workarounds
+
 Follow the [instructions](./registration.md) to register using Microsoft Account.
 
 #### How to find Global Administrator for your Organization
+
 Finding **Global Administrator** can be be a difficult task, especially if organization is big and offices are located in multiple countries. 
 
 ##### Using **Azure Portal**:
@@ -93,6 +106,7 @@ Finding **Global Administrator** can be be a difficult task, especially if organ
 ![Roles and Administrators](images/aad-global-admin.png)
 
 Check out these articles to learn more about **Global Administrator** role.
+
 * [Understanding Azure identity solutions](/azure/active-directory/fundamentals/understand-azure-identity-solutions#terms-to-know)
 * [View members and descriptions of administrator roles in Azure Active Directory](/azure/active-directory/users-groups-roles/directory-manage-roles-portal)
 
@@ -122,6 +136,7 @@ Check out these articles to learn more about **PowerShell** and **Azure AD Modul
 ](/powershell/azure/active-directory/install-adv2?view=azureadps-2.0#installing-the-azure-ad-module)
 
 ### Invitations
+
 If you have been invited to join Partner Center account, you need to accept the invitation before you can access Collaborate portal. If you see an error message similar to shown below, it means that you have two accounts with Microsoft using the same email address. 
 
 > You have been invited to access ... application as ... .<br> 
@@ -146,15 +161,19 @@ Once completed proceed with accepting the Collaborate invitations that are send 
 ## Access
 
 ### User cannot see packages and/or engagements he/she has access to
+
 Most users belong to a single AAD tenant and single account within DevCenter. Users, that exist in several AAD tenants and/or accounts in DevCenter, might need to manually select specific AAD tenant and/or account to get access to resources.
 
 #### How to select an AAD tenant
+
 Click on the badge icon in the upper right corner of the screen. You will see a list of available AAD tenants if you exist in more than one AAD tenant. 
 
 #### How to select specific account for an AAD tenant
+
 Account name is shown in the left navigation pane above list of programs available for this account. Click on the currently displayed account name to open a list of available accounts for the selected AAD tenant.
 
 ## Distribution Manager
+
 You may receive an error message when you use Distribution Manager. This article contains information to help you troubleshoot these  error messages.
 
 ### Cannot Install Application
@@ -173,6 +192,7 @@ Click on the link to install [Microsoft .NET Framework 4.6.1 (x86/x64)](https://
 You may receive this error if you recently upgraded from an older version of the application.
 
 #### Fixes/Workarounds
+
 The workaround is to delete the click-once application data.
 
 
@@ -191,7 +211,7 @@ The exact path can be determined by the following steps:
 5. Now go to the Data path (%LOCALAPPDATA%\Apps\2.0\Data), and search for a folder with the same name 
    > dist..tion_xxxxxxxxxxxxxxxx_0000.0000_xxxxxxxxxxxxxxxx\Data
 
-![Distribution Manager folder](images/DistributionManagerDataLocation.png)
+![Distribution Manager Data folder](images/DistributionManagerDataLocation.png)
 
 6. Delete content of the folder
 7. Restart the application
