@@ -15,7 +15,7 @@ This page provides troubleshooting guides for common issues.
 
 ### Browser shows "Resources for partners" page when signing in to Partner Center
 
-After navigating to Collaborate dashboard and entering your username and password, you are being redirected to [Resources for partners](https://partner.microsoft.com/en-us/dashboard/directory) page.
+After navigating to Collaborate dashboard and entering your username and password, you are being redirected to [Resources for partners](https://partner.microsoft.com/dashboard/directory) page.
 
 #### Fixes/Workarounds
 
@@ -71,7 +71,7 @@ There is a good chance this is happening because your corporate email address is
 
 #### Fixes/Workarounds
 
-The workaround is to rename your personal MSA account. See [this article](https://support.microsoft.com/en-us/help/11545/microsoft-account-rename-your-personal-account) for the detailed steps.
+The workaround is to rename your personal MSA account. See [this article](https://support.microsoft.com/help/11545/microsoft-account-rename-your-personal-account) for the detailed steps.
 
 ## Registration
 
@@ -81,7 +81,7 @@ The workaround is to rename your personal MSA account. See [this article](https:
 
 ![We could not validate your identity as a global administrator](images/GlobalAdministrator.png)
 
-The error indicates that a user is signed in with a work account (AAD) that does not have administrator privileges. 
+The error indicates that a user is signed in with a work account (AAD) that does not have administrator privileges.
 
 #### Fixes/Workarounds
 

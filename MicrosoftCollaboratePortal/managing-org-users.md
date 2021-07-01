@@ -36,7 +36,8 @@ The following groups exist in the portal:
 * Click on the [Join engagements](https://partner.microsoft.com/dashboard/collaborate/engagements/discover) link on the dashboard to browse the list of *new* engagements available to you and your organization.
 
 **Existing users**
-* Navigate to the [engagements](https://partner.microsoft.com/en-us/dashboard/collaborate/engagements) list and click **Join** button to view available engagements.
+
+* Navigate to the [engagements](https://partner.microsoft.com/dashboard/collaborate/engagements) list and click **Join** button to view available engagements.
 
 ![Available engagements](images/Join.PNG)
 
