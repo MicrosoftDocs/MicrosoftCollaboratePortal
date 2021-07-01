@@ -18,7 +18,7 @@ Visit [Download Center](https://www.microsoft.com/download) if you are looking f
 
 ## Microsoft Docs
 
-[Microsoft Docs](https://docs.microsoft.com) is the home for Microsoft documentation for end users, developers, hardware manufacturers and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
+[Microsoft Docs]() is the home for Microsoft documentation for end users, developers, hardware manufacturers and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
 
 ## Where to Find Connect Programs
 
@@ -53,7 +53,7 @@ Please contact the Microsoft Alumni Network program administrators for the statu
 Please contact [wmecert@microsoft.com](mailto:wmecert@microsoft.com) for the status of the program.
 
 ### High Performance Computing Team (Connect Site ID 12)
-Please visit https://partner.microsoft.com/en-us/solutions/practice-areas/cloud-infrastructure-management/high-performance-computing.
+Please visit https://partner.microsoft.com/solutions/practice-areas/cloud-infrastructure-management/high-performance-computing.
 
 ### DevDiv / Visual Studio and .NET Framework (Connect Site ID 210)
 
@@ -66,4 +66,4 @@ To report a new Visual Studio bug, please use the integrated Report a Problem fe
 Please contact [scrmteam@microsoft.com](mailto:scrmteam@microsoft.com) for the status of the program.
 
 ### Microsoft PlayReady Support
-Microsoft PlayReady Support for licensed companies is now provided by email. Please, send your questions to [AskDRM@microsoft.com](mailto:AskDRM@microsoft.com). In addition, please review documentation available at <https://docs.microsoft.com/playready> and [PlayReady Test Server](https://test.playready.microsoft.com/).
+Microsoft PlayReady Support for licensed companies is now provided by email. Please, send your questions to [AskDRM@microsoft.com](mailto:AskDRM@microsoft.com). In addition, please review documentation available at `https://docs.microsoft.com/playready` and [PlayReady Test Server](https://test.playready.microsoft.com/).

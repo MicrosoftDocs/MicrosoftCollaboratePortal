@@ -20,9 +20,9 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
  
 ## How to register as an individual
 
-1. Navigate to the [Partner Center Directory](https://partner.microsoft.com/en-us/dashboard/directory).
+1. Navigate to the [Partner Center Directory](https://partner.microsoft.com/dashboard/directory).
 2. If you're not already signed, sign in now using existing account or create new *Microsoft Account*. 
-3. Scroll down to **Developer programs** section and click on [Get Started](https://partner.microsoft.com/en-us/dashboard/registration/collaborate) link for **Microsoft Collaborate**. 
+3. Scroll down to **Developer programs** section and click on [Get Started](https://partner.microsoft.com/dashboard/registration/collaborate) link for **Microsoft Collaborate**. 
 
    ![Get Started](images/PartnerCenterDirectory.png)
 
@@ -53,7 +53,7 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 
    If you are registering as a company, you'll also need to enter the name, email address, and phone number of the person who will approve your company's account.
 
-9. Review your account info and confirm that everything is correct. Then, read and accept the terms and conditions of the [Collaborate Agreement](https://go.microsoft.com/fwlink/?linkid=849107). Check the box to indicate you have read and accepted these terms.
+9. Review your account info and confirm that everything is correct. Then, read and accept the terms and conditions of the [Collaborate Agreement](./terms-of-use.md). Check the box to indicate you have read and accepted these terms.
 
 10. Click **Finish** to confirm your registration.  
 

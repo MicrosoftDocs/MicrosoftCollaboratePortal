@@ -43,7 +43,7 @@ Engagements are similar to a virtual security group, allowing engagement owners 
 - collaboration between multiple named organizations (e.g., Microsoft team 1 users, company A users, and company B users), and
 - collaboration with users from any organizations.
 
-Each engagement is associated with either the default MS Collaborate [Terms of Use](https://go.microsoft.com/fwlink/?linkid=849107) or an appropriate custom legal agreement between the parties in the engagement. Participant users should visit the engagement page and see the description and agreement that applies to each specific engagement.  For more information about seeing the legal agreement for an engagement, see [How to view your Engagements](view-engagements.md).
+Each engagement is associated with either the default MS Collaborate [Terms of Use](./terms-of-use.md) or an appropriate custom legal agreement between the parties in the engagement. Participant users should visit the engagement page and see the description and agreement that applies to each specific engagement.  For more information about seeing the legal agreement for an engagement, see [How to view your Engagements](view-engagements.md).
 
 Engagement owners are Microsoft users who manage the engagement in MS Collaborate.  Users with Engagement Owner permissions can: 
 - create new collaborations in the system as a named engagement that will map content or feedback to users, 
@@ -124,4 +124,3 @@ When migrating from MS Connect to MS Collaborate, it is important to understand 
 - Program and engagement names are visible to all users.  Engagements with defined organiations or companies clearly identify the organizations who have permissions for the engagement on the engagement page.  The legal agreement for the engagement is also available to all users who are members of the engagement.
 
 When migrating from the older system to the new Partner Center-based MS Collaborate, the biggest change is migrating user accounts to Partner Center.  Partner Center identifies a "Partner Center Admin" who is responsible for managing the Partner Center accounts for the company.  You will need to know who your admin is and whether your company uses Active Directory or not.  
-   
