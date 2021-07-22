@@ -43,6 +43,9 @@ https://aka.ms/finandops72pu12
 
 For any additional questions or queries regarding Preview programs or availability or prior version download VHD’s please contact:  daxcf@microsoft.com
 
+### Dynamics NAV (dynamicssuggestions)
+If you have a feature request for Dynamics 365 Business Central the Dynamics 365 Application Ideas is the best place for feature requests: https://aka.ms/bcideas.
+
 ### Microsoft 365 powered device/Accelerate (Connect Site ID 1031)
 Effective January 1, 2018 the current Microsoft 365 powered device Connect website was decommissioned. The updated website and downloadable materials can be found at https://aka.ms/PoweredDevice-FTprograms. 
 
