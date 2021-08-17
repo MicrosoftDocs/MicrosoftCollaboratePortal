@@ -23,18 +23,18 @@ landingContent:
       - linkListType: overview
         links:
           - text: Introduction
-            url: /collaborate/intro-to-mscollaborate
+            url: ./intro-to-mscollaborate.md
       - linkListType: how-to-guide
         links:
           - text: Registration
-            url: /collaborate/registration
+            url: ./registration.md
           - text: Access Management
-            url: /collaborate/managing-org-users
+            url: ./managing-org-users.md
           - text: Programs and Engagements
-            url: /collaborate/programs
+            url: ./programs.md
           - text: Package downloads
-            url: /collaborate/package-downloads
+            url: ./package-downloads.md
       - linkListType: reference
         links:
           - text: Feedback
-            url: /collaborate/feedback-items
+            url: ./feedback-items.md
