@@ -1,10 +1,7 @@
 ---
 title: Register with MS Collaborate
 description: MS Collaborate utilizes the Partner Center Dashboard requiring a organizational account with Azure Active Directory set up.
-author: ikhapova
-ms.author: ikhapova
-ms.date: 12/12/2017
-keywords: partner access, permissions, register, registration, onboarding, partner feedback, build downloads, downloading specs, bugs, Microsoft Connect, SysDev Bug, Partner Center
+ms.date: 10/12/2021
 ---
 
 # Registration
@@ -18,12 +15,12 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
  > Only users with *global administrator* role can register using *Azure AD* account. If you do not have this role, you can try to [find global administrator](troubleshooting.md#how-to-find-global-administrator-for-your-organization) for your organization to help you register.
  
  > [!NOTE]
-   > Individual accounts are are being deprecated so please use Company when registering for Collaborate.
+   > Individual accounts are being deprecated so please use Company when registering for Collaborate.
  > 
 ## How to register
 
 1. Navigate to the [Partner Center Directory](https://partner.microsoft.com/dashboard/directory).
-2. If you're not already signed, sign in now using existing account or create new *Microsoft Account*. 
+2. If you're not already signed in, sign in now using existing account or create a new account. 
 3. Scroll down to **Developer programs** section and click on [Get Started](https://partner.microsoft.com/dashboard/registration/collaborate) link for **Microsoft Collaborate**. 
 
    ![Get Started](images/PartnerCenterDirectory.png)
