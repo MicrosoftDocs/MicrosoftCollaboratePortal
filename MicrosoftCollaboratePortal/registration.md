@@ -1,10 +1,7 @@
 ---
 title: Register with MS Collaborate
 description: MS Collaborate utilizes the Partner Center Dashboard requiring a organizational account with Azure Active Directory set up.
-author: ikhapova
-ms.author: ikhapova
-ms.date: 12/12/2017
-keywords: partner access, permissions, register, registration, onboarding, partner feedback, build downloads, downloading specs, bugs, Microsoft Connect, SysDev Bug, Partner Center
+ms.date: 10/12/2021
 ---
 
 # Registration
