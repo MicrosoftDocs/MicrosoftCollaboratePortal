@@ -12,7 +12,7 @@ keywords: partner access, permissions, register, registration, onboarding, partn
 Microsoft Collaborate program is offered through Partner Center and requires registration. If you already have an account in Partner Center, it is best to use the same account to enroll in Collaborate. 
 
  > [!IMPORTANT]
- > You can use one of the following accounts to work in Partner Center:
+ > You can use the following account to work in Partner Center:
  > * *Azure AD* (organizational account)
  >
  > Only users with *global administrator* role can register using *Azure AD* account. If you do not have this role, you can try to [find global administrator](troubleshooting.md#how-to-find-global-administrator-for-your-organization) for your organization to help you register.
