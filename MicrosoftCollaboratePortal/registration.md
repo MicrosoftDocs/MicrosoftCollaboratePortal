@@ -1,6 +1,6 @@
 ---
 title: Register with MS Collaborate
-description: MS Collaborate utilizes the Partner Center Dashboard requiring an individual Microsoft Account (MSA) or an organization with Azure Active Directory set up.
+description: MS Collaborate utilizes the Partner Center Dashboard requiring a organizational account with Azure Active Directory set up.
 author: ikhapova
 ms.author: ikhapova
 ms.date: 12/12/2017
@@ -17,7 +17,10 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
  >
  > Only users with *global administrator* role can register using *Azure AD* account. If you do not have this role, you can try to [find global administrator](troubleshooting.md#how-to-find-global-administrator-for-your-organization) for your organization to help you register.
  
-## How to register as an individual
+ > [!NOTE]
+   > Individual accounts are are being deprecated so please use Company when registering for Collaborate.
+ > 
+## How to register
 
 1. Navigate to the [Partner Center Directory](https://partner.microsoft.com/dashboard/directory).
 2. If you're not already signed, sign in now using existing account or create new *Microsoft Account*. 
@@ -39,7 +42,7 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
    > Try to [find global administrator](troubleshooting.md#how-to-find-global-administrator-for-your-organization) for your organization or sign out and sign in again using *Microsoft Account*. 
 
 5. Select the **Account country/region** in which you live, or where your business is located. You won't be able to change this later.
-6. Select your **Account type** (individual or company). You won't be able to change this later, so be sure to choose the right type of account.
+6. Select your **Account type** (Company). You won't be able to change this later, so be sure to choose the right type of account.
 7. Enter the **Publisher display name** that you wish to use (50 characters or fewer). Select this carefully, as this name will be used when you interact with Collaborate (download content, submit feedback etc.). For company accounts, be sure to use your organization's registered business name or trade name. Note that if you enter a name that someone else has already selected, or if it appears that someone else has the rights to use that name, we will not allow you to use that name. 
 
    > [!NOTE]
@@ -50,7 +53,7 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
    > [!NOTE]
    > We'll use this info to contact you about account-related matters. For example, you'll receive an email confirmation message after you complete your registration.
 
-   If you are registering as a company, you'll also need to enter the name, email address, and phone number of the person who will approve your company's account.
+   When you register as a Company, you'll also need to enter the name, email address, and phone number of the person who will approve your Company's account.
 
 9. Review your account info and confirm that everything is correct. Then, read and accept the terms and conditions of the [Collaborate Agreement](https://go.microsoft.com/fwlink/?linkid=849107). Check the box to indicate you have read and accepted these terms.
 
