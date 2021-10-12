@@ -56,7 +56,7 @@ Please contact the Microsoft Alumni Network program administrators for the statu
 Please contact [wmecert@microsoft.com](mailto:wmecert@microsoft.com) for the status of the program.
 
 ### High Performance Computing Team (Connect Site ID 12)
-Please visit https://partner.microsoft.com/en-us/solutions/practice-areas/cloud-infrastructure-management/high-performance-computing.
+Please visit https://partner.microsoft.com/solutions/practice-areas/cloud-infrastructure-management/high-performance-computing.
 
 ### DevDiv / Visual Studio and .NET Framework (Connect Site ID 210)
 
