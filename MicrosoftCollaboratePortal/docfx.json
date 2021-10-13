@@ -43,7 +43,9 @@
       "feedback_product_url": "https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal/issues",
       "titleSuffix": "Collaborate",
       "ms.topic": "article",
-      "ms.prod": "collaborate"
+      "ms.prod": "collaborate",
+      "author": "LinChristie",
+      "ms.author": "chlin"
     },
     "fileMetadata": {},
     "template": [],
