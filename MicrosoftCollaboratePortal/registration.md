@@ -15,6 +15,9 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 >
 > Only users with *global administrator* role can register using *Azure AD* account. If you do not have this role, you can try to [find global administrator](troubleshooting.md#how-to-find-global-administrator-for-your-organization) for your organization to help you register.
 
+> [!NOTE] Individual accounts are being deprecated so please use Company when registering for Collaborate.
+
+
 ## How to register
 
 1. Navigate to the [Partner Center Directory](https://partner.microsoft.com/dashboard/directory).
