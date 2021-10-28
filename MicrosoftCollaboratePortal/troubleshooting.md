@@ -13,7 +13,7 @@ This page provides troubleshooting guides for common issues.
 ## Sign-in
 
 ### Browser shows "Resources for partners" page when signing in to Partner Center
-After navigating to Collaborate dashboard and entering your username and password, you are being redirected to [Resources for partners](https://partner.microsoft.com/en-us/dashboard/directory) page.
+After navigating to Collaborate dashboard and entering your username and password, you are being redirected to [Resources for partners](https://partner.microsoft.com/dashboard/directory) page.
 
 #### Fixes/Workarounds
 
@@ -73,7 +73,7 @@ The workaround is to rename your personal MSA account. See [this article](https:
 The error indicates that a user is signed in with a work account (AAD) that does not have administrator privileges. 
 
 #### Fixes/Workarounds
-Follow the [instructions](https://docs.microsoft.com/collaborate/registration) to register using Microsoft Account.
+Follow the [instructions](/collaborate/registration) to register using Microsoft Account.
 
 #### How to find Global Administrator for your Organization
 Finding **Global Administrator** can be be a difficult task, especially if organization is big and offices are located in multiple countries. 
@@ -93,8 +93,8 @@ Finding **Global Administrator** can be be a difficult task, especially if organ
 ![Roles and Administrators](images/aad-global-admin.png)
 
 Check out these articles to learn more about **Global Administrator** role.
-* [Understanding Azure identity solutions](https://docs.microsoft.com/azure/active-directory/fundamentals/understand-azure-identity-solutions#terms-to-know)
-* [View members and descriptions of administrator roles in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-manage-roles-portal)
+* [Understanding Azure identity solutions](/azure/active-directory/fundamentals/understand-azure-identity-solutions#terms-to-know)
+* [View members and descriptions of administrator roles in Azure Active Directory](/azure/active-directory/users-groups-roles/directory-manage-roles-portal)
 
 ##### Using PowerShell
 
@@ -117,9 +117,9 @@ Check out these articles to learn more about **Global Administrator** role.
 ```
 
 Check out these articles to learn more about **PowerShell** and **Azure AD Module**.
-* [Installing Windows PowerShell](https://docs.microsoft.com/powershell/scripting/setup/installing-windows-powershell?view=powershell-6)
+* [Installing Windows PowerShell](/powershell/scripting/setup/installing-windows-powershell?view=powershell-6)
 * [Installing the Azure AD Module
-](https://docs.microsoft.com/powershell/azure/active-directory/install-adv2?view=azureadps-2.0#installing-the-azure-ad-module)
+](/powershell/azure/active-directory/install-adv2?view=azureadps-2.0#installing-the-azure-ad-module)
 
 ### Invitations
 If you have been invited to join Partner Center account, you need to accept the invitation before you can access Collaborate portal. If you see an error message similar to shown below, it means that you have two accounts with Microsoft using the same email address. 
@@ -195,4 +195,3 @@ The exact path can be determined by the following steps:
 
 6. Delete content of the folder
 7. Restart the application
-

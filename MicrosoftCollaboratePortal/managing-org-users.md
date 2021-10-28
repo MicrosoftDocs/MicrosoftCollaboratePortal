@@ -32,10 +32,10 @@ The following groups exist in the portal:
 ## Discovering available engagements
 
 **New users**
-* Click on the [Join engagements](https://partner.microsoft.com/en-us/dashboard/collaborate/engagements/discover) link on the dashboard to browse the list of *new* engagements available to you and your organization.
+* Click on the [Join engagements](https://partner.microsoft.com/dashboard/collaborate/engagements/discover) link on the dashboard to browse the list of *new* engagements available to you and your organization.
 
 **Existing users**
-* Navigate to the [engagements](https://partner.microsoft.com/en-us/dashboard/collaborate/engagements) list and click **Join** button to view available engagements.
+* Navigate to the [engagements](https://partner.microsoft.com/dashboard/collaborate/engagements) list and click **Join** button to view available engagements.
 
 ![Available engagements](images/Join.PNG)
 
@@ -123,7 +123,7 @@ Only *Engagement Owners* can add *Power Users* for an organization. Reach out to
 An organization's *Power Users* can only search for users within their own organization's Partner Center account. 
 
 If a user does not appear in search results:
-- verify if they are added to the organization’s account in Partner Center. If not, work with the **Administrator** of your organization account to add missing users. See [Add users to your Partner Center account](https://docs.microsoft.com/windows/uwp/publish/add-users-groups-and-azure-ad-applications#add-users-to-your-dev-center-account) article for the detailed instructions.
+- verify if they are added to the organization’s account in Partner Center. If not, work with the **Administrator** of your organization account to add missing users. See [Add users to your Partner Center account](/windows/uwp/publish/add-users-groups-and-azure-ad-applications#add-users-to-your-dev-center-account) article for the detailed instructions.
 - It is possible that the organization has more than one Partner Center organization account (seller ID) in Partner Center. Verify that correct organization is used. If incorrect organization is used, reach out to your Microsoft contact.
 	
 ### How to export list of participants to a file
@@ -143,7 +143,3 @@ If a user does not appear in search results:
 3. Type name of the engagement you want to copy users from and click **Search** button.
 
 4. Select users from the list and click **Add Users** button.
-
-
-
-

@@ -50,7 +50,7 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 
    When you register as a Company, you'll also need to enter the name, email address, and phone number of the person who will approve your Company's account.
 
-9. Review your account info and confirm that everything is correct. Then, read and accept the terms and conditions of the [Collaborate Agreement](https://go.microsoft.com/fwlink/?linkid=849107). Check the box to indicate you have read and accepted these terms.
+9. Review your account info and confirm that everything is correct. Then, read and accept the terms and conditions of the [Collaborate Agreement](/collaborate/terms-of-use). Check the box to indicate you have read and accepted these terms.
 
 10. Click **Finish** to confirm your registration.  
 
