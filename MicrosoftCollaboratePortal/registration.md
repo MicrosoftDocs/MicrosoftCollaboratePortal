@@ -37,7 +37,7 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
    > Try to [find global administrator](troubleshooting.md#how-to-find-global-administrator-for-your-organization) for your organization or sign out and sign in again using *Microsoft Account*.
 
 5. Select the **Account country/region** in which you live, or where your business is located. You won't be able to change this later.
-6. Select your **Account type** (Company). You won't be able to change this later, so be sure to choose the right type of account.
+6. The **Account type** is restricted to Company only.
 7. Enter the **Publisher display name** that you wish to use (50 characters or fewer). Select this carefully, as this name will be used when you interact with Collaborate (download content, submit feedback etc.). For company accounts, be sure to use your organization's registered business name or trade name. Note that if you enter a name that someone else has already selected, or if it appears that someone else has the rights to use that name, we will not allow you to use that name. 
 
    > [!NOTE]
