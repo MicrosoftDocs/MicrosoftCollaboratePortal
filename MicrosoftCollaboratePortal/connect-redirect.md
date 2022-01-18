@@ -43,6 +43,9 @@ https://aka.ms/finandops72pu12
 
 For any additional questions or queries regarding Preview programs or availability or prior version download VHD’s please contact:  daxcf@microsoft.com
 
+### Dynamics NAV (dynamicssuggestions)
+If you have a feature request for Dynamics 365 Business Central the Dynamics 365 Application Ideas is the best place for feature requests: https://aka.ms/bcideas.
+
 ### Microsoft 365 powered device/Accelerate (Connect Site ID 1031)
 Effective January 1, 2018 the current Microsoft 365 powered device Connect website was decommissioned. The updated website and downloadable materials can be found at https://aka.ms/PoweredDevice-FTprograms. 
 
@@ -53,7 +56,7 @@ Please contact the Microsoft Alumni Network program administrators for the statu
 Please contact [wmecert@microsoft.com](mailto:wmecert@microsoft.com) for the status of the program.
 
 ### High Performance Computing Team (Connect Site ID 12)
-Please visit https://partner.microsoft.com/en-us/solutions/practice-areas/cloud-infrastructure-management/high-performance-computing.
+Please visit https://partner.microsoft.com/solutions/practice-areas/cloud-infrastructure-management/high-performance-computing.
 
 ### DevDiv / Visual Studio and .NET Framework (Connect Site ID 210)
 
