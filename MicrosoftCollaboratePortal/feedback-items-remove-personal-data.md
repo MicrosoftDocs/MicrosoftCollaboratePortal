@@ -1,10 +1,9 @@
 ---
 title: Remove personal data
-description: Microsoft Collaborate Feedback items can be bugs, feature requests or any task associated with an engagement. Feedback forms can be customized based on each engagement. 
-author: ikhapova
-ms.author: ikhapova
+description: Remove personal data using Microsoft Collaborate. 
+author: LinChristie
+ms.author: chlin
 ms.date: 05/25/2018
-keywords: feedback, engagements, work items, bugs, feature requests, Collaborate permissions, Dev Center bugs 
 ---
 
 # Remove personal data
@@ -13,10 +12,9 @@ When feedback form allows modifications, users can manually update form fields t
 Users can also change their votes, and de-identify feedback and comments.
 
 > [!NOTE]
-> 
-> How feedback form is configured depends on engagement. Engagement owner can setup feedback as: <br>
-> * view only after submission
-> * view and update after submission
+> How feedback form is configured depends on engagement. Engagement owner can setup feedback as:
+> view only after submission,
+> view and update after submission.
 
 ## How to update the vote
 
