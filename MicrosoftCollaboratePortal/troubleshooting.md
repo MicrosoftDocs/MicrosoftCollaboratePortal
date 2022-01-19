@@ -115,26 +115,25 @@ Check out these articles to learn more about **Global Administrator** role.
 >
 > You must sign in with your organizational account to connect to Azure AD using PowerShell.<br>
 
-1.  Launch Windows Powershell console as Administrator
-2.  If you have never installed Azure AD module for Powershell, execute this command <br>
+1. Launch Windows Powershell console as Administrator
+2. If you have never installed Azure AD module for Powershell, execute this command
 
-```powershell
-    Install-Module AzureAD
-```
+    ```powershell
+        Install-Module AzureAD
+    ```
 
 3. Execute these commands to view members of **Global Administrator** role
 
-```powershell
-    Connect-AzureAD  
-    $role = Get-AzureADDirectoryRole | Where-Object {$_.displayName -eq 'Company Administrator'} 
-    Get-AzureADDirectoryRoleMember -ObjectId $role.ObjectId | Where-Object {$_.ObjectType -eq 'User'} | Get-AzureADUser 
-```
+    ```powershell
+        Connect-AzureAD  
+        $role = Get-AzureADDirectoryRole | Where-Object {$_.displayName -eq 'Company Administrator'} 
+        Get-AzureADDirectoryRoleMember -ObjectId $role.ObjectId | Where-Object {$_.ObjectType -eq 'User'} | Get-AzureADUser 
+    ```
 
 Check out these articles to learn more about **PowerShell** and **Azure AD Module**.
 
-* [Installing Windows PowerShell](/powershell/scripting/setup/installing-windows-powershell?view=powershell-6)
-* [Installing the Azure AD Module
-](/powershell/azure/active-directory/install-adv2?view=azureadps-2.0#installing-the-azure-ad-module)
+- [Installing Windows PowerShell](/powershell/scripting/setup/installing-windows-powershell)
+- [Installing the Azure AD Module](/powershell/azure/active-directory/install-adv2)
 
 ### Invitations
 

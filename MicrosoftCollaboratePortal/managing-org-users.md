@@ -107,7 +107,7 @@ Once added to the *Participant* group, users can download content and submit fee
 
 ### How to remove a participant
 
-1. To remove a user, select their name in the list and click the delete ![Delete](images/Delete.PNG) icon.
+1. To remove a user, select their name in the list and click the delete ![Delete icon for Microsoft Collaborate](images/Delete.PNG) icon.
  
 2. Confirm that you want to remove the user, and they will no longer be a member of the group.
 
