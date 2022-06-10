@@ -30,7 +30,7 @@ Effective January 1, 2018, the community feedback feature of the Microsoft Conne
 
 ### System Center Configuration Manager and Microsoft Intune (Connect Site ID 892)
 
-- If you have a feature request for Configuration Manager or Intune, UserVoice is still the best place for feature requests: [https://configurationmanager.uservoice.com](https://techcommunity.microsoft.com/t5/community-management/bd-p/CommunityManagement) and [http://microsoftintune.uservoice.com](https://techcommunity.microsoft.com/t5/microsoft-intune/bd-p/Microsoft-Intune). 
+- If you have a feature request for Configuration Manager or Intune, UserVoice is still the best place for feature requests: https://techcommunity.microsoft.com/t5/community-management/bd-p/CommunityManagement and https://techcommunity.microsoft.com/t5/microsoft-intune/bd-p/Microsoft-Intune. 
 - If you want to file a bug against Configuration Manager, please use the Windows Feedback Hub, which is built into the Windows 10 operating system. For more information, see https://aka.ms/configmgrfeedback. You can track the status of new bugs filed in Feedback Hub, but not bugs previously filed under Connect; all bugs filed under Connect are still accessible by the product team. 
 - If you think you’ve found a bug with Intune, please open a support case. For more information, see https://aka.ms/intunesupport.
 - If you are part of the Customer Connection Program and are trying to access content from the Configuration Manager or Intune Advisors calls, please contact your Customer Connection Program contact to get access to the new TechCommunity. 
