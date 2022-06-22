@@ -132,7 +132,7 @@ Check out these articles to learn more about **Global Administrator** role.
 
 Check out these articles to learn more about **PowerShell** and **Azure AD Module**.
 
-- [Installing Windows PowerShell](/powershell/scripting/setup/installing-windows-powershell)
+- [Installing Windows PowerShell](/powershell/scripting/windows-powershell/install/installing-windows-powershell)
 - [Installing the Azure AD Module](/powershell/azure/active-directory/install-adv2)
 
 ### Invitations
