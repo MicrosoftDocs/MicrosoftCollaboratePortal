@@ -14,11 +14,18 @@ You have reached this page because you’ve tried to access the Microsoft Connec
 
 ## Microsoft Download Center
 
-Visit [Download Center](https://www.microsoft.com/download) if you are looking for a package that was previously available on Connect.
+Visit [Download Center](https://www.microsoft.com/download) if you are looking for a package that was previously available on Connect. (Try the search field in the top-right corner of the Download Center page).
 
-## Microsoft Docs
+You may also be interested in checking out [Microsoft Partner Center](partner-center/overview). Partner Center streamlines several business processes to make it easier for Microsoft partners to manage their relationship with Microsoft and their customers. Partner Center gives you access to the tools you need to get work done. Use Partner Center to:
 
-[Microsoft Docs](https://docs.microsoft.com) is the home for Microsoft documentation for end users, developers, hardware manufacturers and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
+- Manage your Microsoft account and users
+- Engage with customers
+- Build relationships with other partners
+- Enroll in incentive programs
+- Manage customer subscriptions
+- Bill and get paid
+- Contact support
+- Publish or explore offers in the Microsoft commercial marketplace, a catalog of thousands of customer-facing transactable services and applications built and delivered by our independent software vendor (ISV) partners.
 
 ## Where to Find Connect Programs
 
@@ -36,6 +43,19 @@ Effective January 1, 2018, the community feedback feature of the Microsoft Conne
 - If you are part of the Customer Connection Program and are trying to access content from the Configuration Manager or Intune Advisors calls, please contact your Customer Connection Program contact to get access to the new TechCommunity. 
 - If you are a Partner, please contact your Partner contact. 
 - If you are trying to get access to content for the Technical Adoption Program (TAP) please contact your TAP buddy.   
+
+### Dynamics 365 OneBox Virtual Machine
+
+- [How to Download a Dynamics 365 Finance and Operations OneBox Virtual Machine](https://community.dynamics.com/ax/b/axinthefield/posts/how-to-download-a-dynamics-365-finance-and-operations-onebox-virtual-machine)
+
+### Dynamics AX Feedback (Connect Site ID 13211)
+
+Dynamics 365 for Finance and Operations, Enterprise Edition team has made the downloads for the latest versions of Dynamics 365 for Finance and Operations available via the following links:
+- Dynamics 365 for Finance and Operations, Enterprise edition 7.3 with Platform update 12:  https://aka.ms/finandops73pu12
+- Dynamics 365 for Finance and Operations, Enterprise edition July 2017 (7.2) with Platform update 12:
+https://aka.ms/finandops72pu12
+
+For any additional questions or queries regarding Preview programs or availability or prior version download VHD’s please contact:  daxcf@microsoft.com
 
 ### Dynamics NAV (dynamicssuggestions)
 
