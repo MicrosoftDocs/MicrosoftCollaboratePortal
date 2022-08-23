@@ -8,10 +8,10 @@ metadata:
   description: Microsoft Collaborate portal provides tools and services to streamline engineering collaboration within the Microsoft ecosystem. # Required; article description that is displayed in search results. < 160 chars.
   ms.service: partner-dashboard
   ms.subservice: microsoft-collaborate
-  ms.topic: landing-page # Required
-  author: ikhapova #Required; your GitHub user alias, with correct capitalization.
-  ms.author: ikhapova #Required; microsoft alias of author; optional team alias.
-  ms.date: 07/06/2020 #Required; mm/dd/yyyy format.
+  ms.topic: landing-page
+  author: ikhapovan.
+  ms.author: ikhapova
+  ms.date: 07/06/2020
 
 # linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
 

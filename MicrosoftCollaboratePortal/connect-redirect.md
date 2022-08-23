@@ -14,11 +14,18 @@ You have reached this page because you’ve tried to access the Microsoft Connec
 
 ## Microsoft Download Center
 
-Visit [Download Center](https://www.microsoft.com/download) if you are looking for a package that was previously available on Connect.
+Visit [Download Center](https://www.microsoft.com/download) if you are looking for a package that was previously available on Connect. (Try the search field in the top-right corner of the Download Center page).
 
-## Microsoft Docs
+You may also be interested in checking out [Microsoft Partner Center](partner-center/overview). Partner Center streamlines several business processes to make it easier for Microsoft partners to manage their relationship with Microsoft and their customers. Partner Center gives you access to the tools you need to get work done. Use Partner Center to:
 
-[Microsoft Docs](https://docs.microsoft.com) is the home for Microsoft documentation for end users, developers, hardware manufacturers and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
+- Manage your Microsoft account and users
+- Engage with customers
+- Build relationships with other partners
+- Enroll in incentive programs
+- Manage customer subscriptions
+- Bill and get paid
+- Contact support
+- Publish or explore offers in the Microsoft commercial marketplace, a catalog of thousands of customer-facing transactable services and applications built and delivered by our independent software vendor (ISV) partners.
 
 ## Where to Find Connect Programs
 
@@ -30,12 +37,16 @@ Effective January 1, 2018, the community feedback feature of the Microsoft Conne
 
 ### System Center Configuration Manager and Microsoft Intune (Connect Site ID 892)
 
-- If you have a feature request for Configuration Manager or Intune, UserVoice is still the best place for feature requests: https://configurationmanager.uservoice.com and http://microsoftintune.uservoice.com. 
+- If you have a feature request for Configuration Manager or Intune, UserVoice is still the best place for feature requests: https://techcommunity.microsoft.com/t5/community-management/bd-p/CommunityManagement and https://techcommunity.microsoft.com/t5/microsoft-intune/bd-p/Microsoft-Intune. 
 - If you want to file a bug against Configuration Manager, please use the Windows Feedback Hub, which is built into the Windows 10 operating system. For more information, see https://aka.ms/configmgrfeedback. You can track the status of new bugs filed in Feedback Hub, but not bugs previously filed under Connect; all bugs filed under Connect are still accessible by the product team. 
 - If you think you’ve found a bug with Intune, please open a support case. For more information, see https://aka.ms/intunesupport.
 - If you are part of the Customer Connection Program and are trying to access content from the Configuration Manager or Intune Advisors calls, please contact your Customer Connection Program contact to get access to the new TechCommunity. 
 - If you are a Partner, please contact your Partner contact. 
 - If you are trying to get access to content for the Technical Adoption Program (TAP) please contact your TAP buddy.   
+
+### Dynamics 365 OneBox Virtual Machine
+
+- [How to Download a Dynamics 365 Finance and Operations OneBox Virtual Machine](https://community.dynamics.com/ax/b/axinthefield/posts/how-to-download-a-dynamics-365-finance-and-operations-onebox-virtual-machine)
 
 ### Dynamics AX Feedback (Connect Site ID 13211)
 
