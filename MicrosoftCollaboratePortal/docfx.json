@@ -45,6 +45,8 @@
       "feedback_product_url": "https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal/issues",
       "titleSuffix": "Collaborate",
       "ms.topic": "article",
+      "ms.service": "partner-dashboard",
+      "ms.subservice": "microsoft-collaborate",
       "author": "LinChristie",
       "ms.author": "chlin"
     },
