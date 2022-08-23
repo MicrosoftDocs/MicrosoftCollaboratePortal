@@ -33,6 +33,8 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "ms.subservice": "microsoft-collaborate",
+      "ms.service": "partner-dashboard",
       "breadcrumb_path": "/collaborate/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "searchScope": [
@@ -43,7 +45,6 @@
       "feedback_product_url": "https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal/issues",
       "titleSuffix": "Collaborate",
       "ms.topic": "article",
-      "ms.prod": "collaborate",
       "author": "LinChristie",
       "ms.author": "chlin"
     },
