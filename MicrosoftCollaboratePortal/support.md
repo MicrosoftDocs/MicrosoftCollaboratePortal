@@ -33,7 +33,7 @@ This page provides instructions on how to get support with Microsoft Collaborate
 
 ### Submit an Incident
 
-  * Click [Submit an Incident](https://support.microsoft.com/supportrequestform/83cdfd8d-c24a-fbe4-fb2a-3fead30613a9) under **Choose how to contact us**
+  * Click [Submit an Incident](https://support.microsoft.com/en-US/supportrequestform/bc9d4067-7218-61b9-1d2c-68ae591acf9d) under **Choose how to contact us**
  
 <br>
 
