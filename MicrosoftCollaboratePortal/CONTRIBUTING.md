@@ -32,9 +32,9 @@ After you submit changes (via a pull request), they will be reviewed by a member
 
 ## Working with Branches
 
-The [MS Collaborate GitHub repository](https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal) utilizes two main parent branches: [Master](https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal/tree/master), this content can be reviewed on the [staging site](https://review.docs.microsoft.com/collaborate), and [Live](https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal/tree/live), for content appearing on the [live site](/collaborate).
+The [MS Collaborate GitHub repository](https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal) utilizes two main parent branches: [`main`](https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal/tree/main), this content can be reviewed on the [staging site](https://review.docs.microsoft.com/collaborate), and [`live`](https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal/tree/live), for content appearing on the [live site](/collaborate).
 
-When making contributions, please submit your Pull Request (PR) to the **Master** branch. This branch can be viewed on the staging site and should only contain contributions that are ready to be published live. You may also create and submit a branch with your own unique branch name which can be selected and viewed in the staging site. (The **Live** branch is only allowed for use by the content administrators.)
+When making contributions, please submit your Pull Request (PR) to the `main` branch. This branch can be viewed on the staging site and should only contain contributions that are ready to be published live. You may also create and submit a branch with your own unique branch name which can be selected and viewed in the staging site. (The **Live** branch is only allowed for use by the content administrators.)
 
 ## Using issues to provide feedback on MS Collaborate documentation
 
