@@ -2,7 +2,7 @@
 
 This documentation relates to the Microsoft Collaborate portal.
 
-You can view either the [live documentation site](https://docs.microsoft.com/collaborate/) or the internal-only [review site](https://review.docs.microsoft.com/collaborate/?branch=main).
+You can view either the [live documentation site](https://learn.microsoft.com/collaborate/) or the internal-only [review site](https://review.learn.microsoft.com/collaborate/?branch=main).
 
 GitHub Repo: https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal
 
