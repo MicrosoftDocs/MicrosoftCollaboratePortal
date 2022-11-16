@@ -173,6 +173,12 @@ Click on the badge icon in the upper right corner of the screen. You will see a 
 
 Account name is shown in the left navigation pane above list of programs available for this account. Click on the currently displayed account name to open a list of available accounts for the selected AAD tenant.
 
+## Feedback
+
+### Sync Status: Failed
+
+There are several reasons to bring the work item sync failure on Collaborate Feedback. Please contact [Customer Support](https://learn.microsoft.com/en-us/collaborate/support#customer-support) for the help.
+
 ## Distribution Manager
 
 You may receive an error message when you use Distribution Manager. This article contains information to help you troubleshoot these  error messages.
