@@ -177,7 +177,7 @@ Account name is shown in the left navigation pane above list of programs availab
 
 ### Sync Status: Failed
 
-There are several reasons to bring the work item sync failure on Collaborate Feedback. Please contact [Customer Support]([https://www.microsoft.com/download/details.aspx?id=49981](https://learn.microsoft.com/en-us/collaborate/support#customer-support)) for the help.
+There are several reasons to bring the work item sync failure on Collaborate Feedback. Please contact [Customer Support](https://learn.microsoft.com/en-us/collaborate/support#customer-support) for the help.
 
 ## Distribution Manager
 
