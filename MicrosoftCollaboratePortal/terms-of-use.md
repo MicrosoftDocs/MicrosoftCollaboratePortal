@@ -2,7 +2,7 @@
 title: Microsoft Collaborate Terms of Use
 description: Microsoft Collaborate Terms of Use
 author: LinChristie
-ms.author: LinChristie
+ms.author: chlin
 ms.date: 12/09/2022
 keywords: Microsoft Collaborate, TOU, terms of use
 hide_comments: true 
