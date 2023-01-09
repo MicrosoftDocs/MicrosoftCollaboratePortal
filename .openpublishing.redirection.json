@@ -1,0 +1,9 @@
+{
+    "redirections": [
+        {
+            "source_path": "MicrosoftCollaboratePortal/connect-redirect.md",
+            "redirect_url": "https://www.microsoft.com/download",
+            "redirect_document_id": false
+        }
+    ]
+}
