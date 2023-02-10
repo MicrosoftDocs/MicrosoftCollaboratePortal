@@ -3,13 +3,13 @@ title: Microsoft Collaborate Terms of Use
 description: Microsoft Collaborate Terms of Use
 author: LinChristie
 ms.author: chlin
-ms.date: 12/09/2022
+ms.date: 02/10/2023
 keywords: Microsoft Collaborate, TOU, terms of use
 hide_comments: true 
 ---
 
 # Microsoft Collaborate Terms of Use 
-Updated: *December 2022*
+Updated: *February 2023*
 
 ## 1. ACCEPTANCE OF TERMS OF USE
 Microsoft provides you with access to a variety of resources on this web site, comprised of documents, images, videos and other content ("Content"); software such as pre-release software, developer tools, computer code, and sample code ("Software"); and communication forums and other services ("Services"). For clarity, Software does not include any Content. The Content, Software, Services and all other aspects of this web site are subject to these Terms of Use (“terms”). Microsoft reserves the right to update these terms at any time without notice to you. The applicable and most current version of the terms can be reviewed by clicking on the "Terms of Use" hypertext link located at the bottom of our web pages.
@@ -34,7 +34,7 @@ All Content is the copyrighted work of Microsoft or its suppliers. Your use of t
 If any Content is made available to you on this web site without a license agreement, then subject to the terms of this agreement you may make a reasonable number of copies of the Content for your internal use, solely for the purposes of our business relationship with each other. You must preserve the copyright notice set forth below in all copies of the Content and ensure that both the copyright notice and this permission notice appear in those copies.
 
 > **Copyright Notice:**<br>
-> © 2022 Microsoft Corporation. All rights reserved.
+> © 2023 Microsoft Corporation. All rights reserved.
 
 Except as provided above in this section, no portion of the web site may be copied, imitated, published, transmitted, broadcast or distributed, in whole or in part. 
 
@@ -100,7 +100,7 @@ The Software, Content and Services may contain preliminary information or inaccu
 IN NO EVENT SHALL MICROSOFT OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, SOFTWARE, CONTENT, SERVICES OR FAILURE TO PROVIDE SOFTWARE, CONTENT OR SERVICES. THE AGGREGATE LIABILITY OF MICROSOFT ARISING UNDER THESE TERMS WILL NOT EXCEED $5.00 USD.
 
 ## 12. SUBMISSIONS 
-Microsoft does not claim ownership of code, content, comments, feedback, suggestions, information or materials that you provide via this web site or any Services ("Submission") under these terms. However, unless otherwise agreed to in a separate agreement between the parties, by providing a Submission you irrevocably grant Microsoft and its affiliated companies the right to make, use, modify, distribute and otherwise commercialize the Submission in any way and for any purpose and no compensation will be paid with respect to the use of your Submissions. Unless otherwise agreed to in a separate agreement between the parties, by providing a Submission you warrant that you own or otherwise control all of the rights to your Submission and that your Submission is not subject to a license or other obligation that requires Microsoft to grant or pass through any rights or make any disclosures or payments to third parties. These rights survive these terms and are granted under all applicable intellectual property rights you own or control. You may not deliver any Submission on this web site to Microsoft, or any third party, in whole or in part, that is governed by an Excluded License. “Excluded License” is any license that requires, as a condition of use, modification and/or distribution of software subject to the Excluded License, that such software and/or other software combined and/or distributed with such software be:
+Microsoft does not claim ownership of code, content, comments, feedback, suggestions, information or materials that you provide Microsoft related to this web site, the Content, Software or Services ("Submission") under these terms. However, unless otherwise agreed to in a separate agreement between the parties, by providing a Submission you irrevocably grant Microsoft and its affiliated companies the right to make, use, modify, distribute and otherwise commercialize the Submission in any way and for any purpose and no compensation will be paid with respect to the use of your Submissions. Unless otherwise agreed to in a separate agreement between the parties, by providing a Submission you warrant that you own or otherwise control all of the rights to your Submission and that your Submission is not subject to a license or other obligation that requires Microsoft to grant or pass through any rights or make any disclosures or payments to third parties. These rights survive these terms and are granted under all applicable intellectual property rights you own or control. You may not deliver any Submission on this web site to Microsoft, or any third party, in whole or in part, that is governed by an Excluded License. “Excluded License” is any license that requires, as a condition of use, modification and/or distribution of software subject to the Excluded License, that such software and/or other software combined and/or distributed with such software be:
 
 *	disclosed or distributed in source code form; 
 *	licensed for the purpose of making derivative works; or 
