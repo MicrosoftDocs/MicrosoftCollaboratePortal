@@ -177,7 +177,7 @@ Account name is shown in the left navigation pane above list of programs availab
 
 ### Sync Status: Failed
 
-There are several reasons to bring the work item sync failure on Collaborate Feedback. Please contact [Customer Support](https://learn.microsoft.com/en-us/collaborate/support#customer-support) for the help.
+There are several reasons to bring the work item sync failure on Collaborate Feedback. Please contact [Customer Support](https://learn.microsoft.com/collaborate/support#customer-support) for the help.
 
 ## Distribution Manager
 
@@ -225,4 +225,4 @@ The exact path can be determined by the following steps:
 
 ## Notification Email
 
-If you are experiencing issues with receiving notifications, please add your preferred email address on [Action Center | My Preference](https://partner.microsoft.com/en-us/dashboard/actioncenter/mypreferences) Page, or the system may send the notification to your Partner Center sign-in Azure address (onmicrosoft.com) which is invalid. Click on the link for [Preference Update Guidance](https://learn.microsoft.com/en-us/partner-center/action-center-overview#preferences).
+If you are experiencing issues with receiving notifications, please add your preferred email address on [Action Center | My Preference](https://partner.microsoft.com/dashboard/actioncenter/mypreferences) Page, or the system may send the notification to your Partner Center sign-in Azure address (onmicrosoft.com) which is invalid. Click on the link for [Preference Update Guidance](https://learn.microsoft.com/partner-center/action-center-overview#preferences).
