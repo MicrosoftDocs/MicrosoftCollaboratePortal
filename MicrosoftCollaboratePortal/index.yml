@@ -6,12 +6,10 @@ summary: The Microsoft Collaborate portal provides tools and services to streaml
 metadata:
   title: Microsoft Collaborate documentation # Required; page title displayed in search results. Include the brand. < 60 chars.
   description: Microsoft Collaborate portal provides tools and services to streamline engineering collaboration within the Microsoft ecosystem. # Required; article description that is displayed in search results. < 160 chars.
-  ms.service: partner-dashboard
-  ms.subservice: microsoft-collaborate
   ms.topic: landing-page
-  author: ikhapovan.
-  ms.author: ikhapova
-  ms.date: 07/06/2020
+  author: LinChristie
+  ms.author: chlin
+  ms.date: 03/07/2023
 
 # linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
 
