@@ -88,7 +88,7 @@ Follow the [instructions](/collaborate/registration) to register using Microsoft
 
 ### How to find Global Administrator for your Organization
 
-Finding **Global Administrator** can be be a difficult task, especially if organization is big and offices are located in multiple countries. 
+Finding **Global Administrator** can be be a difficult task, especially if organization is big and offices are located in multiple countries/regions. 
 
 ### Using **Azure Portal**
 

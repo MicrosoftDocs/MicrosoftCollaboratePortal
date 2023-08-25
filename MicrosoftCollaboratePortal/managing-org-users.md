@@ -21,8 +21,8 @@ The following groups exist in the portal:
 | Participant | Engagement | Regular engagement users | View engagement and program overview, download content, view and modify existing feedback, submit new feedback |
 | Power User | Engagement | Advanced users who manage access for their organization | Add and remove participants for their organization |
 | Engagement Owner | Engagement | Microsoft users who manage existing engagements | Manage all aspects of the engagement |
+| Engagement Creator | Program  | Microsoft users who create new engagements | Create new engagements under specific program | 
 | Package Publisher | Program | Microsoft users who publish content | Publish content |
-| Engagement Manager | Program  | Microsoft users who create new engagements | Create new engagements under specific program | 
 | Program Owner | Program | Microsoft users who manage programs | Manage all aspects of the program and all engagements under the program | 
 
 ## Discovering available engagements

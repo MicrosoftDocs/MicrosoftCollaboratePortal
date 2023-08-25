@@ -26,12 +26,9 @@ This page provides instructions on how to get support with Microsoft Collaborate
 > You must sign in to chat or to submit an incident.<br>
 
 ### Submit an Incident
-Please read the below items before click on [Submit an Incident](https://support.microsoft.com/en-US/supportrequestform/bc9d4067-7218-61b9-1d2c-68ae591acf9d) to prevent any delay.
+Please read the below items before clicking on [Submit an Incident](https://support.serviceshub.microsoft.com/supportforbusiness/create?sapId=bc9d4067-7218-61b9-1d2c-68ae591acf9d) to prevent any delay. Select **Developer, Student and Startup Programs** as product family, **Dev Center** as product or service, and **Collaborate** as category for Product and Support Type on Services Hub.
   * Provide clear repro steps of the issue along with any error messages.
   * Make sure you create the support request under the user account with this issue.
   * Please expect 1 business day for SLA. Business hours are Monday - Friday 8AM - 8PM (CDT) excluding holidays.
   * Create multiple cases may bring slower response.
   * Please check your junk folder in case the mail server classifies Partner Center Support’s reply as junk.
-
-### Live Chat
-  * Click **Chat Now**.
