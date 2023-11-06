@@ -105,7 +105,7 @@ It is recommended that you only change these if you are experiencing problems wi
 
 Users can configure preferred e-mail address and choose which types of notifications to receive for new packages or contents update.
 
-1. Click on the ![Settings icon that looks like a gear](images/settings.png) **Settings** icon in the upper right corner and select [**My preferences**](https://developer.microsoft.com/en-us/dashboard/engagement/preference) from the drop down menu.
+1. Click on the ![Settings icon that looks like a gear](images/settings.png) **Settings** icon in the upper right corner and select [**My preferences**](https://partner.microsoft.com/dashboard/v2/action-center/mypreferences) from the drop down menu.
 2. Verify that **Preferred e-mail address** is correct. Change if needed.
 3. Click on **Microsoft Collaborate** under **Notification preferences**.
 4. Find *Downloads* in the list. Check or un-check **Email** and/or **Dashboard** fields.
