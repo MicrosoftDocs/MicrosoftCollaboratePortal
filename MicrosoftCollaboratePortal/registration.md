@@ -1,6 +1,6 @@
 ---
 title: Register with MS Collaborate
-description: MS Collaborate utilizes the Partner Center Dashboard requiring a organizational account with Azure Active Directory set up.
+description: MS Collaborate utilizes the Partner Center Dashboard requiring a organizational account with Microsoft Entra ID set up.
 ms.date: 10/12/2021
 ---
 
@@ -9,7 +9,7 @@ ms.date: 10/12/2021
 Microsoft Collaborate program is offered through Partner Center and requires registration. If you already have an account in Partner Center, it is best to use the same account to enroll in Collaborate. Individual accounts are being deprecated so please use Company when registering for Collaborate.
 
 > [!IMPORTANT]
-> You must use *Azure AD* (organizational account) account with *global administrator* role in Partner Center to register Microsoft Collaborate. If you do not have this role, you can try to [find global administrator](troubleshooting.md#how-to-find-global-administrator-for-your-organization) for your organization to help you register.
+> You must use *Microsoft Entra ID* (organizational account) account with *global administrator* role in Partner Center to register Microsoft Collaborate. If you do not have this role, you can try to [find global administrator](troubleshooting.md#how-to-find-global-administrator-for-your-organization) for your organization to help you register.
 
 ## How to register
 
@@ -27,7 +27,7 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
    > If you signed in with the existing Partner Center account, the page would contain information from that account. You can modify **Publisher display name** and **Contact info** if needed.
 
    > [!IMPORTANT]
-   > The following error indicates that user is signed in with an *Azure AD* account that does not have administrator privileges and registration cannot be completed.
+   > The following error indicates that user is signed in with an *Microsoft Entra ID* account that does not have administrator privileges and registration cannot be completed.
    > > We could not validate your identity as a global administrator.
    > 
    > Try to [find global administrator](troubleshooting.md#how-to-find-global-administrator-for-your-organization) for your organization or sign out and sign in again using *Microsoft Account*.
@@ -52,20 +52,22 @@ Microsoft Collaborate program is offered through Partner Center and requires reg
 
 ## How to configure access for multiple users
 
-[Partner Center](https://partner.microsoft.com/dashboard) leverages Azure AD for multi-user account access and management. If your organization already uses Office 365 or other business services from Microsoft, you already have Azure AD. Otherwise, you can create a new Azure AD tenant from within Partner Center at no additional charge.
+[Partner Center](https://partner.microsoft.com/dashboard) leverages Microsoft Entra ID for multi-user account access and management. If your organization already uses Office 365 or other business services from Microsoft, you already have Microsoft Entra ID. Otherwise, you can create a new Microsoft Entra tenant from within Partner Center at no additional charge.
 
-* [Associate Azure Active Directory with your Partner Center account](/windows/uwp/publish/associate-azure-ad-with-dev-center)
-* [Add users, groups, and Azure AD applications to your Partner Center account](/windows/uwp/publish/add-users-groups-and-azure-ad-applications)
+* [Associate Microsoft Entra ID with your Partner Center account](/windows/uwp/publish/associate-azure-ad-with-dev-center)
+* [Add users, groups, and Microsoft Entra applications to your Partner Center account](/windows/uwp/publish/add-users-groups-and-azure-ad-applications)
 * [Set roles and custom permissions for account users](/windows/uwp/publish/set-custom-permissions-for-account-users)
 
-## What happens when an Azure AD tenant is linked to a Partner Center account?
+<a name='what-happens-when-an-azure-ad-tenant-is-linked-to-a-partner-center-account'></a>
+
+## What happens when a Microsoft Entra tenant is linked to a Partner Center account?
 
 * *Tenant ID* is added to the account data
-* Account *Administrator* gets the ability to view users of the *Azure AD* tenant and add them to the account
+* Account *Administrator* gets the ability to view users of the *Microsoft Entra ID* tenant and add them to the account
 * Tenant *Global Admin* gets the ability to add new tenant users in Partner Center
 * Tenant *Global Admin* gets the ability to invite guest users in Partner Center
 
-No changes are made to the *Azure AD* tenant itself.
+No changes are made to the *Microsoft Entra ID* tenant itself.
 
 ## How to register as an organization
 
@@ -87,7 +89,7 @@ To create an account on Partner Center, you’ll need to have on hand the follow
 
 When creating a company account, we suggest that you follow these guidelines, especially if more than one person needs to access the account.
 
-- Create your Microsoft account using an email address that doesn't already belong to you or another individual, such as *MyCompany_PartnerCenter@outlook.com*. You may not be able to use an email address at your company's domain, especially if your company already uses Azure AD.
+- Create your Microsoft account using an email address that doesn't already belong to you or another individual, such as *MyCompany_PartnerCenter@outlook.com*. You may not be able to use an email address at your company's domain, especially if your company already uses Microsoft Entra ID.
 - If you plan to join **Windows** program for app development in future and want to reuse your partner center account, then it is recommended that you enroll to **Windows** program first and then join **Collaborate**. Otherwise you might have to create separate accounts for these programs.
 - Add a company phone number that does not require an extension and is accessible to key team members.
 
@@ -97,7 +99,7 @@ When creating a company account, we suggest that you follow these guidelines, es
 
 1. Navigate to the Collaborate homepage: [https://aka.ms/collaborate](https://aka.ms/collaborate).
 2.	Sign in using Partner Center account credentials.
-3. If your organization created multiple *Azure AD* tenants, select the one it uses for Collaborate. Click on badge icon on the *right* of the screen to view the list of available tenants.
+3. If your organization created multiple *Microsoft Entra ID* tenants, select the one it uses for Collaborate. Click on badge icon on the *right* of the screen to view the list of available tenants.
 4. If your organization opened multiple accounts in Partner Center, select the one it uses for Collaborate. Click on the account name in the *left* navigation menu to view list of account.
 5. When authentication is completed, you will see the homepage displaying your name and organization.
 

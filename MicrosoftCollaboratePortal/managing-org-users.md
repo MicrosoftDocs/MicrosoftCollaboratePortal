@@ -79,7 +79,7 @@ See [Register with Microsoft Collaborate](registration.md) for more information 
 > [!NOTE]
 > Collaborate uses the same account as other programs in Partner Center.  The type of account you choose is important if your company or organization plans to enroll in other Partner Center programs that require bank account or certificate information.  
 > 
-> If your organization uses Azure Active Directory (AAD), you need to add users from AAD tenant to the Partner Center account before they can join an engagement.
+> If your organization uses Microsoft Entra ID, you need to add users from Microsoft Entra tenant to the Partner Center account before they can join an engagement.
 > 
 > If you belong to multiple Partner Center accounts, be sure to use Collaborate with the one your organization used for Collaborate onboarding.  
 

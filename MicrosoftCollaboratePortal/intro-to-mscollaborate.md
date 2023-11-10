@@ -118,7 +118,7 @@ MS Collaborate replaces Microsoft Connect, including a different look and new fu
 
 When migrating from MS Connect to MS Collaborate, it is important to understand how programs and engagements work, and how they are used to drive user access to and collaboration on content and feedback.  
 
-- *Organizations*: MS Collaborate integrates with the Account Management System in Partner Center, which uses both Microsoft Accounts (MSAs) and Azure Active Directory.  By adding Active Directory, MS Collaborate can take advantage of Partner Center's concept of organizations or companies; users are members of organizations using a corporate account or they are individuals with an MSA (single sign-on Microsoft account).
+- *Organizations*: MS Collaborate integrates with the Account Management System in Partner Center, which uses both Microsoft Accounts (MSAs) and Microsoft Entra ID.  By adding Active Directory, MS Collaborate can take advantage of Partner Center's concept of organizations or companies; users are members of organizations using a corporate account or they are individuals with an MSA (single sign-on Microsoft account).
 - *Engagement Owner*: Administrator for the engagement, able to configure the engagement, modify users; inherits all other user role powers for the engagement (publishing, configuration of feedback, etc.).
 - *Content Manager*: Able to publish and edit packages for an engagement or program.
 - Program and engagement names are visible to all users.  Engagements with defined organiations or companies clearly identify the organizations who have permissions for the engagement on the engagement page.  The legal agreement for the engagement is also available to all users who are members of the engagement.
