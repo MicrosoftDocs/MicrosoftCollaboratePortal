@@ -76,11 +76,11 @@ The workaround is to rename your personal MSA account. See [this article](https:
 
 ### Account registration
 
-> We could not validate your identity as a global administrator. Make sure you're able to sign in with a global administrator account for the Azure AD tenant you want to associate.
+> We could not validate your identity as a global administrator. Make sure you're able to sign in with a global administrator account for the Microsoft Entra tenant you want to associate.
 
 ![We could not validate your identity as a global administrator](images/GlobalAdministrator.png)
 
-The error indicates that a user is signed in with a work account (AAD) that does not have administrator privileges. 
+The error indicates that a user is signed in with a work account (Microsoft Entra ID) that does not have administrator privileges. 
 
 ### Fixes/Workarounds
 
@@ -98,7 +98,7 @@ Finding **Global Administrator** can be be a difficult task, especially if organ
 > You will not be able to use **Azure Portal** if your organization decided to restrict user access for non-administrators.
 
 1. Navigate to [Azure Portal](https://portal.azure.com)
-2. Select [Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview) in the first left menu
+2. Select [Microsoft Entra ID](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview) in the first left menu
 3. Select **Roles and Administrators** in the second left menu
 4. Find **Global Administrator** role in the list and click to view members
 
@@ -107,13 +107,13 @@ Finding **Global Administrator** can be be a difficult task, especially if organ
 Check out these articles to learn more about **Global Administrator** role.
 
 * [Understanding Azure identity solutions](/azure/active-directory/fundamentals/understand-azure-identity-solutions#terms-to-know)
-* [View members and descriptions of administrator roles in Azure Active Directory](/azure/active-directory/users-groups-roles/directory-manage-roles-portal)
+* [View members and descriptions of administrator roles in Microsoft Entra ID](/azure/active-directory/users-groups-roles/directory-manage-roles-portal)
 
 ### Using PowerShell
 
 >[!NOTE]
 >
-> You must sign in with your organizational account to connect to Azure AD using PowerShell.<br>
+> You must sign in with your organizational account to connect to Microsoft Entra ID using PowerShell.<br>
 
 1. Launch Windows Powershell console as Administrator
 2. If you have never installed Azure AD module for Powershell, execute this command
@@ -130,10 +130,10 @@ Check out these articles to learn more about **Global Administrator** role.
         Get-AzureADDirectoryRoleMember -ObjectId $role.ObjectId | Where-Object {$_.ObjectType -eq 'User'} | Get-AzureADUser 
     ```
 
-Check out these articles to learn more about **PowerShell** and **Azure AD Module**.
+Check out these articles to learn more about **PowerShell** and **Azure AD module**.
 
 - [Installing Windows PowerShell](/powershell/scripting/windows-powershell/install/installing-windows-powershell)
-- [Installing the Azure AD Module](/powershell/azure/active-directory/install-adv2)
+- [Installing the Azure AD module](/powershell/azure/active-directory/install-adv2)
 
 ### Invitations
 
@@ -144,7 +144,7 @@ If you have been invited to join Partner Center account, you need to accept the 
 > Please contact your admin to ensure you are properly configured in your on-premises AD and you can re-attempt to accept this invite.<br>
 
 The information below is intended to give you enough info to unblock yourself.
-Microsoft now is limiting usage of personal Microsoft accounts linked to a work/school email address, when the email domain is configured in Azure AD. If users have configured their work accounts as sign-in names for Microsoft account MSA then they would be prevented from accessing Collaborate Portal. In this scenario, users will have to rename their personal Microsoft account, by following [these steps](https://windows.microsoft.com/Windows/rename-personal-microsoft-account/):
+Microsoft now is limiting usage of personal Microsoft accounts linked to a work/school email address, when the email domain is configured in Microsoft Entra ID. If users have configured their work accounts as sign-in names for Microsoft account MSA then they would be prevented from accessing Collaborate Portal. In this scenario, users will have to rename their personal Microsoft account, by following [these steps](https://windows.microsoft.com/Windows/rename-personal-microsoft-account/):
 
 1. Sign in to the [Your Info page](https://account.microsoft.com/profile) of your Microsoft account.
 2. Select **Manage how you sign in to Microsoft**.
@@ -163,15 +163,19 @@ Once completed proceed with accepting the Collaborate invitations that are send 
 
 ### User cannot see packages and/or engagements he/she has access to
 
-Most users belong to a single AAD tenant and single account within DevCenter. Users, that exist in several AAD tenants and/or accounts in DevCenter, might need to manually select specific AAD tenant and/or account to get access to resources.
+Most users belong to a single Microsoft Entra tenant and single account within DevCenter. Users, that exist in several Microsoft Entra tenants and/or accounts in DevCenter, might need to manually select specific Microsoft Entra tenant and/or account to get access to resources.
 
-### How to select an AAD tenant
+<a name='how-to-select-an-aad-tenant'></a>
 
-Click on the badge icon in the upper right corner of the screen. You will see a list of available AAD tenants if you exist in more than one AAD tenant.
+### How to select a Microsoft Entra tenant
 
-### How to select specific account for an AAD tenant
+Click on the badge icon in the upper right corner of the screen. You will see a list of available Microsoft Entra tenants if you exist in more than one Microsoft Entra tenant.
 
-Account name is shown in the left navigation pane above list of programs available for this account. Click on the currently displayed account name to open a list of available accounts for the selected AAD tenant.
+<a name='how-to-select-specific-account-for-an-aad-tenant'></a>
+
+### How to select specific account for a Microsoft Entra tenant
+
+Account name is shown in the left navigation pane above list of programs available for this account. Click on the currently displayed account name to open a list of available accounts for the selected Microsoft Entra tenant.
 
 ## Feedback
 
