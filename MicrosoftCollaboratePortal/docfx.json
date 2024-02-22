@@ -38,9 +38,10 @@
       "searchScope": [
         "Collaborate"
       ],
-      "feedback_system": "GitHub",
-      "feedback_github_repo": "MicrosoftDocs/MicrosoftCollaboratePortal",
-      "feedback_product_url": "https://github.com/MicrosoftDocs/MicrosoftCollaboratePortal/issues",
+      "feedback_system": "Standard",
+      "feedback_product_url": "https://www.microsoft.com/windowsinsider/feedbackhub/fb",
+      "feedback_help_link_url": "https://learn.microsoft.com/answers/",
+      "feedback_help_link_type": "get-help-at-qna",
       "titleSuffix": "Collaborate",
       "ms.topic": "article",
       "ms.service": "microsoft-collaborate",
