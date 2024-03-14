@@ -177,6 +177,9 @@ Click on the badge icon in the upper right corner of the screen. You will see a 
 
 Account name is shown in the left navigation pane above list of programs available for this account. Click on the currently displayed account name to open a list of available accounts for the selected Microsoft Entra tenant.
 
+### Why are programs and engagements access permission missing?
+The access permissions for programs and engagements may be missing if your Collaborate account has been inactive for over 180 days. In such cases, access permissions are automatically deactivated as part of our Automatic Permission Deactivation mechanism. You should have received email notifications 30 days, 14 days, and 1 day prior to this action, providing instructions on how to keep or reactivate your access.
+
 ## Feedback
 
 ### Sync Status: Failed
