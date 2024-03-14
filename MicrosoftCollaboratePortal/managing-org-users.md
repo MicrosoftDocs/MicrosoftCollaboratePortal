@@ -142,3 +142,15 @@ If a user does not appear in search results:
 3. Type name of the engagement you want to copy users from and click **Search** button.
 
 4. Select users from the list and click **Add Users** button.
+
+## Automatic Permission Deactivation
+Microsoft Collaborate is committed to maintaining an active and secure user environment, ensuring optimal resource allocation, and enhancing the overall user experience. As part of this commitment, we have implemented an Automatic Permission Deactivation mechanism.
+
+### What does this mean for users?
+If you haven't accessed your Collaborate account in over 180 days, you will receive email notifications 30 days, 14 days, and 1 day prior to the automatic deactivation of your access permission for Programs and Engagements. These emails will include instructions on how to keep or reactivate your access if you wish to continue using the Collaborate.
+
+### What does this mean for Program Owner, Engagement Owner, and Power User?
+Program Owners, Engagement Owners, and Power Users are encouraged to refer to the **Last accessed date** data on the **Membership** tab of the edit page for optimal membership management.
+
+### Fortifying Collaborate Security
+Deactivating access for inactive users brings several benefits. This could effectively reduce the potential for unauthorized access and misuse of contents and resources. Simultaneously, focusing on active users allows Collaborate to optimize resources, delivering a better experience for users.
