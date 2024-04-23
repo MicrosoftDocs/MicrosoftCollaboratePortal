@@ -56,10 +56,8 @@ In addition to downloading multiple files at once, you can queue many packages t
 
 ### How to install the Distribution Manager
 
-1. From the **Packages** page, click the **Distribution Manager** button at the top of the page. 
+From the **Packages** page, click the **Download Distribution Manager** button at the top of the page. 
 	![Distribution Manager install on the Packages page](images/Distribution-Mgr-Launch.PNG)
-
-2. Click **Open** on the message and then click **Install** in the Application Install dialog box. 
 
 If you are already logged into Dev Center, when you click the Distributuion Manager button, the Distribution Manager will launch and sign you in with the same account you used to log in to MS Collaborate.
 
@@ -107,6 +105,3 @@ Users can configure preferred e-mail address and choose which types of notificat
 
 1. Click on the ![Settings icon that looks like a gear](images/settings.png) **Settings** icon in the upper right corner and select [**My preferences**](https://partner.microsoft.com/dashboard/v2/action-center/mypreferences) from the drop down menu.
 2. Verify that **Preferred e-mail address** is correct. Change if needed.
-3. Click on **Microsoft Collaborate** under **Notification preferences**.
-4. Find *Downloads* in the list. Check or un-check **Email** and/or **Dashboard** fields.
-5. Click **Save preferences** button.
