@@ -57,7 +57,7 @@ In addition to downloading multiple files at once, you can queue many packages t
 ### How to install the Distribution Manager
 
 From the **Packages** page, click the **Download Distribution Manager** button at the top of the page. 
-	![Distribution Manager install on the Packages page](images/Distribution-Mgr-Launch.PNG)
+	![Distribution Manager install on the Packages page](images/Distribution-Mgr-Launch.png)
 
 If you are already logged into Dev Center, when you click the Distributuion Manager button, the Distribution Manager will launch and sign you in with the same account you used to log in to MS Collaborate.
 
