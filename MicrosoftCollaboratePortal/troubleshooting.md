@@ -186,50 +186,6 @@ The access permissions for programs and engagements may be missing if your Colla
 
 There are several reasons to bring the work item sync failure on Collaborate Feedback. Please contact [Customer Support](https://learn.microsoft.com/collaborate/support#customer-support) for the help.
 
-## Distribution Manager
-
-You may receive an error message when you use Distribution Manager. This article contains information to help you troubleshoot these  error messages.
-
-### Cannot Install Application
-
-> Cannot continue.  The application is improperly formatted.
-> Contact the application vendor for assistance.
-
-This error indicates that [Microsoft .NET Framework 4.6.1 (x86/x64)](https://www.microsoft.com/download/details.aspx?id=49981)  required by Distribution Manager is not installed on your computer. All ClickOnce applications require that the correct version of the .NET Framework is installed before they can be run.
-
-Click on the link to install [Microsoft .NET Framework 4.6.1 (x86/x64)](https://www.microsoft.com/download/details.aspx?id=49981).
-
-### Cannot Launch Application
-
-> Object reference not set to an instance of an object.
-
-You may receive this error if you recently upgraded from an older version of the application.
-
-### Launch workaround
-
-The workaround is to delete the click-once application data.
-
-The exact path can be determined by the following steps:
-
-1. Pressing **Ctrl + Alt + Del** on the keyboard and selecting Task Manager
-2. Find **Microsoft Collaborate - Distribution Manager**
-3. Right click and select **Open file location** from the list of options
-
-    ![Task Manager](images/TaskManager.png)
-
-4. This should take you to a folder like:
-   > %LOCALAPPDATA%\Apps\2.0\Data\xxxxxxxx.xxx\xxxxxxxx.xxx\dist..tion_xxxxxxxxxxxxxxxx_0000.0000_xxxxxxxxxxxxxxxx\Data
-
-    ![Distribution Manager Local folder](images/DistributionManagerLocation.png)
-
-5. Now go to the Data path (%LOCALAPPDATA%\Apps\2.0\Data), and search for a folder with the same name
-   > dist..tion_xxxxxxxxxxxxxxxx_0000.0000_xxxxxxxxxxxxxxxx\Data
-
-    ![Distribution Manager Data folder](images/DistributionManagerDataLocation.png)
-
-6. Delete content of the folder
-7. Restart the application
-
 ## Notification Email
 
 If you are experiencing issues with receiving notifications, please add your preferred email address on [Action Center | My Preference](https://partner.microsoft.com/dashboard/actioncenter/mypreferences) Page, or the system may send the notification to your Partner Center sign-in Azure address (onmicrosoft.com) which is invalid. Click on the link for [Preference Update Guidance](https://learn.microsoft.com/partner-center/action-center-overview#preferences).
