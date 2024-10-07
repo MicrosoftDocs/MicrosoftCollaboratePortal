@@ -1,10 +1,7 @@
 ---
 title: Notifications
 description: Notifications for Feedback
-author: ikhapova
-ms.author: ikhapova
 ms.date: 06/01/2018
-keywords: feedback, notifications, work items, bugs, feature requests
 ---
 
 # Notifications

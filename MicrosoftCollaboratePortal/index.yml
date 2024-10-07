@@ -7,8 +7,8 @@ metadata:
   title: Microsoft Collaborate documentation # Required; page title displayed in search results. Include the brand. < 60 chars.
   description: Microsoft Collaborate portal provides tools and services to streamline engineering collaboration within the Microsoft ecosystem. # Required; article description that is displayed in search results. < 160 chars.
   ms.topic: landing-page
-  author: LinChristie
-  ms.author: chlin
+  author: aamelt
+  ms.author: aamelt
   ms.date: 03/07/2023
 
 # linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
