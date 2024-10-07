@@ -1,10 +1,7 @@
 ---
 title: Intro to Microsoft Collaborate
 description: Overview of the Microsoft Collaborate Portal, including features available and conceptual information on how to use the system.  MS Collaborate enables sharing of engineering system work items (bugs, feature requests), distribution of content (builds, documents, specs), and user management, replacing Microsoft Connect and the SysDev Feedback Management portal. 
-author: chriskleinke
-ms.author: chriskl
 ms.date: 09/01/2017
-keywords: partner feedback, build downloads, downloading specs, bugs, Microsoft Connect, SysDev Bug, Partner Center bugs
 ---
 
 # Introduction to Microsoft Collaborate

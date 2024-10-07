@@ -1,10 +1,7 @@
 ---
 title: How to view your Engagements
 description: MS Collaborate uses Programs and Engagements to define permissions for users. Feedback and content is associated with engagements.  
-author: mattwojo
-ms.author: mattwoj
 ms.date: 09/01/2017
-keywords: engagements, security, permissions, Microsoft Connect, SysDev Bug, Dev Center bugs
 ---
 
 # How to view your Engagements
