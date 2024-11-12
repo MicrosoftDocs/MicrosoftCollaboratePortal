@@ -1,8 +1,6 @@
 ---
 title: Troubleshooting Guide
 description: How to troubleshoot common issues
-author: LinChristie
-ms.author: chlin
 ms.date: 02/24/2018
 ---
 
