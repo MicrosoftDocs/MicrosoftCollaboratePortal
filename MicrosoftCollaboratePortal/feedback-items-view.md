@@ -1,11 +1,13 @@
 ---
 title: View, Vote and Comment on Feedback
-description: Microsoft Collaborate Feedback items can be bugs, feature requests or any task associated with an engagement. Feedback forms can be customized based on each engagement. 
+description: Microsoft Collaborate feedback view and vote guidance. 
 ms.date: 05/11/2018
 keywords: feedback, engagements, work items, bugs, feature requests, Collaborate permissions, Microsoft Connect, SysDev Bug, Dev Center bugs
 ---
 
 # View, Vote and Comment on Feedback
+
+Guidance on how to use view, vote, and comments in feedback.
 
 ## How to view feedback
 
@@ -16,6 +18,7 @@ To view feedback in the **All Feedback** page:
 2. Click on any field to open the work item.
 
 To view feedback from an **Engagement's Feedback** page:
+
 1. Open engagement overview page.
 2. Scroll to the feedback section and select one of the following:
    - Select the Work Item Type link to see all work items of that type
@@ -32,26 +35,29 @@ Users can vote on work items submitted by other users.
 
 1. Open overview page for the engagement that feedback belongs to
 2. Scroll to the feedback section and click on **Work Item Type** link to see all work items of that type
-3. Click on one of the voting icons ![voting](images/voting.png) in the left column
+3. Click on one of the voting icons (thumbs up or down) in the left column
 
 ### How to vote using work item view
 
 1. Open work item from list
-2. Click on one of the voting icons ![voting](images/voting.png) 
+2. Click on one of the voting icons (thumbs up or down)
 
 ### How to update the vote
 
 User can change previously submitted vote any time.
 
 #### To remove a vote:
+
 1. Open work item from list
 2. Click on the same voting icon you used before
 
 #### To change a vote:
+
 1. Open work item from list
 2. Click on different voting icon compared to the one you used before
 
 ## How to comment on feedback
+
 Users can comment on work items they submitted and work items submitted by other users.
 
 > [!NOTE]

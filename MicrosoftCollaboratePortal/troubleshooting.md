@@ -163,27 +163,24 @@ Once completed proceed with accepting the Collaborate invitations that are send 
 
 Most users belong to a single Microsoft Entra tenant and single account within DevCenter. Users, that exist in several Microsoft Entra tenants and/or accounts in DevCenter, might need to manually select specific Microsoft Entra tenant and/or account to get access to resources.
 
-<a name='how-to-select-an-aad-tenant'></a>
 
 ### How to select a Microsoft Entra tenant
 
 Click on the badge icon in the upper right corner of the screen. You will see a list of available Microsoft Entra tenants if you exist in more than one Microsoft Entra tenant.
 
-<a name='how-to-select-specific-account-for-an-aad-tenant'></a>
 
 ### How to select specific account for a Microsoft Entra tenant
 
 Account name is shown in the left navigation pane above list of programs available for this account. Click on the currently displayed account name to open a list of available accounts for the selected Microsoft Entra tenant.
 
 ### Why are programs and engagements access permission missing?
+
 The access permissions for programs and engagements may be missing if your Collaborate account has been inactive for over 180 days. In such cases, access permissions are automatically deactivated as part of our Automatic Permission Deactivation mechanism. You should have received email notifications 30 days, 14 days, and 1 day prior to this action, providing instructions on how to keep or reactivate your access.
 
-## Feedback
-
-### Sync Status: Failed
+## Feedback Sync Status: Failed
 
 There are several reasons to bring the work item sync failure on Collaborate Feedback. Please contact [Customer Support](https://learn.microsoft.com/collaborate/support#customer-support) for the help.
 
 ## Notification Email
 
-If you are experiencing issues with receiving notifications, please add your preferred email address on [Action Center | My Preference](https://partner.microsoft.com/dashboard/actioncenter/mypreferences) Page, or the system may send the notification to your Partner Center sign-in Azure address (onmicrosoft.com) which is invalid. Click on the link for [Preference Update Guidance](https://learn.microsoft.com/partner-center/action-center-overview#preferences).
+If you are experiencing issues with receiving notifications, please add your preferred email address on [Action Center | My Preference](https://partner.microsoft.com/dashboard/actioncenter/mypreferences) Page, or the system may send the notification to your Partner Center sign-in Azure address (onmicrosoft.com) which is invalid. Click on the link for [Preference Update Guidance](/partner-center/action-center-overview).
