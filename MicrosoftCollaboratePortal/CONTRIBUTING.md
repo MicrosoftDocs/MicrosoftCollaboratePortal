@@ -1,8 +1,8 @@
 ---
 title: Contribute to MS Collaborate documentation
 description: Covers the basic steps and guidelines for contributing to the documentation. 
-author: ikhapova
-ms.author: ikhapova
+author: aamelt
+ms.author: aamelt
 ms.date: 11/25/2019
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: Remove personal data
 description: Remove personal data using Microsoft Collaborate. 
-author: LinChristie
-ms.author: chlin
 ms.date: 05/25/2018
 ---
 
