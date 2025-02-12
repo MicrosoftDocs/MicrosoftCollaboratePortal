@@ -1,8 +1,6 @@
 ---
 title: Working with Feedback work items
 description: An overview of working with Microsoft Collaborate feedback items. 
-author: LinChristie
-ms.author: chlin
 ms.date: 01/18/2022
 ---
 

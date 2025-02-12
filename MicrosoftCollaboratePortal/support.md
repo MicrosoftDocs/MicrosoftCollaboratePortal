@@ -1,8 +1,6 @@
 ---
 title: Support and Troubleshooting
 description: How to get support and troubleshoot common issues.
-author: mimcco
-ms.author: ikhapova
 ms.date: 02/06/2018
 keywords: support, troubleshooting
 ---

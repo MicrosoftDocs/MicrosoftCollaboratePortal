@@ -1,8 +1,6 @@
 ---
 title: Working with Package Downloads
 description: Microsoft Collaborate packages contain files available for download and are associated with Engagements. A Distribution Manager is available to perform multi-file or bulk downloads.
-author: ikhapova
-ms.author: ikhapova
 ms.date: 12/12/2017
 keywords: packages, engagements, package downloads, downloads, builds, Collaborate permissions, Microsoft Connect
 ---
@@ -53,7 +51,7 @@ To ensure the safety and security of Microsoft and its ecosystem, the Distributi
 ### What does this mean for users?
 
 - Distribution Manager service will be unavailable until further notice, and the link to download the application will be removed. If a user attempts to use the application, it will not be able to connect.
-- Users still can access and download Packages through Collaborate web portal at http://aka.ms/collaborate.
+- Users still can access and download Packages through Collaborate web portal at https://aka.ms/collaborate.
 
 ### Future of Distribution Manager
 

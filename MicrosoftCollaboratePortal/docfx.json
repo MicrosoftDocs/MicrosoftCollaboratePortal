@@ -34,6 +34,7 @@
     "externalReference": [],
     "globalMetadata": {
       "breadcrumb_path": "/collaborate/breadcrumb/toc.json",
+      "uhfHeaderId": "MSDocsHeader-Windows",
       "extendBreadcrumb": true,
       "searchScope": [
         "Collaborate"
@@ -45,8 +46,8 @@
       "titleSuffix": "Collaborate",
       "ms.topic": "article",
       "ms.service": "microsoft-collaborate",
-      "author": "LinChristie",
-      "ms.author": "chlin"
+      "author": "aamelt",
+      "ms.author": "aamelt"
     },
     "fileMetadata": {},
     "template": [],

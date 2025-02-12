@@ -1,8 +1,6 @@
 ---
 title: Notifications
 description: Notifications for Feedback
-author: ikhapova
-ms.author: ikhapova
 ms.date: 06/01/2018
 keywords: feedback, notifications, work items, bugs, feature requests
 ---
@@ -15,7 +13,7 @@ Users can setup alerts to be notified when a work item changes. For example, you
 
 Users can configure preferred e-mail address and choose which types of notifications to receive.
 
-1. Click on the ![Settings](images/settings.png) **Settings** icon in the upper right corner and select [**My preferences**](https://partner.microsoft.com/dashboard/v2/action-center/mypreferences) from the drop down menu.
+1. Click on the **Settings** icon (gear in the upper right corner) and select [**My preferences**](https://partner.microsoft.com/dashboard/v2/action-center/mypreferences) from the drop down menu.
 2. Verify that **Preferred e-mail address** is correct. Change if needed.
 3. Click on **Microsoft Collaborate** under **Notification preferences**.
 4. Find *Work Item Management* in the list and check **Email** field.
@@ -40,13 +38,13 @@ Perform these steps to review or modify notifications setup for an engagement.
 Perform these steps to subscribe to notifications for a specific work item.
 
 1. Open work item
-2. Click on the ![Eye](images/eye.png) **Eye** icon to receive notifications (**Follow** work item).
+2. Click on the **Eye** icon to receive notifications (**Follow** work item).
 3. Not that icon color has changed to blue and tooltip shows *Unfollow Work Item*
 
 Perform these steps to unsubscribe to notifications for a specific work item.
 
 1. Open work item
-2. Click on the ![Eye](images/eye-blue.png) **Eye** icon again to cancel further notifications (**Unfollow** work item).
+2. Click on the **Eye** icon again to cancel further notifications (**Unfollow** work item).
 3. Not that icon color has changed back to black and tooltip shows *Follow Work Item*
 
 ## How to get notified when a work item is assigned to your organization
