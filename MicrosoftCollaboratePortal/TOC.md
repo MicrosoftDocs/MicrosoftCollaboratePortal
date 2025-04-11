@@ -14,6 +14,7 @@
 ### [Notifications](feedback-items-notifications.md)
 ## Resources
 ### [Terms of Use](terms-of-use.md)
+### [Windows Analytics Agreement](windows-analytics-agreement.md)
 ### [Support](support.md)
 ### [Troubleshooting](troubleshooting.md)
 ### [How to find Global Administrator](troubleshooting.md#how-to-find-global-administrator-for-your-organization)
