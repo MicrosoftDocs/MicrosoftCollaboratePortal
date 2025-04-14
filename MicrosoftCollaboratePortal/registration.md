@@ -9,7 +9,7 @@ ms.date: 10/12/2021
 Microsoft Collaborate program is offered through Partner Center and requires registration. If you already have an account in Partner Center, it is best to use the same account to enroll in Collaborate. Individual accounts are being deprecated so please use Company when registering for Collaborate.
 
 > [!IMPORTANT]
-> You must use *Microsoft Entra ID* (organizational account) account with *global administrator* role in Partner Center to register Microsoft Collaborate. If you do not have this role, you can try to [find global administrator](troubleshooting.md#how-to-find-global-administrator-for-your-organization) for your organization to help you register.
+> You must use *Microsoft Entra ID* (organizational account) account with *Global Administrator* role in Partner Center to register Microsoft Collaborate. If you do not have this role, you can try to [find global administrator](troubleshooting.md#how-to-find-global-administrator-for-your-organization) for your organization to help you register. Global Administrator is a role that grants the highest level of permissions in Microsoft Entra ID and Microsoft 365. Use this role only when necessary as it can create security risks by exposing sensitive data or allowing unauthorized changes.
 
 ## How to register
 

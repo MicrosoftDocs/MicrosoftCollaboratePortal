@@ -1,8 +1,6 @@
 ---
 title: Working with Package Downloads
 description: Microsoft Collaborate packages contain files available for download and are associated with Engagements. A Distribution Manager is available to perform multi-file or bulk downloads.
-author: ikhapova
-ms.author: ikhapova
 ms.date: 12/12/2017
 keywords: packages, engagements, package downloads, downloads, builds, Collaborate permissions, Microsoft Connect
 ---
@@ -11,7 +9,7 @@ keywords: packages, engagements, package downloads, downloads, builds, Collabora
 
 In Microsoft Collaborate (MS Collaborate), downloadable content is available as *Packages* that contain the files to download.  Packages have metadata associated with them to facilitate finding the right packages, such as a description, package type, publish date,  and keywords.   
 
-Which packages you can download depends on the engagements you belong to.  During publishing, Content Publishers target specific engagements for the package. If you are a participant member of an engagement, you will be able to see the packages for that engagement.  This means users can only see packages associated with engagements they belong to.
+Which packages you can download depends on the engagements you belong to.  During publishing, Package Publishers target specific engagements for the package. If you are a participant member of an engagement, you will be able to see the packages for that engagement.  This means users can only see packages associated with engagements they belong to.
 
 MS Collaborate provides two mechanisms for downloading content packages:
 1. MS Collaborate **Packages page on the portal** enables you to find packages and download individual files from a package. 
@@ -46,58 +44,18 @@ The Distribution Manager has basic search/sort capabilities, but the portal prov
 
 4. Click on each file to initiate the download. In the MS Collaborate portal you can download one file at a time. 
 
-## Using Distribution Manager for multi-file downloads
+## Distribution Manager Shutdown
 
-If you want to download a whole packages with multiple files or large packages, we recommend installing the **Distribution Manager**.  The Distribution Manager is a ClickOnce client application that will update as required.  
+To ensure the safety and security of Microsoft and its ecosystem, the Distribution Manager application service has been proactively taken offline due to security considerations.
 
-This client application connects to MS Collaborate services using the same credentials you use to log in to the MS Collaborate portal. All of the same packages you can see on the MS Collaborate portal will appear in the Distribution Manager.
+### What does this mean for users?
 
-In addition to downloading multiple files at once, you can queue many packages to run in the background and you can also customize download settings to address connection issues.
+- Distribution Manager service will be unavailable until further notice, and the link to download the application will be removed. If a user attempts to use the application, it will not be able to connect.
+- Users still can access and download Packages through Collaborate web portal at https://aka.ms/collaborate.
 
-### How to install the Distribution Manager
+### Future of Distribution Manager
 
-From the **Packages** page, click the **Download Distribution Manager** button at the top of the page. 
-	![Distribution Manager install on the Packages page](images/Distribution-Mgr-Launch.png)
-
-If you are already logged into Dev Center, when you click the Distributuion Manager button, the Distribution Manager will launch and sign you in with the same account you used to log in to MS Collaborate.
-
-### How to log in to Distribution Manager
-
-Distribution Manager uses the same account you use for MS Collaborate.  If you launch it from the MS Collaborfate portal, you will be logged in automatically.  If you are not already logged into MS Collaborate, or if you are using an MSA account to access the site, you may need to log in to the Distribution Manager again. This will be using the same account and process you used to log into the MS Collaborate portal.
-
-1.	Launch the Distribution Manager application on your computer by selecting the **Distribution Manager** button on the **Packages** page in the MS Collaborate portal OR by navigating to **Distribution Manager** in your computer’s list of applications.
-
-2.	You will see the same log in screen you see when you log into Dev Center or MS Collaborate. Select the appropriate account, enter your password, and Distribution Manager will connect to your MS Collaborate account.
-
-### How to download packages using Distribution Manager
-
-1.	In the Distribution Manager, search for packages using the search functionality or by scrolling through your package list.
-2.	You can select multiple files within a package, or multiple packages to download.  Up to four packages can download at a time.
-3.	You can select the folder you would like to download using the **Browse** button.
-4.	Click **Download** to initiate the downloading of the selected packages.
-5.	Icons update to indicate the status for packages that are queued for download.
-
-You will see the files that are **Downloading Now** as well as packages that are queued for download.  You can click **Download Now** to see just the files that are downloading.  
-
-You can also navigate to **Check for Downloads Now** from the Menu in Distribution Manager.
-
-   ![Check for Downloads Now menu item on the Packages page](images/check-for-downloads.png)
-
-> [!NOTE]
-> - You can **pause downloading** and then resume to continue downloading.
-> - You can force a sync of Distribution Manager, by clicking the menu item and then selecting **Check for Downloads Now**.
-> - Clicking on **Settings** from the Menu allows you to make customizations. 
-
-### Customizing Distribution Manager Settings
-
-In Distribution Manager, you can access **Settings** from the menu near your log in name.  Distribution Manager settings are intended to enable you to customize how packages get downloaded.  You can adjust the following settings:
-- Block Size, 
-- Download Threads, and
-- Max speeds.
-
-It is recommended that you only change these if you are experiencing problems with downloading that might be due to a slow or unreliable connection.
-
-![Customize Distribution Manager Settings](images/Distribution-Mgr-Settings.PNG)
+The current Distribution Manager application will be deprecated. Our team is working on a new application that incorporated robust security measures. However, due to the extensive nature of these improvements, we currently do not have an estimated timeframe for the return of Distribution Manager.
 
 ## Notification
 

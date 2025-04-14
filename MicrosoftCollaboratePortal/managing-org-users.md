@@ -1,8 +1,6 @@
 ---
 title: Access Management
-description: Microsoft Collaborate enables users from organizations to control the adding/removing of users for the organization.  During onboarding, Engagement Owners can assign individuals from an organization Power User permissions.  Power Users can only manage their own organization’s users. 
-author: LinChristie
-ms.author: chlin
+description: Microsoft Collaborate enables users from organizations to control the adding/removing of users for the organization.  During onboarding, Engagement Owners can assign individuals from an organization Power User permissions.  Power Users can only manage their own organization’s users.
 ms.date: 12/12/2017
 ---
 
