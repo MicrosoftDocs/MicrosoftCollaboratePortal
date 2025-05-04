@@ -18,7 +18,7 @@ Available via the [Microsoft Partner Center Dashboard](https://partner.microsoft
 
 You can access MS Collaborate using the friendly link:  [https://aka.ms/collaborate](https://aka.ms/collaborate).
 
-Sign-in using your Partner Center credentials, as either an individual or as a member of a company or organization.  Before using MS Collaborate, you will need to register for Partner Center. For more information, see [Register with Microsoft Collaborate](registration.md).
+Sign-in using your Partner Center credentials, as a member of a company or organization.  Before using MS Collaborate, you will need to register for Partner Center. For more information, see [Register with Microsoft Collaborate](registration.md).
 
 ## Programs and Engagements
 
