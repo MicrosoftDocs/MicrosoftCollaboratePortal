@@ -3,6 +3,7 @@ title: Support and Troubleshooting
 description: How to get support and troubleshoot common issues.
 ms.date: 02/06/2018
 keywords: support, troubleshooting
+ms.topic: troubleshooting-general
 ---
 
 # How to Get Support

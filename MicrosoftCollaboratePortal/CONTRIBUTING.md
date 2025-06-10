@@ -2,6 +2,7 @@
 title: Contribute to MS Collaborate documentation
 description: Covers the basic steps and guidelines for contributing to the documentation. 
 ms.date: 11/25/2019
+ms.topic: concept-article
 ---
 
 # Contributing to the Microsoft Collaborate documentation

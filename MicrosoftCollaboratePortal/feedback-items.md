@@ -2,6 +2,7 @@
 title: Working with Feedback work items
 description: An overview of working with Microsoft Collaborate feedback items. 
 ms.date: 01/18/2022
+ms.topic: concept-article
 ---
 
 # Working with feedback work items
