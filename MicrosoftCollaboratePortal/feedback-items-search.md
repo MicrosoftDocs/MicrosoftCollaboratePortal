@@ -3,6 +3,7 @@ title: Search and Queries
 description: Microsoft Collaborate feedback search guidance. 
 ms.date: 12/12/2017
 keywords: feedback, engagements, work items, bugs, feature requests, Collaborate permissions, Microsoft Connect, SysDev Bug, Dev Center bugs 
+ms.topic: how-to
 ---
 
 # Search and Queries

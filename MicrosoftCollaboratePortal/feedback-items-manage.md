@@ -3,6 +3,7 @@ title: Feedback Management
 description: Microsoft Collaborate feedback submit and modify. 
 ms.date: 12/12/2017
 keywords: feedback, engagements, work items, bugs, feature requests, Collaborate permissions, Microsoft Connect, SysDev Bug, Dev Center bugs 
+ms.topic: how-to
 ---
 
 # Submit and Modify

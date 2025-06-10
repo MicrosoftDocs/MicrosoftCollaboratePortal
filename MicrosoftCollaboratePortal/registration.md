@@ -2,6 +2,7 @@
 title: Register with MS Collaborate
 description: MS Collaborate utilizes the Partner Center Dashboard requiring a organizational account with Microsoft Entra ID set up.
 ms.date: 10/12/2021
+ms.topic: how-to
 ---
 
 # Registration

@@ -2,6 +2,7 @@
 title: Troubleshooting Guide
 description: How to troubleshoot common issues
 ms.date: 02/24/2018
+ms.topic: troubleshooting-general
 ---
 
 # How to Troubleshoot Common Issues
