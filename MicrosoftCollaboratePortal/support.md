@@ -38,7 +38,7 @@ There are two ways to open a support case:
 
 Partner Center now support topics that route directly to the Collaborate Program support team.
 
-  1. Go to [Partner Center](https://partner.microsoft.com/en-us/dashboard/home).
+  1. Go to [Partner Center](https://partner.microsoft.com/dashboard/home).
   2. Sign in with your Partner Center account that is enrolled in the Collaborate Program.
   3. Select AI Assistant and Support from the top right.
   4. In the How can I help? Select Account Settings Topic.
